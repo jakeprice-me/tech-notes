@@ -1,0 +1,27 @@
+---
+aliases:
+  - macos-chromium-damaged-cant-be-opened-fix
+archive_links: 
+category: macos
+classification: public
+date: 2022-01-09T17:41:01
+date_modified: 2022-01-09T17:41:01
+draft: false
+id: 20220109174101
+image: 
+links:
+  - https://old.reddit.com/r/MacOS/comments/q9d772/homebrew_chromium_is_damaged_and_cant_be_openend/
+local_archive_links: 
+pinned: false
+print: false
+series: 
+tags: [macos, chromium, damaged, xattr, attribute, application]
+title: Fix "... Damaged Can't be Opened" on MacOS
+type: tech-note
+---
+
+How to fix "Chromium is Damaged Can't Be Opened".
+
+```sh
+xattr -cr /Applications/Chromium.app
+```
