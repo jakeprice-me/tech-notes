@@ -60,22 +60,18 @@ A flat directory of notes and knowledge on technical topics.
 - [vscode](#vscode)
 - [windows](#windows)
 
+
+## Notes
 <h3><a name="airflow">airflow</a></h3>
 
 - [Start Airflow](start-apache-airflow.md)
 
 <h3><a name="android">android</a></h3>
 
-- [Galaxy S22 Initial Configuration](20221230211820.md)
 - [Flash Samsung Stock Firmware with Odin](flash-samsung-stock-firmware-with-odin.md)
 - [Install Heimdall on Fedora](install-heimdall-on-fedora.md)
-- [Galaxy A03s Initial Configuration](20220211130731.md)
 - [Root Samsung Galaxy S20](root-galaxy-s20.md)
-- [Alcatel 1C 2019 Initial Configuration](20201228161145.md)
 - [Access Android Phone Directories On CLI](access-android-directories-using-cli.md)
-- [Galaxy A40 Initial Setup](20200615163605.md)
-- [Galaxy S20 Initial Setup](20200613191814.md)
-- [Galaxy Tab S4 Initial Setup](20200613191714.md)
 - [List Apps with ADB](list-apps-with-adb.md)
 - [Extract/Pull Android App Package from Phone](extract-apk-android-using-adb.md)
 
@@ -87,7 +83,6 @@ A flat directory of notes and knowledge on technical topics.
 
 <h3><a name="api">api</a></h3>
 
-- [OpenWeatherMap API Commands](20210620183642.md)
 
 <h3><a name="authelia">authelia</a></h3>
 
@@ -116,11 +111,8 @@ A flat directory of notes and knowledge on technical topics.
 
 <h3><a name="bash">bash</a></h3>
 
-- [Loop Through All Subdirectory Files with Bash](bash-loop.md)
 - [Multiple Subdirectory sed Operation](multiple-subdirectory-sed-operation.md)
-- [Bash Loop to Generate UUID and Insert into Notes](bash-loop-3.md)
 - [Generate Sequences in Bash](generate-sequences-bash.md)
-- [Edit Files with Sed in a Bash For Loop](bash-loop-4.md)
 - [Loop Through Files and Search and Replace](loop-through-files-search-and-replace.md)
 - [View and Log Detailed Bash Script Output](view-and-log-detailed-bash-script-output.md)
 
@@ -147,7 +139,6 @@ A flat directory of notes and knowledge on technical topics.
 - [InvokeAI Stable Diffusion Fork Cheatsheet](invokeai-stable-diffusion-fork-cheatsheet.md)
 - [journald Cheatsheet](journald-cheatsheet.md)
 - [YouTube-DL Cheatsheet](youtube-dl-cheatesheet.md)
-- [rsync.net Cheatsheet](20220706091445.md)
 - [Read QR Code from Image](read-qr-code-from-image.md)
 - [Send Output to Clipboard using xclip](send-output-to-clipboard-using-xclip.md)
 - [Exif Tool Cheatsheat](exif-tool-cheatsheet.md)
@@ -244,7 +235,6 @@ A flat directory of notes and knowledge on technical topics.
 - [Set macOS Theme for Specific Apps](set-macos-theme-mode-for-specific-apps.md)
 - [macOS cron Permission Issues](macos-cron-permission-issues.md)
 - [Fix "... Damaged Can't be Opened" on MacOS](macos-chromium-damaged-cant-be-opened-fix.md)
-- [Creating AppleScript Apps](20210902183219.md)
 
 <h3><a name="miscellaneous">miscellaneous</a></h3>
 
@@ -252,7 +242,6 @@ A flat directory of notes and knowledge on technical topics.
 - [URI Handler](uri-handler.md)
 - [Script Comment Hierarchy](script-comment-hierarchy.md)
 - [Box-drawing characters](box-drawing-characters.md)
-- [Markdown Style Template](20200730104650.md)
 
 <h3><a name="netlify">netlify</a></h3>
 
