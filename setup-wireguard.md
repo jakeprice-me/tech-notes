@@ -1,5 +1,5 @@
 ---
-id: 20230108122134
+id: setup-wireguard
 uuid: 7dc1a2a7-07ae-4225-8bd6-07657a1c3709
 title: Setup WireGuard on Debian
 date: 2023-01-08 12:21:34

@@ -1,5 +1,5 @@
 ---
-id: 20200705194016
+id: du-cheatsheet
 uuid: 2cdf7e39-e5ab-4517-bbae-0b1846269fe4
 title: File Space Usage with du
 date: 2020-07-05 19:40:16

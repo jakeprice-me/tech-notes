@@ -1,5 +1,5 @@
 ---
-id: 20200925175047
+id: disable-cross-origin-request-blocking-firefox
 uuid: 1ad98537-3304-4ea5-999b-d36d4d53dab1
 title: Disable Cross-Origin Request Blocking on Firefox
 date: 2020-09-25 17:50:47

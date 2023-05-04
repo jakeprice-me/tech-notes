@@ -1,5 +1,5 @@
 ---
-id: 20200908190455
+id: connect-to-fedora-from-windows-with-xrdp
 uuid: 33bbda91-a92f-4922-9641-1f3cea8ee82b
 title: Connect to Fedora from Windows with xRDP
 date: 2020-09-08 19:04:55

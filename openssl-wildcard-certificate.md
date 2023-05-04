@@ -1,5 +1,5 @@
 ---
-id: 20210109204554
+id: openssl-wildcard-certificate
 uuid: ec023a37-5b4b-4b4b-9b75-567e8d154576
 title: Wildcard OpenSSL Certificate Authority
 date: 2021-01-09 20:45:54

@@ -1,5 +1,5 @@
 ---
-id: 20200705194321
+id: enable-vscode-scope-inspector
 uuid: 07dfa8cd-c4d9-4ac7-b4d1-c5d43dca2b62
 title: Enable Scope Inspector in VS Code
 date: 2020-07-05 19:43:21

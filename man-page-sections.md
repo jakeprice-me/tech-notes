@@ -1,5 +1,5 @@
 ---
-id: 20190113163700
+id: man-page-sections
 uuid: e93e8de4-6a16-40df-990c-d75e39178544
 title: man Page Sections
 date: 2019-01-13 16:37:00

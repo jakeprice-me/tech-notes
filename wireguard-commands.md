@@ -1,5 +1,5 @@
 ---
-id: 20230109140935
+id: wireguard-commands
 uuid: 2d629ce3-ae5a-4e5c-aa28-046677126c8b
 title: WireGuard Commands
 date: 2023-01-09 14:09:35

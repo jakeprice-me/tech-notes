@@ -1,5 +1,5 @@
 ---
-id: 20200620232643
+id: rsync-cheatsheet
 uuid: 1f677e56-3332-4990-a5d4-9c32caf4849e
 title: rsync Cheatsheet
 date: 2020-06-20 23:26:43

@@ -1,5 +1,5 @@
 ---
-id: 20210721103917
+id: mount-windows-drive-in-wsl
 uuid: 45f649ee-cd99-4fa9-9c54-a1050babe912
 title: Mount Windows Drive in WSL
 date: 2021-07-21 10:39:17

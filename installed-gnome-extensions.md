@@ -1,5 +1,5 @@
 ---
-id: 20220115171750
+id: installed-gnome-extensions
 uuid: 4353ffe8-fcb6-4df2-9a1f-c187014cce6d
 title: Installed Gnome Extensions
 date: 2022-01-15 17:17:50

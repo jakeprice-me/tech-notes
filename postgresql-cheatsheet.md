@@ -1,5 +1,5 @@
 ---
-id: 20200804205323
+id: postgresql-cheatsheet
 uuid: eab4a299-6e9b-4669-9da3-5a9bde803893
 title: PostgreSQL Commands
 date: 2020-08-04 20:53:23

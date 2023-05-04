@@ -1,5 +1,5 @@
 ---
-id: 20210813161121
+id: openssl-on-macos-configuration
 uuid: c66b3384-3b78-43c7-b426-c7ae5ce99715
 title: OpenSSL on MacOS
 date: 2021-08-13 16:11:21

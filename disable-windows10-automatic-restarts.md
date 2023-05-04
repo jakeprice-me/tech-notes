@@ -1,5 +1,5 @@
 ---
-id: 20201023220029
+id: disable-windows10-automatic-restarts
 uuid: ab9e7a17-2138-4030-87e5-e49fa904aa62
 title: Disable Windows 10 Automatic Restarts after Updates 
 date: 2020-10-23 22:00:29

@@ -1,5 +1,5 @@
 ---
-id: 20200826152549
+id: manage-ec2-keypairs-aws-cli
 uuid: c503f453-8d02-492c-afac-d5f7506a0fe2
 title: Manage EC2 KeyPairs with the AWS CLI
 date: 2020-08-26 15:25:49

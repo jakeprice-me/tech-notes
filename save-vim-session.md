@@ -1,5 +1,5 @@
 ---
-id: 20200603100227
+id: save-vim-session
 uuid: 6b48fcd2-a258-4c3e-8377-3b6bc879123c
 title: Save a Vim Session
 date: 2020-06-03 10:02:27

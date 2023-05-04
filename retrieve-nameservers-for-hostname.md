@@ -1,5 +1,5 @@
 ---
-id: 20190305094409
+id: retrieve-nameservers-for-hostname
 uuid: ec9eff1d-18e0-4560-a0c3-418a77915f73
 title: Retrieve Nameservers for Hostname
 date: 2019-03-05 09:44:09

@@ -1,5 +1,5 @@
 ---
-id: 20200325105110
+id: extract-apk-android-using-adb
 uuid: 1379d4af-89d7-4947-88a4-521122fc9a95
 title: Extract/Pull Android App Package from Phone
 date: 2020-03-25 10:51:10

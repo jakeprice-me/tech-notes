@@ -1,5 +1,5 @@
 ---
-id: 20220208101809
+id: resize-logical-volume-partition
 uuid: ed824946-c622-4bd0-88e9-aac9e0f2cda0
 title: Resize Logical Volume Partition
 date: 2022-02-08 10:18:09

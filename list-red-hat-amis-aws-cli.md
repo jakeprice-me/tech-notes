@@ -1,5 +1,5 @@
 ---
-id: 20190717161012
+id: list-red-hat-amis-aws-cli
 uuid: 3fee5dd8-4a3b-4d43-b3dc-500f0ecafd4d
 title: List Red Hat AMIs using AWS CLI
 date: 2019-07-17 16:10:12

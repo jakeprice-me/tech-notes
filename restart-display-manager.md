@@ -1,5 +1,5 @@
 ---
-id: 20221014192344
+id: restart-display-manager
 uuid: b043e38d-2273-448f-9dd0-270b6aeaccd7
 title: Restart Display Manager
 date: 2022-10-14 19:23:44

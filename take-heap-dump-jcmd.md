@@ -1,5 +1,5 @@
 ---
-id: 20200716141043
+id: take-heap-dump-jcmd
 uuid: 76d1b1cb-906a-45cb-9dab-89f0b56730b1
 title: Take a heap-dump using jcmd
 date: 2020-07-16 14:10:43

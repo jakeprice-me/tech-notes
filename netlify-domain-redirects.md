@@ -1,5 +1,5 @@
 ---
-id: 20210423105044
+id: netlify-domain-redirects
 uuid: 40938b54-f4bf-40ed-82e0-d04dcca53648
 title: Netlify Domain Redirects
 date: 2021-04-23 10:50:44

@@ -1,5 +1,5 @@
 ---
-id: 20190309200745
+id: recreate-public-key-from-private-key
 uuid: 0e90b140-9245-4fef-bc5f-982a70e1f1d8
 title: Recreate Public Key from Private Key
 date: 2019-03-09 20:07:45

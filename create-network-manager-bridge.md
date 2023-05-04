@@ -1,5 +1,5 @@
 ---
-id: 20211119213636
+id: create-network-manager-bridge
 uuid: d36a2fba-c59d-4b80-9077-e790f6376488
 title: Creating a Bridge with NetworkManager
 date: 2021-11-19 21:36:36

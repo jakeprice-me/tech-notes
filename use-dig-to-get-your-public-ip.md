@@ -1,5 +1,5 @@
 ---
-id: 20200530133452
+id: use-dig-to-get-your-public-ip
 uuid: e5654663-ea38-4104-80b3-c97f619a56aa
 title: Use Dig to Get Public IP
 date: 2020-05-30 13:34:52

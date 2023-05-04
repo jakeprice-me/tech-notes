@@ -1,5 +1,5 @@
 ---
-id: 20221128151334
+id: set-macos-theme-mode-for-specific-apps
 uuid: 2d1477a9-e206-401b-a073-9a3efdbc6c6e
 title: Set macOS Theme for Specific Apps
 date: 2022-11-28 15:13:34

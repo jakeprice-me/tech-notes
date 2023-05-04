@@ -1,5 +1,5 @@
 ---
-id: 20200618171828
+id: visual-line-wrap-in-vim
 uuid: 5a95c850-6ee8-413e-b5ba-bfc365c03196
 title: Visual Line Wrap in Vim
 date: 2020-06-18 17:18:28

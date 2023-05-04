@@ -1,5 +1,5 @@
 ---
-id: 20200315122053
+id: linux-vscode-colour-block-bug
 uuid: 98d90302-4a7f-4d24-8146-79dc8feb2094
 title: Linux and Visual Studio Code Colour Block Bug
 date: 2020-03-15 12:20:53

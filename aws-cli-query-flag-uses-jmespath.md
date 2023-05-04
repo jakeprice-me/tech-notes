@@ -1,5 +1,5 @@
 ---
-id: 20190911112904
+id: aws-cli-query-flag-uses-jmespath
 uuid: 5c01bdc2-284e-4e42-8158-8619d014b76d
 title: AWS CLI query flag uses JMESPath
 date: 2019-09-11 11:29:04

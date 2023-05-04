@@ -1,5 +1,5 @@
 ---
-id: 20201209152358
+id: connect-to-azuread-using-powershell
 uuid: c9c3add0-7a28-43e3-9cff-622b4ce0c883
 title: Connect to Azure AD in PowerShell
 date: 2020-12-09 15:23:58

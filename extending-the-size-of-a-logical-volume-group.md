@@ -1,5 +1,5 @@
 ---
-id: 20220930092342
+id: extending-the-size-of-a-logical-volume-group
 uuid: e069794e-3987-4d6a-8036-ad2efbc0121a
 title: Extending the Size of a Logical Volume Group
 date: 2022-09-30 09:23:42

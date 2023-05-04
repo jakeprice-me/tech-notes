@@ -1,5 +1,5 @@
 ---
-id: 20220204115426
+id: send-output-to-clipboard-using-xclip
 uuid: faf3cb58-4fd5-4642-8f90-c6cb472e65c0
 title: Send Output to Clipboard using xclip
 date: 2022-02-04 11:54:27

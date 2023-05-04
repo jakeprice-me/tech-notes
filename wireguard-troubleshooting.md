@@ -1,5 +1,5 @@
 ---
-id: 20230109141437
+id: wireguard-troubleshooting
 uuid: 417a489b-4714-4a49-8b7d-550ee56e20b5
 title: WireGuard Troubleshooting
 date: 2023-01-09 14:14:37

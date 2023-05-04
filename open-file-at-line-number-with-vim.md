@@ -1,5 +1,5 @@
 ---
-id: 20221116171931
+id: open-file-at-line-number-with-vim
 uuid: 8464c4ff-b2f5-4c9d-bea7-9570a90625c8
 title: Open a File at Specified Line Number with Vim
 date: 2022-11-16 17:19:31

@@ -1,5 +1,5 @@
 ---
-id: 20210703093745
+id: restart-kde-plasma-shell
 uuid: b0998816-3192-43cb-9bd2-155a61f5170a
 title: Restart KDE Plasma
 date: 2021-07-03 09:37:45

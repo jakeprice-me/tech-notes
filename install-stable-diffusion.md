@@ -1,5 +1,5 @@
 ---
-id: 20220912220125
+id: install-stable-diffusion
 uuid: 531fd140-1d69-4869-83ec-424cffde3700
 title: Install InvokeAI Stable Diffusion Fork
 date: 2022-09-12 22:01:25

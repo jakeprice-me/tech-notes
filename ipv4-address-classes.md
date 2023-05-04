@@ -1,5 +1,5 @@
 ---
-id: 20200702170456
+id: ipv4-address-classes
 uuid: 4b50e015-e26c-49e3-9cad-0a724d50ef12
 title: IP Address Classes
 date: 2020-07-02 17:04:56

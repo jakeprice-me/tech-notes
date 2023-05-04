@@ -1,5 +1,5 @@
 ---
-id: 20230107204107
+id: add-linux-user-without-prompt
 uuid: 8e63ef41-15b9-4cc3-86dc-3b57417d3979
 title: Add Linux User without Prompt
 date: 2023-01-07 20:41:07

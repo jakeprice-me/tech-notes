@@ -1,5 +1,5 @@
 ---
-id: 20200704190110
+id: tmux-split-window-edit-alias
 uuid: 531b99ad-4b09-4b36-88f3-ca9a7d93a48d
 title: tmux Split Window Shell Alias
 date: 2020-07-04 19:01:10

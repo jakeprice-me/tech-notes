@@ -1,5 +1,5 @@
 ---
-id: 20190914213452
+id: connect-to-an-openvpn-tunnel-using-the-cli
 uuid: f897a427-3bf4-4f96-ad5e-89f5efc2b7e0
 title: Connect to an OpenVPN Tunnel Using the CLI
 date: 2019-09-14 21:34:52

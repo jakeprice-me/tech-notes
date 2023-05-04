@@ -1,5 +1,5 @@
 ---
-id: 20200714211929
+id: installed-firefox-extensions
 uuid: 0ca674aa-c574-40a1-bc18-6200a303bd14
 title: Installed Firefox Extensions
 date: 2020-07-14 21:19:29

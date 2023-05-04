@@ -1,5 +1,5 @@
 ---
-id: 20220204202934
+id: blink1-usb-notification-light
 uuid: e230f402-d4ad-4a68-87b5-6f6bd60479ad
 title: blink(1) USB Notification Light
 date: 2022-02-04 20:29:34

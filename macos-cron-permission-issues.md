@@ -1,5 +1,5 @@
 ---
-id: 20221118144822
+id: macos-cron-permission-issues
 uuid: 0d14c4c9-fb77-4a5e-a3a1-f50e39bfc37f
 title: macOS cron Permission Issues
 date: 2022-11-18 14:48:22

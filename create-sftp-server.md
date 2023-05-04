@@ -1,5 +1,5 @@
 ---
-id: 20201124093331
+id: create-sftp-server
 uuid: 3e3063ea-f3ce-409f-a1f1-57d7ab85b35f
 title: Create an SFTP Server
 date: 2020-11-24 09:33:31

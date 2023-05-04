@@ -1,5 +1,5 @@
 ---
-id: 20220116182509
+id: troubleshoot-fedora-boot-time
 uuid: 686548c1-ef5a-49c1-bd6d-6a4644ee5215
 title: Speed-up Fedora Boot Time
 date: 2022-01-16 18:25:09

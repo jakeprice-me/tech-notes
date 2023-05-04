@@ -1,5 +1,5 @@
 ---
-id: 20191122173025
+id: view-and-log-detailed-bash-script-output
 uuid: bef8e458-5553-45e3-8be7-ccdfc3e5231f
 title: View and Log Detailed Bash Script Output
 date: 2019-11-22 17:30:25

@@ -1,5 +1,5 @@
 ---
-id: 20220718202153
+id: sky-fibre-setup-with-another-router
 uuid: d0a0feed-e760-447a-b21d-52cbf33e610e
 title: Sky Fibre Setup with Netgear R7800 Router
 date: 2022-07-18 20:21:53

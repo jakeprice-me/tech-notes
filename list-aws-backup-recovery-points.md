@@ -1,5 +1,5 @@
 ---
-id: 20191022143850
+id: list-aws-backup-recovery-points
 uuid: bc89e56c-0900-4ea9-9d74-941d6443ecd0
 title: List AWS Backup Recovery Points Using AWS CLI
 date: 2019-10-22 14:38:50

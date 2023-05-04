@@ -1,5 +1,5 @@
 ---
-id: 20221007162437
+id: reconnection-issue-sonoff-snzb-02-zigbee2mqtt
 uuid: d19e79e6-486e-4bba-8b83-304941b8d405
 title: Reconnection Issue with Sonoff SNZB-02 in Zigbee2MQTT
 date: 2022-10-07 16:24:37

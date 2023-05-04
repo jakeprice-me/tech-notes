@@ -1,5 +1,5 @@
 ---
-id: 20220809163152
+id: journald-cheatsheet
 uuid: ec28bb00-d300-4b1e-af36-8c38cd4b6798
 title: journald Cheatsheet
 date: 2022-08-09 16:31:52

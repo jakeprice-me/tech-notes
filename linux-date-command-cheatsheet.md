@@ -1,5 +1,5 @@
 ---
-id: 20201013190222
+id: linux-date-command-cheatsheet
 uuid: 11495221-e3e7-49ee-9b8e-5710c5d06995
 title: Linux Date Command
 date: 2020-10-13 19:02:22

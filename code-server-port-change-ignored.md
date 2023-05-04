@@ -1,5 +1,5 @@
 ---
-id: 20220208131324
+id: code-server-port-change-ignored
 uuid: 26caed21-38f4-4ead-9645-4f3330334870
 title: Code Server Port Bind Issue
 date: 2022-02-08 13:13:24

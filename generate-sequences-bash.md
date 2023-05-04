@@ -1,5 +1,5 @@
 ---
-id: 20200623143706
+id: generate-sequences-bash
 uuid: 4c7c1951-f8f5-46c9-abbc-1d6f51667207
 title: Generate Sequences in Bash
 date: 2020-06-23 14:37:06

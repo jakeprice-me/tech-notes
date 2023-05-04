@@ -1,5 +1,5 @@
 ---
-id: 20190128094300
+id: delete-files-matching-a-pattern-using-find
 uuid: f50484b6-1f51-4d3a-bcd6-40230a0b62b3
 title: Delete files matching a pattern using find
 date: 2019-01-28 09:43:00

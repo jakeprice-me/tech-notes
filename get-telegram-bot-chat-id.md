@@ -1,5 +1,5 @@
 ---
-id: 20220811212057
+id: get-telegram-bot-chat-id
 uuid: 590e0154-50be-4da6-bc5b-58f19f5cf4eb
 title: Get Telegram Bot Chat ID
 date: 2022-08-11 21:20:57

@@ -1,5 +1,5 @@
 ---
-id: 20200302134351
+id: connect-to-aws-s3-bucket-with-winscp
 uuid: d4b91bfc-8944-4da6-aa95-544ba8ea7b49
 title: Connect to an AWS S3 Bucket with WinSCP
 date: 2020-03-02 13:43:51

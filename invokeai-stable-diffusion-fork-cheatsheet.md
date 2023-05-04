@@ -1,5 +1,5 @@
 ---
-id: 20221002214905
+id: invokeai-stable-diffusion-fork-cheatsheet
 uuid: f7ba5582-2adc-43e0-83d6-cebd39b0a488
 title: InvokeAI Stable Diffusion Fork Cheatsheet
 date: 2022-10-02 21:49:05

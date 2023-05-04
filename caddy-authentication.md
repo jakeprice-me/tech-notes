@@ -1,5 +1,5 @@
 ---
-id: 20221231143123
+id: caddy-authentication
 uuid: 40831088-1fcc-467b-a85a-c27d1306d285
 title: Caddy Server Basic Authentication
 date: 2022-12-31 14:31:23

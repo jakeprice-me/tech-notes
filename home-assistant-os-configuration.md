@@ -1,5 +1,5 @@
 ---
-id: 20220531161026
+id: home-assistant-os-configuration
 uuid: 4da5326e-9557-45d2-9bea-bce6cb5c0257
 title: Home Assistant OS Configuration
 date: 2022-05-31 16:10:26

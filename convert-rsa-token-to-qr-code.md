@@ -1,5 +1,5 @@
 ---
-id: 20210812163922
+id: convert-rsa-token-to-qr-code
 uuid: be1aaf29-d010-4952-8e99-c0903875d9fd
 title: RSA Token to QR Code
 date: 2021-08-12 16:39:22

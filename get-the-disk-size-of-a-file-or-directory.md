@@ -1,5 +1,5 @@
 ---
-id: 20190308113454
+id: get-the-disk-size-of-a-file-or-directory
 uuid: 5a432c2f-b816-4184-9a41-dbd09b6b1f68
 title: Get the disk size of a file or directory
 date: 2019-03-08 11:34:54

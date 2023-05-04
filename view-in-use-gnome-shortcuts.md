@@ -1,5 +1,5 @@
 ---
-id: 20220219163400
+id: view-in-use-gnome-shortcuts
 uuid: 3e0b5628-63dc-42ab-acd4-26fbb621628b
 title: View All Gnome Shortcuts
 date: 2022-02-19 16:34:00

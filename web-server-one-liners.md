@@ -1,5 +1,5 @@
 ---
-id: 20201225215832
+id: web-server-one-liners
 uuid: 59b3e23e-73cd-4414-9972-f1ed90dfc040
 title: Web Server One Liners
 date: 2020-12-25 21:58:32

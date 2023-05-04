@@ -1,5 +1,5 @@
 ---
-id: 20220212164324
+id: systemd-laptop-lid-closure-settings
 uuid: 6293d7b0-f206-49ad-8b40-ed52c6a3493f
 title: Laptop Lid Closure Settings on Linux
 date: 2022-02-12 16:43:24

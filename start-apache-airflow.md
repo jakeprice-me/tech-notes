@@ -1,5 +1,5 @@
 ---
-id: 20201022162349
+id: start-apache-airflow
 uuid: c843ef1a-c34d-43ad-9201-5d10607ca19c
 title: Start Airflow
 date: 2020-10-22 16:23:49

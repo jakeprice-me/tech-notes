@@ -1,5 +1,5 @@
 ---
-id: 20220727163606
+id: azure-cli-cheatsheet
 uuid: 0ab98662-3bd5-4832-b558-cb7daa58e654
 title: Azure CLI Cheatsheet
 date: 2022-07-27 16:36:06

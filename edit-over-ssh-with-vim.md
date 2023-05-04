@@ -1,5 +1,5 @@
 ---
-id: 20200619100544
+id: edit-over-ssh-with-vim
 uuid: d6b002c3-e43a-4a60-b124-f93f244f9ea0
 title: Edit over SSH with Vim
 date: 2020-06-19 10:05:44

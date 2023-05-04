@@ -1,5 +1,5 @@
 ---
-id: 20221027151218
+id: comment-current-command-in-terminal
 uuid: 5283cafe-e84f-4b9e-8ae5-aa9da361a317
 title: Comment the Current Command in the Terminal
 date: 2022-10-27 15:12:18

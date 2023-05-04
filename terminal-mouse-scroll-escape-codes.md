@@ -1,5 +1,5 @@
 ---
-id: 20201114155833
+id: terminal-mouse-scroll-escape-codes
 uuid: 7d36541f-8e03-47b3-965f-5bcc4f43ca87
 title: Mouse Scroll Escape Codes in Terminal
 date: 2020-11-14 15:58:33

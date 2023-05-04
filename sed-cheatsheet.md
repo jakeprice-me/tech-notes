@@ -1,5 +1,5 @@
 ---
-id: 20200601180309
+id: sed-cheatsheet
 uuid: 3ffa8c38-0d7c-4605-9054-df71bc888656
 title: sed Cheatsheet
 date: 2020-06-01 18:03:09

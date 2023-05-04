@@ -1,5 +1,5 @@
 ---
-id: 20200327202003
+id: bulk-rename-files-with-regex
 uuid: e61a7627-6142-4f68-8f20-528e38791615
 title: Bulk Rename Regex Pattern
 date: 2020-03-27 20:20:03

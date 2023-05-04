@@ -1,5 +1,5 @@
 ---
-id: 20221021123711
+id: hard-wrap-selection-in-vim
 uuid: ef3e44ea-1476-43a2-8df0-e1d915099446
 title: Hard Wrap Selection in Vim
 date: 2022-10-21 12:37:10

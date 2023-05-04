@@ -1,5 +1,5 @@
 ---
-id: 20220129143003
+id: auto-create-pip-requirements-file
 uuid: 4accf4ae-5a7f-4064-a791-c342c3ddc755
 title: Automatically create a Pip requirements.txt
 date: 2022-01-29 14:30:03

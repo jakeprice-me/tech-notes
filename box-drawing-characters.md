@@ -1,5 +1,5 @@
 ---
-id: 20200825110145
+id: box-drawing-characters
 uuid: 5017237f-792a-4956-8cda-ba983d955fe9
 title: Box-drawing characters
 date: 2020-08-25 11:01:45

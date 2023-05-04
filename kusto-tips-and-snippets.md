@@ -1,5 +1,5 @@
 ---
-id: 20221019140040
+id: kusto-tips-and-snippets
 uuid: 0e667d1d-5eab-4872-807b-e730b0f8459c
 title: Kusto Tips & Snippets
 date: 2022-10-19 14:00:41

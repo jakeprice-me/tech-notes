@@ -1,5 +1,5 @@
 ---
-id: 20220705200159
+id: read-qr-code-from-image
 uuid: fa59305f-2ebc-4185-b455-437aef40acb5
 title: Read QR Code from Image
 date: 2022-07-05 20:01:59

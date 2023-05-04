@@ -1,5 +1,5 @@
 ---
-id: 20210813181404
+id: openssl
 uuid: 228eea5c-d751-4172-aeed-23c6c34c7bd9
 title: Local LAN Certificate
 date: 2021-08-13 18:14:04

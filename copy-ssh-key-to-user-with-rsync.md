@@ -1,5 +1,5 @@
 ---
-id: 20200705194236
+id: copy-ssh-key-to-user-with-rsync
 uuid: 4de4b631-a8eb-4512-8d20-a5e9f5dbd620
 title: Copy an SSH Key to Another User with Rsync
 date: 2020-07-05 19:42:36

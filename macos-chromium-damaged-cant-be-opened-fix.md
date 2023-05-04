@@ -1,5 +1,5 @@
 ---
-id: 20220109174101
+id: macos-chromium-damaged-cant-be-opened-fix
 uuid: f1f272f1-c910-4662-90bf-a5b8c7b117d7
 title: Fix "... Damaged Can't be Opened" on MacOS
 date: 2022-01-09 17:41:01

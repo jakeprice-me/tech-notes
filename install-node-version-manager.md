@@ -1,5 +1,5 @@
 ---
-id: 20200705160506
+id: install-node-version-manager
 uuid: f82b1743-57ad-4a06-8e21-eb6e865f8447
 title: Install Node Version Manager
 date: 2020-07-05 16:05:06

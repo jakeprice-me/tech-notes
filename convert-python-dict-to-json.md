@@ -1,5 +1,5 @@
 ---
-id: 20200104152016
+id: convert-python-dict-to-json
 uuid: 52c9bf0b-9ff2-4da8-86df-9229a412fcaf
 title: Convert Python Dictionary to JSON
 date: 2020-01-04 15:20:16

@@ -1,5 +1,5 @@
 ---
-id: 20201124214852
+id: setup-samba-fileshare-on-debian
 uuid: 83b5248d-6beb-4c4e-accf-1d8a89fd045c
 title: Setup a Samba Fileshare on Debian
 date: 2020-11-24 21:48:52

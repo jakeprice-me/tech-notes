@@ -1,5 +1,5 @@
 ---
-id: 20200908201231
+id: enable-clipboard-support-in-vim-on-fedora
 uuid: 1b361ccc-36fc-4404-a739-e32534f64d5c
 title: Enable Vim +clipboard Support On Fedora
 date: 2020-09-08 20:12:31

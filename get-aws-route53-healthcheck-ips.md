@@ -1,5 +1,5 @@
 ---
-id: 20201222163206
+id: get-aws-route53-healthcheck-ips
 uuid: 5f4553da-c5d3-4603-bcdc-fa7981fb00be
 title: Get IP Addresses Used by Amazon Route 53 Health Checks
 date: 2020-12-22 16:32:06

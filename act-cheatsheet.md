@@ -1,5 +1,5 @@
 ---
-id: 20220808110514
+id: act-cheatsheet
 uuid: 47e6d68e-00cc-4167-9b67-3a40df279584
 title: act Cheatsheet
 date: 2022-08-08 11:05:14

@@ -1,5 +1,5 @@
 ---
-id: 20220601143614
+id: home-assistant-os-cli-cheatsheet
 uuid: 6b1a3188-4d04-4522-a291-3a9745673011
 title: Home Assistant OS CLI Cheatsheet
 date: 2022-06-01 14:36:14

@@ -1,5 +1,5 @@
 ---
-id: 20190820105910
+id: resize-an-ec2-linux-file-system-on-aws
 uuid: efa775f0-991e-46eb-9730-966f37dc8dfe
 title: Resize an EC2 Linux File System on AWS
 date: 2019-08-20 10:59:10

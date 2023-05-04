@@ -1,5 +1,5 @@
 ---
-id: 20220129214021
+id: toggle-shortcode-modes-logitech-mx-keys
 uuid: 1846cab7-6a7b-4867-be51-7de01f9249d4
 title: Switch Shortcut Modes on Logitech MX Keys
 date: 2022-01-29 21:40:21

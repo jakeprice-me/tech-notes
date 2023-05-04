@@ -1,5 +1,5 @@
 ---
-id: 20200701192231
+id: fzf-search-preview
 uuid: ea329c8e-0e43-4583-920a-5e711c44fdb0
 title: fzf Search on My Notes
 date: 2020-07-01 19:22:31

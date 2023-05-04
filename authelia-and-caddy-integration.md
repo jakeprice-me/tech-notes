@@ -1,5 +1,5 @@
 ---
-id: 20230111194611
+id: authelia-and-caddy-integration
 uuid: 30d3326a-5158-4feb-9b1d-0b6cd0d5e395
 title: Authelia & Caddy Integration
 date: 2023-01-11 19:46:11

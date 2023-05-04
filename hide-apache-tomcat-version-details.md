@@ -1,5 +1,5 @@
 ---
-id: 20201010115730
+id: hide-apache-tomcat-version-details
 uuid: 7357063d-0081-4aed-bb46-b7046ab97161
 title: Hide Tomcat Version Details on 404 Page
 date: 2020-10-10 11:57:30

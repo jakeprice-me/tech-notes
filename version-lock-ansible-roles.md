@@ -1,5 +1,5 @@
 ---
-id: 20210113204421
+id: version-lock-ansible-roles
 uuid: 16db2b23-1918-4c98-9474-83cfe34b4800
 title: Version Locking Ansible Roles in a Playbook
 date: 2021-01-13 20:44:21

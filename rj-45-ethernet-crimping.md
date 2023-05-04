@@ -1,5 +1,5 @@
 ---
-id: 20221230123651
+id: rj-45-ethernet-crimping
 uuid: 791fdb49-5763-47b5-a54b-0be5e928212a
 title: RJ-45 Ethernet Crimping
 date: 2022-12-30 12:36:51

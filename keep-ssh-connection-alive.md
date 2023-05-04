@@ -1,5 +1,5 @@
 ---
-id: 20200701212641
+id: keep-ssh-connection-alive
 uuid: 114c1d46-2549-4ee5-b6f5-9e27549d9bc1
 title: Keep an SSH Connection Alive
 date: 2020-07-01 21:26:41

@@ -1,5 +1,5 @@
 ---
-id: 20201124185102
+id: multiple-subdirectory-sed-operation
 uuid: 02e439bc-66d6-4859-80c2-638d3991da20
 title: Multiple Subdirectory sed Operation
 date: 2020-11-24 18:51:02

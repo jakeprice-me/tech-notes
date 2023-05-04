@@ -1,5 +1,5 @@
 ---
-id: 20221219153033
+id: flash-samsung-stock-firmware-with-odin
 uuid: 386a9735-3423-4ed7-a026-eab737f4ac46
 title: Flash Samsung Stock Firmware with Odin
 date: 2022-12-19 15:30:33

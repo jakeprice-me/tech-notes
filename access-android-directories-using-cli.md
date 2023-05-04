@@ -1,5 +1,5 @@
 ---
-id: 20200906152626
+id: access-android-directories-using-cli
 uuid: 4ca9649a-351f-46d4-bf24-c7a30ac262a1
 title: Access Android Phone Directories On CLI
 date: 2020-09-06 15:26:26

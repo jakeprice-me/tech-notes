@@ -1,5 +1,5 @@
 ---
-id: 20220909211339
+id: clone-github-repository-with-token
 uuid: 09381c0e-2aec-48cb-89c5-26ab448931eb
 title: Clone GitHub Repository with Personal Access Token
 date: 2022-09-09 21:13:39

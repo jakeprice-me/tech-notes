@@ -1,5 +1,5 @@
 ---
-id: 20210302162313
+id: aws-cloudwatch-logs-insights-average
 uuid: 78a322a3-53b5-46ec-9c3d-096257c90e88
 title: AWS CloudWatch Insights Average
 date: 2021-03-02 16:23:13

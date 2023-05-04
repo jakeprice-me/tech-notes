@@ -1,5 +1,5 @@
 ---
-id: 20210101150358
+id: install-fonts-using-terminal-linux
 uuid: 7749921f-4855-4c8c-aca2-248aa4ad0f18
 title: Install Fonts on Linux
 date: 2021-01-01 15:03:58

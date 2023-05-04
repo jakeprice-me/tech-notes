@@ -1,5 +1,5 @@
 ---
-id: 20200326190425
+id: ctrl-a-duckduckgo-fedora-bug
 uuid: 1334ac64-e2c7-4c67-8feb-a9e4d48a7fd3
 title: Ctrl-A and DuckDuckGo Fedora Bug
 date: 2020-03-26 19:04:25

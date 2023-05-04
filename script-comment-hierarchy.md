@@ -1,5 +1,5 @@
 ---
-id: 20200828120351
+id: script-comment-hierarchy
 uuid: 249d2b3d-1dbb-45dc-bd75-4ed79d891892
 title: Script Comment Hierarchy
 date: 2020-08-28 12:03:51

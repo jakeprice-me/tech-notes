@@ -1,5 +1,5 @@
 ---
-id: 20200831204451
+id: change-dns-fedora
 uuid: a80328fb-1547-484b-a2bb-27986b384a4b
 title: Change DNS on Fedora
 date: 2020-08-31 20:44:51

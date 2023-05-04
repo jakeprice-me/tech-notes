@@ -1,5 +1,5 @@
 ---
-id: 20190131175323
+id: start-and-stop-a-network-interface
 uuid: 5fa07bc2-444e-43cd-a7ce-c51b95ef3974
 title: Start and Stop a Network Interface
 date: 2019-01-31 17:53:23

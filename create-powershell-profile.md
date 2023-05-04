@@ -1,5 +1,5 @@
 ---
-id: 20200619115742
+id: create-powershell-profile
 uuid: 28ba907b-7a74-4634-b0a4-2e825d6c7b43
 title: Create a PowerShell Profile
 date: 2020-06-19 11:57:42

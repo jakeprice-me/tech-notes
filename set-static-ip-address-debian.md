@@ -1,5 +1,5 @@
 ---
-id: 20201210101715
+id: set-static-ip-address-debian
 uuid: ed99730f-0dbf-40a2-ab79-1431bd5bd8e2
 title: Set Static IP Address on Debian
 date: 2020-12-10 10:17:15

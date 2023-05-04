@@ -1,5 +1,5 @@
 ---
-id: 20221026204907
+id: borg-backup-item-flags
 uuid: 945e1f0b-a938-4f92-9a89-f0fde748ad0b
 title: Borg Backup Item Flags
 date: 2022-10-26 20:49:07

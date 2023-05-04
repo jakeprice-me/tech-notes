@@ -1,5 +1,5 @@
 ---
-id: 20221025151042
+id: wrap-systemctl-output
 uuid: 2895f11b-c9ff-412b-b223-18c775ed515a
 title: Wrap systemctl output
 date: 2022-10-25 15:10:42

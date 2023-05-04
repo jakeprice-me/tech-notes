@@ -1,5 +1,5 @@
 ---
-id: 20190113163901
+id: chmod-reference-table
 uuid: 6335c00d-5cbb-4f09-9d12-644a92d308f8
 title: chmod Reference Table
 date: 2019-01-13 16:39:01

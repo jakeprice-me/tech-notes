@@ -1,5 +1,5 @@
 ---
-id: 20220515221500
+id: install-hp-printer-fedora
 uuid: 72987850-7ff1-48b5-b326-13c99b90ab73
 title: Install HP Printer on Fedora
 date: 2022-05-15 22:15:00

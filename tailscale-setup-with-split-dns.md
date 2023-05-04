@@ -1,5 +1,5 @@
 ---
-id: 20220809093534
+id: tailscale-setup-with-split-dns
 uuid: 91683b7e-63d7-43e4-a6e1-90a177fc0593
 title: Tailscale Setup & Split DNS
 date: 2022-08-09 09:35:34

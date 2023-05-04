@@ -1,5 +1,5 @@
 ---
-id: 20201029211853
+id: selinux-cheatsheet
 uuid: 6aa242db-a857-4144-8014-6e58afbaa33a
 title: SELinux Cheatsheet
 date: 2020-10-29 21:18:53

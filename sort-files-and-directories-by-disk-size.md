@@ -1,5 +1,5 @@
 ---
-id: 20190128125201
+id: sort-files-and-directories-by-disk-size
 uuid: 2a700633-f389-476a-ba70-f79f4ed8288b
 title: Sort files and directories by disk size
 date: 2019-01-28 12:52:01

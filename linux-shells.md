@@ -1,5 +1,5 @@
 ---
-id: 20200714211525
+id: linux-shells
 uuid: 9d540072-afb2-49f9-9785-7849bf0f62c2
 title: Linux Shell
 date: 2020-07-14 21:15:25

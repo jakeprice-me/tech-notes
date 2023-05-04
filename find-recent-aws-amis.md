@@ -1,5 +1,5 @@
 ---
-id: 20191010121200
+id: find-recent-aws-amis
 uuid: de0896b8-638b-4235-9edb-cbfef28edac7
 title: Find The Most Recent AWS AMI
 date: 2019-10-10 12:12:00

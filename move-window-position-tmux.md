@@ -1,5 +1,5 @@
 ---
-id: 20210228104755 
+id: move-window-position-tmux
 uuid: 5f289c67-44b1-420c-92a5-37c6e1767a6d
 title: Tmux Cheatsheet
 date: 2021-02-28 10:47:55

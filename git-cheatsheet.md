@@ -1,5 +1,5 @@
 ---
-id: 20200516211955
+id: git-cheatsheet
 uuid: 92de174a-7b82-417c-8e51-059586056f9d
 title: Git Cheatsheet
 date: 2020-05-16 21:19:55

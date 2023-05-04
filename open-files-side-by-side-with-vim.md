@@ -1,5 +1,5 @@
 ---
-id: 20221116172241
+id: open-files-side-by-side-with-vim
 uuid: 6f025e16-41af-47da-853c-384b4ff15ca7
 title: Open Files Side-By-Side with Vim 
 date: 2022-11-16 17:22:41

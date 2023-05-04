@@ -1,5 +1,5 @@
 ---
-id: 20201223220740
+id: auto-mount-samba-share
 uuid: 9611c17b-680f-416d-8509-ae89c2430a64
 title: Automatically Mount Samba Share
 date: 2020-12-23 22:07:40

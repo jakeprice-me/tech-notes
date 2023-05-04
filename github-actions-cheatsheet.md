@@ -1,5 +1,5 @@
 ---
-id: 20220809105841
+id: github-actions-cheatsheet
 uuid: b1b1c9d0-36ba-4afe-b023-4a88c1123285
 title: GitHub Actions Cheatsheet
 date: 2022-08-09 10:58:41

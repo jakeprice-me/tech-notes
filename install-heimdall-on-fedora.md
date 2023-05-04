@@ -1,5 +1,5 @@
 ---
-id: 20221219130830
+id: install-heimdall-on-fedora
 uuid: 81d8b312-b319-45f5-9053-a5d31ed47158
 title: Install Heimdall on Fedora
 date: 2022-12-19 13:08:30

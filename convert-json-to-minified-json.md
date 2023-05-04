@@ -1,5 +1,5 @@
 ---
-id: 20200705194525
+id: convert-json-to-minified-json
 uuid: 65f64557-deb0-4100-9398-b1409f398aee
 title: Convert JSON to Minified JSON with Python
 date: 2020-07-05 19:45:25

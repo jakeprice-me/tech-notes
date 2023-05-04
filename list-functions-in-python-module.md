@@ -1,5 +1,5 @@
 ---
-id: 20201224152905
+id: list-functions-in-python-module
 uuid: 15d1aeba-a748-45e7-8e00-b796f208fd3a
 title: List Functions in a Python Module
 date: 2020-12-24 15:29:05

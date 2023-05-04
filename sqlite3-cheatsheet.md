@@ -1,5 +1,5 @@
 ---
-id: 20210209123311
+id: sqlite3-cheatsheet
 uuid: 39f73f6f-11e1-4a07-bc21-b118260c5885
 title: SQLite3 Cheat Sheet
 date: 2021-02-09 12:33:11

@@ -1,5 +1,5 @@
 ---
-id: 20211115210143
+id: root-galaxy-s20
 uuid: ab39457a-10a9-4ebb-96c2-78209deae7da
 title: Root Samsung Galaxy S20
 date: 2021-11-15 21:01:44

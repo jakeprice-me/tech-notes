@@ -1,5 +1,5 @@
 ---
-id: 20200628130240
+id: set-static-ip-ubuntu
 uuid: 2ca351d9-d30d-40f7-baf7-9aefccd9aa18
 title: Set Static IP on Ubuntu 20.04
 date: 2020-06-28 13:02:40

@@ -1,5 +1,5 @@
 ---
-id: 20221007213334
+id: reboot-to-bios-uefi-with-systemd
 uuid: e7a31ab1-62d6-4f58-8285-2968d4c51bfe
 title: Reboot to BIOS/UEFI with systemd
 date: 2022-10-07 21:33:34

@@ -1,5 +1,5 @@
 ---
-id: 20201211133432
+id: prepare-new-drive-linux
 uuid: e1e2626d-df78-4123-92ee-7da77940492b
 title: Prepare a New Hard Drive in Linux
 date: 2020-12-11 13:34:32

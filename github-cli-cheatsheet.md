@@ -1,5 +1,5 @@
 ---
-id: 20220801140300
+id: github-cli-cheatsheet
 uuid: e5c88f52-ccdb-4807-a37c-3f12679e0315
 title: GitHub CLI Cheatsheet
 date: 2022-08-01 14:03:00

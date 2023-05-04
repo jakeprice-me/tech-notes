@@ -1,5 +1,5 @@
 ---
-id: 20201125172111
+id: exchange-online-powershell-cheatsheet
 uuid: 631ce89e-14ab-46e3-aa4e-4a86aca24fc3
 title: Exchange Online PowerShell
 date: 2020-11-25 17:21:11

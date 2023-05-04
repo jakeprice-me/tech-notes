@@ -1,5 +1,5 @@
 ---
-id: 20210814220033
+id: hledger-cheatsheet
 uuid: 18cab5f8-6ec5-4fbd-9e6b-9ed3f1ae240c
 title: hledger Cheatsheet
 date: 2021-08-14 22:00:33

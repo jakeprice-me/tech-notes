@@ -1,5 +1,5 @@
 ---
-id: 20211229140507
+id: exif-tool-cheatsheet
 uuid: d1e41021-e0b0-41e9-adb5-b3d29bae8661
 title: Exif Tool Cheatsheat
 date: 2021-12-29 14:05:07

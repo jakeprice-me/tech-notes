@@ -1,5 +1,5 @@
 ---
-id: 20201021100020
+id: download-vsix-for-any-vscode-extension
 uuid: 77bff079-068f-4b20-aef3-f9a22284caa1
 title: Download the VSIX for Any VS Code Extension
 date: 2020-10-21 10:00:20

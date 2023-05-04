@@ -1,5 +1,5 @@
 ---
-id: 20200922125020
+id: check-size-of-table-postgresql
 uuid: 820571f3-bca2-40c5-a2e1-db682ec2e5ab
 title: Check Size of a Table in PostgreSQL
 date: 2020-09-22 12:50:20

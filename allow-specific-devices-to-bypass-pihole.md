@@ -1,5 +1,5 @@
 ---
-id: 20200104221244
+id: allow-specific-devices-to-bypass-pihole
 uuid: ecd2f29e-528f-43cb-8037-a1dce9fc5490
 title: Allow Specific Devices to Bypass Pi-hole or dnsmasq
 date: 2020-01-04 22:12:44

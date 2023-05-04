@@ -1,5 +1,5 @@
 ---
-id: 20211207111837
+id: kubernetes-cheatsheet
 uuid: 55604f03-789e-4730-9a76-5b665394f4f6
 title: Kubernetes Cheatsheat
 date: 2021-12-07 11:18:37

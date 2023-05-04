@@ -1,5 +1,5 @@
 ---
-id: 20191224131800
+id: list-volume-device-id-for-an-ec2-instance
 uuid: 18df39e5-cc29-4f05-943c-f8bd233ed4c8
 title: List Volume Device ID for an EC2 Instance
 date: 2019-12-24 13:18:00
