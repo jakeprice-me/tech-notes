@@ -15,5 +15,5 @@ draft: false
 
 The below article provided some pointers with some recent HP Printer issues I had on Fedora 36. What got it working was running `hp-setup 192.168.2.250` after making sure I had installed `sudo dnf install hplip hplip-common hplip-libs libsane-hpaio hplip-gui`.
 
-{{<embed_html file="/attachments/20220515221500.html">}}
+{{<embed_html file="/public-webpage-archive/install-hp-printer-fedora.html.html">}}
 

@@ -16,13 +16,13 @@ draft: false
 
 There's a lot of absolute rubbish out there when it comes to Android guides for things like rooting, but the below from "The Custom Droid" are very good and have always worked for me.
 
-- [Root Galaxy S20, S20+, and S20 Ultra using Magisk (Guide)](https://www.thecustomdroid.com/samsung-galaxy-s20-magisk-rooting-guide/) - [Local Archive](/attachments/20220211083814-samsung-galaxy-s20-magisk-rooting-guide.html)
-- [How to Relock the Bootloader on Samsung Galaxy S10/S10+/S10e](https://www.thecustomdroid.com/relock-samsung-galaxy-s10-bootloader-guide/) - [Local Archive](/attachments/20220211143716-relock-samsung-galaxy-s10-bootloader-guide.html)
-- [Download and Install Stable One UI 3.0 Update on Galaxy S20 Series](https://www.thecustomdroid.com/galaxy-s20-series-one-ui-3-installation-guide/) - [Local Archive](/attachments/20220211144348-galaxy-s20-series-one-ui-3-installation-guide.html)
+- [Root Galaxy S20, S20+, and S20 Ultra using Magisk (Guide)](https://www.thecustomdroid.com/samsung-galaxy-s20-magisk-rooting-guide/) - [Local Archive](/public-webpage-archive/root-galaxy-s20-samsung-galaxy-s20-magisk-rooting-guide.html)
+- [How to Relock the Bootloader on Samsung Galaxy S10/S10+/S10e](https://www.thecustomdroid.com/relock-samsung-galaxy-s10-bootloader-guide/) - [Local Archive](/public-webpage-archive/root-galaxy-s20-relock-samsung-galaxy-s10-bootloader-guide.html)
+- [Download and Install Stable One UI 3.0 Update on Galaxy S20 Series](https://www.thecustomdroid.com/galaxy-s20-series-one-ui-3-installation-guide/) - [Local Archive](/public-webpage-archive/root-galaxy-s20-galaxy-s20-series-one-ui-3-installation-guide.html)
 
 And also the below from Magisk.
 
-- [Installation | Magisk](https://topjohnwu.github.io/Magisk/install.html#samsung-system-as-root) - [Local Archive](/attachments/20220211144549-install.html)
+- [Installation | Magisk](https://topjohnwu.github.io/Magisk/install.html#samsung-system-as-root) - [Local Archive](/public-webpage-archive/20220211144549-install.html)
 
 {{<admonition warning>}}
 Unlocking the bootloader will erase all data on the phone.

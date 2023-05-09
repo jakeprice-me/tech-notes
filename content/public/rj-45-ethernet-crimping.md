@@ -13,4 +13,4 @@ private: false
 draft: false
 ---
 
-![](/attachments/20221230123651_1.jpg)
+![](/public-screenshots/rj-45-ethernet-crimping.jpg)

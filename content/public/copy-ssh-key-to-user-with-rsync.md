@@ -5,7 +5,7 @@ title: Copy an SSH Key to Another User with Rsync
 date: 2020-07-05 19:42:36
 modified: rsync
 types: tech-note
-categories: 
+categories: []
 pinned: false
 tags: [ssh, rsync, server]
 private: false

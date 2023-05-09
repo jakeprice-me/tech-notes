@@ -17,12 +17,12 @@ draft: false
 
 I've extracted what I needed to do from the clearest article I found on setting up WireGuard - [How To Set Up WireGuard on Ubuntu 22.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-22-04) 
 
-Local Copy: [Here](/attachments/20230109140024-how-to-set-up-wireguard-on-ubuntu-22-04.html)
+Local Copy: [Here](/public-webpage-archive/setup-wireguard.html)
 
 {{<admonition important>}}
 You must set `UDP` as the protocol when setting up the port forwarding rule on your router. Initially, I missed this and things were not working, with no obvious reason for ages (like 48 hours before I realised)!
 
-![](/attachments/2023-01-09_13-57.png)
+![](/public-screenshots/setup-wireguard.png)
 {{</admonition>}}
 
 ## Server

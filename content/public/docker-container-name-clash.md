@@ -17,7 +17,7 @@ I was having an issue launching another PHP application on the same device with 
 
 > You are having this issue because you have more than one container with same hostname (php) in same network.
 
-{{<embed_html file="/attachments/20220601163801.html">}}
+{{<embed_html file="/public-webpage-archive/20220601163801.html">}}
 
 As the above makes clear, it was because I had copied the `compose.yml` and used the same service name for the PHP container in Compose and the Caddyfile. Changing `php` to `<app-name>-php` in both Compose and Caddyfile fixed it.
 

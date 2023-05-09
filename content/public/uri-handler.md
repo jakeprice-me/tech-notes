@@ -102,7 +102,7 @@ sudo update-desktop-database
 xdg-open 'guivim:///etc/hosts'
 ```
 
-The original source can be found [here](/attachments/20210906181547.html)
+The original source can be found [here](/public-webpage-archive/20210906181547.html)
 
 
 ## MacOS

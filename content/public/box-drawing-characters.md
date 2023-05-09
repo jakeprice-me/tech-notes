@@ -13,6 +13,6 @@ private: false
 draft: false
 ---
 
-Source: [Box-drawing character - Wikipedia](/attachments/box-drawing-characters.html)
+Source: [Box-drawing character - Wikipedia](/public-webpage-archive/box-drawing-characters.html)
 
 Box drawing characters can be used for "drawing" things with lines in plain-text.

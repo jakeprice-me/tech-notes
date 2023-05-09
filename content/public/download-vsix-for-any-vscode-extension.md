@@ -26,7 +26,7 @@ https://${publisher}.gallery.vsassets.io/_apis/public/gallery/publisher/${publis
 
 Let's say you want to download `vscode-todotxt-syntax` located [here](https://marketplace.visualstudio.com/items?itemName=dunstontc.vscode-todotxt). You can find the repository link under the `Resources` header on the right sidebar, as below:
 
-![](/attachments/1603270820_1.png)
+![](/public-screenshots/download-vsix-for-any-vscode-extension_1.png)
 
 Then from within the repository you can open up [package.json](https://github.com/dunstontc/vscode-todotxt/blob/master/package.json) which will contain something like the below. 
 

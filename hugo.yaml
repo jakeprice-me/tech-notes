@@ -1,0 +1,12 @@
+baseURL: "https://tn.int.ppn.sh"
+languageCode: "en-gb"
+title: "Tech Notes"
+theme: "tech-notes"
+taxonomies:
+  categories: "categories"
+  types: "types"
+outputs:
+  home:
+    - html
+    - json
+    - markdown
