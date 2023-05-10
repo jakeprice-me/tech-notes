@@ -5,7 +5,7 @@ title: Create a PowerShell Profile
 date: 2020-06-19 11:57:42
 modified: powershell
 types: tech-note
-categories: []
+categories: powershell
 pinned: false
 tags: [powershell, profile, windows]
 private: false

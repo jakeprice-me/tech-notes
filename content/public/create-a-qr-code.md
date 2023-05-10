@@ -5,7 +5,7 @@ title: Create a QR Code
 date: 2021-09-02 15:05:32
 modified: cli
 types: tech-note
-categories: []
+categories: cli
 pinned: false
 tags: [qrencode, wifi, credentials, password]
 private: false

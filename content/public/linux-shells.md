@@ -5,7 +5,7 @@ title: Linux Shell
 date: 2020-07-14 21:15:25
 modified: 
 types: tech-note
-categories: [linux ]
+categories: linux
 link: https://unix.stackexchange.com/questions/170493/login-non-login-and-interactive-non-interactive-shells/170499#170499
 pinned: false
 tags: [bash, shell, linux, stack-exchange]
