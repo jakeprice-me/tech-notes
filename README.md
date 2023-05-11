@@ -8,7 +8,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 
 Some notes have links to copies of certain web pages or screenshots. These don't show up in GitHub when the Markdown is rendered as they're specifically meant for Hugo, which I use to render all of my tech notes in a static site.
 
-## Categories <sup>52</sup>
+## Categories <sup>53</sup>
 <ul id="categories">
 
   
@@ -118,6 +118,11 @@ Some notes have links to copies of certain web pages or screenshots. These don't
   
   
 <li><a href="#java">java</a> <sup>1</sup></li>
+  
+
+  
+  
+<li><a href="#javascript">javascript</a> <sup>1</sup></li>
   
 
   
@@ -288,7 +293,7 @@ Some notes have links to copies of certain web pages or screenshots. These don't
 
 </ul>
 
-## Notes <sup>180</sup>
+## Notes <sup>181</sup>
 
   
   
@@ -530,6 +535,15 @@ Some notes have links to copies of certain web pages or screenshots. These don't
 <h3 id="java">java <sup>1</sup></h3>
 <ul id="notes">
   <li>2020-07-16 <a href="content/public/take-heap-dump-jcmd.md"">Take a heap-dump using jcmd</a></li>
+  
+</ul>
+  
+
+  
+  
+<h3 id="javascript">javascript <sup>1</sup></h3>
+<ul id="notes">
+  <li>2023-05-10 <a href="content/public/privacy-redirect-bookmarklet.md"">Privacy Redirect Bookmarklet</a></li>
   
 </ul>
   
