@@ -1,15 +1,22 @@
 ---
-id: extract-apk-android-using-adb
-uuid: 1379d4af-89d7-4947-88a4-521122fc9a95
-title: Extract/Pull Android App Package from Phone
+alias: extract-apk-android-using-adb
+category: android
+classification: public
 date: 2020-03-25 10:51:10
-modified: 
-types: tech-note
-categories: android
+date_modified: null
+id: 20200325105110
 pinned: false
-tags: [android, phone, apps, apk, pull, extract, download]
-private: false
-draft: false
+tags:
+- android
+- phone
+- apps
+- apk
+- pull
+- extract
+- download
+title: Extract/Pull Android App Package from Phone
+type: tech-note
+uuid: 1379d4af-89d7-4947-88a4-521122fc9a95
 ---
 
 The `android-tools` package `sudo dnf install android-tools` on Fedora must already be installed.

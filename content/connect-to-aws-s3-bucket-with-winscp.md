@@ -1,15 +1,19 @@
 ---
-id: connect-to-aws-s3-bucket-with-winscp
-uuid: d4b91bfc-8944-4da6-aa95-544ba8ea7b49
-title: Connect to an AWS S3 Bucket with WinSCP
+alias: connect-to-aws-s3-bucket-with-winscp
+category: aws
+classification: public
 date: 2020-03-02 13:43:51
-modified: 
-types: tech-note
-categories: aws
+date_modified: null
+id: 20200302134351
 pinned: false
-tags: [s3, aws, winscp, bucket]
-private: false
-draft: false
+tags:
+- s3
+- aws
+- winscp
+- bucket
+title: Connect to an AWS S3 Bucket with WinSCP
+type: tech-note
+uuid: d4b91bfc-8944-4da6-aa95-544ba8ea7b49
 ---
 
 On the initial "Site Login" screen that opens when WinSCP is launched, fill in the below details:

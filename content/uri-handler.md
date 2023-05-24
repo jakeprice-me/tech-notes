@@ -1,15 +1,24 @@
 ---
-id: uri-handler
-uuid: 06e71c60-9ac7-4eae-94eb-e40fd45305a8
-title: URI Handler
+alias: uri-handler
+category: miscellaneous
+classification: public
 date: 2021-09-06 18:15:47
-modified: 
-types: tech-note
-categories: miscellaneous
+date_modified: null
+id: 20210906181547
 pinned: false
-tags: [gvim, vim, uri, handler, gnome, macos, fedora, macvim, xdg-open]
-private: false
-draft: false
+tags:
+- gvim
+- vim
+- uri
+- handler
+- gnome
+- macos
+- fedora
+- macvim
+- xdg-open
+title: URI Handler
+type: tech-note
+uuid: 06e71c60-9ac7-4eae-94eb-e40fd45305a8
 ---
 
 ## Gnome
@@ -102,7 +111,7 @@ sudo update-desktop-database
 xdg-open 'guivim:///etc/hosts'
 ```
 
-The original source can be found [here](/public-webpage-archive/20210906181547.html)
+The original source can be found [here](attachments/20210906181547.html)
 
 
 ## MacOS
@@ -137,4 +146,3 @@ Note that url has to be a file:// url pointing to an existing local file.
 1. Go to "Preferences" (`⌘ ,`), and make sure you're on the "General" tab.
 1. Under "Open files from applications:" select "in the current window".
 1. In the pull down menu below this option select "and set the arglist" and files will open in a new buffer, in the same window.
-

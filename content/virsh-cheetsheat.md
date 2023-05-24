@@ -1,16 +1,19 @@
 ---
-id: virsh-cheetsheat
-uuid: 93ae3e5c-6303-49e2-b5db-4bc6e484e99b
-title: KVM/QEMU Notes
+alias: virsh-cheetsheat
+category: libvirt
+classification: public
 date: 2022-01-09 16:31:43
-modified: 
-types: tech-note
-categories: libvirt
-link: 
+date_modified: null
+id: 20220109163143
+link: null
 pinned: false
-tags: [kvm, qemu, vm]
-private: false
-draft: false
+tags:
+- kvm
+- qemu
+- vm
+title: KVM/QEMU Notes
+type: tech-note
+uuid: 93ae3e5c-6303-49e2-b5db-4bc6e484e99b
 ---
 
 ## KVM/QEMU
@@ -124,7 +127,6 @@ virsh snapshot-create-as --domain host-01-docker-01 --atomic ubuntu-2004-base
 # Query a domain image (will list snapshots):
 sudo su - -c "qemu-img info /srv/data-ssd-02/vm-data/host-01-docker-01.qcow2"
 ```
-
 ---
 
 ## Fedora QEMU
@@ -153,7 +155,6 @@ sudo virsh net-undefine default
 ```
 
 Now to create a full network bridge so that VM's get a LAN IP.
-
 ---
 
 SO EASY. Ignore EVERYTHING online, it's this simple:
@@ -215,21 +216,17 @@ mac-address-blacklist=
 
 [bridge-port]
 ```
-
 ---
 
 Though possible to do a Wi-Fi bridge on Linux, its a lot harder for KVM. Its simply easier to just use VirtualBox. I'm literally only trying to test PXE, and I've waster by whole day faffing around with this. It's good to know its easy for Ethernet as KVM is server focused and that's how I'll be using it, bit its just too messy to do it on my ThinkPad, and ultimately pointless because I want to be able to bridge over Wi-Fi.
 
 So, tomorrow focus on getting PXE working.
-
 ---
 
 The state of virtualisation on Linux if you're using VirtualBox is absolutely ridiculous. It just doesn't work, I have absolutely no interest in having to sign kernal modules and having to do that every time Fedora updates the kernel... And, it doesn't even work once you've done it. All I want is to launch a VM to check PXE works - absolute joke.
-
 ---
 
 Apparently Ubuntu includes `export LIBVIRT_DEFAULT_URI=qemu:///system` in the /etc/profile.d/libvirt-uri.sh, but on Fedora to be able to run as a non-root user and use //system, add the above export to `.bashrc`
-
 ---
 
 Of course on Fedora 35 server. firewalld is running!!! So I need to add a rule to allow access to vnc over port 5901 `nmap 10.19.90.20 -p 5901` will let you check. Just `sudo systemctl stop firewalld` and then check status `sudo firewall-cmd --state`. Really I need to add a firewall rule but that will do for now. More [here](https://docs.fedoraproject.org/en-US/quick-docs/firewalld/)

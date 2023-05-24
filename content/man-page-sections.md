@@ -1,16 +1,19 @@
 ---
-id: man-page-sections
-uuid: e93e8de4-6a16-40df-990c-d75e39178544
-title: man Page Sections
+alias: man-page-sections
+category: linux
+classification: public
 date: 2019-01-13 16:37:00
-modified: 
-types: tech-note
-categories: linux
+date_modified: null
+id: 20190113163700
 link: https://en.wikipedia.org/wiki/Man_page#Manual_sections
 pinned: false
-tags: [manpage, linux, cli]
-private: false
-draft: false
+tags:
+- manpage
+- linux
+- cli
+title: man Page Sections
+type: tech-note
+uuid: e93e8de4-6a16-40df-990c-d75e39178544
 ---
 
 A list of all the man page sections that are used.

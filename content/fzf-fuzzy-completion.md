@@ -1,15 +1,17 @@
 ---
-id: fzf-fuzzy-completion
-uuid: 7f58c390-cfef-46c3-9b15-5badad9167e7
-title: fzf Fuzzy Completion
+alias: fzf-fuzzy-completion
+category: cli
+classification: public
 date: 2020-04-19 19:39:44
-modified: 
-types: tech-note
-categories: cli
+date_modified: null
+id: 20200419193944
 pinned: false
-tags: [fzf, fuzzy]
-private: false
-draft: false
+tags:
+- fzf
+- fuzzy
+title: fzf Fuzzy Completion
+type: tech-note
+uuid: 7f58c390-cfef-46c3-9b15-5badad9167e7
 ---
 
 ```sh

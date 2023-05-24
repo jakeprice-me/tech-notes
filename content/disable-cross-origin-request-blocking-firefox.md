@@ -1,15 +1,18 @@
 ---
-id: disable-cross-origin-request-blocking-firefox
-uuid: 1ad98537-3304-4ea5-999b-d36d4d53dab1
-title: Disable Cross-Origin Request Blocking on Firefox
+alias: disable-cross-origin-request-blocking-firefox
+category: firefox
+classification: public
 date: 2020-09-25 17:50:47
-modified: 
-types: tech-note
-categories: firefox
+date_modified: null
+id: 20200925175047
 pinned: false
-tags: [cors, firefox, javascript]
-private: false
-draft: false
+tags:
+- cors
+- firefox
+- javascript
+title: Disable Cross-Origin Request Blocking on Firefox
+type: tech-note
+uuid: 1ad98537-3304-4ea5-999b-d36d4d53dab1
 ---
 
 When testing something that uses JavaScript locally, you may come across an error like this:
@@ -20,9 +23,8 @@ Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remot
 
 It's only an issue when running locally, but a quick and easy way to resolve it can be found in `about:config` on Firefox. The following preference should be set to `false`.
 
-{{< admonition warning >}}
-Make sure you set it back to `true` once you have finished testing.
-{{< /admonition >}}
+> [!warning]
+> Make sure you set it back to `true` once you have finished testing.
 
 ```ini
 security.fileuri.strict_origin_policy: false

@@ -1,20 +1,22 @@
 ---
-id: auto-mount-samba-share
-uuid: 9611c17b-680f-416d-8509-ae89c2430a64
-title: Automatically Mount Samba Share
+alias: auto-mount-samba-share
+category: samba
+classification: public
 date: 2020-12-23 22:07:40
-modified: 
-types: tech-note
-categories: samba
+date_modified: null
+id: 20201223220740
 pinned: false
-tags: [fstab, samba, cifs]
-private: false
-draft: false
+tags:
+- fstab
+- samba
+- cifs
+title: Automatically Mount Samba Share
+type: tech-note
+uuid: 9611c17b-680f-416d-8509-ae89c2430a64
 ---
 
-{{< admonition tip >}}
-If you encounter issues, or need to query what certain comma separated parameters mean then query the manual: `man mount.cifs`.
-{{< /admonition >}}
+> [!tip]
+> If you encounter issues, or need to query what certain comma separated parameters mean then query the manual: `man mount.cifs`.
 
 Create a directory to mount Samba into `mkdir --parents /mnt/my`.
 
@@ -33,9 +35,8 @@ username=value
 password=value
 ```
 
-{{< admonition tip >}}
-You may need to install `cifs-utils`.
-{{< /admonition >}}
+> [!tip]
+> You may need to install `cifs-utils`.
 
 You can test the drive mounts at boot, without rebooting, by running the below.
 
@@ -53,6 +54,5 @@ sudo chmod +s /bin/umount
 sudo chmod +s /usr/sbin/mount.cifs
 ```
 
-{{< admonition warning >}}
-This works, but does seem to have trouble automounting and auto-unmounting on Fedora. I've not worked out why that is yet. I often have to run `sudo mount -a` after logging in.
-{{< /admonition >}}
+> [!admonition warning]
+> This works, but does seem to have trouble automounting and auto-unmounting on Fedora. I've not worked out why that is yet. I often have to run `sudo mount -a` after logging in.

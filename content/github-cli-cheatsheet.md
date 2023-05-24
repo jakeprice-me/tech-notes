@@ -1,16 +1,21 @@
 ---
-id: github-cli-cheatsheet
-uuid: e5c88f52-ccdb-4807-a37c-3f12679e0315
-title: GitHub CLI Cheatsheet
+alias: github-cli-cheatsheet
+category: github
+classification: public
 date: 2022-08-01 14:03:00
-modified: 
-types: tech-note
-categories: github
+date_modified: null
+id: 20220801140300
 link: https://cli.github.com/manual/gh
 pinned: false
-tags: [github, gh, cli, git, cheatsheet]
-private: false
-draft: false
+tags:
+- github
+- gh
+- cli
+- git
+- cheatsheet
+title: GitHub CLI Cheatsheet
+type: tech-note
+uuid: e5c88f52-ccdb-4807-a37c-3f12679e0315
 ---
 
 ```sh

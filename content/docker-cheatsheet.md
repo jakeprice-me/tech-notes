@@ -1,15 +1,18 @@
 ---
-id: docker-cheatsheet
-uuid: 95629ac4-938a-4fe4-b5b1-86704df7b2df
-title: Docker Cheatsheet
+alias: docker-cheatsheet
+category: docker
+classification: public
 date: 2021-04-03 21:26:50
-modified: 
-types: tech-note
-categories: docker
+date_modified: null
+id: 20210403212650
 pinned: false
-tags: [docker, containers, cheatsheet]
-private: false
-draft: false
+tags:
+- docker
+- containers
+- cheatsheet
+title: Docker Cheatsheet
+type: tech-note
+uuid: 95629ac4-938a-4fe4-b5b1-86704df7b2df
 ---
 
 ```sh
@@ -92,4 +95,3 @@ Keep dockerfile docker container running for debugging:
 ```dockerfile
 ENTRYPOINT ["tail", "-f", "/dev/null"]
 ```
-

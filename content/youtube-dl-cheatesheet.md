@@ -1,16 +1,22 @@
 ---
-id: youtube-dl-cheatesheet
-uuid: f4556301-5bcd-4663-ac57-cc1ef5ab2934
-title: YouTube-DL Cheatsheet
+alias: youtube-dl-cheatesheet
+category: cli
+classification: public
 date: 2022-07-11 13:13:09
-modified: 
-types: tech-note
-categories: cli
-link: 
+date_modified: null
+id: 20220711131309
+link: null
 pinned: false
-tags: [youtube-dl, youtube, download, audio, video, cli]
-private: false
-draft: false
+tags:
+- youtube-dl
+- youtube
+- download
+- audio
+- video
+- cli
+title: YouTube-DL Cheatsheet
+type: tech-note
+uuid: f4556301-5bcd-4663-ac57-cc1ef5ab2934
 ---
 
 ```sh

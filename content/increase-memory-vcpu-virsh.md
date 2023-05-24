@@ -1,16 +1,25 @@
 ---
-id: increase-memory-vcpu-virsh
-uuid: 37ada0cf-74b3-4c04-9648-f5cf8901f46d
-title: Increase Memory & Virtual CPU on Virtual Machine
+alias: increase-memory-vcpu-virsh
+category: libvirt
+classification: public
 date: 2022-02-21 22:50:05
-modified: 
-types: tech-note
-categories: libvirt
-link: 
+date_modified: null
+id: 20220221225005
+link: null
 pinned: false
-tags: [virsh, vm, domain, memory, ram, vcpu, cpu, max, maximum]
-private: false
-draft: false
+tags:
+- virsh
+- vm
+- domain
+- memory
+- ram
+- vcpu
+- cpu
+- max
+- maximum
+title: Increase Memory & Virtual CPU on Virtual Machine
+type: tech-note
+uuid: 37ada0cf-74b3-4c04-9648-f5cf8901f46d
 ---
 
 ```sh
@@ -34,4 +43,3 @@ virsh setvcpus --domain <domain> --count 2 --config
 # Restart domain:
 virsh start <domain>
 ```
-

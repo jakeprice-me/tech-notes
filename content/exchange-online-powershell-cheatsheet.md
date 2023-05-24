@@ -1,14 +1,18 @@
 ---
-id: exchange-online-powershell-cheatsheet
-uuid: 631ce89e-14ab-46e3-aa4e-4a86aca24fc3
-title: Exchange Online PowerShell
+alias: exchange-online-powershell-cheatsheet
+category: powershell
+classification: public
 date: 2020-11-25 17:21:11
-modified: 
-types: tech-note
-categories: powershell
-tags: [exchange, azure, office, powershell]
-private: false
-draft: false
+date_modified: null
+id: 20201125172111
+tags:
+- exchange
+- azure
+- office
+- powershell
+title: Exchange Online PowerShell
+type: tech-note
+uuid: 631ce89e-14ab-46e3-aa4e-4a86aca24fc3
 ---
 
 ## Connect to Exchange Online PowerShell

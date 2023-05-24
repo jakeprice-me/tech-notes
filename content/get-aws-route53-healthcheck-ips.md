@@ -1,15 +1,21 @@
 ---
-id: get-aws-route53-healthcheck-ips
-uuid: 5f4553da-c5d3-4603-bcdc-fa7981fb00be
-title: Get IP Addresses Used by Amazon Route 53 Health Checks
+alias: get-aws-route53-healthcheck-ips
+category: aws
+classification: public
 date: 2020-12-22 16:32:06
-modified: 
-types: tech-note
-categories: aws
+date_modified: null
+id: 20201222163206
 pinned: false
-tags: [aws, route53, ip, health, check, ipv4]
-private: false
-draft: false
+tags:
+- aws
+- route53
+- ip
+- health
+- check
+- ipv4
+title: Get IP Addresses Used by Amazon Route 53 Health Checks
+type: tech-note
+uuid: 5f4553da-c5d3-4603-bcdc-fa7981fb00be
 ---
 
 To enable health checks on applications that are restricted to a certain list of IP addresses, we must also allow the list of IP addresses AWS provides, which are the IP addresses used by their Route 53 health checks.

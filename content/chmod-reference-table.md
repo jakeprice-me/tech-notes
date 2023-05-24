@@ -1,16 +1,19 @@
 ---
-id: chmod-reference-table
-uuid: 6335c00d-5cbb-4f09-9d12-644a92d308f8
-title: chmod Reference Table
+alias: chmod-reference-table
+category: linux
+classification: public
 date: 2019-01-13 16:39:01
-modified: 
-types: tech-note
-categories: linux
+date_modified: null
+id: 20190113163901
 link: https://dbiers.me/chmod-permissions-reference-chart/
 pinned: false
-tags: [chmod, linux, permissions]
-private: false
-draft: false
+tags:
+- chmod
+- linux
+- permissions
+title: chmod Reference Table
+type: tech-note
+uuid: 6335c00d-5cbb-4f09-9d12-644a92d308f8
 ---
 
 A helpful overview of `chmod` permissions.

@@ -1,32 +1,35 @@
 ---
-id: root-galaxy-s20
-uuid: ab39457a-10a9-4ebb-96c2-78209deae7da
-title: Root Samsung Galaxy S20
+alias: root-galaxy-s20
+category: android
+classification: public
 date: 2021-11-15 21:01:44
-modified: 
-types: tech-note
-categories: android
+date_modified: null
+id: 20211115210144
 pinned: false
-tags: [samsung, galaxy-s20, android, root]
-private: false
-draft: false
+tags:
+- samsung
+- galaxy-s20
+- android
+- root
+title: Root Samsung Galaxy S20
+type: tech-note
+uuid: ab39457a-10a9-4ebb-96c2-78209deae7da
 ---
 
 ## Helpful Guides
 
 There's a lot of absolute rubbish out there when it comes to Android guides for things like rooting, but the below from "The Custom Droid" are very good and have always worked for me.
 
-- [Root Galaxy S20, S20+, and S20 Ultra using Magisk (Guide)](https://www.thecustomdroid.com/samsung-galaxy-s20-magisk-rooting-guide/) - [Local Archive](/public-webpage-archive/root-galaxy-s20-samsung-galaxy-s20-magisk-rooting-guide.html)
-- [How to Relock the Bootloader on Samsung Galaxy S10/S10+/S10e](https://www.thecustomdroid.com/relock-samsung-galaxy-s10-bootloader-guide/) - [Local Archive](/public-webpage-archive/root-galaxy-s20-relock-samsung-galaxy-s10-bootloader-guide.html)
-- [Download and Install Stable One UI 3.0 Update on Galaxy S20 Series](https://www.thecustomdroid.com/galaxy-s20-series-one-ui-3-installation-guide/) - [Local Archive](/public-webpage-archive/root-galaxy-s20-galaxy-s20-series-one-ui-3-installation-guide.html)
+- [Root Galaxy S20, S20+, and S20 Ultra using Magisk (Guide)](https://www.thecustomdroid.com/samsung-galaxy-s20-magisk-rooting-guide/) - [Local Archive](attachments/root-galaxy-s20-samsung-galaxy-s20-magisk-rooting-guide.html)
+- [How to Relock the Bootloader on Samsung Galaxy S10/S10+/S10e](https://www.thecustomdroid.com/relock-samsung-galaxy-s10-bootloader-guide/) - [Local Archive](attachments/root-galaxy-s20-relock-samsung-galaxy-s10-bootloader-guide.html)
+- [Download and Install Stable One UI 3.0 Update on Galaxy S20 Series](https://www.thecustomdroid.com/galaxy-s20-series-one-ui-3-installation-guide/) - [Local Archive](attachments/root-galaxy-s20-galaxy-s20-series-one-ui-3-installation-guide.html)
 
 And also the below from Magisk.
 
-- [Installation | Magisk](https://topjohnwu.github.io/Magisk/install.html#samsung-system-as-root) - [Local Archive](/public-webpage-archive/20220211144549-install.html)
+- [Installation | Magisk](https://topjohnwu.github.io/Magisk/install.html#samsung-system-as-root) - [Local Archive](attachments/20220211144549-install.html)
 
-{{<admonition warning>}}
-Unlocking the bootloader will erase all data on the phone.
-{{</admonition>}}
+> [!danger]
+> Unlocking the bootloader will erase all data on the phone.
 
 - Unlock Bootloader. Developer options > OEM Unlocking > True
 - Power off and boot into Download Mode by connecting it to the PC whilst holding volume up and down.
@@ -64,9 +67,8 @@ samloader --dev-model SM-G980F --dev-region BTU decrypt --fw-ver G980FXXUDEVA9/G
 
 ### Extract Firmware
 
-{{<admonition note>}}
-If initial extraction fails, download the firmware again.
-{{</admonition>}}
+> [!warning]
+> If initial extraction fails, download the firmware again.
 
 ```sh
 unzip ~/Downloads/samsung/SM-G980F_3_20220126141002_sqgfarrj77_fac.zip -d ~/Downloads/samsung/
@@ -89,9 +91,8 @@ adb push AP_G980FXXSFGVK7_G980FXXSFGVK7_MQB59365521_REV01_user_low_ship_MULTI_CE
 
 ## Flash with Odin3 v3.14 on Windows
 
-{{<admonition warning>}}
-It is crucial you use a reliable USB-C cable to avoid soft-bricking the phone. A good test is to wiggle the connection and if it disconnects when you do that, _do not use it_!
-{{</admonition>}}
+> [!warning]
+> It is crucial you use a reliable USB-C cable to avoid soft-bricking the phone. A good test is to wiggle the connection and if it disconnects when you do that, _do not use it_!
 
 Begin by loading the firmware binaries in the Odin tool as instructed below:
 

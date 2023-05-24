@@ -1,16 +1,19 @@
 ---
-id: wireguard-commands
-uuid: 2d629ce3-ae5a-4e5c-aa28-046677126c8b
-title: WireGuard Commands
+alias: wireguard-commands
+category: network
+classification: public
 date: 2023-01-09 14:09:35
-modified: 
-types: tech-note
-categories: network
-link: 
+date_modified: null
+id: 20230109140935
+link: null
 pinned: false
-tags: [wireguard, troubleshoot, vpn]
-private: false
-draft: false
+tags:
+- wireguard
+- troubleshoot
+- vpn
+title: WireGuard Commands
+type: tech-note
+uuid: 2d629ce3-ae5a-4e5c-aa28-046677126c8b
 ---
 
 ## Bring WireGuard Interface Up or Down
@@ -35,4 +38,3 @@ sudo systemctl start wg-quick@wg0.service
 sudo systemctl stop wg-quick@wg0.service
 sudo systemctl restart wg-quick@wg0.service
 ```
-

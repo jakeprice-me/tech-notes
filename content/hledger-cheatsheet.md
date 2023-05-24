@@ -1,18 +1,23 @@
 ---
-id: hledger-cheatsheet
-uuid: 18cab5f8-6ec5-4fbd-9e6b-9ed3f1ae240c
-title: hledger Cheatsheet
+alias: hledger-cheatsheet
+category: hledger
+classification: public
 date: 2021-08-14 22:00:33
-modified: 
-types: tech-note
-categories: hledger
+date_modified: null
+id: 20210814220033
 pinned: false
-tags: [hledger, ledger, accounting, finance, money]
-private: false
-draft: false
+tags:
+- hledger
+- ledger
+- accounting
+- finance
+- money
+title: hledger Cheatsheet
+type: tech-note
+uuid: 18cab5f8-6ec5-4fbd-9e6b-9ed3f1ae240c
 ---
 
-{{<toc>}}
+[TOC]
 
 ## Equity
 
@@ -65,4 +70,3 @@ hledger incomestatement --file <journal-file>  --period "2022-02" --output-file 
 # Balance sheet and exclude accounts:
 hledger balancesheet -f 2022.journal "not:liabilities:debts:credit_account:example" "not:liabilities:debts:loans:example"
 ```
-

@@ -1,15 +1,19 @@
 ---
-id: change-dns-fedora
-uuid: a80328fb-1547-484b-a2bb-27986b384a4b
-title: Change DNS on Fedora
+alias: change-dns-fedora
+category: network
+classification: public
 date: 2020-08-31 20:44:51
-modified: 
-types: tech-note
-categories: network
+date_modified: null
+id: 20200831204451
 pinned: false
-tags: [dns, fedora, network-manager, resolv-conf]
-private: false
-draft: false
+tags:
+- dns
+- fedora
+- network-manager
+- resolv-conf
+title: Change DNS on Fedora
+type: tech-note
+uuid: a80328fb-1547-484b-a2bb-27986b384a4b
 ---
 
 This has been tested as working on Fedora 32.

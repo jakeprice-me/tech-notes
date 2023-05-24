@@ -1,15 +1,17 @@
 ---
-id: install-fonts-using-terminal-linux
-uuid: 7749921f-4855-4c8c-aca2-248aa4ad0f18
-title: Install Fonts on Linux
+alias: install-fonts-using-terminal-linux
+category: linux
+classification: public
 date: 2021-01-01 15:03:58
-modified: 
-types: tech-note
-categories: linux
+date_modified: null
+id: 20210101150358
 pinned: false
-tags: [linux, fonts]
-private: false
-draft: false
+tags:
+- linux
+- fonts
+title: Install Fonts on Linux
+type: tech-note
+uuid: 7749921f-4855-4c8c-aca2-248aa4ad0f18
 ---
 
 Install fonts using the Terminal on Linux.
@@ -23,6 +25,5 @@ sudo cp /tmp/fonts/ttf/Inconsolata-*.ttf /usr/local/share/fonts/
 sudo fc-cache /usr/local/share/fonts/
 ```
 
-{{< admonition tip >}}
-You can check `/etc/fonts/fonts.conf` for a list of directories that contain fonts.
-{{< /admonition >}}
+> [!tip]
+> You can check `/etc/fonts/fonts.conf` for a list of directories that contain fonts.

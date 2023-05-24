@@ -1,16 +1,21 @@
 ---
-id: extending-the-size-of-a-logical-volume-group
-uuid: e069794e-3987-4d6a-8036-ad2efbc0121a
-title: Extending the Size of a Logical Volume Group
+alias: extending-the-size-of-a-logical-volume-group
+category: linux
+classification: public
 date: 2022-09-30 09:23:42
-modified: 
-types: tech-note
-categories: linux
-link: 
+date_modified: null
+id: 20220930092342
+link: null
 pinned: false
-tags: [lvm, logical-volume-group, partition, fedora, disk]
-private: false
-draft: false
+tags:
+- lvm
+- logical-volume-group
+- partition
+- fedora
+- disk
+title: Extending the Size of a Logical Volume Group
+type: tech-note
+uuid: e069794e-3987-4d6a-8036-ad2efbc0121a
 ---
 
 I had a situation where after installing a fresh install of Fedora from the Netinstall ISO, when starting a Docker container I was told I had ran out of disk space. My initial reaction was to just reinstall and manually partition instead of having Fedora do it for me in the setup.

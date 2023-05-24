@@ -1,18 +1,23 @@
 ---
-id: openssl-wildcard-certificate
-uuid: ec023a37-5b4b-4b4b-9b75-567e8d154576
-title: Wildcard OpenSSL Certificate Authority
+alias: openssl-wildcard-certificate
+category: openssl
+classification: public
 date: 2021-01-09 20:45:54
-modified: 
-types: tech-note
-categories: openssl
+date_modified: null
+id: 20210109204554
 pinned: false
-tags: [openssl, lan, self-hosted, certificate, authority]
-private: false
-draft: false
+tags:
+- openssl
+- lan
+- self-hosted
+- certificate
+- authority
+title: Wildcard OpenSSL Certificate Authority
+type: tech-note
+uuid: ec023a37-5b4b-4b4b-9b75-567e8d154576
 ---
 
-{{<toc>}}
+[TOC]
 
 I deploy a really simple certificate authority for all my self-hosted, LAN services, which deploys a single root authority, and a wildcard certificate.
 

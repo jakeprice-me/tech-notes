@@ -1,16 +1,19 @@
 ---
-id: blink1-usb-notification-light
-uuid: e230f402-d4ad-4a68-87b5-6f6bd60479ad
-title: blink(1) USB Notification Light
+alias: blink1-usb-notification-light
+category: blink
+classification: public
 date: 2022-02-04 20:29:34
-modified: 
-types: tech-note
-categories: blink
+date_modified: null
+id: 20220204202934
 link: https://github.com/todbot/blink1-python
 pinned: false
-tags: [blink1, usb, notification]
-private: false
-draft: false
+tags:
+- blink1
+- usb
+- notification
+title: blink(1) USB Notification Light
+type: tech-note
+uuid: e230f402-d4ad-4a68-87b5-6f6bd60479ad
 ---
 
 ## Install & Configure Dependencies

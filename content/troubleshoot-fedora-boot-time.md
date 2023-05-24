@@ -1,16 +1,23 @@
 ---
-id: troubleshoot-fedora-boot-time
-uuid: 686548c1-ef5a-49c1-bd6d-6a4644ee5215
-title: Speed-up Fedora Boot Time
+alias: troubleshoot-fedora-boot-time
+category: systemd
+classification: public
 date: 2022-01-16 18:25:09
-modified: 
-types: tech-note
-categories: systemd
-link: 
+date_modified: null
+id: 20220116182509
+link: null
 pinned: false
-tags: [fedora, boot, systemd, analyze, blame, unbound, network-manager]
-private: false
-draft: false
+tags:
+- fedora
+- boot
+- systemd
+- analyze
+- blame
+- unbound
+- network-manager
+title: Speed-up Fedora Boot Time
+type: tech-note
+uuid: 686548c1-ef5a-49c1-bd6d-6a4644ee5215
 ---
 
 Run the below commands to see what takes the longest at boot.
@@ -37,4 +44,3 @@ You can then disable long running services which aren't needed.
 sudo systemctl disable --now unbound-anchor.timer
 sudo systemctl disable --now NetworkManager-wait-online.service
 ```
-

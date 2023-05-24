@@ -1,15 +1,18 @@
 ---
-id: sed-cheatsheet
-uuid: 3ffa8c38-0d7c-4605-9054-df71bc888656
-title: sed Cheatsheet
+alias: sed-cheatsheet
+category: sed
+classification: public
 date: 2020-06-01 18:03:09
-modified: 
-types: tech-note
-categories: sed
+date_modified: null
+id: 20200601180309
 pinned: false
-tags: [sed, bash, linux]
-private: false
-draft: false
+tags:
+- sed
+- bash
+- linux
+title: sed Cheatsheet
+type: tech-note
+uuid: 3ffa8c38-0d7c-4605-9054-df71bc888656
 ---
 
 ```sh

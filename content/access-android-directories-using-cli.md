@@ -1,15 +1,20 @@
 ---
-id: access-android-directories-using-cli
-uuid: 4ca9649a-351f-46d4-bf24-c7a30ac262a1
-title: Access Android Phone Directories On CLI
+alias: access-android-directories-using-cli
+category: android
+classification: public
 date: 2020-09-06 15:26:26
-modified: 
-types: tech-note
-categories: android
+date_modified: null
+id: 20200906152626
 pinned: false
-tags: [android, gvfs, samsung, galaxy-s20, mtp]
-private: false
-draft: false
+tags:
+- android
+- gvfs
+- samsung
+- galaxy-s20
+- mtp
+title: Access Android Phone Directories On CLI
+type: tech-note
+uuid: 4ca9649a-351f-46d4-bf24-c7a30ac262a1
 ---
 
 Using the GUI, especially Nautilus to copy photos off an Android phone can be really slow, this process makes it much more reliable.

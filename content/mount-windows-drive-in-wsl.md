@@ -1,18 +1,21 @@
 ---
-id: mount-windows-drive-in-wsl
-uuid: 45f649ee-cd99-4fa9-9c54-a1050babe912
-title: Mount Windows Drive in WSL
+alias: mount-windows-drive-in-wsl
+category: windows
+classification: public
 date: 2021-07-21 10:39:17
-modified: 
-types: tech-note
-categories: windows
+date_modified: null
+id: 20210721103917
 link: https://www.public-health.uiowa.edu/it/support/kb48568/
 pinned: false
-tags: [wsl, mount, windows, fstab]
-private: false
-draft: false
+tags:
+- wsl
+- mount
+- windows
+- fstab
+title: Mount Windows Drive in WSL
+type: tech-note
+uuid: 45f649ee-cd99-4fa9-9c54-a1050babe912
 ---
-
 
 > ## Mount Drives in a Persistent Manner
 > 

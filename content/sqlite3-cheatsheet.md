@@ -1,15 +1,19 @@
 ---
-id: sqlite3-cheatsheet
-uuid: 39f73f6f-11e1-4a07-bc21-b118260c5885
-title: SQLite3 Cheat Sheet
+alias: sqlite3-cheatsheet
+category: sqlite
+classification: public
 date: 2021-02-09 12:33:11
-modified: 
-types: tech-note
-categories: sqlite
+date_modified: null
+id: 20210209123311
 pinned: false
-tags: [cheatsheet, sql, sqlite, database]
-private: false
-draft: false
+tags:
+- cheatsheet
+- sql
+- sqlite
+- database
+title: SQLite3 Cheat Sheet
+type: tech-note
+uuid: 39f73f6f-11e1-4a07-bc21-b118260c5885
 ---
 
 ```sh

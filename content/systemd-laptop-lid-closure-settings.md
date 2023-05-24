@@ -1,16 +1,23 @@
 ---
-id: systemd-laptop-lid-closure-settings
-uuid: 6293d7b0-f206-49ad-8b40-ed52c6a3493f
-title: Laptop Lid Closure Settings on Linux
+alias: systemd-laptop-lid-closure-settings
+category: systemd
+classification: public
 date: 2022-02-12 16:43:24
-modified: 
-types: tech-note
-categories: systemd
+date_modified: null
+id: 20220212164324
 link: https://unix.stackexchange.com/a/583059/331627
 pinned: false
-tags: [screen, laptop, lid, sleep, suspend, monitor, power]
-private: false
-draft: false
+tags:
+- screen
+- laptop
+- lid
+- sleep
+- suspend
+- monitor
+- power
+title: Laptop Lid Closure Settings on Linux
+type: tech-note
+uuid: 6293d7b0-f206-49ad-8b40-ed52c6a3493f
 ---
 
 ```sh
@@ -26,4 +33,3 @@ $ reboot
 # ↓ or ↑
 $ sudo systemctl restart systemd-logind  # will kill current X/Wayland session
 ```
-

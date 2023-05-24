@@ -1,16 +1,19 @@
 ---
-id: journald-cheatsheet
-uuid: ec28bb00-d300-4b1e-af36-8c38cd4b6798
-title: journald Cheatsheet
+alias: journald-cheatsheet
+category: cli
+classification: public
 date: 2022-08-09 16:31:52
-modified: 
-types: tech-note
-categories: cli
-link: 
+date_modified: null
+id: 20220809163152
+link: null
 pinned: false
-tags: [journald, log, follow]
-private: false
-draft: false
+tags:
+- journald
+- log
+- follow
+title: journald Cheatsheet
+type: tech-note
+uuid: ec28bb00-d300-4b1e-af36-8c38cd4b6798
 ---
 
 ```sh
@@ -24,4 +27,3 @@ $ sudo journalctl --follow --unit tailscaled
 $ journalctl --since "2022-10-14"
 $ journalctl --since "2022-10-14 21:55"
 ```
-

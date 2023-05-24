@@ -1,15 +1,20 @@
 ---
-id: postgresql-cheatsheet
-uuid: eab4a299-6e9b-4669-9da3-5a9bde803893
-title: PostgreSQL Commands
+alias: postgresql-cheatsheet
+category: postgresql
+classification: public
 date: 2020-08-04 20:53:23
-modified: 
-types: tech-note
-categories: postgresql
+date_modified: null
+id: 20200804205323
 pinned: false
-tags: [sql, commands, statements, psql, postgresql]
-private: false
-draft: false
+tags:
+- sql
+- commands
+- statements
+- psql
+- postgresql
+title: PostgreSQL Commands
+type: tech-note
+uuid: eab4a299-6e9b-4669-9da3-5a9bde803893
 ---
 
 ## Connection Strings

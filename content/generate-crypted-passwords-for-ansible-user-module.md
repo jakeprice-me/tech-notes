@@ -1,22 +1,28 @@
 ---
-id: generate-crypted-passwords-for-ansible-user-module
-uuid: 11839ad3-f5f2-45e4-b02c-4da23811d10f
-title: Generate Crypted Passwords for the Ansible User Module
+alias: generate-crypted-passwords-for-ansible-user-module
+category: ansible
+classification: public
 date: 2021-02-05 14:19:32
-modified: 
-types: tech-note
-categories: ansible
+date_modified: null
+id: 20210205141932
 link: https://www.lisenet.com/2019/ansible-generate-crypted-passwords-for-the-user-module/
 pinned: false
-tags: [ansible, user, module, crypted, vault, password, credentials]
-private: false
-draft: false
+tags:
+- ansible
+- user
+- module
+- crypted
+- vault
+- password
+- credentials
+title: Generate Crypted Passwords for the Ansible User Module
+type: tech-note
+uuid: 11839ad3-f5f2-45e4-b02c-4da23811d10f
 ---
 
-[Local Source](attachments/20210205141932.html)
+[Local Source](20210205141932.html)
 
 [Ansible: Generate Crypted Passwords for the User Module | Lisenet.com :: Linux | Security | Networking](https://www.lisenet.com/2019/ansible-generate-crypted-passwords-for-the-user-module/)
-
 ---
 
 The user module can be used to create user accounts and set passwords.

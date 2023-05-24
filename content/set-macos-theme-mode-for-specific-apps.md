@@ -1,16 +1,19 @@
 ---
-id: set-macos-theme-mode-for-specific-apps
-uuid: 2d1477a9-e206-401b-a073-9a3efdbc6c6e
-title: Set macOS Theme for Specific Apps
+alias: set-macos-theme-mode-for-specific-apps
+category: macos
+classification: public
 date: 2022-11-28 15:13:34
-modified: 
-types: tech-note
-categories: macos
-link: 
+date_modified: null
+id: 20221128151334
+link: null
 pinned: false
-tags: [macos, theme, dark-mode]
-private: false
-draft: false
+tags:
+- macos
+- theme
+- dark-mode
+title: Set macOS Theme for Specific Apps
+type: tech-note
+uuid: 2d1477a9-e206-401b-a073-9a3efdbc6c6e
 ---
 
 ```sh

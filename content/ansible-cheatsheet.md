@@ -1,15 +1,17 @@
 ---
-id: ansible-cheatsheet
-uuid: 5ac82d2b-905d-4697-8cda-12b598d2a193
-title: Ansible Cheatsheet
+alias: ansible-cheatsheet
+category: ansible
+classification: public
 date: 2021-01-16 13:07:43
-modified: 
-types: tech-note
-categories: ansible
+date_modified: null
+id: 20210116130743
 pinned: false
-tags: [ansible, cheatsheet]
-private: false
-draft: false
+tags:
+- ansible
+- cheatsheet
+title: Ansible Cheatsheet
+type: tech-note
+uuid: 5ac82d2b-905d-4697-8cda-12b598d2a193
 ---
 
 ## Ansible Roles

@@ -1,15 +1,20 @@
 ---
-id: borg-cheatsheet
-uuid: 476ca90f-d6df-4107-84b9-b9f950377552
-title: Borg Cheatsheet
+alias: borg-cheatsheet
+category: borg
+classification: public
 date: 2021-07-19 16:48:18
-modified: 
-types: tech-note
-categories: borg
+date_modified: null
+id: 20210719164818
 pinned: false
-tags: [borg, backup, deduplication, encryption, cheatsheet]
-private: false
-draft: false
+tags:
+- borg
+- backup
+- deduplication
+- encryption
+- cheatsheet
+title: Borg Cheatsheet
+type: tech-note
+uuid: 476ca90f-d6df-4107-84b9-b9f950377552
 ---
 
 ### Initiation

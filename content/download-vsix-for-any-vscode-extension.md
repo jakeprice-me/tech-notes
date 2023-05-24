@@ -1,20 +1,23 @@
 ---
-id: download-vsix-for-any-vscode-extension
-uuid: 77bff079-068f-4b20-aef3-f9a22284caa1
-title: Download the VSIX for Any VS Code Extension
+alias: download-vsix-for-any-vscode-extension
+category: vscode
+classification: public
 date: 2020-10-21 10:00:20
-modified: 
-types: tech-note
-categories: vscode
+date_modified: null
+id: 20201021100020
 pinned: false
-tags: [vscode, extensions, vsix, codium]
-private: false
-draft: false
+tags:
+- vscode
+- extensions
+- vsix
+- codium
+title: Download the VSIX for Any VS Code Extension
+type: tech-note
+uuid: 77bff079-068f-4b20-aef3-f9a22284caa1
 ---
 
-{{<admonition tip>}}
-The `.vsix` file is simply a zip archive. You can unzip it and see the contents.
-{{</admonition>}}
+>[!tip]
+> The `.vsix` file is simply a zip archive. You can unzip it and see the contents.
 
 You can get the details needed to fill in the required parameters from the `package.json` of any extension you wish to download. This can be found in the extension's repository on GitHub.
 
@@ -26,7 +29,7 @@ https://${publisher}.gallery.vsassets.io/_apis/public/gallery/publisher/${publis
 
 Let's say you want to download `vscode-todotxt-syntax` located [here](https://marketplace.visualstudio.com/items?itemName=dunstontc.vscode-todotxt). You can find the repository link under the `Resources` header on the right sidebar, as below:
 
-![](/public-screenshots/download-vsix-for-any-vscode-extension_1.png)
+![](attachments/download-vsix-for-any-vscode-extension_1.png)
 
 Then from within the repository you can open up [package.json](https://github.com/dunstontc/vscode-todotxt/blob/master/package.json) which will contain something like the below. 
 

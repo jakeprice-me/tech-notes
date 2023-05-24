@@ -1,15 +1,17 @@
 ---
-id: rsync-cheatsheet
-uuid: 1f677e56-3332-4990-a5d4-9c32caf4849e
-title: rsync Cheatsheet
+alias: rsync-cheatsheet
+category: cli
+classification: public
 date: 2020-06-20 23:26:43
-modified: 
-types: tech-note
-categories: cli
+date_modified: null
+id: 20200620232643
 pinned: false
-tags: [rsync, backups]
-private: false
-draft: false
+tags:
+- rsync
+- backups
+title: rsync Cheatsheet
+type: tech-note
+uuid: 1f677e56-3332-4990-a5d4-9c32caf4849e
 ---
 
 ```sh

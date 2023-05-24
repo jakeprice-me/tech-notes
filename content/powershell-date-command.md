@@ -1,15 +1,17 @@
 ---
-id: powershell-date-command
-uuid: 4ba656a2-b5c3-46e2-b32b-ada1998c6361
-title: Powershell Date Command
+alias: powershell-date-command
+category: powershell
+classification: public
 date: 2020-03-18 12:36:45
-modified: 
-types: tech-note
-categories: powershell
+date_modified: null
+id: 20200318123645
 pinned: false
-tags: [powershell, date]
-private: false
-draft: false
+tags:
+- powershell
+- date
+title: Powershell Date Command
+type: tech-note
+uuid: 4ba656a2-b5c3-46e2-b32b-ada1998c6361
 ---
 
 ```sh

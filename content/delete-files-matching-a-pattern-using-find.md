@@ -1,15 +1,20 @@
 ---
-id: delete-files-matching-a-pattern-using-find
-uuid: f50484b6-1f51-4d3a-bcd6-40230a0b62b3
-title: Delete files matching a pattern using find
+alias: delete-files-matching-a-pattern-using-find
+category: cli
+classification: public
 date: 2019-01-28 09:43:00
-modified: 
-types: tech-note
-categories: cli
+date_modified: null
+id: 20190128094300
 pinned: false
-tags: [find, delete, file, directory, pattern]
-private: false
-draft: false
+tags:
+- find
+- delete
+- file
+- directory
+- pattern
+title: Delete files matching a pattern using find
+type: tech-note
+uuid: f50484b6-1f51-4d3a-bcd6-40230a0b62b3
 ---
 
 Delete all files that match a specific pattern. This is just `find` with `-delete` appended, so be careful!

@@ -1,16 +1,20 @@
 ---
-id: caddy-authentication
-uuid: 40831088-1fcc-467b-a85a-c27d1306d285
-title: Caddy Server Basic Authentication
+alias: caddy-authentication
+category: caddy
+classification: public
 date: 2022-12-31 14:31:23
-modified: 
-types: tech-note
-categories: caddy
-link: 
+date_modified: null
+id: 20221231143123
+link: null
 pinned: false
-tags: [caddy, authentication, basic-authentication, hash]
-private: false
-draft: false
+tags:
+- caddy
+- authentication
+- basic-authentication
+- hash
+title: Caddy Server Basic Authentication
+type: tech-note
+uuid: 40831088-1fcc-467b-a85a-c27d1306d285
 ---
 
 ## Basic Authentication

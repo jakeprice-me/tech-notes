@@ -1,15 +1,18 @@
 ---
-id: openssl
-uuid: 228eea5c-d751-4172-aeed-23c6c34c7bd9
-title: Local LAN Certificate
+alias: openssl
+category: openssl
+classification: public
 date: 2021-08-13 18:14:04
-updated: 
-types: tech-note
-categories: openssl
+id: 20210813181404
 pinned: false
-tags: [certificate, certificate-authority, ca]
-private: false
-draft: false
+tags:
+- certificate
+- certificate-authority
+- ca
+title: Local LAN Certificate
+type: tech-note
+updated: null
+uuid: 228eea5c-d751-4172-aeed-23c6c34c7bd9
 ---
 
 ## OpenSSL
@@ -67,9 +70,8 @@ DNS.2 = local.lan
 
 ## Wildcard Certificate
 
-{{<admonition tip>}}
-On MacOS you have to use `sudo` for the final certificate creation command otherwise you get an error with the `srl` file not being accessible.
-{{</admonition>}}
+> [!tip]
+> On MacOS you have to use `sudo` for the final certificate creation command otherwise you get an error with the `srl` file not being accessible.
 
 ```sh
 # Create key:
@@ -94,4 +96,3 @@ sudo openssl x509 \
     -days 365 \
     -sha256
 ```
-

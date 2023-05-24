@@ -1,19 +1,24 @@
 ---
-id: authelia-and-caddy-integration
-uuid: 30d3326a-5158-4feb-9b1d-0b6cd0d5e395
-title: Authelia & Caddy Integration
+alias: authelia-and-caddy-integration
+category: authelia
+classification: public
 date: 2023-01-11 19:46:11
-modified: 
-types: tech-note
-categories: authelia
-link: 
+date_modified: null
+id: 20230111194611
+link: null
 pinned: false
-tags: [authelia, caddy, security, login, authentication]
-private: false
-draft: false
+tags:
+- authelia
+- caddy
+- security
+- login
+- authentication
+title: Authelia & Caddy Integration
+type: tech-note
+uuid: 30d3326a-5158-4feb-9b1d-0b6cd0d5e395
 ---
 
-{{<toc>}}
+[TOC]
 
 ## Helpful Links
 

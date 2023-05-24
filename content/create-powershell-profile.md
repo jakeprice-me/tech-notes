@@ -1,15 +1,18 @@
 ---
-id: create-powershell-profile
-uuid: 28ba907b-7a74-4634-b0a4-2e825d6c7b43
-title: Create a PowerShell Profile
+alias: create-powershell-profile
+category: powershell
+classification: public
 date: 2020-06-19 11:57:42
-modified: powershell
-types: tech-note
-categories: powershell
+date_modified: powershell
+id: 20200619115742
 pinned: false
-tags: [powershell, profile, windows]
-private: false
-draft: false
+tags:
+- powershell
+- profile
+- windows
+title: Create a PowerShell Profile
+type: tech-note
+uuid: 28ba907b-7a74-4634-b0a4-2e825d6c7b43
 ---
 
 ```powershell

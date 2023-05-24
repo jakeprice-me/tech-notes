@@ -1,29 +1,33 @@
 ---
-id: setup-wireguard
-uuid: 7dc1a2a7-07ae-4225-8bd6-07657a1c3709
-title: Setup WireGuard on Debian
+alias: setup-wireguard
+category: network
+classification: public
 date: 2023-01-08 12:21:34
-modified: 
-types: tech-note
-categories: network
+date_modified: null
+id: 20230108122134
 link: https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-22-04
 pinned: false
-tags: [wireguard, vpn]
-private: false
-draft: false
+tags:
+- wireguard
+- vpn
+title: Setup WireGuard on Debian
+type: tech-note
+uuid: 7dc1a2a7-07ae-4225-8bd6-07657a1c3709
 ---
 
-{{<toc>}}
+[TOC]
+
+> [!info]
+> Worth bearing in mind, I've now gone the Docker route with this, using [wg-easy/wg-easy: The easiest way to run WireGuard VPN + Web-based Admin UI.](https://github.com/wg-easy/wg-easy)
 
 I've extracted what I needed to do from the clearest article I found on setting up WireGuard - [How To Set Up WireGuard on Ubuntu 22.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-22-04) 
 
-Local Copy: [Here](/public-webpage-archive/setup-wireguard.html)
+Local Copy: [Here](attachments/setup-wireguard.html)
 
-{{<admonition important>}}
-You must set `UDP` as the protocol when setting up the port forwarding rule on your router. Initially, I missed this and things were not working, with no obvious reason for ages (like 48 hours before I realised)!
+> [!important]
+> You must set `UDP` as the protocol when setting up the port forwarding rule on your router. Initially, I missed this and things were not working, with no obvious reason for ages (like 48 hours before I realised)!
 
-![](/public-screenshots/setup-wireguard.png)
-{{</admonition>}}
+![](attachments/setup-wireguard.png)
 
 ## Server
 
@@ -183,4 +187,3 @@ To bring the tunnel down, run the below.
 ```sh
 wg-quick down wg0
 ```
-

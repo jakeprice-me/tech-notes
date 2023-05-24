@@ -1,23 +1,26 @@
 ---
-id: docker-container-name-clash
-uuid: b25b2def-296e-45db-9135-3a65ee04063e
-title: Regular File Not Found Error PHP Container
+alias: docker-container-name-clash
+category: docker
+classification: public
 date: 2022-06-01 16:38:01
-modified: 
-types: tech-note
-categories: docker
+date_modified: null
+id: 20220601163801
 link: https://stackoverflow.com/a/55040196/9625225
 pinned: false
-tags: [php, docker, caddy]
-private: false
-draft: false
+tags:
+- php
+- docker
+- caddy
+title: Regular File Not Found Error PHP Container
+type: tech-note
+uuid: b25b2def-296e-45db-9135-3a65ee04063e
 ---
 
 I was having an issue launching another PHP application on the same device with Docker Compose. 
 
 > You are having this issue because you have more than one container with same hostname (php) in same network.
 
-{{<embed_html file="/public-webpage-archive/20220601163801.html">}}
+![[public-webpage-archive/20220601163801.html]]
 
 As the above makes clear, it was because I had copied the `compose.yml` and used the same service name for the PHP container in Compose and the Caddyfile. Changing `php` to `<app-name>-php` in both Compose and Caddyfile fixed it.
 

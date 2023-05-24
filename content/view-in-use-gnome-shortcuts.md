@@ -1,16 +1,20 @@
 ---
-id: view-in-use-gnome-shortcuts
-uuid: 3e0b5628-63dc-42ab-acd4-26fbb621628b
-title: View All Gnome Shortcuts
+alias: view-in-use-gnome-shortcuts
+category: gnome
+classification: public
 date: 2022-02-19 16:34:00
-modified: 
-types: tech-note
-categories: gnome
+date_modified: null
+id: 20220219163400
 link: https://askubuntu.com/questions/1317701/list-all-gnome-shortcuts-currently-in-use
 pinned: false
-tags: [gnome, shortcut, gsettings, dconf]
-private: false
-draft: false
+tags:
+- gnome
+- shortcut
+- gsettings
+- dconf
+title: View All Gnome Shortcuts
+type: tech-note
+uuid: 3e0b5628-63dc-42ab-acd4-26fbb621628b
 ---
 
 To view a list of all shortcuts with their corresponding `gsettings` path, run the below. You can substitute `Super` with other keys obviously.
@@ -27,5 +31,3 @@ org.gnome.settings-daemon.plugins.media-keys magnifier ['<Alt><Super>8']
 org.gnome.settings-daemon.plugins.media-keys screensaver ['<Super>l']
 org.gnome.desktop.wm.keybindings switch-group ['<Super>Above_Tab', '<Alt>Above_Tab']
 ```
-
-

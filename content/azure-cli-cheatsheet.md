@@ -1,16 +1,19 @@
 ---
-id: azure-cli-cheatsheet
-uuid: 0ab98662-3bd5-4832-b558-cb7daa58e654
-title: Azure CLI Cheatsheet
+alias: azure-cli-cheatsheet
+category: azure
+classification: public
 date: 2022-07-27 16:36:06
-modified: 
-types: tech-note
-categories: azure
-link: 
+date_modified: null
+id: 20220727163606
+link: null
 pinned: false
-tags: [azure, cli, cheatsheet]
-private: false
-draft: false
+tags:
+- azure
+- cli
+- cheatsheet
+title: Azure CLI Cheatsheet
+type: tech-note
+uuid: 0ab98662-3bd5-4832-b558-cb7daa58e654
 ---
 
 ```sh

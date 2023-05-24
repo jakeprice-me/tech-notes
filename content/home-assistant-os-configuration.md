@@ -1,19 +1,23 @@
 ---
-id: home-assistant-os-configuration
-uuid: 4da5326e-9557-45d2-9bea-bce6cb5c0257
-title: Home Assistant OS Configuration
+alias: home-assistant-os-configuration
+category: smart-home
+classification: public
 date: 2022-05-31 16:10:26
-modified: 
-types: tech-note
-categories: smart-home
-link: 
+date_modified: null
+id: 20220531161026
+link: null
 pinned: false
-tags: [haos, home-assistant, smart-home, raspberry-pi]
-private: false
-draft: false
+tags:
+- haos
+- home-assistant
+- smart-home
+- raspberry-pi
+title: Home Assistant OS Configuration
+type: tech-note
+uuid: 4da5326e-9557-45d2-9bea-bce6cb5c0257
 ---
 
-{{<toc>}}
+[TOC]
 
 I use a dedicated Raspberry Pi 4 8GB for running Home Assistant OS.
 
@@ -91,7 +95,7 @@ After a short wait the addon will be installed. Select the "Watchdog" button, an
 
 ### Configure Zigbee2mqtt and Mosquitto
 
-Follow the instructions here: [here](/public-webpage-archive/home-assistant-os-configuration.html#ssh-access--certificates)
+Follow the instructions here: [here](attachments/home-assistant-os-configuration.html#ssh-access--certificates)
 
 On the laptop create a key and certificate.
 

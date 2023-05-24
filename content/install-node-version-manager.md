@@ -1,15 +1,20 @@
 ---
-id: install-node-version-manager
-uuid: f82b1743-57ad-4a06-8e21-eb6e865f8447
-title: Install Node Version Manager
+alias: install-node-version-manager
+category: cli
+classification: public
 date: 2020-07-05 16:05:06
-modified: 
-types: tech-note
-categories: cli
+date_modified: null
+id: 20200705160506
 pinned: false
-tags: [nvm, npm, node, javascript, node-js]
-private: false
-draft: false
+tags:
+- nvm
+- npm
+- node
+- javascript
+- node-js
+title: Install Node Version Manager
+type: tech-note
+uuid: f82b1743-57ad-4a06-8e21-eb6e865f8447
 ---
 
 Grab the script.

@@ -1,15 +1,17 @@
 ---
-id: connect-to-an-openvpn-tunnel-using-the-cli
-uuid: f897a427-3bf4-4f96-ad5e-89f5efc2b7e0
-title: Connect to an OpenVPN Tunnel Using the CLI
+alias: connect-to-an-openvpn-tunnel-using-the-cli
+category: openvpn
+classification: public
 date: 2019-09-14 21:34:52
-modified: 
-types: tech-note
-categories: openvpn
+date_modified: null
+id: 20190914213452
 pinned: false
-tags: [openvpn, ubuntu]
-private: false
-draft: false
+tags:
+- openvpn
+- ubuntu
+title: Connect to an OpenVPN Tunnel Using the CLI
+type: tech-note
+uuid: f897a427-3bf4-4f96-ad5e-89f5efc2b7e0
 ---
 
 Use an OpenVPN configuration file to connect to an OpenVPN tunnel.
@@ -18,4 +20,4 @@ Use an OpenVPN configuration file to connect to an OpenVPN tunnel.
 $ sudo openvpn --config <path-to-openvpn-config-file>
 ```
 
-The `sudo` is important, otherwise it may fail to connect. 
+The `sudo` is important, otherwise it may fail to connect.

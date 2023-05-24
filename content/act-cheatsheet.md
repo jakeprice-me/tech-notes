@@ -1,16 +1,22 @@
 ---
-id: act-cheatsheet
-uuid: 47e6d68e-00cc-4167-9b67-3a40df279584
-title: act Cheatsheet
+alias: act-cheatsheet
+category: github
+classification: public
 date: 2022-08-08 11:05:14
-modified: 
-types: tech-note
-categories: github
+date_modified: null
+id: 20220808110514
 link: https://github.com/nektos/act
 pinned: false
-tags: [github, action, runner, local, ci-cd, pipeline]
-private: false
-draft: false
+tags:
+- github
+- action
+- runner
+- local
+- ci-cd
+- pipeline
+title: act Cheatsheet
+type: tech-note
+uuid: 47e6d68e-00cc-4167-9b67-3a40df279584
 ---
 
 ```sh

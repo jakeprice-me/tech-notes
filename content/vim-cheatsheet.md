@@ -1,15 +1,18 @@
 ---
-id: vim-cheatsheet
-uuid: 772769f0-334c-458f-a57e-36dbd8674747
-title: Vim Cheatsheet
+alias: vim-cheatsheet
+category: vim
+classification: public
 date: 2020-10-13 12:53:36
-modified: 
-types: tech-note
-categories: vim
+date_modified: null
+id: 20201013125336
 pinned: false
-tags: [vim, cheatsheet, keys]
-private: false
-draft: false
+tags:
+- vim
+- cheatsheet
+- keys
+title: Vim Cheatsheet
+type: tech-note
+uuid: 772769f0-334c-458f-a57e-36dbd8674747
 ---
 
 Here's a list of shortcuts for Vim that I might not always remember.

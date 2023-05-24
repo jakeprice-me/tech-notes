@@ -1,15 +1,18 @@
 ---
-id: move-window-position-tmux
-uuid: 5f289c67-44b1-420c-92a5-37c6e1767a6d
-title: Tmux Cheatsheet
+alias: move-window-position-tmux
+category: tmux
+classification: public
 date: 2021-02-28 10:47:55
-modified: 
-types: tech-note
-categories: tmux
+date_modified: null
+id: 20210228104755
 pinned: false
-tags: [cheatsheet, shortcuts, tmux]
-private: false
-draft: false
+tags:
+- cheatsheet
+- shortcuts
+- tmux
+title: Tmux Cheatsheet
+type: tech-note
+uuid: 5f289c67-44b1-420c-92a5-37c6e1767a6d
 ---
 
 ```sh

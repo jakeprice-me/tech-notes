@@ -1,15 +1,18 @@
 ---
-id: installed-firefox-extensions
-uuid: 0ca674aa-c574-40a1-bc18-6200a303bd14
-title: Installed Firefox Extensions
+alias: installed-firefox-extensions
+category: firefox
+classification: public
 date: 2020-07-14 21:19:29
-modified: 
-types: tech-note
-categories: firefox
+date_modified: null
+id: 20200714211929
 pinned: false
-tags: [firefox, extensions, addons]
-private: false
-draft: false
+tags:
+- firefox
+- extensions
+- addons
+title: Installed Firefox Extensions
+type: tech-note
+uuid: 0ca674aa-c574-40a1-bc18-6200a303bd14
 ---
 
 I install the below addons on all instances of Firefox.

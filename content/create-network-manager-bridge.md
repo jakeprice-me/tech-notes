@@ -1,23 +1,29 @@
 ---
-id: create-network-manager-bridge
-uuid: d36a2fba-c59d-4b80-9077-e790f6376488
-title: Creating a Bridge with NetworkManager
+alias: create-network-manager-bridge
+category: network
+classification: public
 date: 2021-11-19 21:36:36
-modified: network
-types: tech-note
-categories: network
+date_modified: network
+id: 20211119213636
 link: https://wiki.archlinux.org/title/Network_bridge#With_NetworkManager
 pinned: false
-tags: [arch-wiki, nmcli, network-manager, bridge, ethernet, interface, br0]
-private: false
-draft: false
+tags:
+- arch-wiki
+- nmcli
+- network-manager
+- bridge
+- ethernet
+- interface
+- br0
+title: Creating a Bridge with NetworkManager
+type: tech-note
+uuid: d36a2fba-c59d-4b80-9077-e790f6376488
 ---
 
 Source: [Network bridge - ArchWiki](https://wiki.archlinux.org/title/Network_bridge#With_NetworkManager)
-Local: [Here](attachments/20211119213636_Network_bridge.html)
+Local: [Here](20211119213636_Network_bridge.html)
 
 _Important bits excerpted below_.
-
 ---
 
 ## Creating a Bridge

@@ -1,16 +1,22 @@
 ---
-id: tailscale-setup-with-split-dns
-uuid: 91683b7e-63d7-43e4-a6e1-90a177fc0593
-title: Tailscale Setup & Split DNS
+alias: tailscale-setup-with-split-dns
+category: network
+classification: public
 date: 2022-08-09 09:35:34
-modified: 
-types: tech-note
-categories: network
+date_modified: null
+id: 20220809093534
 link: https://login.tailscale.com/
 pinned: false
-tags: [vpn, ppn, wireguard, tailscale, network, router]
-private: false
-draft: false
+tags:
+- vpn
+- ppn
+- wireguard
+- tailscale
+- network
+- router
+title: Tailscale Setup & Split DNS
+type: tech-note
+uuid: 91683b7e-63d7-43e4-a6e1-90a177fc0593
 ---
 
 I have Tailscale installed on `network-01`, using a [Subnet Router](https://tailscale.com/kb/1019/subnets/). 
@@ -26,7 +32,7 @@ sudo tailscale up --advertise-routes=10.19.90.0/24
 
 You then need to enable the subnet router from [Machines](https://login.tailscale.com/admin/machines), by turning the switch to "On" as below.
 
-![](/public-screenshots/tailscale-setup-with-split-dns.png)
+![](attachments/tailscale-setup-with-split-dns.png)
 
 Then turn on IP forwarding, and restart the server. More [here](https://tailscale.com/kb/1019/subnets/#enable-ip-forwarding).
 
@@ -52,11 +58,10 @@ sudo tailscale up --accept-routes
 
 To make sure you can access `int.ppn.sh` sites and other LAN devices from devices connected to Tailscale, we need to add the 10.19.90.5 DNS server, and specify a "Search Domain".
 
-![](/public-screenshots/tailscale-setup-with-split-dns_2.png)
+![](attachments/tailscale-setup-with-split-dns_2.png)
 
 Next, add some additional Global Nameservers for redundancy, and set the "Override local DNS" button to "On". This makes it so that by default, clients will use the global DNS servers, as opposed to 10.19.90.5, but, because we've added a Search Domain, when `int.ppn.sh` or queries to 10.19.90.0 devices are made, the 10.19.90.5 DNS server will be used. So, Split DNS.
 
-![](/public-screenshots/tailscale-setup-with-split-dns_3.png)
+![](attachments/tailscale-setup-with-split-dns_3.png)
 
 That's it, no opening ports on the router, no manual Wireguard configs, it's as easy as this. Very cool.
-

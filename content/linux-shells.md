@@ -1,16 +1,20 @@
 ---
-id: linux-shells
-uuid: 9d540072-afb2-49f9-9785-7849bf0f62c2
-title: Linux Shell
+alias: linux-shells
+category: linux
+classification: public
 date: 2020-07-14 21:15:25
-modified: 
-types: tech-note
-categories: linux
+date_modified: null
+id: 20200714211525
 link: https://unix.stackexchange.com/questions/170493/login-non-login-and-interactive-non-interactive-shells/170499#170499
 pinned: false
-tags: [bash, shell, linux, stack-exchange]
-private: false
-draft: false
+tags:
+- bash
+- shell
+- linux
+- stack-exchange
+title: Linux Shell
+type: tech-note
+uuid: 9d540072-afb2-49f9-9785-7849bf0f62c2
 ---
 
 > - **login** shell: A login shell logs you into the system as a specific user, necessary for this is a username and password. When you hit ctrl+alt+F1 to login into a virtual terminal you get after successful login: a login shell (that is interactive). Sourced files:

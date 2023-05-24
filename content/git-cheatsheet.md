@@ -1,15 +1,18 @@
 ---
-id: git-cheatsheet
-uuid: 92de174a-7b82-417c-8e51-059586056f9d
-title: Git Cheatsheet
+alias: git-cheatsheet
+category: git
+classification: public
 date: 2020-05-16 21:19:55
-modified: 
-types: tech-note
-categories: git
+date_modified: null
+id: 20200516211955
 pinned: false
-tags: [git, version-control, repository]
-private: false
-draft: false
+tags:
+- git
+- version-control
+- repository
+title: Git Cheatsheet
+type: tech-note
+uuid: 92de174a-7b82-417c-8e51-059586056f9d
 ---
 
 ```sh

@@ -1,15 +1,17 @@
 ---
-id: script-comment-hierarchy
-uuid: 249d2b3d-1dbb-45dc-bd75-4ed79d891892
-title: Script Comment Hierarchy
+alias: script-comment-hierarchy
+category: miscellaneous
+classification: public
 date: 2020-08-28 12:03:51
-modified: 
-types: tech-note
-categories: miscellaneous
+date_modified: null
+id: 20200828120351
 pinned: false
-tags: [comments, scripts]
-private: false
-draft: false
+tags:
+- comments
+- scripts
+title: Script Comment Hierarchy
+type: tech-note
+uuid: 249d2b3d-1dbb-45dc-bd75-4ed79d891892
 ---
 
 Nothing like this seems to exist, so I've come up with my own.

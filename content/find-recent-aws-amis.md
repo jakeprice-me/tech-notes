@@ -1,15 +1,17 @@
 ---
-id: find-recent-aws-amis
-uuid: de0896b8-638b-4235-9edb-cbfef28edac7
-title: Find The Most Recent AWS AMI
+alias: find-recent-aws-amis
+category: aws
+classification: public
 date: 2019-10-10 12:12:00
-modified: 
-types: tech-note
-categories: aws
+date_modified: null
+id: 20191010121200
 pinned: false
-tags: [aws, ami]
-private: false
-draft: false
+tags:
+- aws
+- ami
+title: Find The Most Recent AWS AMI
+type: tech-note
+uuid: de0896b8-638b-4235-9edb-cbfef28edac7
 ---
 
 The below command will return the most recent AWS AMI in the region you specify. You can update the `--owners` parameter to match one of the below common 'owners' to find the AMI for the distribution you wish to use.

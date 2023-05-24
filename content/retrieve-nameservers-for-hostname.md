@@ -1,15 +1,19 @@
 ---
-id: retrieve-nameservers-for-hostname
-uuid: ec9eff1d-18e0-4560-a0c3-418a77915f73
-title: Retrieve Nameservers for Hostname
+alias: retrieve-nameservers-for-hostname
+category: cli
+classification: public
 date: 2019-03-05 09:44:09
-modified: 
-types: tech-note
-categories: cli
+date_modified: null
+id: 20190305094409
 pinned: false
-tags: [nameserver, dns, hostname, domain]
-private: false
-draft: false
+tags:
+- nameserver
+- dns
+- hostname
+- domain
+title: Retrieve Nameservers for Hostname
+type: tech-note
+uuid: ec9eff1d-18e0-4560-a0c3-418a77915f73
 ---
 
 Return the nameservers for a hostname.

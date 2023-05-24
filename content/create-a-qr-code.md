@@ -1,15 +1,19 @@
 ---
-id: create-a-qr-code
-uuid: 6fe0984f-610d-4211-80c2-c758441f7e32
-title: Create a QR Code
+alias: create-a-qr-code
+category: cli
+classification: public
 date: 2021-09-02 15:05:32
-modified: cli
-types: tech-note
-categories: cli
+date_modified: cli
+id: 20210902150532
 pinned: false
-tags: [qrencode, wifi, credentials, password]
-private: false
-draft: false
+tags:
+- qrencode
+- wifi
+- credentials
+- password
+title: Create a QR Code
+type: tech-note
+uuid: 6fe0984f-610d-4211-80c2-c758441f7e32
 ---
 
 ## Wi-Fi

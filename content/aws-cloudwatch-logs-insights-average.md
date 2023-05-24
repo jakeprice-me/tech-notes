@@ -1,15 +1,20 @@
 ---
-id: aws-cloudwatch-logs-insights-average
-uuid: 78a322a3-53b5-46ec-9c3d-096257c90e88
-title: AWS CloudWatch Insights Average
+alias: aws-cloudwatch-logs-insights-average
+category: aws
+classification: public
 date: 2021-03-02 16:23:13
-modified: 
-types: tech-note
-categories: aws
+date_modified: null
+id: 20210302162313
 pinned: false
-tags: [syntax, cloudwatch, logs, insights, average]
-private: false
-draft: false
+tags:
+- syntax
+- cloudwatch
+- logs
+- insights
+- average
+title: AWS CloudWatch Insights Average
+type: tech-note
+uuid: 78a322a3-53b5-46ec-9c3d-096257c90e88
 ---
 
 [CloudWatch Logs Insights Query Syntax](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/CWL_QuerySyntax.html)

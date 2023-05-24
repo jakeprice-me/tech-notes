@@ -1,16 +1,18 @@
 ---
-id: installed-gnome-extensions
-uuid: 4353ffe8-fcb6-4df2-9a1f-c187014cce6d
-title: Installed Gnome Extensions
+alias: installed-gnome-extensions
+category: gnome
+classification: public
 date: 2022-01-15 17:17:50
-modified: 
-types: tech-note
-categories: gnome
-link: 
+date_modified: null
+id: 20220115171750
+link: null
 pinned: false
-tags: [gnome, extensions]
-private: false
-draft: false
+tags:
+- gnome
+- extensions
+title: Installed Gnome Extensions
+type: tech-note
+uuid: 4353ffe8-fcb6-4df2-9a1f-c187014cce6d
 ---
 
 I don't particuarly like extensions on Gnome, and would prefer to use them as little as possible, but the ones below are essential in my opinion.
@@ -33,4 +35,3 @@ I don't particuarly like extensions on Gnome, and would prefer to use them as li
 
 - [Rounded Window Corners - GNOME Shell Extensions](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
     - [yilozt/rounded-window-corners: A gnome-shell extensions that try to add rounded corners for all windows](https://github.com/yilozt/rounded-window-corners)
-

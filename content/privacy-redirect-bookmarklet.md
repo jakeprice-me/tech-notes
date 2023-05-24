@@ -1,16 +1,24 @@
 ---
-id: privacy-redirect-bookmarklet
-uuid: 35ff9113-634a-424d-bb83-1ad22b8f064b
-title: Privacy Redirect Bookmarklet
+alias: privacy-redirect-bookmarklet
+category: javascript
+classification: public
 date: 2023-05-10 21:25:40
-modified: 2023-05-10 21:25:40
-types: tech-note
-link: 
+date_modified: 2023-05-10 21:25:40
+id: 20230510212540
+link: null
 pinned: false
-tags: [bookmarklet, javascript, chrome, firefox, nitter, twitter, reddit, libreddit]
-categories: javascript
-private: false
-draft: false
+tags:
+- bookmarklet
+- javascript
+- chrome
+- firefox
+- nitter
+- twitter
+- reddit
+- libreddit
+title: Privacy Redirect Bookmarklet
+type: tech-note
+uuid: 35ff9113-634a-424d-bb83-1ad22b8f064b
 ---
 
 A bookmarklet that can be used to open the current Twitter or Reddit page in my self-hosted [Nitter](https://github.com/zedeus/nitter) or [Libreddit](https://github.com/libreddit/libreddit) instances.
@@ -24,4 +32,3 @@ javascript:(function(){window.location.href="<URL-GOES-HERE>" + window.location.
 ```
 
 To use the bookmarklet, whilst on a Twitter or Reddit page click the address bar and type to find the bookmarklet, and then click it. It should open the page in Nitter or Libreddit. It won't work if you click the bookmark from the Bookmarks manager (don't know why).
-

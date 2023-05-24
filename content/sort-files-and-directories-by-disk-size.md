@@ -1,15 +1,18 @@
 ---
-id: sort-files-and-directories-by-disk-size
-uuid: 2a700633-f389-476a-ba70-f79f4ed8288b
-title: Sort files and directories by disk size
+alias: sort-files-and-directories-by-disk-size
+category: cli
+classification: public
 date: 2019-01-28 12:52:01
-modified: 
-types: tech-note
-categories: cli
+date_modified: null
+id: 20190128125201
 pinned: false
-tags: [file, directory, size]
-private: false
-draft: false
+tags:
+- file
+- directory
+- size
+title: Sort files and directories by disk size
+type: tech-note
+uuid: 2a700633-f389-476a-ba70-f79f4ed8288b
 ---
 
 Sort files and directories by human-readable disk size order.

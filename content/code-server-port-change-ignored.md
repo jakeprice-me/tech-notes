@@ -1,16 +1,21 @@
 ---
-id: code-server-port-change-ignored
-uuid: 26caed21-38f4-4ead-9645-4f3330334870
-title: Code Server Port Bind Issue
+alias: code-server-port-change-ignored
+category: self-hosted
+classification: public
 date: 2022-02-08 13:13:24
-modified: 
-types: tech-note
-categories: self-hosted
-link: 
+date_modified: null
+id: 20220208131324
+link: null
 pinned: false
-tags: [code-server, port, bind, mount, docker]
-private: false
-draft: false
+tags:
+- code-server
+- port
+- bind
+- mount
+- docker
+title: Code Server Port Bind Issue
+type: tech-note
+uuid: 26caed21-38f4-4ead-9645-4f3330334870
 ---
 
 If you want to change the port [Code Server](https://github.com/coder/code-server) uses, it's hard-coded into the `/etc/services.d/code-server/run` script, as a value for the `--bind-addr` flag.

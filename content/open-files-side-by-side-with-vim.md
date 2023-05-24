@@ -1,16 +1,20 @@
 ---
-id: open-files-side-by-side-with-vim
-uuid: 6f025e16-41af-47da-853c-384b4ff15ca7
-title: Open Files Side-By-Side with Vim 
+alias: open-files-side-by-side-with-vim
+category: vim
+classification: public
 date: 2022-11-16 17:22:41
-modified: 
-types: tech-note
-categories: vim
-link: 
+date_modified: null
+id: 20221116172241
+link: null
 pinned: false
-tags: [vim, split, open, file]
-private: false
-draft: false
+tags:
+- vim
+- split
+- open
+- file
+title: Open Files Side-By-Side with Vim
+type: tech-note
+uuid: 6f025e16-41af-47da-853c-384b4ff15ca7
 ---
 
 I'll often want to open a couple of files in Vim and then split the main window so I have one file on the left, and one file on the right. I've just learnt that you can tell Vim to open each in it's own split, a vertical split or a horizontal split.
@@ -24,4 +28,3 @@ vim -o <file1> <file2>
 ```
 
 It works with more than one file as well, so you could open three files, and have a pane for each.
-

@@ -1,16 +1,19 @@
 ---
-id: wireguard-troubleshooting
-uuid: 417a489b-4714-4a49-8b7d-550ee56e20b5
-title: WireGuard Troubleshooting
+alias: wireguard-troubleshooting
+category: network
+classification: public
 date: 2023-01-09 14:14:37
-modified: 
-types: tech-note
-categories: network
-link: 
+date_modified: null
+id: 20230109141437
+link: null
 pinned: false
-tags: [vpn, wireguard, troubleshoot]
-private: false
-draft: false
+tags:
+- vpn
+- wireguard
+- troubleshoot
+title: WireGuard Troubleshooting
+type: tech-note
+uuid: 417a489b-4714-4a49-8b7d-550ee56e20b5
 ---
 
 ## Port Forward Rule
@@ -50,4 +53,3 @@ peer: <value>
   latest handshake: 7 seconds ago
   transfer: 68.22 KiB received, 267.18 KiB sent
 ```
-

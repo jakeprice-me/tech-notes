@@ -1,16 +1,23 @@
 ---
-id: send-output-to-clipboard-using-xclip
-uuid: faf3cb58-4fd5-4642-8f90-c6cb472e65c0
-title: Send Output to Clipboard using xclip
+alias: send-output-to-clipboard-using-xclip
+category: cli
+classification: public
 date: 2022-02-04 11:54:27
-modified: 
-types: tech-note
-categories: cli
-link: 
+date_modified: null
+id: 20220204115427
+link: null
 pinned: false
-tags: [xclip, xsel, clipboard, stdout, stdin, copy, paste]
-private: false
-draft: false
+tags:
+- xclip
+- xsel
+- clipboard
+- stdout
+- stdin
+- copy
+- paste
+title: Send Output to Clipboard using xclip
+type: tech-note
+uuid: faf3cb58-4fd5-4642-8f90-c6cb472e65c0
 ---
 
 To send the output of a command in the terminal to the clipboard, the below is super helpful.
@@ -18,4 +25,3 @@ To send the output of a command in the terminal to the clipboard, the below is s
 ```sh
 xclip -selection clip /tmp/owm.json
 ```
-

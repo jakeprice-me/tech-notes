@@ -1,15 +1,19 @@
 ---
-id: convert-markdown-to-html
-uuid: 6982152e-9231-4ec6-b9f9-f2be4b09f7ae
-title: Convert Markdown to HTML
+alias: convert-markdown-to-html
+category: pandoc
+classification: public
 date: 2019-12-29 20:10:00
-modified: 
-types: tech-note
-categories: pandoc
+date_modified: null
+id: 20191229201000
 pinned: false
-tags: [pandoc, convert, markdown, html]
-private: false
-draft: false
+tags:
+- pandoc
+- convert
+- markdown
+- html
+title: Convert Markdown to HTML
+type: tech-note
+uuid: 6982152e-9231-4ec6-b9f9-f2be4b09f7ae
 ---
 
 ``` sh

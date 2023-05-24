@@ -1,15 +1,19 @@
 ---
-id: convert-rsa-token-to-qr-code
-uuid: be1aaf29-d010-4952-8e99-c0903875d9fd
-title: RSA Token to QR Code
+alias: convert-rsa-token-to-qr-code
+category: cli
+classification: public
 date: 2021-08-12 16:39:22
-updated: 
-types: tech-note
-categories: cli
+id: 20210812163922
 pinned: false
-tags: [rsa, token, qr, logical-access]
-private: false
-draft: false
+tags:
+- rsa
+- token
+- qr
+- logical-access
+title: RSA Token to QR Code
+type: tech-note
+updated: null
+uuid: be1aaf29-d010-4952-8e99-c0903875d9fd
 ---
 
 At a previous company I worked at, I used `qrencode` to encode an RSA Token link on my work MacBook.

@@ -1,15 +1,17 @@
 ---
-id: update-boot-manager-options
-uuid: 6f56790e-2564-4b39-9f77-84c807ca7943
-title: Update Boot Manager Options
+alias: update-boot-manager-options
+category: linux
+classification: public
 date: 2019-06-21 14:59:22
-modified: 
-types: tech-note
-categories: linux
+date_modified: null
+id: 20190621145922
 pinned: false
-tags: [bootloader, efiboot]
-private: false
-draft: false
+tags:
+- bootloader
+- efiboot
+title: Update Boot Manager Options
+type: tech-note
+uuid: 6f56790e-2564-4b39-9f77-84c807ca7943
 ---
 
 When selecting a device to boot an OS from you may see old entries for operating systems that have previously been installed on the drive - especially if you distro hop or have installed Windows before.

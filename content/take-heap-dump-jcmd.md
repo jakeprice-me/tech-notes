@@ -1,14 +1,18 @@
 ---
-id: take-heap-dump-jcmd
-uuid: 76d1b1cb-906a-45cb-9dab-89f0b56730b1
-title: Take a heap-dump using jcmd
+alias: take-heap-dump-jcmd
+category: java
+classification: public
 date: 2020-07-16 14:10:43
-modified: 
-types: tech-note
-categories: java
-tags: [jcmd, heap-dump, java, digi]
-private: false
-draft: false
+date_modified: null
+id: 20200716141043
+tags:
+- jcmd
+- heap-dump
+- java
+- digi
+title: Take a heap-dump using jcmd
+type: tech-note
+uuid: 76d1b1cb-906a-45cb-9dab-89f0b56730b1
 ---
 
 Take a heap-dump using `jcmd`:
@@ -28,5 +32,3 @@ $ > jcmd
 14298 sun.tools.jcmd.JCmd
 12124 org.apache.catalina.startup.Bootstrap start
 ```
-
-

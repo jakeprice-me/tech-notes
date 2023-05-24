@@ -1,15 +1,22 @@
 ---
-id: aws-rds-storage-increases-might-take-a-while
-uuid: 1eb9ea2e-e4d1-4b0c-abe3-c3ce66d4bda5
-title: RDS Storage Increases Might Take a While
+alias: aws-rds-storage-increases-might-take-a-while
+category: aws
+classification: public
 date: 2020-10-13 12:45:24
-modified: 
-types: tech-note
-categories: aws
+date_modified: null
+id: 20201013124524
 pinned: false
-tags: [rds, terraform, aws, storage, capacity, disk, drive]
-private: false
-draft: false
+tags:
+- rds
+- terraform
+- aws
+- storage
+- capacity
+- disk
+- drive
+title: RDS Storage Increases Might Take a While
+type: tech-note
+uuid: 1eb9ea2e-e4d1-4b0c-abe3-c3ce66d4bda5
 ---
 
 An increase to the storage of a big RDS instance at work took 38 minutes to complete via Terraform. It was an increase from 300 GiB to 500 GiB.

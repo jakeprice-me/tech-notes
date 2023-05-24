@@ -1,16 +1,20 @@
 ---
-id: docker-breaks-kvm-networking
-uuid: 254b9cbf-4283-463f-a1e4-ae5a11374c74
-title: Fix for Docker Breaking KVM Networking
+alias: docker-breaks-kvm-networking
+category: network
+classification: public
 date: 2023-01-23 16:28:35
-modified: 
-types: tech-note
-categories: network
+date_modified: null
+id: 20230123162835
 link: https://wiki.archlinux.org/title/Docker#Starting_Docker_breaks_KVM_bridged_networking
 pinned: false
-tags: [docker, kvm, bridge, network]
-private: false
-draft: false
+tags:
+- docker
+- kvm
+- bridge
+- network
+title: Fix for Docker Breaking KVM Networking
+type: tech-note
+uuid: 254b9cbf-4283-463f-a1e4-ae5a11374c74
 ---
 
 Detailed on the ArchWiki below is a solution to an issue I was having when I tried to use a network bridge `br0` _alongside_ Docker on my server.

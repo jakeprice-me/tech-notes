@@ -1,15 +1,19 @@
 ---
-id: ctrl-a-duckduckgo-fedora-bug
-uuid: 1334ac64-e2c7-4c67-8feb-a9e4d48a7fd3
-title: Ctrl-A and DuckDuckGo Fedora Bug
+alias: ctrl-a-duckduckgo-fedora-bug
+category: fedora
+classification: public
 date: 2020-03-26 19:04:25
-modified: 
-types: tech-note
-categories: fedora
+date_modified: null
+id: 20200326190425
 pinned: false
-tags: [shortcuts, keyboard, duckduckgo, fedora]
-private: false
-draft: false
+tags:
+- shortcuts
+- keyboard
+- duckduckgo
+- fedora
+title: Ctrl-A and DuckDuckGo Fedora Bug
+type: tech-note
+uuid: 1334ac64-e2c7-4c67-8feb-a9e4d48a7fd3
 ---
 
 When trying to "select all" using `Ctrl` + `A` on [DuckDuckGo](https://duckduckgo.com), the whole page is selected instead of the contents of the search input field.

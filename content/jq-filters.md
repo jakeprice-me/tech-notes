@@ -1,15 +1,20 @@
 ---
-id: jq-filters
-uuid: 972403d0-a665-44a4-b10d-3f913e38fae1
-title: jq Filters
+alias: jq-filters
+category: cli
+classification: public
 date: 2020-10-05 18:17:13
-modified: 
-types: tech-note
-categories: cli
+date_modified: null
+id: 20201005181713
 pinned: false
-tags: [jq, json, aws, filter, query]
-private: false
-draft: false
+tags:
+- jq
+- json
+- aws
+- filter
+- query
+title: jq Filters
+type: tech-note
+uuid: 972403d0-a665-44a4-b10d-3f913e38fae1
 ---
 
 The `jq` tool is a superb, and incredibly frustrating tool to use, all at the same time. It can take JSON as an input, filter and query it, then return it as a completely different, restructured JSON output.

@@ -1,15 +1,19 @@
 ---
-id: connect-to-fedora-from-windows-with-xrdp
-uuid: 33bbda91-a92f-4922-9641-1f3cea8ee82b
-title: Connect to Fedora from Windows with xRDP
+alias: connect-to-fedora-from-windows-with-xrdp
+category: fedora
+classification: public
 date: 2020-09-08 19:04:55
-modified: 
-types: tech-note
-categories: fedora
+date_modified: null
+id: 20200908190455
 pinned: false
-tags: [fedora, linux, xrdp, windows]
-private: false
-draft: false
+tags:
+- fedora
+- linux
+- xrdp
+- windows
+title: Connect to Fedora from Windows with xRDP
+type: tech-note
+uuid: 33bbda91-a92f-4922-9641-1f3cea8ee82b
 ---
 
 It's very hard to get a straight, consistent answer on this, and, I only found one comment on an obscure site that finally helped me fix a constant black screen every time I connected. There is so much rubbish advice on xRDP out there!

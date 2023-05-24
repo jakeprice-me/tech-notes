@@ -1,16 +1,20 @@
 ---
-id: wrap-systemctl-output
-uuid: 2895f11b-c9ff-412b-b223-18c775ed515a
-title: Wrap systemctl output
+alias: wrap-systemctl-output
+category: cli
+classification: public
 date: 2022-10-25 15:10:42
-modified: 
-types: tech-note
-categories: cli
-link: 
+date_modified: null
+id: 20221025151042
+link: null
 pinned: false
-tags: [systemctl, systemd, wrap, log]
-private: false
-draft: false
+tags:
+- systemctl
+- systemd
+- wrap
+- log
+title: Wrap systemctl output
+type: tech-note
+uuid: 2895f11b-c9ff-412b-b223-18c775ed515a
 ---
 
 If you're checking the logs of a systemd service, and they are going off the screen, although you can use the arrow keys to view the rest of the line, you can also just stop it from happening with the below flags.

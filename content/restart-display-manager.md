@@ -1,16 +1,24 @@
 ---
-id: restart-display-manager
-uuid: b043e38d-2273-448f-9dd0-270b6aeaccd7
-title: Restart Display Manager
+alias: restart-display-manager
+category: cli
+classification: public
 date: 2022-10-14 19:23:44
-modified: 
-types: tech-note
-categories: cli
-link: 
+date_modified: null
+id: 20221014192344
+link: null
 pinned: false
-tags: [fedora, linux, monitor, multiple-monitor, screen, displayport, usb-c, dock]
-private: false
-draft: false
+tags:
+- fedora
+- linux
+- monitor
+- multiple-monitor
+- screen
+- displayport
+- usb-c
+- dock
+title: Restart Display Manager
+type: tech-note
+uuid: b043e38d-2273-448f-9dd0-270b6aeaccd7
 ---
 
 When I connect my EliteBook to my Dock and Daisy Chain USB-C cable, sometimes there are issues with the screens coming on.
@@ -22,4 +30,3 @@ $ sudo systemctl restart display-manager
 ```
 
 This will log you out, so it's almost as inconvenient as a restart, but it tends to fix any issues I'm having.
-

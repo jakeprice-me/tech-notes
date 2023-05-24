@@ -1,15 +1,19 @@
 ---
-id: netlify-domain-redirects
-uuid: 40938b54-f4bf-40ed-82e0-d04dcca53648
-title: Netlify Domain Redirects
+alias: netlify-domain-redirects
+category: netlify
+classification: public
 date: 2021-04-23 10:50:44
-modified: 
-types: tech-note
-categories: netlify
+date_modified: null
+id: 20210423105044
 pinned: false
-tags: [netlify, dns, domain, redirection]
-private: false
-draft: false
+tags:
+- netlify
+- dns
+- domain
+- redirection
+title: Netlify Domain Redirects
+type: tech-note
+uuid: 40938b54-f4bf-40ed-82e0-d04dcca53648
 ---
 
 I have a Hugo site on Netlify.

@@ -1,16 +1,19 @@
 ---
-id: kubernetes-cheatsheet
-uuid: 55604f03-789e-4730-9a76-5b665394f4f6
-title: Kubernetes Cheatsheat
+alias: kubernetes-cheatsheet
+category: kubernetes
+classification: public
 date: 2021-12-07 11:18:37
-modified: 
-types: tech-note
-categories: kubernetes
-link: 
+date_modified: null
+id: 20211207111837
+link: null
 pinned: false
-tags: [cheatsheat, kubernetes, orchestration]
-private: false
-draft: false
+tags:
+- cheatsheat
+- kubernetes
+- orchestration
+title: Kubernetes Cheatsheat
+type: tech-note
+uuid: 55604f03-789e-4730-9a76-5b665394f4f6
 ---
 
 ## Download & Install Kubernetes
@@ -40,4 +43,3 @@ gpgkey=https://packages.cloud.google.com/yum/doc/yum-key.gpg https://packages.cl
 ```sh
 sudo dnf install kubectl
 ```
-
