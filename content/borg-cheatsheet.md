@@ -6,12 +6,7 @@ date: 2021-07-19 16:48:18
 date_modified: null
 id: 20210719164818
 pinned: false
-tags:
-- borg
-- backup
-- deduplication
-- encryption
-- cheatsheet
+tags: [borg, backup, deduplication, encryption, cheatsheet]
 title: Borg Cheatsheet
 type: tech-note
 uuid: 476ca90f-d6df-4107-84b9-b9f950377552

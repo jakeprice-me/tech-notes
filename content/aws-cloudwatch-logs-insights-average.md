@@ -6,12 +6,7 @@ date: 2021-03-02 16:23:13
 date_modified: null
 id: 20210302162313
 pinned: false
-tags:
-- syntax
-- cloudwatch
-- logs
-- insights
-- average
+tags: [syntax, cloudwatch, logs, insights, average]
 title: AWS CloudWatch Insights Average
 type: tech-note
 uuid: 78a322a3-53b5-46ec-9c3d-096257c90e88

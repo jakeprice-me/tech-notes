@@ -7,11 +7,7 @@ date_modified: null
 id: 20221021123710
 link: null
 pinned: false
-tags:
-- vim
-- hard-wrap
-- wrap
-- text-width
+tags: [vim, hard-wrap, wrap, text-width]
 title: Hard Wrap Selection in Vim
 type: tech-note
 uuid: ef3e44ea-1476-43a2-8df0-e1d915099446

@@ -6,11 +6,7 @@ date: 2019-08-20 10:59:10
 date_modified: null
 id: 20190820105910
 pinned: false
-tags:
-- linux
-- aws
-- ec2
-- filesystem
+tags: [linux, aws, ec2, filesystem]
 title: Resize an EC2 Linux File System on AWS
 type: tech-note
 uuid: efa775f0-991e-46eb-9730-966f37dc8dfe

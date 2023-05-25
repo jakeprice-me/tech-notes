@@ -6,11 +6,7 @@ date: 2019-06-26 15:08:00
 date_modified: null
 id: 20190626150800
 pinned: false
-tags:
-- putty
-- ppk
-- pem
-- ssh
+tags: [putty, ppk, pem, ssh]
 title: Convert Putty Keys
 type: tech-note
 uuid: 3481ba7c-a881-49ba-944c-d150b564071c

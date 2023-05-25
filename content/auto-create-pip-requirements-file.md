@@ -7,11 +7,7 @@ date_modified: null
 id: 20220129143003
 link: https://stackoverflow.com/questions/31684375/automatically-create-requirements-txt
 pinned: false
-tags:
-- python
-- pip
-- requirements
-- dependencies
+tags: [python, pip, requirements, dependencies]
 title: Automatically create a Pip requirements.txt
 type: tech-note
 uuid: 4accf4ae-5a7f-4064-a791-c342c3ddc755

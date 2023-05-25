@@ -6,11 +6,7 @@ date: 2021-09-02 15:05:32
 date_modified: cli
 id: 20210902150532
 pinned: false
-tags:
-- qrencode
-- wifi
-- credentials
-- password
+tags: [qrencode, wifi, credentials, password]
 title: Create a QR Code
 type: tech-note
 uuid: 6fe0984f-610d-4211-80c2-c758441f7e32

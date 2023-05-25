@@ -7,11 +7,7 @@ date_modified: null
 id: 20221106101901
 link: null
 pinned: false
-tags:
-- unison
-- sync
-- find
-- temporary
+tags: [unison, sync, find, temporary]
 title: Remove all Temporary Unison Files
 type: tech-note
 uuid: f3fcafc1-90fb-4383-aca3-fd1dd49b8521

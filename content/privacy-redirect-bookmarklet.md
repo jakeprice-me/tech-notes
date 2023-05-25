@@ -7,15 +7,7 @@ date_modified: 2023-05-10 21:25:40
 id: 20230510212540
 link: null
 pinned: false
-tags:
-- bookmarklet
-- javascript
-- chrome
-- firefox
-- nitter
-- twitter
-- reddit
-- libreddit
+tags: [bookmarklet, javascript, chrome, firefox, nitter, twitter, reddit, libreddit]
 title: Privacy Redirect Bookmarklet
 type: tech-note
 uuid: 35ff9113-634a-424d-bb83-1ad22b8f064b

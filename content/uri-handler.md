@@ -6,16 +6,7 @@ date: 2021-09-06 18:15:47
 date_modified: null
 id: 20210906181547
 pinned: false
-tags:
-- gvim
-- vim
-- uri
-- handler
-- gnome
-- macos
-- fedora
-- macvim
-- xdg-open
+tags: [gvim, vim, uri, handler, gnome, macos, fedora, macvim, xdg-open]
 title: URI Handler
 type: tech-note
 uuid: 06e71c60-9ac7-4eae-94eb-e40fd45305a8

@@ -7,12 +7,7 @@ date_modified: null
 id: 20220208131324
 link: null
 pinned: false
-tags:
-- code-server
-- port
-- bind
-- mount
-- docker
+tags: [code-server, port, bind, mount, docker]
 title: Code Server Port Bind Issue
 type: tech-note
 uuid: 26caed21-38f4-4ead-9645-4f3330334870

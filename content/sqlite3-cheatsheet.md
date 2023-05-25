@@ -6,11 +6,7 @@ date: 2021-02-09 12:33:11
 date_modified: null
 id: 20210209123311
 pinned: false
-tags:
-- cheatsheet
-- sql
-- sqlite
-- database
+tags: [cheatsheet, sql, sqlite, database]
 title: SQLite3 Cheat Sheet
 type: tech-note
 uuid: 39f73f6f-11e1-4a07-bc21-b118260c5885

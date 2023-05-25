@@ -6,14 +6,7 @@ date: 2020-03-25 10:51:10
 date_modified: null
 id: 20200325105110
 pinned: false
-tags:
-- android
-- phone
-- apps
-- apk
-- pull
-- extract
-- download
+tags: [android, phone, apps, apk, pull, extract, download]
 title: Extract/Pull Android App Package from Phone
 type: tech-note
 uuid: 1379d4af-89d7-4947-88a4-521122fc9a95

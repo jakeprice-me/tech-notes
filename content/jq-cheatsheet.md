@@ -5,9 +5,7 @@ classification: public
 date: 2020-05-08 11:24:48
 date_modified: null
 id: 20200508112448
-tags:
-- jq
-- json
+tags: [jq, json]
 title: jq Cheatsheet
 type: tech-note
 uuid: 9bf4766e-2481-45d2-bd37-5c9e61e5d05c

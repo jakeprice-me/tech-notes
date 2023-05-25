@@ -6,12 +6,7 @@ date: 2020-08-04 20:53:23
 date_modified: null
 id: 20200804205323
 pinned: false
-tags:
-- sql
-- commands
-- statements
-- psql
-- postgresql
+tags: [sql, commands, statements, psql, postgresql]
 title: PostgreSQL Commands
 type: tech-note
 uuid: eab4a299-6e9b-4669-9da3-5a9bde803893

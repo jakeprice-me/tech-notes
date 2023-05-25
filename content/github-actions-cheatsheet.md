@@ -7,11 +7,7 @@ date_modified: null
 id: 20220809105841
 link: https://docs.github.com/en/actions
 pinned: false
-tags:
-- github
-- actions
-- ci-cd
-- pipeline
+tags: [github, actions, ci-cd, pipeline]
 title: GitHub Actions Cheatsheet
 type: tech-note
 uuid: b1b1c9d0-36ba-4afe-b023-4a88c1123285

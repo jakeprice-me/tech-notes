@@ -7,11 +7,7 @@ date_modified: null
 id: 20220811212057
 link: null
 pinned: false
-tags:
-- telegram
-- bot
-- chat-id
-- api
+tags: [telegram, bot, chat-id, api]
 title: Get Telegram Bot Chat ID
 type: tech-note
 uuid: 590e0154-50be-4da6-bc5b-58f19f5cf4eb

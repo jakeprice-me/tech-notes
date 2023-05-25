@@ -5,11 +5,7 @@ classification: public
 date: 2020-11-25 17:21:11
 date_modified: null
 id: 20201125172111
-tags:
-- exchange
-- azure
-- office
-- powershell
+tags: [exchange, azure, office, powershell]
 title: Exchange Online PowerShell
 type: tech-note
 uuid: 631ce89e-14ab-46e3-aa4e-4a86aca24fc3

@@ -7,9 +7,7 @@ date_modified: null
 id: 20230108122134
 link: https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-22-04
 pinned: false
-tags:
-- wireguard
-- vpn
+tags: [wireguard, vpn]
 title: Setup WireGuard on Debian
 type: tech-note
 uuid: 7dc1a2a7-07ae-4225-8bd6-07657a1c3709

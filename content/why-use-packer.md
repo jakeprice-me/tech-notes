@@ -6,13 +6,7 @@ date: 2021-02-28 11:15:14
 date_modified: null
 id: 20210228111514
 pinned: false
-tags:
-- packer
-- ansible
-- ami
-- image
-- configuration
-- devops
+tags: [packer, ansible, ami, image, configuration, devops]
 title: Why Packer?
 type: tech-note
 uuid: 3efdd2af-ead2-4148-919e-6bc9d8c0d5f0

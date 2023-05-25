@@ -6,10 +6,7 @@ date: 2020-07-01 19:22:31
 date_modified: null
 id: 20200701192231
 pinned: false
-tags:
-- fzf
-- search
-- notes
+tags: [fzf, search, notes]
 title: fzf Search on My Notes
 type: tech-note
 uuid: ea329c8e-0e43-4583-920a-5e711c44fdb0

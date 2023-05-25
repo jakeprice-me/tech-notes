@@ -7,11 +7,7 @@ date_modified: null
 id: 20220601143614
 link: https://www.home-assistant.io/common-tasks/os/
 pinned: false
-tags:
-- home-assistant
-- haos
-- cli
-- cheatsheet
+tags: [home-assistant, haos, cli, cheatsheet]
 title: Home Assistant OS CLI Cheatsheet
 type: tech-note
 uuid: 6b1a3188-4d04-4522-a291-3a9745673011

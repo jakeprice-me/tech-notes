@@ -5,11 +5,7 @@ classification: public
 date: 2020-10-10 11:57:30
 date_modified: null
 id: 20201010115730
-tags:
-- tomcat
-- apache
-- version
-- security
+tags: [tomcat, apache, version, security]
 title: Hide Tomcat Version Details on 404 Page
 type: tech-note
 uuid: 7357063d-0081-4aed-bb46-b7046ab97161

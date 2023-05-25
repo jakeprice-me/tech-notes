@@ -7,10 +7,7 @@ date_modified: null
 id: 20220109163143
 link: null
 pinned: false
-tags:
-- kvm
-- qemu
-- vm
+tags: [kvm, qemu, vm]
 title: KVM/QEMU Notes
 type: tech-note
 uuid: 93ae3e5c-6303-49e2-b5db-4bc6e484e99b

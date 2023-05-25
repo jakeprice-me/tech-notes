@@ -7,15 +7,7 @@ date_modified: null
 id: 20220129214021
 link: https://unix.stackexchange.com/questions/600178/logitech-mx-keys-sends-incorrect-modifier-keys
 pinned: false
-tags:
-- logitech
-- mx
-- keyboard
-- macos
-- windows
-- linux
-- cmd
-- super-key
+tags: [logitech, mx, keyboard, macos, windows, linux, cmd, super-key]
 title: Switch Shortcut Modes on Logitech MX Keys
 type: tech-note
 uuid: 1846cab7-6a7b-4867-be51-7de01f9249d4

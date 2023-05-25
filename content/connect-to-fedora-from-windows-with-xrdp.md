@@ -6,11 +6,7 @@ date: 2020-09-08 19:04:55
 date_modified: null
 id: 20200908190455
 pinned: false
-tags:
-- fedora
-- linux
-- xrdp
-- windows
+tags: [fedora, linux, xrdp, windows]
 title: Connect to Fedora from Windows with xRDP
 type: tech-note
 uuid: 33bbda91-a92f-4922-9641-1f3cea8ee82b

@@ -6,10 +6,7 @@ date: 2020-08-01 14:19:31
 date_modified: null
 id: 20200801141931
 pinned: false
-tags:
-- wsltty
-- inconsolata
-- fonts
+tags: [wsltty, inconsolata, fonts]
 title: Inconsolata on wsltty on Windows 10
 type: tech-note
 uuid: 018d4e64-f69f-486f-918d-56e01c3b5f15

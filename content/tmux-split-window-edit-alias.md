@@ -6,11 +6,7 @@ date: 2020-07-04 19:01:10
 date_modified: null
 id: 20200704190110
 pinned: false
-tags:
-- tmux
-- vim
-- shell
-- alias
+tags: [tmux, vim, shell, alias]
 title: tmux Split Window Shell Alias
 type: tech-note
 uuid: 531b99ad-4b09-4b36-88f3-ca9a7d93a48d

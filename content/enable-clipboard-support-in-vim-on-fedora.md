@@ -7,12 +7,7 @@ date_modified: null
 id: 20200908201231
 link: https://vi.stackexchange.com/a/2065
 pinned: false
-tags:
-- fedora
-- vim
-- x11
-- clipboard
-- register
+tags: [fedora, vim, x11, clipboard, register]
 title: Enable Vim +clipboard Support On Fedora
 type: tech-note
 uuid: 1b361ccc-36fc-4404-a739-e32534f64d5c

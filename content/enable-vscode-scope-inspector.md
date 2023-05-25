@@ -6,9 +6,7 @@ date: 2020-07-05 19:43:21
 date_modified: null
 id: 20200705194321
 pinned: false
-tags:
-- vscode
-- editor
+tags: [vscode, editor]
 title: Enable Scope Inspector in VS Code
 type: tech-note
 uuid: 07dfa8cd-c4d9-4ac7-b4d1-c5d43dca2b62

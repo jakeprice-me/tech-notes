@@ -6,11 +6,7 @@ date: 2019-03-09 20:07:45
 date_modified: null
 id: 20190309200745
 pinned: false
-tags:
-- ssh
-- ssh-keygen
-- public-key
-- private-key
+tags: [ssh, ssh-keygen, public-key, private-key]
 title: Recreate Public Key from Private Key
 type: tech-note
 uuid: 0e90b140-9245-4fef-bc5f-982a70e1f1d8

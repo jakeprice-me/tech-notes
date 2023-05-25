@@ -7,12 +7,7 @@ date_modified: null
 id: 20230111194611
 link: null
 pinned: false
-tags:
-- authelia
-- caddy
-- security
-- login
-- authentication
+tags: [authelia, caddy, security, login, authentication]
 title: Authelia & Caddy Integration
 type: tech-note
 uuid: 30d3326a-5158-4feb-9b1d-0b6cd0d5e395

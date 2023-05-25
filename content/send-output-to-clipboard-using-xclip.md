@@ -7,14 +7,7 @@ date_modified: null
 id: 20220204115427
 link: null
 pinned: false
-tags:
-- xclip
-- xsel
-- clipboard
-- stdout
-- stdin
-- copy
-- paste
+tags: [xclip, xsel, clipboard, stdout, stdin, copy, paste]
 title: Send Output to Clipboard using xclip
 type: tech-note
 uuid: faf3cb58-4fd5-4642-8f90-c6cb472e65c0

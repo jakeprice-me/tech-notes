@@ -5,11 +5,7 @@ classification: public
 date: 2021-08-12 16:39:22
 id: 20210812163922
 pinned: false
-tags:
-- rsa
-- token
-- qr
-- logical-access
+tags: [rsa, token, qr, logical-access]
 title: RSA Token to QR Code
 type: tech-note
 updated: null

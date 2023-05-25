@@ -7,10 +7,7 @@ date_modified: null
 id: 20190113163901
 link: https://dbiers.me/chmod-permissions-reference-chart/
 pinned: false
-tags:
-- chmod
-- linux
-- permissions
+tags: [chmod, linux, permissions]
 title: chmod Reference Table
 type: tech-note
 uuid: 6335c00d-5cbb-4f09-9d12-644a92d308f8

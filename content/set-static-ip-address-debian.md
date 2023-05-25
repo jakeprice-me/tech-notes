@@ -6,11 +6,7 @@ date: 2020-12-10 10:17:15
 date_modified: null
 id: 20201210101715
 pinned: false
-tags:
-- debian
-- networking
-- ip
-- linux
+tags: [debian, networking, ip, linux]
 title: Set Static IP Address on Debian
 type: tech-note
 uuid: ed99730f-0dbf-40a2-ab79-1431bd5bd8e2

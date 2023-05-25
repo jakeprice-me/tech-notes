@@ -6,11 +6,7 @@ date: 2020-03-09 20:13:20
 date_modified: null
 id: 20200309201320
 pinned: false
-tags:
-- bash
-- sed
-- loop
-- iteration
+tags: [bash, sed, loop, iteration]
 title: Loop Through Files and Search and Replace
 type: tech-note
 uuid: 4d3bf7a5-1fa2-4bd0-9639-d1657aa7552d

@@ -6,11 +6,7 @@ date: 2020-03-27 20:20:03
 date_modified: null
 id: 20200327202003
 pinned: false
-tags:
-- regex
-- bash
-- rename
-- perl
+tags: [regex, bash, rename, perl]
 title: Bulk Rename Regex Pattern
 type: tech-note
 uuid: e61a7627-6142-4f68-8f20-528e38791615

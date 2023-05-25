@@ -7,11 +7,7 @@ date_modified: null
 id: 20200530133452
 link: https://unix.stackexchange.com/questions/22615/how-can-i-get-my-external-ip-address-in-a-shell-script)
 pinned: false
-tags:
-- dig
-- linux
-- ip
-- dnsutils
+tags: [dig, linux, ip, dnsutils]
 title: Use Dig to Get Public IP
 type: tech-note
 uuid: e5654663-ea38-4104-80b3-c97f619a56aa

@@ -6,10 +6,7 @@ date: 2020-06-28 13:02:40
 date_modified: null
 id: 20200628130240
 pinned: false
-tags:
-- static
-- networking
-- ubuntu
+tags: [static, networking, ubuntu]
 title: Set Static IP on Ubuntu 20.04
 type: tech-note
 uuid: 2ca351d9-d30d-40f7-baf7-9aefccd9aa18

@@ -7,15 +7,7 @@ date_modified: null
 id: 20221219130830
 link: https://github.com/Benjamin-Dobell/Heimdall/wiki/Build-instructions-(Linux)#fedora
 pinned: false
-tags:
-- android
-- heimdall
-- linux
-- odin
-- samsung
-- flash
-- image
-- firmware
+tags: [android, heimdall, linux, odin, samsung, flash, image, firmware]
 title: Install Heimdall on Fedora
 type: tech-note
 uuid: 81d8b312-b319-45f5-9053-a5d31ed47158

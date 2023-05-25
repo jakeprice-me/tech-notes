@@ -6,10 +6,7 @@ date: 2019-12-24 13:18:00
 date_modified: null
 id: 20191224131800
 pinned: false
-tags:
-- aws-cli
-- ec2
-- ebs
+tags: [aws-cli, ec2, ebs]
 title: List Volume Device ID for an EC2 Instance
 type: tech-note
 uuid: 18df39e5-cc29-4f05-943c-f8bd233ed4c8

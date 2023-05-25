@@ -6,11 +6,7 @@ date: 2021-01-13 20:44:21
 date_modified: null
 id: 20210113204421
 pinned: false
-tags:
-- roles
-- playbook
-- ansible
-- git
+tags: [roles, playbook, ansible, git]
 title: Version Locking Ansible Roles in a Playbook
 type: tech-note
 uuid: 16db2b23-1918-4c98-9474-83cfe34b4800

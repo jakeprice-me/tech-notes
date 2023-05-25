@@ -7,10 +7,7 @@ date_modified: null
 id: 20221128151334
 link: null
 pinned: false
-tags:
-- macos
-- theme
-- dark-mode
+tags: [macos, theme, dark-mode]
 title: Set macOS Theme for Specific Apps
 type: tech-note
 uuid: 2d1477a9-e206-401b-a073-9a3efdbc6c6e

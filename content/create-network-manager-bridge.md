@@ -7,14 +7,7 @@ date_modified: network
 id: 20211119213636
 link: https://wiki.archlinux.org/title/Network_bridge#With_NetworkManager
 pinned: false
-tags:
-- arch-wiki
-- nmcli
-- network-manager
-- bridge
-- ethernet
-- interface
-- br0
+tags: [arch-wiki, nmcli, network-manager, bridge, ethernet, interface, br0]
 title: Creating a Bridge with NetworkManager
 type: tech-note
 uuid: d36a2fba-c59d-4b80-9077-e790f6376488

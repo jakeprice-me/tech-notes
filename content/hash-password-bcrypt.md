@@ -7,11 +7,7 @@ date_modified: null
 id: 20230111084941
 link: https://unix.stackexchange.com/a/419855/331627
 pinned: false
-tags:
-- bcrypt
-- hash
-- password
-- caddy-security
+tags: [bcrypt, hash, password, caddy-security]
 title: Hash a Password using bcrypt
 type: tech-note
 uuid: 7ec82f91-6c72-4eea-90ad-34fb48578438

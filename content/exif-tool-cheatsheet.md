@@ -7,11 +7,7 @@ date_modified: null
 id: 20211229140507
 link: null
 pinned: false
-tags:
-- exif
-- photo
-- video
-- tag
+tags: [exif, photo, video, tag]
 title: Exif Tool Cheatsheat
 type: tech-note
 uuid: d1e41021-e0b0-41e9-adb5-b3d29bae8661

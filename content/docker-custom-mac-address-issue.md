@@ -7,11 +7,7 @@ date_modified: null
 id: 20211210210116
 link: null
 pinned: false
-tags:
-- docker
-- raspberry-pi
-- mac
-- range
+tags: [docker, raspberry-pi, mac, range]
 title: Docker cannot start service app
 type: tech-note
 uuid: 85d75821-030c-4907-acfe-fc4cbe3b0cd2

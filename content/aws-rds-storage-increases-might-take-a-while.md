@@ -6,14 +6,7 @@ date: 2020-10-13 12:45:24
 date_modified: null
 id: 20201013124524
 pinned: false
-tags:
-- rds
-- terraform
-- aws
-- storage
-- capacity
-- disk
-- drive
+tags: [rds, terraform, aws, storage, capacity, disk, drive]
 title: RDS Storage Increases Might Take a While
 type: tech-note
 uuid: 1eb9ea2e-e4d1-4b0c-abe3-c3ce66d4bda5

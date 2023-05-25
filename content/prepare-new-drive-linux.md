@@ -6,12 +6,7 @@ date: 2020-12-11 13:34:32
 date_modified: null
 id: 20201211133432
 pinned: false
-tags:
-- format
-- ext4
-- hard-drive
-- linux
-- disk
+tags: [format, ext4, hard-drive, linux, disk]
 title: Prepare a New Hard Drive in Linux
 type: tech-note
 updpated: null

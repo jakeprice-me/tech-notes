@@ -6,11 +6,7 @@ date: 2021-04-23 10:50:44
 date_modified: null
 id: 20210423105044
 pinned: false
-tags:
-- netlify
-- dns
-- domain
-- redirection
+tags: [netlify, dns, domain, redirection]
 title: Netlify Domain Redirects
 type: tech-note
 uuid: 40938b54-f4bf-40ed-82e0-d04dcca53648

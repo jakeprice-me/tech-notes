@@ -7,11 +7,7 @@ date_modified: null
 id: 20221231143123
 link: null
 pinned: false
-tags:
-- caddy
-- authentication
-- basic-authentication
-- hash
+tags: [caddy, authentication, basic-authentication, hash]
 title: Caddy Server Basic Authentication
 type: tech-note
 uuid: 40831088-1fcc-467b-a85a-c27d1306d285

@@ -7,10 +7,7 @@ date_modified: null
 id: 20220204202934
 link: https://github.com/todbot/blink1-python
 pinned: false
-tags:
-- blink1
-- usb
-- notification
+tags: [blink1, usb, notification]
 title: blink(1) USB Notification Light
 type: tech-note
 uuid: e230f402-d4ad-4a68-87b5-6f6bd60479ad

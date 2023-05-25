@@ -6,12 +6,7 @@ date: 2020-08-26 15:25:49
 date_modified: null
 id: 20200826152549
 pinned: false
-tags:
-- aws
-- cli
-- ssh
-- keys
-- ec2
+tags: [aws, cli, ssh, keys, ec2]
 title: Manage EC2 KeyPairs with the AWS CLI
 type: tech-note
 uuid: c503f453-8d02-492c-afac-d5f7506a0fe2

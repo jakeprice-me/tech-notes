@@ -6,9 +6,7 @@ date: 2019-10-10 12:12:00
 date_modified: null
 id: 20191010121200
 pinned: false
-tags:
-- aws
-- ami
+tags: [aws, ami]
 title: Find The Most Recent AWS AMI
 type: tech-note
 uuid: de0896b8-638b-4235-9edb-cbfef28edac7

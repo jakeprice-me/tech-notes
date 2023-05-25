@@ -7,11 +7,7 @@ date_modified: null
 id: 20221116172241
 link: null
 pinned: false
-tags:
-- vim
-- split
-- open
-- file
+tags: [vim, split, open, file]
 title: Open Files Side-By-Side with Vim
 type: tech-note
 uuid: 6f025e16-41af-47da-853c-384b4ff15ca7

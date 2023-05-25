@@ -6,10 +6,7 @@ date: 2021-08-03 11:01:15
 date_modified: null
 id: 20210803110115
 pinned: false
-tags:
-- search
-- typesense
-- cheatsheet
+tags: [search, typesense, cheatsheet]
 title: Typesense Cheatsheet
 type: tech-note
 uuid: cbe77241-a9e4-4c81-b796-64433017dfa7

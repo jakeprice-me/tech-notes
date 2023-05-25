@@ -7,13 +7,7 @@ date_modified: null
 id: 20220808110514
 link: https://github.com/nektos/act
 pinned: false
-tags:
-- github
-- action
-- runner
-- local
-- ci-cd
-- pipeline
+tags: [github, action, runner, local, ci-cd, pipeline]
 title: act Cheatsheet
 type: tech-note
 uuid: 47e6d68e-00cc-4167-9b67-3a40df279584

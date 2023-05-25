@@ -6,13 +6,7 @@ date: 2020-08-26 16:39:42
 date_modified: null
 id: 20200826163942
 pinned: false
-tags:
-- openssl
-- rsa
-- encryption
-- keys
-- private
-- public
+tags: [openssl, rsa, encryption, keys, private, public]
 title: OpenSSL RSA Encryption
 type: tech-note
 uuid: 8292c009-7e4a-472d-b420-46f5ff40a07b

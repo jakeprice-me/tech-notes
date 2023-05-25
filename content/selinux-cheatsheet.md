@@ -6,16 +6,7 @@ date: 2020-10-29 21:18:53
 date_modified: null
 id: 20201029211853
 pinned: false
-tags:
-- selinux
-- centos
-- redhat
-- security
-- ports
-- blocking
-- allow
-- firewall
-- cheatsheet
+tags: [selinux, centos, redhat, security, ports, blocking, allow, firewall, cheatsheet]
 title: SELinux Cheatsheet
 type: tech-note
 uuid: 6aa242db-a857-4144-8014-6e58afbaa33a

@@ -7,11 +7,7 @@ date_modified: null
 id: 20221116171931
 link: null
 pinned: false
-tags:
-- vim
-- line-number
-- open
-- file
+tags: [vim, line-number, open, file]
 title: Open a File at Specified Line Number with Vim
 type: tech-note
 uuid: 8464c4ff-b2f5-4c9d-bea7-9570a90625c8

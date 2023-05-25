@@ -7,10 +7,7 @@ date_modified: null
 id: 20220601163801
 link: https://stackoverflow.com/a/55040196/9625225
 pinned: false
-tags:
-- php
-- docker
-- caddy
+tags: [php, docker, caddy]
 title: Regular File Not Found Error PHP Container
 type: tech-note
 uuid: b25b2def-296e-45db-9135-3a65ee04063e

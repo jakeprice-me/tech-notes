@@ -7,14 +7,7 @@ date_modified: null
 id: 20220212164324
 link: https://unix.stackexchange.com/a/583059/331627
 pinned: false
-tags:
-- screen
-- laptop
-- lid
-- sleep
-- suspend
-- monitor
-- power
+tags: [screen, laptop, lid, sleep, suspend, monitor, power]
 title: Laptop Lid Closure Settings on Linux
 type: tech-note
 uuid: 6293d7b0-f206-49ad-8b40-ed52c6a3493f

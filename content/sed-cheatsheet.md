@@ -6,10 +6,7 @@ date: 2020-06-01 18:03:09
 date_modified: null
 id: 20200601180309
 pinned: false
-tags:
-- sed
-- bash
-- linux
+tags: [sed, bash, linux]
 title: sed Cheatsheet
 type: tech-note
 uuid: 3ffa8c38-0d7c-4605-9054-df71bc888656

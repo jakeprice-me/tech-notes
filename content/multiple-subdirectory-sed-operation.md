@@ -6,11 +6,7 @@ date: 2020-11-24 18:51:02
 date_modified: null
 id: 20201124185102
 pinned: false
-tags:
-- loop
-- iterate
-- sed
-- bash
+tags: [loop, iterate, sed, bash]
 title: Multiple Subdirectory sed Operation
 type: tech-note
 uuid: 02e439bc-66d6-4859-80c2-638d3991da20

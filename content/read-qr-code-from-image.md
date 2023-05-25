@@ -7,9 +7,7 @@ date_modified: null
 id: 20220705200159
 link: null
 pinned: false
-tags:
-- qr
-- qrcode
+tags: [qr, qrcode]
 title: Read QR Code from Image
 type: tech-note
 uuid: fa59305f-2ebc-4185-b455-437aef40acb5

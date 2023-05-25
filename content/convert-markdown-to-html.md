@@ -6,11 +6,7 @@ date: 2019-12-29 20:10:00
 date_modified: null
 id: 20191229201000
 pinned: false
-tags:
-- pandoc
-- convert
-- markdown
-- html
+tags: [pandoc, convert, markdown, html]
 title: Convert Markdown to HTML
 type: tech-note
 uuid: 6982152e-9231-4ec6-b9f9-f2be4b09f7ae

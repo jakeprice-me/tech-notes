@@ -7,11 +7,7 @@ date_modified: null
 id: 20220531161026
 link: null
 pinned: false
-tags:
-- haos
-- home-assistant
-- smart-home
-- raspberry-pi
+tags: [haos, home-assistant, smart-home, raspberry-pi]
 title: Home Assistant OS Configuration
 type: tech-note
 uuid: 4da5326e-9557-45d2-9bea-bce6cb5c0257

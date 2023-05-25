@@ -6,9 +6,7 @@ date: 2019-09-11 11:29:04
 date_modified: null
 id: 20190911112904
 pinned: false
-tags:
-- aws-cli
-- jmespath
+tags: [aws-cli, jmespath]
 title: AWS CLI query flag uses JMESPath
 type: tech-note
 uuid: 5c01bdc2-284e-4e42-8158-8619d014b76d

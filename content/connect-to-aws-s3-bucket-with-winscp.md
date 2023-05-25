@@ -6,11 +6,7 @@ date: 2020-03-02 13:43:51
 date_modified: null
 id: 20200302134351
 pinned: false
-tags:
-- s3
-- aws
-- winscp
-- bucket
+tags: [s3, aws, winscp, bucket]
 title: Connect to an AWS S3 Bucket with WinSCP
 type: tech-note
 uuid: d4b91bfc-8944-4da6-aa95-544ba8ea7b49

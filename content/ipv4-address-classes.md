@@ -6,9 +6,7 @@ date: 2020-07-02 17:04:56
 date_modified: null
 id: 20200702170456
 pinned: false
-tags:
-- networking
-- ipv4
+tags: [networking, ipv4]
 title: IP Address Classes
 type: tech-note
 uuid: 4b50e015-e26c-49e3-9cad-0a724d50ef12

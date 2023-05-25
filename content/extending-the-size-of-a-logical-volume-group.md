@@ -7,12 +7,7 @@ date_modified: null
 id: 20220930092342
 link: null
 pinned: false
-tags:
-- lvm
-- logical-volume-group
-- partition
-- fedora
-- disk
+tags: [lvm, logical-volume-group, partition, fedora, disk]
 title: Extending the Size of a Logical Volume Group
 type: tech-note
 uuid: e069794e-3987-4d6a-8036-ad2efbc0121a

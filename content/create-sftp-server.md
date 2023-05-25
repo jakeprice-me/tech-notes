@@ -6,10 +6,7 @@ date: 2020-11-24 09:33:31
 date_modified: null
 id: 20201124093331
 pinned: false
-tags:
-- sftp
-- linux
-- password
+tags: [sftp, linux, password]
 title: Create an SFTP Server
 type: tech-note
 uuid: 3e3063ea-f3ce-409f-a1f1-57d7ab85b35f

@@ -6,9 +6,7 @@ date: 2021-01-01 15:03:58
 date_modified: null
 id: 20210101150358
 pinned: false
-tags:
-- linux
-- fonts
+tags: [linux, fonts]
 title: Install Fonts on Linux
 type: tech-note
 uuid: 7749921f-4855-4c8c-aca2-248aa4ad0f18

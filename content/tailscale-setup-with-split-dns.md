@@ -7,13 +7,7 @@ date_modified: null
 id: 20220809093534
 link: https://login.tailscale.com/
 pinned: false
-tags:
-- vpn
-- ppn
-- wireguard
-- tailscale
-- network
-- router
+tags: [vpn, ppn, wireguard, tailscale, network, router]
 title: Tailscale Setup & Split DNS
 type: tech-note
 uuid: 91683b7e-63d7-43e4-a6e1-90a177fc0593

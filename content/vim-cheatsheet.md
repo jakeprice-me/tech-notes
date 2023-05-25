@@ -6,10 +6,7 @@ date: 2020-10-13 12:53:36
 date_modified: null
 id: 20201013125336
 pinned: false
-tags:
-- vim
-- cheatsheet
-- keys
+tags: [vim, cheatsheet, keys]
 title: Vim Cheatsheet
 type: tech-note
 uuid: 772769f0-334c-458f-a57e-36dbd8674747

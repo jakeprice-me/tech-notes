@@ -6,10 +6,7 @@ date: 2020-01-04 15:20:16
 date_modified: null
 id: 20200104152016
 pinned: false
-tags:
-- python
-- dict
-- json
+tags: [python, dict, json]
 title: Convert Python Dictionary to JSON
 type: tech-note
 uuid: 52c9bf0b-9ff2-4da8-86df-9229a412fcaf

@@ -7,15 +7,7 @@ date_modified: null
 id: 20220912220125
 link: https://github.com/lstein/stable-diffusion/blob/main/docs/installation/INSTALL_LINUX.md
 pinned: false
-tags:
-- stable-diffusion
-- nvidia
-- gpu
-- cuda
-- conda
-- ai
-- art
-- machine-learning
+tags: [stable-diffusion, nvidia, gpu, cuda, conda, ai, art, machine-learning]
 title: Install InvokeAI Stable Diffusion Fork
 type: tech-note
 uuid: 531fd140-1d69-4869-83ec-424cffde3700

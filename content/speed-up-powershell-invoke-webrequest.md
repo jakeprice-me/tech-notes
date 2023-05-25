@@ -6,9 +6,7 @@ date: 2020-08-14 15:18:44
 date_modified: null
 id: 20200814151844
 pinned: false
-tags:
-- windows
-- powershell
+tags: [windows, powershell]
 title: Speed Up PowerShell Invoke-WebRequest
 type: tech-note
 uuid: ac8a218b-2e69-4ce7-a2c2-00d0d2b80cb8

@@ -7,10 +7,7 @@ date_modified: null
 id: 20190113163700
 link: https://en.wikipedia.org/wiki/Man_page#Manual_sections
 pinned: false
-tags:
-- manpage
-- linux
-- cli
+tags: [manpage, linux, cli]
 title: man Page Sections
 type: tech-note
 uuid: e93e8de4-6a16-40df-990c-d75e39178544

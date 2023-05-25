@@ -6,10 +6,7 @@ date: 2020-08-23 19:32:17
 date_modified: null
 id: 20200823193217
 pinned: false
-tags:
-- python
-- requests
-- api
+tags: [python, requests, api]
 title: Requests Python Library
 type: tech-note
 uuid: a823cd35-212e-4ec4-a585-22f515c8e3f6

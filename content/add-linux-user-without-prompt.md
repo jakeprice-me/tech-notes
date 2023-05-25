@@ -7,11 +7,7 @@ date_modified: null
 id: 20230107204107
 link: null
 pinned: false
-tags:
-- linux
-- user
-- useradd
-- mkpasswd
+tags: [linux, user, useradd, mkpasswd]
 title: Add Linux User without Prompt
 type: tech-note
 uuid: 8e63ef41-15b9-4cc3-86dc-3b57417d3979

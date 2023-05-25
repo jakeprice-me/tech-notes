@@ -6,11 +6,7 @@ date: 2020-03-26 19:04:25
 date_modified: null
 id: 20200326190425
 pinned: false
-tags:
-- shortcuts
-- keyboard
-- duckduckgo
-- fedora
+tags: [shortcuts, keyboard, duckduckgo, fedora]
 title: Ctrl-A and DuckDuckGo Fedora Bug
 type: tech-note
 uuid: 1334ac64-e2c7-4c67-8feb-a9e4d48a7fd3

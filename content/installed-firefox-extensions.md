@@ -6,10 +6,7 @@ date: 2020-07-14 21:19:29
 date_modified: null
 id: 20200714211929
 pinned: false
-tags:
-- firefox
-- extensions
-- addons
+tags: [firefox, extensions, addons]
 title: Installed Firefox Extensions
 type: tech-note
 uuid: 0ca674aa-c574-40a1-bc18-6200a303bd14

@@ -6,12 +6,7 @@ date: 2021-01-09 20:45:54
 date_modified: null
 id: 20210109204554
 pinned: false
-tags:
-- openssl
-- lan
-- self-hosted
-- certificate
-- authority
+tags: [openssl, lan, self-hosted, certificate, authority]
 title: Wildcard OpenSSL Certificate Authority
 type: tech-note
 uuid: ec023a37-5b4b-4b4b-9b75-567e8d154576

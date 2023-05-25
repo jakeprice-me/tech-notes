@@ -6,10 +6,7 @@ date: 2020-12-23 22:07:40
 date_modified: null
 id: 20201223220740
 pinned: false
-tags:
-- fstab
-- samba
-- cifs
+tags: [fstab, samba, cifs]
 title: Automatically Mount Samba Share
 type: tech-note
 uuid: 9611c17b-680f-416d-8509-ae89c2430a64

@@ -6,12 +6,7 @@ date: 2020-10-05 18:17:13
 date_modified: null
 id: 20201005181713
 pinned: false
-tags:
-- jq
-- json
-- aws
-- filter
-- query
+tags: [jq, json, aws, filter, query]
 title: jq Filters
 type: tech-note
 uuid: 972403d0-a665-44a4-b10d-3f913e38fae1

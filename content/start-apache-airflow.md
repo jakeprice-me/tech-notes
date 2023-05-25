@@ -5,9 +5,7 @@ classification: public
 date: 2020-10-22 16:23:49
 date_modified: null
 id: 20201022162349
-tags:
-- airflow
-- apache
+tags: [airflow, apache]
 title: Start Airflow
 type: tech-note
 uuid: c843ef1a-c34d-43ad-9201-5d10607ca19c

@@ -6,9 +6,7 @@ date: 2021-07-03 09:37:45
 date_modified: null
 id: 20210703093745
 pinned: false
-tags:
-- kde
-- plasma
+tags: [kde, plasma]
 title: Restart KDE Plasma
 type: tech-note
 uuid: b0998816-3192-43cb-9bd2-155a61f5170a

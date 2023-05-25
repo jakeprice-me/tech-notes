@@ -7,10 +7,7 @@ date_modified: null
 id: 20220809163152
 link: null
 pinned: false
-tags:
-- journald
-- log
-- follow
+tags: [journald, log, follow]
 title: journald Cheatsheet
 type: tech-note
 uuid: ec28bb00-d300-4b1e-af36-8c38cd4b6798

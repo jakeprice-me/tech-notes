@@ -6,11 +6,7 @@ date: 2020-10-21 10:00:20
 date_modified: null
 id: 20201021100020
 pinned: false
-tags:
-- vscode
-- extensions
-- vsix
-- codium
+tags: [vscode, extensions, vsix, codium]
 title: Download the VSIX for Any VS Code Extension
 type: tech-note
 uuid: 77bff079-068f-4b20-aef3-f9a22284caa1

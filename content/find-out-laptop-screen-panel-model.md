@@ -7,12 +7,7 @@ date_modified: null
 id: 20220119205159
 link: null
 pinned: false
-tags:
-- laptop
-- lcd
-- panel
-- edid
-- edp
+tags: [laptop, lcd, panel, edid, edp]
 title: Find out Laptop Screen Panel Model
 type: tech-note
 uuid: 3bf4ba87-4adf-4afb-8988-d82d6a070f89

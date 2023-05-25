@@ -6,12 +6,7 @@ date: 2020-05-16 10:46:32
 date_modified: null
 id: 20200516104632
 pinned: false
-tags:
-- pandoc
-- commands
-- markdown
-- markup
-- cheatsheet
+tags: [pandoc, commands, markdown, markup, cheatsheet]
 title: Pandoc Cheatsheet
 type: tech-note
 uuid: 73da8d1e-66ed-41af-bfd0-5985bd117e70

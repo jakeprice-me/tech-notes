@@ -7,11 +7,7 @@ date_modified: null
 id: 20220219163400
 link: https://askubuntu.com/questions/1317701/list-all-gnome-shortcuts-currently-in-use
 pinned: false
-tags:
-- gnome
-- shortcut
-- gsettings
-- dconf
+tags: [gnome, shortcut, gsettings, dconf]
 title: View All Gnome Shortcuts
 type: tech-note
 uuid: 3e0b5628-63dc-42ab-acd4-26fbb621628b

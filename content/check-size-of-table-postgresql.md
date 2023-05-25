@@ -6,12 +6,7 @@ date: 2020-09-22 12:50:20
 date_modified: null
 id: 20200922125020
 pinned: false
-tags:
-- postgresql
-- psql
-- tables
-- size
-- database
+tags: [postgresql, psql, tables, size, database]
 title: Check Size of a Table in PostgreSQL
 type: tech-note
 uuid: 820571f3-bca2-40c5-a2e1-db682ec2e5ab

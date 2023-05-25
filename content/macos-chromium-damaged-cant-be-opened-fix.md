@@ -7,13 +7,7 @@ date_modified: null
 id: 20220109174101
 link: https://old.reddit.com/r/MacOS/comments/q9d772/homebrew_chromium_is_damaged_and_cant_be_openend/
 pinned: false
-tags:
-- macos
-- chromium
-- damaged
-- xattr
-- attribute
-- application
+tags: [macos, chromium, damaged, xattr, attribute, application]
 title: Fix "... Damaged Can't be Opened" on MacOS
 type: tech-note
 uuid: f1f272f1-c910-4662-90bf-a5b8c7b117d7

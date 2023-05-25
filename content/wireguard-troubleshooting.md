@@ -7,10 +7,7 @@ date_modified: null
 id: 20230109141437
 link: null
 pinned: false
-tags:
-- vpn
-- wireguard
-- troubleshoot
+tags: [vpn, wireguard, troubleshoot]
 title: WireGuard Troubleshooting
 type: tech-note
 uuid: 417a489b-4714-4a49-8b7d-550ee56e20b5

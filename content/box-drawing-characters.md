@@ -7,13 +7,7 @@ date_modified: null
 id: 20200825110145
 link: https://en.wikipedia.org/wiki/Box-drawing_character
 pinned: false
-tags:
-- pipe
-- box
-- line
-- characters
-- cli
-- plain-text
+tags: [pipe, box, line, characters, cli, plain-text]
 title: Box-drawing characters
 type: tech-note
 uuid: 5017237f-792a-4956-8cda-ba983d955fe9

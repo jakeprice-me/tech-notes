@@ -6,9 +6,7 @@ date: 2021-01-16 13:07:43
 date_modified: null
 id: 20210116130743
 pinned: false
-tags:
-- ansible
-- cheatsheet
+tags: [ansible, cheatsheet]
 title: Ansible Cheatsheet
 type: tech-note
 uuid: 5ac82d2b-905d-4697-8cda-12b598d2a193

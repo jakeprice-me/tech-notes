@@ -7,11 +7,7 @@ date_modified: null
 id: 20221025151042
 link: null
 pinned: false
-tags:
-- systemctl
-- systemd
-- wrap
-- log
+tags: [systemctl, systemd, wrap, log]
 title: Wrap systemctl output
 type: tech-note
 uuid: 2895f11b-c9ff-412b-b223-18c775ed515a

@@ -7,15 +7,7 @@ date_modified: null
 id: 20221014192344
 link: null
 pinned: false
-tags:
-- fedora
-- linux
-- monitor
-- multiple-monitor
-- screen
-- displayport
-- usb-c
-- dock
+tags: [fedora, linux, monitor, multiple-monitor, screen, displayport, usb-c, dock]
 title: Restart Display Manager
 type: tech-note
 uuid: b043e38d-2273-448f-9dd0-270b6aeaccd7

@@ -7,14 +7,7 @@ date_modified: null
 id: 20220116182509
 link: null
 pinned: false
-tags:
-- fedora
-- boot
-- systemd
-- analyze
-- blame
-- unbound
-- network-manager
+tags: [fedora, boot, systemd, analyze, blame, unbound, network-manager]
 title: Speed-up Fedora Boot Time
 type: tech-note
 uuid: 686548c1-ef5a-49c1-bd6d-6a4644ee5215

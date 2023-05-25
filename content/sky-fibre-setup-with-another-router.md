@@ -7,15 +7,7 @@ date_modified: null
 id: 20220718202153
 link: https://helpforum.sky.com/t5/Broadband/PPPOE-codes-for-connection-to-third-party-router/m-p/3899878#M284210
 pinned: false
-tags:
-- sky
-- fibre
-- ont
-- broadband
-- openreach
-- fttp
-- client-identifier-string
-- option-61
+tags: [sky, fibre, ont, broadband, openreach, fttp, client-identifier-string, option-61]
 title: Sky Fibre Setup with Netgear R7800 Router
 type: tech-note
 uuid: d0a0feed-e760-447a-b21d-52cbf33e610e

@@ -7,12 +7,7 @@ date_modified: null
 id: 20220208101809
 link: null
 pinned: false
-tags:
-- lvm
-- qemu
-- vm
-- partition
-- virsh
+tags: [lvm, qemu, vm, partition, virsh]
 title: Resize Logical Volume Partition
 type: tech-note
 uuid: ed824946-c622-4bd0-88e9-aac9e0f2cda0

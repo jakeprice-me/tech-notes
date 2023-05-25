@@ -7,11 +7,7 @@ date_modified: null
 id: 20220909211339
 link: null
 pinned: false
-tags:
-- github
-- token
-- clone
-- personal-access-token
+tags: [github, token, clone, personal-access-token]
 title: Clone GitHub Repository with Personal Access Token
 type: tech-note
 uuid: 09381c0e-2aec-48cb-89c5-26ab448931eb

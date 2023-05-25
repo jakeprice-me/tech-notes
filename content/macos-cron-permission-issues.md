@@ -7,11 +7,7 @@ date_modified: 2023-05-11 09:40:21
 id: 20221118144822
 link: null
 pinned: false
-tags:
-- cron
-- macos
-- permission
-- hugo
+tags: [cron, macos, permission, hugo]
 title: macOS cron Permission Issues
 type: tech-note
 uuid: 0d14c4c9-fb77-4a5e-a3a1-f50e39bfc37f

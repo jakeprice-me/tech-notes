@@ -7,11 +7,7 @@ date_modified: null
 id: 20210721103917
 link: https://www.public-health.uiowa.edu/it/support/kb48568/
 pinned: false
-tags:
-- wsl
-- mount
-- windows
-- fstab
+tags: [wsl, mount, windows, fstab]
 title: Mount Windows Drive in WSL
 type: tech-note
 uuid: 45f649ee-cd99-4fa9-9c54-a1050babe912

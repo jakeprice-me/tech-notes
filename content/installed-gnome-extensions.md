@@ -7,9 +7,7 @@ date_modified: null
 id: 20220115171750
 link: null
 pinned: false
-tags:
-- gnome
-- extensions
+tags: [gnome, extensions]
 title: Installed Gnome Extensions
 type: tech-note
 uuid: 4353ffe8-fcb6-4df2-9a1f-c187014cce6d

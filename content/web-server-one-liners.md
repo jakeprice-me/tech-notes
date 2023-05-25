@@ -6,12 +6,7 @@ date: 2020-12-25 21:58:32
 date_modified: null
 id: 20201225215832
 pinned: false
-tags:
-- web-server
-- python
-- php
-- android
-- termux
+tags: [web-server, python, php, android, termux]
 title: Web Server One Liners
 type: tech-note
 uuid: 59b3e23e-73cd-4414-9972-f1ed90dfc040

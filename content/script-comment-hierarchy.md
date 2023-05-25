@@ -6,9 +6,7 @@ date: 2020-08-28 12:03:51
 date_modified: null
 id: 20200828120351
 pinned: false
-tags:
-- comments
-- scripts
+tags: [comments, scripts]
 title: Script Comment Hierarchy
 type: tech-note
 uuid: 249d2b3d-1dbb-45dc-bd75-4ed79d891892

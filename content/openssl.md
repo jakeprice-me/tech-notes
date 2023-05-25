@@ -5,10 +5,7 @@ classification: public
 date: 2021-08-13 18:14:04
 id: 20210813181404
 pinned: false
-tags:
-- certificate
-- certificate-authority
-- ca
+tags: [certificate, certificate-authority, ca]
 title: Local LAN Certificate
 type: tech-note
 updated: null

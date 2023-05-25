@@ -6,9 +6,7 @@ date: 2019-06-21 14:59:22
 date_modified: null
 id: 20190621145922
 pinned: false
-tags:
-- bootloader
-- efiboot
+tags: [bootloader, efiboot]
 title: Update Boot Manager Options
 type: tech-note
 uuid: 6f56790e-2564-4b39-9f77-84c807ca7943

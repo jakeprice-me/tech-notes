@@ -6,10 +6,7 @@ date: 2019-01-28 12:52:01
 date_modified: null
 id: 20190128125201
 pinned: false
-tags:
-- file
-- directory
-- size
+tags: [file, directory, size]
 title: Sort files and directories by disk size
 type: tech-note
 uuid: 2a700633-f389-476a-ba70-f79f4ed8288b

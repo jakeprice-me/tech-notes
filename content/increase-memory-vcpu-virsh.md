@@ -7,16 +7,7 @@ date_modified: null
 id: 20220221225005
 link: null
 pinned: false
-tags:
-- virsh
-- vm
-- domain
-- memory
-- ram
-- vcpu
-- cpu
-- max
-- maximum
+tags: [virsh, vm, domain, memory, ram, vcpu, cpu, max, maximum]
 title: Increase Memory & Virtual CPU on Virtual Machine
 type: tech-note
 uuid: 37ada0cf-74b3-4c04-9648-f5cf8901f46d

@@ -7,10 +7,7 @@ date_modified: null
 id: 20211207111837
 link: null
 pinned: false
-tags:
-- cheatsheat
-- kubernetes
-- orchestration
+tags: [cheatsheat, kubernetes, orchestration]
 title: Kubernetes Cheatsheat
 type: tech-note
 uuid: 55604f03-789e-4730-9a76-5b665394f4f6

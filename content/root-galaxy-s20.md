@@ -6,11 +6,7 @@ date: 2021-11-15 21:01:44
 date_modified: null
 id: 20211115210144
 pinned: false
-tags:
-- samsung
-- galaxy-s20
-- android
-- root
+tags: [samsung, galaxy-s20, android, root]
 title: Root Samsung Galaxy S20
 type: tech-note
 uuid: ab39457a-10a9-4ebb-96c2-78209deae7da

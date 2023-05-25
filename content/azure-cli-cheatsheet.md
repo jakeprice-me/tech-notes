@@ -7,10 +7,7 @@ date_modified: null
 id: 20220727163606
 link: null
 pinned: false
-tags:
-- azure
-- cli
-- cheatsheet
+tags: [azure, cli, cheatsheet]
 title: Azure CLI Cheatsheet
 type: tech-note
 uuid: 0ab98662-3bd5-4832-b558-cb7daa58e654

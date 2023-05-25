@@ -6,12 +6,7 @@ date: 2019-01-28 09:43:00
 date_modified: null
 id: 20190128094300
 pinned: false
-tags:
-- find
-- delete
-- file
-- directory
-- pattern
+tags: [find, delete, file, directory, pattern]
 title: Delete files matching a pattern using find
 type: tech-note
 uuid: f50484b6-1f51-4d3a-bcd6-40230a0b62b3

@@ -6,10 +6,7 @@ date: 2020-07-05 19:42:36
 date_modified: rsync
 id: 20200705194236
 pinned: false
-tags:
-- ssh
-- rsync
-- server
+tags: [ssh, rsync, server]
 title: Copy an SSH Key to Another User with Rsync
 type: tech-note
 uuid: 4de4b631-a8eb-4512-8d20-a5e9f5dbd620

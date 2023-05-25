@@ -6,11 +6,7 @@ date: 2020-10-06 11:14:53
 date_modified: null
 id: 20201006111453
 pinned: false
-tags:
-- sed
-- backreferences
-- regex
-- capturing-groups
+tags: [sed, backreferences, regex, capturing-groups]
 title: Sed Backreferences and RegEx Capturing Groups
 type: tech-note
 uuid: 9186397d-093f-4acd-89ed-b73053d11935

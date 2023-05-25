@@ -6,13 +6,7 @@ date: 2020-12-22 16:32:06
 date_modified: null
 id: 20201222163206
 pinned: false
-tags:
-- aws
-- route53
-- ip
-- health
-- check
-- ipv4
+tags: [aws, route53, ip, health, check, ipv4]
 title: Get IP Addresses Used by Amazon Route 53 Health Checks
 type: tech-note
 uuid: 5f4553da-c5d3-4603-bcdc-fa7981fb00be

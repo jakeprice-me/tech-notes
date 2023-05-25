@@ -7,11 +7,7 @@ date_modified: null
 id: 20230123162835
 link: https://wiki.archlinux.org/title/Docker#Starting_Docker_breaks_KVM_bridged_networking
 pinned: false
-tags:
-- docker
-- kvm
-- bridge
-- network
+tags: [docker, kvm, bridge, network]
 title: Fix for Docker Breaking KVM Networking
 type: tech-note
 uuid: 254b9cbf-4283-463f-a1e4-ae5a11374c74

@@ -6,11 +6,7 @@ date: 2020-08-31 20:44:51
 date_modified: null
 id: 20200831204451
 pinned: false
-tags:
-- dns
-- fedora
-- network-manager
-- resolv-conf
+tags: [dns, fedora, network-manager, resolv-conf]
 title: Change DNS on Fedora
 type: tech-note
 uuid: a80328fb-1547-484b-a2bb-27986b384a4b

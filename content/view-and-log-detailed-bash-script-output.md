@@ -6,17 +6,7 @@ date: 2019-11-22 17:30:25
 date_modified: null
 id: 20191122173025
 pinned: false
-tags:
-- log
-- bash
-- script
-- stdout
-- stderr
-- debug
-- tee
-- background
-- process
-- run
+tags: [log, bash, script, stdout, stderr, debug, tee, background, process, run]
 title: View and Log Detailed Bash Script Output
 type: tech-note
 uuid: bef8e458-5553-45e3-8be7-ccdfc3e5231f
