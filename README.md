@@ -2,9 +2,9 @@
 
 ## Summary
 
-A flat directory of my notes and knowledge on technical topics, in the same vein as the concept of TIL (Today I Learned) notes.
+A flat directory of my notes and knowledge on technical topics, in the same vein as the concept of [TIL](https://github.com/jbranchaud/til) (Today I Learned) notes.
 
-## Table of Contents <sup>53</sup>
+## Categories <sup>53</sup>
 
 - [airflow](#airflow)
 - [android](#android)
@@ -59,9 +59,6 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [vim](#vim)
 - [vscode](#vscode)
 - [windows](#windows)
-
----
-
 ## Tech Notes <sup>177</sup>
 
 
