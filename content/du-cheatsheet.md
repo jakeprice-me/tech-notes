@@ -3,9 +3,11 @@ alias: du-cheatsheet
 category: cli
 classification: public
 date: 2020-07-05 19:40:16
-date_modified: null
+date_modified: 2020-07-05 19:40:16
 id: 20200705194016
+link: 
 pinned: false
+series: 
 tags: [disk-usage, du, bash, linux]
 title: File Space Usage with du
 type: tech-note

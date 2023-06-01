@@ -3,9 +3,11 @@ alias: retrieve-nameservers-for-hostname
 category: cli
 classification: public
 date: 2019-03-05 09:44:09
-date_modified: null
+date_modified: 2019-03-05 09:44:09
 id: 20190305094409
+link: 
 pinned: false
+series: 
 tags: [nameserver, dns, hostname, domain]
 title: Retrieve Nameservers for Hostname
 type: tech-note

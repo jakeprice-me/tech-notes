@@ -3,10 +3,11 @@ alias: rj-45-ethernet-crimping
 category: network
 classification: public
 date: 2022-12-30 12:36:51
-date_modified: null
+date_modified: 2022-12-30 12:36:51
 id: 20221230123651
-link: null
+link: 
 pinned: false
+series: 
 tags: [rj-45, ethernet, connector, crimp, terminate]
 title: RJ-45 Ethernet Crimping
 type: tech-note

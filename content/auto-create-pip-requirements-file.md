@@ -3,10 +3,11 @@ alias: auto-create-pip-requirements-file
 category: python
 classification: public
 date: 2022-01-29 14:30:03
-date_modified: null
+date_modified: 2022-01-29 14:30:03
 id: 20220129143003
 link: https://stackoverflow.com/questions/31684375/automatically-create-requirements-txt
 pinned: false
+series: 
 tags: [python, pip, requirements, dependencies]
 title: Automatically create a Pip requirements.txt
 type: tech-note

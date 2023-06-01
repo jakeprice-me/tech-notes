@@ -3,12 +3,15 @@ alias: openssl
 category: openssl
 classification: public
 date: 2021-08-13 18:14:04
+date_modified: 2021-08-13 18:14:04
 id: 20210813181404
+link: 
 pinned: false
+series: 
 tags: [certificate, certificate-authority, ca]
 title: Local LAN Certificate
 type: tech-note
-updated: null
+updated: 
 uuid: 228eea5c-d751-4172-aeed-23c6c34c7bd9
 ---
 

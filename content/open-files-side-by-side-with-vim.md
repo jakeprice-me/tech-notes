@@ -3,10 +3,11 @@ alias: open-files-side-by-side-with-vim
 category: vim
 classification: public
 date: 2022-11-16 17:22:41
-date_modified: null
+date_modified: 2022-11-16 17:22:41
 id: 20221116172241
-link: null
+link: 
 pinned: false
+series: 
 tags: [vim, split, open, file]
 title: Open Files Side-By-Side with Vim
 type: tech-note

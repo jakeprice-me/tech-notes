@@ -3,9 +3,11 @@ alias: visual-line-wrap-in-vim
 category: vim
 classification: public
 date: 2020-06-18 17:18:28
-date_modified: null
+date_modified: 2020-06-18 17:18:28
 id: 20200618171828
+link: 
 pinned: false
+series: 
 tags: [vim, wrapping, word-wrap]
 title: Visual Line Wrap in Vim
 type: tech-note

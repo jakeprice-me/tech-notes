@@ -3,9 +3,11 @@ alias: save-vim-session
 category: vim
 classification: public
 date: 2020-06-03 10:02:27
-date_modified: null
+date_modified: 2020-06-03 10:02:27
 id: 20200603100227
+link: 
 pinned: false
+series: 
 tags: [vim, sessions, buffers]
 title: Save a Vim Session
 type: tech-note

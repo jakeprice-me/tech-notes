@@ -3,9 +3,11 @@ alias: sqlite3-cheatsheet
 category: sqlite
 classification: public
 date: 2021-02-09 12:33:11
-date_modified: null
+date_modified: 2021-02-09 12:33:11
 id: 20210209123311
+link: 
 pinned: false
+series: 
 tags: [cheatsheet, sql, sqlite, database]
 title: SQLite3 Cheat Sheet
 type: tech-note

@@ -3,9 +3,11 @@ alias: start-and-stop-a-network-interface
 category: network
 classification: public
 date: 2019-01-31 17:53:23
-date_modified: null
+date_modified: 2019-01-31 17:53:23
 id: 20190131175323
+link: 
 pinned: false
+series: 
 tags: [network, ifconfig, interface]
 title: Start and Stop a Network Interface
 type: tech-note

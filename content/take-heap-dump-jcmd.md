@@ -3,8 +3,11 @@ alias: take-heap-dump-jcmd
 category: java
 classification: public
 date: 2020-07-16 14:10:43
-date_modified: null
+date_modified: 2020-07-16 14:10:43
 id: 20200716141043
+link: 
+pinned: false
+series: 
 tags: [jcmd, heap-dump, java, digi]
 title: Take a heap-dump using jcmd
 type: tech-note

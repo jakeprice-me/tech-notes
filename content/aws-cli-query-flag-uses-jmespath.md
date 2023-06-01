@@ -3,9 +3,11 @@ alias: aws-cli-query-flag-uses-jmespath
 category: aws
 classification: public
 date: 2019-09-11 11:29:04
-date_modified: null
+date_modified: 2019-09-11 11:29:04
 id: 20190911112904
+link: 
 pinned: false
+series: 
 tags: [aws-cli, jmespath]
 title: AWS CLI query flag uses JMESPath
 type: tech-note

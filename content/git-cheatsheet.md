@@ -3,9 +3,11 @@ alias: git-cheatsheet
 category: git
 classification: public
 date: 2020-05-16 21:19:55
-date_modified: null
+date_modified: 2020-05-16 21:19:55
 id: 20200516211955
+link: 
 pinned: false
+series: 
 tags: [git, version-control, repository]
 title: Git Cheatsheet
 type: tech-note

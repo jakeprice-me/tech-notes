@@ -3,9 +3,11 @@ alias: auto-mount-samba-share
 category: samba
 classification: public
 date: 2020-12-23 22:07:40
-date_modified: null
+date_modified: 2020-12-23 22:07:40
 id: 20201223220740
+link: 
 pinned: false
+series: 
 tags: [fstab, samba, cifs]
 title: Automatically Mount Samba Share
 type: tech-note

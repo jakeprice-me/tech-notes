@@ -3,9 +3,11 @@ alias: list-functions-in-python-module
 category: python
 classification: public
 date: 2020-12-24 15:29:05
-date_modified: null
+date_modified: 2020-12-24 15:29:05
 id: 20201224152905
+link: 
 pinned: false
+series: 
 tags: [python, module, functions]
 title: List Functions in a Python Module
 type: tech-note

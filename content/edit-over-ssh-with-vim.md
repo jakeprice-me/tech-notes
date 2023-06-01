@@ -3,9 +3,11 @@ alias: edit-over-ssh-with-vim
 category: vim
 classification: public
 date: 2020-06-19 10:05:44
-date_modified: null
+date_modified: 2020-06-19 10:05:44
 id: 20200619100544
+link: 
 pinned: false
+series: 
 tags: [vim, remote, scp]
 title: Edit over SSH with Vim
 type: tech-note

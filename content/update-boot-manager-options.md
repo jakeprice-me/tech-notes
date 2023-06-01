@@ -3,9 +3,11 @@ alias: update-boot-manager-options
 category: linux
 classification: public
 date: 2019-06-21 14:59:22
-date_modified: null
+date_modified: 2019-06-21 14:59:22
 id: 20190621145922
+link: 
 pinned: false
+series: 
 tags: [bootloader, efiboot]
 title: Update Boot Manager Options
 type: tech-note

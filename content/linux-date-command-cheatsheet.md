@@ -3,9 +3,11 @@ alias: linux-date-command-cheatsheet
 category: cli
 classification: public
 date: 2020-10-13 19:02:22
-date_modified: null
+date_modified: 2020-10-13 19:02:22
 id: 20201013190222
+link: 
 pinned: false
+series: 
 tags: [date, linux, shell]
 title: Linux Date Command
 type: tech-note

@@ -3,9 +3,11 @@ alias: installed-firefox-extensions
 category: firefox
 classification: public
 date: 2020-07-14 21:19:29
-date_modified: null
+date_modified: 2020-07-14 21:19:29
 id: 20200714211929
+link: 
 pinned: false
+series: 
 tags: [firefox, extensions, addons]
 title: Installed Firefox Extensions
 type: tech-note

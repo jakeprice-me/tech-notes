@@ -3,9 +3,11 @@ alias: create-sftp-server
 category: self-hosted
 classification: public
 date: 2020-11-24 09:33:31
-date_modified: null
+date_modified: 2020-11-24 09:33:31
 id: 20201124093331
+link: 
 pinned: false
+series: 
 tags: [sftp, linux, password]
 title: Create an SFTP Server
 type: tech-note

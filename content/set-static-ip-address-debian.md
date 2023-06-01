@@ -3,9 +3,11 @@ alias: set-static-ip-address-debian
 category: network
 classification: public
 date: 2020-12-10 10:17:15
-date_modified: null
+date_modified: 2020-12-10 10:17:15
 id: 20201210101715
+link: 
 pinned: false
+series: 
 tags: [debian, networking, ip, linux]
 title: Set Static IP Address on Debian
 type: tech-note

@@ -3,10 +3,11 @@ alias: act-cheatsheet
 category: github
 classification: public
 date: 2022-08-08 11:05:14
-date_modified: null
+date_modified: 2022-08-08 11:05:14
 id: 20220808110514
 link: https://github.com/nektos/act
 pinned: false
+series: 
 tags: [github, action, runner, local, ci-cd, pipeline]
 title: act Cheatsheet
 type: tech-note

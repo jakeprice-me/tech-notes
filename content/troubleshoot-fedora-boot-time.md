@@ -3,10 +3,11 @@ alias: troubleshoot-fedora-boot-time
 category: systemd
 classification: public
 date: 2022-01-16 18:25:09
-date_modified: null
+date_modified: 2022-01-16 18:25:09
 id: 20220116182509
-link: null
+link: 
 pinned: false
+series: 
 tags: [fedora, boot, systemd, analyze, blame, unbound, network-manager]
 title: Speed-up Fedora Boot Time
 type: tech-note

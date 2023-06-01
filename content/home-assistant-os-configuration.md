@@ -3,10 +3,11 @@ alias: home-assistant-os-configuration
 category: smart-home
 classification: public
 date: 2022-05-31 16:10:26
-date_modified: null
+date_modified: 2022-05-31 16:10:26
 id: 20220531161026
-link: null
+link: 
 pinned: false
+series: 
 tags: [haos, home-assistant, smart-home, raspberry-pi]
 title: Home Assistant OS Configuration
 type: tech-note

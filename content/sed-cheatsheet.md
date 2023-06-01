@@ -3,9 +3,11 @@ alias: sed-cheatsheet
 category: sed
 classification: public
 date: 2020-06-01 18:03:09
-date_modified: null
+date_modified: 2020-06-01 18:03:09
 id: 20200601180309
+link: 
 pinned: false
+series: 
 tags: [sed, bash, linux]
 title: sed Cheatsheet
 type: tech-note

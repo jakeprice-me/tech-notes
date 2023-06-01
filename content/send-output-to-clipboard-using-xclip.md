@@ -3,10 +3,11 @@ alias: send-output-to-clipboard-using-xclip
 category: cli
 classification: public
 date: 2022-02-04 11:54:27
-date_modified: null
+date_modified: 2022-02-04 11:54:27
 id: 20220204115427
-link: null
+link: 
 pinned: false
+series: 
 tags: [xclip, xsel, clipboard, stdout, stdin, copy, paste]
 title: Send Output to Clipboard using xclip
 type: tech-note

@@ -3,9 +3,11 @@ alias: ansible-cheatsheet
 category: ansible
 classification: public
 date: 2021-01-16 13:07:43
-date_modified: null
+date_modified: 2021-01-16 13:07:43
 id: 20210116130743
+link: 
 pinned: false
+series: 
 tags: [ansible, cheatsheet]
 title: Ansible Cheatsheet
 type: tech-note

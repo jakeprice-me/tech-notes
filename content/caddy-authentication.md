@@ -3,10 +3,11 @@ alias: caddy-authentication
 category: caddy
 classification: public
 date: 2022-12-31 14:31:23
-date_modified: null
+date_modified: 2022-12-31 14:31:23
 id: 20221231143123
-link: null
+link: 
 pinned: false
+series: 
 tags: [caddy, authentication, basic-authentication, hash]
 title: Caddy Server Basic Authentication
 type: tech-note

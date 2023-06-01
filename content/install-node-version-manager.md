@@ -3,9 +3,11 @@ alias: install-node-version-manager
 category: cli
 classification: public
 date: 2020-07-05 16:05:06
-date_modified: null
+date_modified: 2020-07-05 16:05:06
 id: 20200705160506
+link: 
 pinned: false
+series: 
 tags: [nvm, npm, node, javascript, node-js]
 title: Install Node Version Manager
 type: tech-note

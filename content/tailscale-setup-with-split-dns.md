@@ -3,10 +3,11 @@ alias: tailscale-setup-with-split-dns
 category: network
 classification: public
 date: 2022-08-09 09:35:34
-date_modified: null
+date_modified: 2022-08-09 09:35:34
 id: 20220809093534
 link: https://login.tailscale.com/
 pinned: false
+series: 
 tags: [vpn, ppn, wireguard, tailscale, network, router]
 title: Tailscale Setup & Split DNS
 type: tech-note

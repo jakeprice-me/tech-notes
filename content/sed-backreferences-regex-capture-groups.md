@@ -3,9 +3,11 @@ alias: sed-backreferences-regex-capture-groups
 category: sed
 classification: public
 date: 2020-10-06 11:14:53
-date_modified: null
+date_modified: 2020-10-06 11:14:53
 id: 20201006111453
+link: 
 pinned: false
+series: 
 tags: [sed, backreferences, regex, capturing-groups]
 title: Sed Backreferences and RegEx Capturing Groups
 type: tech-note

@@ -3,9 +3,11 @@ alias: jq-filters
 category: cli
 classification: public
 date: 2020-10-05 18:17:13
-date_modified: null
+date_modified: 2020-10-05 18:17:13
 id: 20201005181713
+link: 
 pinned: false
+series: 
 tags: [jq, json, aws, filter, query]
 title: jq Filters
 type: tech-note
@@ -21,6 +23,7 @@ As it's notoriously frustrating, and is not blessed with great documentation, it
 ```sh
 .[] | {types: .ImageType, Status: .State}
 pinned: false
+series: 
 ```
 
 ### Output

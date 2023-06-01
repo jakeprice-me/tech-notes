@@ -3,9 +3,11 @@ alias: list-aws-backup-recovery-points
 category: aws
 classification: public
 date: 2019-10-22 14:38:50
-date_modified: null
+date_modified: 2019-10-22 14:38:50
 id: 20191022143850
+link: 
 pinned: false
+series: 
 tags: [aws, backup, cli]
 title: List AWS Backup Recovery Points Using AWS CLI
 type: tech-note

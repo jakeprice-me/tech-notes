@@ -3,10 +3,11 @@ alias: github-actions-cheatsheet
 category: github
 classification: public
 date: 2022-08-09 10:58:41
-date_modified: null
+date_modified: 2022-08-09 10:58:41
 id: 20220809105841
 link: https://docs.github.com/en/actions
 pinned: false
+series: 
 tags: [github, actions, ci-cd, pipeline]
 title: GitHub Actions Cheatsheet
 type: tech-note

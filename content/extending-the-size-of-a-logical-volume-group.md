@@ -3,10 +3,11 @@ alias: extending-the-size-of-a-logical-volume-group
 category: linux
 classification: public
 date: 2022-09-30 09:23:42
-date_modified: null
+date_modified: 2022-09-30 09:23:42
 id: 20220930092342
-link: null
+link: 
 pinned: false
+series: 
 tags: [lvm, logical-volume-group, partition, fedora, disk]
 title: Extending the Size of a Logical Volume Group
 type: tech-note

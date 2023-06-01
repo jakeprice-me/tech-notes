@@ -3,10 +3,11 @@ alias: comment-current-command-in-terminal
 category: cli
 classification: public
 date: 2022-10-27 15:12:18
-date_modified: null
+date_modified: 2022-10-27 15:12:18
 id: 20221027151218
-link: null
+link: 
 pinned: false
+series: 
 tags: [bash, shell, readline, shortcut, comment]
 title: Comment the Current Command in the Terminal
 type: tech-note

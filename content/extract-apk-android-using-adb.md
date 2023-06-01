@@ -3,9 +3,11 @@ alias: extract-apk-android-using-adb
 category: android
 classification: public
 date: 2020-03-25 10:51:10
-date_modified: null
+date_modified: 2020-03-25 10:51:10
 id: 20200325105110
+link: 
 pinned: false
+series: 
 tags: [android, phone, apps, apk, pull, extract, download]
 title: Extract/Pull Android App Package from Phone
 type: tech-note

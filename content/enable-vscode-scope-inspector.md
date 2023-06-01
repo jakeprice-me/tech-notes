@@ -3,9 +3,11 @@ alias: enable-vscode-scope-inspector
 category: vscode
 classification: public
 date: 2020-07-05 19:43:21
-date_modified: null
+date_modified: 2020-07-05 19:43:21
 id: 20200705194321
+link: 
 pinned: false
+series: 
 tags: [vscode, editor]
 title: Enable Scope Inspector in VS Code
 type: tech-note

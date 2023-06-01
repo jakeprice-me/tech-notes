@@ -3,9 +3,11 @@ alias: list-red-hat-amis-aws-cli
 category: aws
 classification: public
 date: 2019-07-17 16:10:12
-date_modified: null
+date_modified: 2019-07-17 16:10:12
 id: 20190717161012
+link: 
 pinned: false
+series: 
 tags: [redhat, aws, ami, cli]
 title: List Red Hat AMIs using AWS CLI
 type: tech-note

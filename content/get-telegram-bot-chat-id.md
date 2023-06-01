@@ -3,10 +3,11 @@ alias: get-telegram-bot-chat-id
 category: telegram
 classification: public
 date: 2022-08-11 21:20:57
-date_modified: null
+date_modified: 2022-08-11 21:20:57
 id: 20220811212057
-link: null
+link: 
 pinned: false
+series: 
 tags: [telegram, bot, chat-id, api]
 title: Get Telegram Bot Chat ID
 type: tech-note

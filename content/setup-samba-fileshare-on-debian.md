@@ -3,9 +3,11 @@ alias: setup-samba-fileshare-on-debian
 category: samba
 classification: public
 date: 2020-11-24 21:48:52
-date_modified: null
+date_modified: 2020-11-24 21:48:52
 id: 20201124214852
+link: 
 pinned: false
+series: 
 tags: [debian, samba, file-server, smb]
 title: Setup a Samba Fileshare on Debian
 type: tech-note

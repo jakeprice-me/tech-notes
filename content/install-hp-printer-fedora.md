@@ -3,10 +3,11 @@ alias: install-hp-printer-fedora
 category: fedora
 classification: public
 date: 2022-05-15 22:15:00
-date_modified: null
+date_modified: 2022-05-15 22:15:00
 id: 20220515221500
 link: https://www.cyberciti.biz/faq/how-to-install-networked-hp-printer-and-scanner-on-fedora-linux/
 pinned: false
+series: 
 tags: [hp, printer, fedora, hplib, hplip]
 title: Install HP Printer on Fedora
 type: tech-note

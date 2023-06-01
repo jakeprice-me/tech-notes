@@ -3,8 +3,11 @@ alias: start-apache-airflow
 category: airflow
 classification: public
 date: 2020-10-22 16:23:49
-date_modified: null
+date_modified: 2020-10-22 16:23:49
 id: 20201022162349
+link: 
+pinned: false
+series: 
 tags: [airflow, apache]
 title: Start Airflow
 type: tech-note

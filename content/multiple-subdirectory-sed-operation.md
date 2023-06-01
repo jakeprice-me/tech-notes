@@ -3,9 +3,11 @@ alias: multiple-subdirectory-sed-operation
 category: bash
 classification: public
 date: 2020-11-24 18:51:02
-date_modified: null
+date_modified: 2020-11-24 18:51:02
 id: 20201124185102
+link: 
 pinned: false
+series: 
 tags: [loop, iterate, sed, bash]
 title: Multiple Subdirectory sed Operation
 type: tech-note

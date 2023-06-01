@@ -5,8 +5,9 @@ classification: public
 date: 2022-10-07 16:24:37
 date_modified: 2023-02-23 16:37:28
 id: 20221007162437
-link: null
+link: 
 pinned: false
+series: 
 tags: [sonoff, zigbee, mqtt, temperature, sensor, home-assistant, temperature, power]
 title: Reconnection Issue with Sonoff SNZB-02 in Zigbee2MQTT
 type: tech-note

@@ -3,9 +3,11 @@ alias: version-lock-ansible-roles
 category: ansible
 classification: public
 date: 2021-01-13 20:44:21
-date_modified: null
+date_modified: 2021-01-13 20:44:21
 id: 20210113204421
+link: 
 pinned: false
+series: 
 tags: [roles, playbook, ansible, git]
 title: Version Locking Ansible Roles in a Playbook
 type: tech-note

@@ -3,9 +3,11 @@ alias: tmux-split-window-edit-alias
 category: tmux
 classification: public
 date: 2020-07-04 19:01:10
-date_modified: null
+date_modified: 2020-07-04 19:01:10
 id: 20200704190110
+link: 
 pinned: false
+series: 
 tags: [tmux, vim, shell, alias]
 title: tmux Split Window Shell Alias
 type: tech-note

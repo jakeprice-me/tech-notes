@@ -3,10 +3,11 @@ alias: installed-gnome-extensions
 category: gnome
 classification: public
 date: 2022-01-15 17:17:50
-date_modified: null
+date_modified: 2022-01-15 17:17:50
 id: 20220115171750
-link: null
+link: 
 pinned: false
+series: 
 tags: [gnome, extensions]
 title: Installed Gnome Extensions
 type: tech-note

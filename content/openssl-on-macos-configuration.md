@@ -3,9 +3,11 @@ alias: openssl-on-macos-configuration
 category: openssl
 classification: public
 date: 2021-08-13 16:11:21
-date_modified: null
+date_modified: 2021-08-13 16:11:21
 id: 20210813161121
+link: 
 pinned: false
+series: 
 tags: [openssl, macos]
 title: OpenSSL on MacOS
 type: tech-note

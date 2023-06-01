@@ -3,9 +3,11 @@ alias: resize-an-ec2-linux-file-system-on-aws
 category: aws
 classification: public
 date: 2019-08-20 10:59:10
-date_modified: null
+date_modified: 2019-08-20 10:59:10
 id: 20190820105910
+link: 
 pinned: false
+series: 
 tags: [linux, aws, ec2, filesystem]
 title: Resize an EC2 Linux File System on AWS
 type: tech-note

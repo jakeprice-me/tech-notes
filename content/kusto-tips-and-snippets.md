@@ -3,10 +3,11 @@ alias: kusto-tips-and-snippets
 category: azure
 classification: public
 date: 2022-10-19 14:00:41
-date_modified: null
+date_modified: 2022-10-19 14:00:41
 id: 20221019140041
-link: null
+link: 
 pinned: false
+series: 
 tags: [kusto, azure, query, log, metrics]
 title: Kusto Tips & Snippets
 type: tech-note

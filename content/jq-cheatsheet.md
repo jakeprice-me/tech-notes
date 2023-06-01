@@ -3,8 +3,11 @@ alias: jq-cheatsheet
 category: cli
 classification: public
 date: 2020-05-08 11:24:48
-date_modified: null
+date_modified: 2020-05-08 11:24:48
 id: 20200508112448
+link: 
+pinned: false
+series: 
 tags: [jq, json]
 title: jq Cheatsheet
 type: tech-note

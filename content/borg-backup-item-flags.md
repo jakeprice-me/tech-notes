@@ -3,11 +3,11 @@ alias: borg-backup-item-flags
 category: borg
 classification: public
 date: 2022-10-26 13:49:07
-date_modified: null
+date_modified: 2022-10-26 13:49:07
 id: 20221026134907
 link: https://borgbackup.readthedocs.io/en/stable/usage/create.html#item-flags
 pinned: false
-series: null
+series: 
 tags: [borg, backup, character, status, type, flag]
 title: Borg Backup Item Flags
 type: tech-note

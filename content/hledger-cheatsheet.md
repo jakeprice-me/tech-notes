@@ -3,9 +3,11 @@ alias: hledger-cheatsheet
 category: hledger
 classification: public
 date: 2021-08-14 22:00:33
-date_modified: null
+date_modified: 2021-08-14 22:00:33
 id: 20210814220033
+link: 
 pinned: false
+series: 
 tags: [hledger, ledger, accounting, finance, money]
 title: hledger Cheatsheet
 type: tech-note

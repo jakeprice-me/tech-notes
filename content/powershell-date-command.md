@@ -3,9 +3,11 @@ alias: powershell-date-command
 category: powershell
 classification: public
 date: 2020-03-18 12:36:45
-date_modified: null
+date_modified: 2020-03-18 12:36:45
 id: 20200318123645
+link: 
 pinned: false
+series: 
 tags: [powershell, date]
 title: Powershell Date Command
 type: tech-note

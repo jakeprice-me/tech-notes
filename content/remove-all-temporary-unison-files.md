@@ -3,10 +3,11 @@ alias: remove-all-temporary-unison-files
 category: cli
 classification: public
 date: 2022-11-06 10:19:01
-date_modified: null
+date_modified: 2022-11-06 10:19:01
 id: 20221106101901
-link: null
+link: 
 pinned: false
+series: 
 tags: [unison, sync, find, temporary]
 title: Remove all Temporary Unison Files
 type: tech-note

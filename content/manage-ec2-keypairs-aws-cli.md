@@ -3,9 +3,11 @@ alias: manage-ec2-keypairs-aws-cli
 category: aws
 classification: public
 date: 2020-08-26 15:25:49
-date_modified: null
+date_modified: 2020-08-26 15:25:49
 id: 20200826152549
+link: 
 pinned: false
+series: 
 tags: [aws, cli, ssh, keys, ec2]
 title: Manage EC2 KeyPairs with the AWS CLI
 type: tech-note

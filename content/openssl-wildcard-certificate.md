@@ -3,9 +3,11 @@ alias: openssl-wildcard-certificate
 category: openssl
 classification: public
 date: 2021-01-09 20:45:54
-date_modified: null
+date_modified: 2021-01-09 20:45:54
 id: 20210109204554
+link: 
 pinned: false
+series: 
 tags: [openssl, lan, self-hosted, certificate, authority]
 title: Wildcard OpenSSL Certificate Authority
 type: tech-note

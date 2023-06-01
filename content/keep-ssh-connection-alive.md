@@ -3,11 +3,11 @@ alias: keep-ssh-connection-alive
 category: cli
 classification: public
 date: 2020-07-01 21:26:41
-date_modified: null
+date_modified: 2020-07-01 21:26:41
 id: 20200701212641
-link: null
+link: 
 pinned: false
-series: null
+series: 
 tags: [ssh, connection, linux]
 title: Keep SSH Connection Alive
 type: tech-note

@@ -3,8 +3,11 @@ alias: connect-to-azuread-using-powershell
 category: azure
 classification: public
 date: 2020-12-09 15:23:58
-date_modified: null
+date_modified: 2020-12-09 15:23:58
 id: 20201209152358
+link: 
+pinned: false
+series: 
 tags: [azure-ad, powershell]
 title: Connect to Azure AD in PowerShell
 type: tech-note

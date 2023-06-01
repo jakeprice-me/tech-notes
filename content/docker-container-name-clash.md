@@ -3,10 +3,11 @@ alias: docker-container-name-clash
 category: docker
 classification: public
 date: 2022-06-01 16:38:01
-date_modified: null
+date_modified: 2022-06-01 16:38:01
 id: 20220601163801
 link: https://stackoverflow.com/a/55040196/9625225
 pinned: false
+series: 
 tags: [php, docker, caddy]
 title: Regular File Not Found Error PHP Container
 type: tech-note

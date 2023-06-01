@@ -3,9 +3,11 @@ alias: check-size-of-table-postgresql
 category: postgresql
 classification: public
 date: 2020-09-22 12:50:20
-date_modified: null
+date_modified: 2020-09-22 12:50:20
 id: 20200922125020
+link: 
 pinned: false
+series: 
 tags: [postgresql, psql, tables, size, database]
 title: Check Size of a Table in PostgreSQL
 type: tech-note

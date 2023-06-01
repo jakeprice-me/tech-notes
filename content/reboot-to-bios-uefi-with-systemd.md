@@ -3,10 +3,11 @@ alias: reboot-to-bios-uefi-with-systemd
 category: systemd
 classification: public
 date: 2022-10-07 21:33:34
-date_modified: null
+date_modified: 2022-10-07 21:33:34
 id: 20221007213334
 link: https://www.freedesktop.org/software/systemd/man/systemctl.html#--firmware-setup
 pinned: false
+series: 
 tags: [systemd, systemctl, reboot, restart, bios, uefi, firmware]
 title: Reboot to BIOS/UEFI with systemd
 type: tech-note

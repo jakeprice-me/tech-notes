@@ -3,10 +3,11 @@ alias: wireguard-commands
 category: network
 classification: public
 date: 2023-01-09 14:09:35
-date_modified: null
+date_modified: 2023-01-09 14:09:35
 id: 20230109140935
-link: null
+link: 
 pinned: false
+series: 
 tags: [wireguard, troubleshoot, vpn]
 title: WireGuard Commands
 type: tech-note

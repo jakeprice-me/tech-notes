@@ -3,9 +3,11 @@ alias: watch-sass-file
 category: sass
 classification: public
 date: 2020-07-05 19:47:26
-date_modified: null
+date_modified: 2020-07-05 19:47:26
 id: 20200705194726
+link: 
 pinned: false
+series: 
 tags: [sass, scss, css]
 title: Watch a Sass File
 type: tech-note

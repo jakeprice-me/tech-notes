@@ -3,10 +3,11 @@ alias: blink1-usb-notification-light
 category: blink
 classification: public
 date: 2022-02-04 20:29:34
-date_modified: null
+date_modified: 2022-02-04 20:29:34
 id: 20220204202934
 link: https://github.com/todbot/blink1-python
 pinned: false
+series: 
 tags: [blink1, usb, notification]
 title: blink(1) USB Notification Light
 type: tech-note

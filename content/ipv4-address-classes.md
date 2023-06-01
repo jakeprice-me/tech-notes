@@ -3,9 +3,11 @@ alias: ipv4-address-classes
 category: network
 classification: public
 date: 2020-07-02 17:04:56
-date_modified: null
+date_modified: 2020-07-02 17:04:56
 id: 20200702170456
+link: 
 pinned: false
+series: 
 tags: [networking, ipv4]
 title: IP Address Classes
 type: tech-note

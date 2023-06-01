@@ -3,9 +3,11 @@ alias: download-vsix-for-any-vscode-extension
 category: vscode
 classification: public
 date: 2020-10-21 10:00:20
-date_modified: null
+date_modified: 2020-10-21 10:00:20
 id: 20201021100020
+link: 
 pinned: false
+series: 
 tags: [vscode, extensions, vsix, codium]
 title: Download the VSIX for Any VS Code Extension
 type: tech-note

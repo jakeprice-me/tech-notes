@@ -3,9 +3,11 @@ alias: access-android-directories-using-cli
 category: android
 classification: public
 date: 2020-09-06 15:26:26
-date_modified: null
+date_modified: 2020-09-06 15:26:26
 id: 20200906152626
+link: 
 pinned: false
+series: 
 tags: [android, gvfs, samsung, galaxy-s20, mtp]
 title: Access Android Phone Directories On CLI
 type: tech-note

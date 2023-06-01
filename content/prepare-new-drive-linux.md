@@ -3,13 +3,15 @@ alias: prepare-new-drive-linux
 category: linux
 classification: public
 date: 2020-12-11 13:34:32
-date_modified: null
+date_modified: 2020-12-11 13:34:32
 id: 20201211133432
+link: 
 pinned: false
+series: 
 tags: [format, ext4, hard-drive, linux, disk]
 title: Prepare a New Hard Drive in Linux
 type: tech-note
-updpated: null
+updpated: 
 uuid: e1e2626d-df78-4123-92ee-7da77940492b
 ---
 

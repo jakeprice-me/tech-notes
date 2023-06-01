@@ -3,10 +3,11 @@ alias: install-heimdall-on-fedora
 category: android
 classification: public
 date: 2022-12-19 13:08:30
-date_modified: null
+date_modified: 2022-12-19 13:08:30
 id: 20221219130830
 link: https://github.com/Benjamin-Dobell/Heimdall/wiki/Build-instructions-(Linux)#fedora
 pinned: false
+series: 
 tags: [android, heimdall, linux, odin, samsung, flash, image, firmware]
 title: Install Heimdall on Fedora
 type: tech-note

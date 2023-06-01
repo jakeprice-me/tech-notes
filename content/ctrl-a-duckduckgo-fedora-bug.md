@@ -3,9 +3,11 @@ alias: ctrl-a-duckduckgo-fedora-bug
 category: fedora
 classification: public
 date: 2020-03-26 19:04:25
-date_modified: null
+date_modified: 2020-03-26 19:04:25
 id: 20200326190425
+link: 
 pinned: false
+series: 
 tags: [shortcuts, keyboard, duckduckgo, fedora]
 title: Ctrl-A and DuckDuckGo Fedora Bug
 type: tech-note

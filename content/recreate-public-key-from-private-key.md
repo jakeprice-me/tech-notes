@@ -3,9 +3,11 @@ alias: recreate-public-key-from-private-key
 category: ssh
 classification: public
 date: 2019-03-09 20:07:45
-date_modified: null
+date_modified: 2019-03-09 20:07:45
 id: 20190309200745
+link: 
 pinned: false
+series: 
 tags: [ssh, ssh-keygen, public-key, private-key]
 title: Recreate Public Key from Private Key
 type: tech-note

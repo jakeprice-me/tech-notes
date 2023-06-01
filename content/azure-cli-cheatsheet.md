@@ -3,10 +3,11 @@ alias: azure-cli-cheatsheet
 category: azure
 classification: public
 date: 2022-07-27 16:36:06
-date_modified: null
+date_modified: 2022-07-27 16:36:06
 id: 20220727163606
-link: null
+link: 
 pinned: false
+series: 
 tags: [azure, cli, cheatsheet]
 title: Azure CLI Cheatsheet
 type: tech-note

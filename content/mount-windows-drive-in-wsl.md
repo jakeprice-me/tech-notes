@@ -3,10 +3,11 @@ alias: mount-windows-drive-in-wsl
 category: windows
 classification: public
 date: 2021-07-21 10:39:17
-date_modified: null
+date_modified: 2021-07-21 10:39:17
 id: 20210721103917
 link: https://www.public-health.uiowa.edu/it/support/kb48568/
 pinned: false
+series: 
 tags: [wsl, mount, windows, fstab]
 title: Mount Windows Drive in WSL
 type: tech-note

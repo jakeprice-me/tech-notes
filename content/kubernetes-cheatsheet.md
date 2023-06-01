@@ -3,10 +3,11 @@ alias: kubernetes-cheatsheet
 category: kubernetes
 classification: public
 date: 2021-12-07 11:18:37
-date_modified: null
+date_modified: 2021-12-07 11:18:37
 id: 20211207111837
-link: null
+link: 
 pinned: false
+series: 
 tags: [cheatsheat, kubernetes, orchestration]
 title: Kubernetes Cheatsheat
 type: tech-note

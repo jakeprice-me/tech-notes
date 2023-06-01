@@ -3,10 +3,11 @@ alias: home-assistant-os-cli-cheatsheet
 category: smart-home
 classification: public
 date: 2022-06-01 14:36:14
-date_modified: null
+date_modified: 2022-06-01 14:36:14
 id: 20220601143614
 link: https://www.home-assistant.io/common-tasks/os/
 pinned: false
+series: 
 tags: [home-assistant, haos, cli, cheatsheet]
 title: Home Assistant OS CLI Cheatsheet
 type: tech-note

@@ -3,10 +3,11 @@ alias: wrap-systemctl-output
 category: cli
 classification: public
 date: 2022-10-25 15:10:42
-date_modified: null
+date_modified: 2022-10-25 15:10:42
 id: 20221025151042
-link: null
+link: 
 pinned: false
+series: 
 tags: [systemctl, systemd, wrap, log]
 title: Wrap systemctl output
 type: tech-note

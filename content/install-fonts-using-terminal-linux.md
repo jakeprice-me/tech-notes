@@ -3,9 +3,11 @@ alias: install-fonts-using-terminal-linux
 category: linux
 classification: public
 date: 2021-01-01 15:03:58
-date_modified: null
+date_modified: 2021-01-01 15:03:58
 id: 20210101150358
+link: 
 pinned: false
+series: 
 tags: [linux, fonts]
 title: Install Fonts on Linux
 type: tech-note

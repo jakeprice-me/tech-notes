@@ -3,10 +3,11 @@ alias: setup-wireguard
 category: network
 classification: public
 date: 2023-01-08 12:21:34
-date_modified: null
+date_modified: 2023-01-08 12:21:34
 id: 20230108122134
 link: https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-22-04
 pinned: false
+series: 
 tags: [wireguard, vpn]
 title: Setup WireGuard on Debian
 type: tech-note

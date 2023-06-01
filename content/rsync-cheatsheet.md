@@ -3,9 +3,11 @@ alias: rsync-cheatsheet
 category: cli
 classification: public
 date: 2020-06-20 23:26:43
-date_modified: null
+date_modified: 2020-06-20 23:26:43
 id: 20200620232643
+link: 
 pinned: false
+series: 
 tags: [rsync, backups]
 title: rsync Cheatsheet
 type: tech-note

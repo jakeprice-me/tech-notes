@@ -3,10 +3,11 @@ alias: wireguard-troubleshooting
 category: network
 classification: public
 date: 2023-01-09 14:14:37
-date_modified: null
+date_modified: 2023-01-09 14:14:37
 id: 20230109141437
-link: null
+link: 
 pinned: false
+series: 
 tags: [vpn, wireguard, troubleshoot]
 title: WireGuard Troubleshooting
 type: tech-note

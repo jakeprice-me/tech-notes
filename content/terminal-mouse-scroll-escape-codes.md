@@ -3,9 +3,11 @@ alias: terminal-mouse-scroll-escape-codes
 category: cli
 classification: public
 date: 2020-11-14 15:58:33
-date_modified: null
+date_modified: 2020-11-14 15:58:33
 id: 20201114155833
+link: 
 pinned: false
+series: 
 tags: [mouse, scrolling, escape, terminal, shell]
 title: Mouse Scroll Escape Codes in Terminal
 type: tech-note

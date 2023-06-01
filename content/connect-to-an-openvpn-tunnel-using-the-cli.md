@@ -3,9 +3,11 @@ alias: connect-to-an-openvpn-tunnel-using-the-cli
 category: openvpn
 classification: public
 date: 2019-09-14 21:34:52
-date_modified: null
+date_modified: 2019-09-14 21:34:52
 id: 20190914213452
+link: 
 pinned: false
+series: 
 tags: [openvpn, ubuntu]
 title: Connect to an OpenVPN Tunnel Using the CLI
 type: tech-note

@@ -3,10 +3,11 @@ alias: create-network-manager-bridge
 category: network
 classification: public
 date: 2021-11-19 21:36:36
-date_modified: network
+date_modified: 2021-11-19 21:36:36
 id: 20211119213636
 link: https://wiki.archlinux.org/title/Network_bridge#With_NetworkManager
 pinned: false
+series: 
 tags: [arch-wiki, nmcli, network-manager, bridge, ethernet, interface, br0]
 title: Creating a Bridge with NetworkManager
 type: tech-note

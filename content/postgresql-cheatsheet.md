@@ -3,9 +3,11 @@ alias: postgresql-cheatsheet
 category: postgresql
 classification: public
 date: 2020-08-04 20:53:23
-date_modified: null
+date_modified: 2020-08-04 20:53:23
 id: 20200804205323
+link: 
 pinned: false
+series: 
 tags: [sql, commands, statements, psql, postgresql]
 title: PostgreSQL Commands
 type: tech-note

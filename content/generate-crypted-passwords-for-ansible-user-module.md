@@ -3,10 +3,11 @@ alias: generate-crypted-passwords-for-ansible-user-module
 category: ansible
 classification: public
 date: 2021-02-05 14:19:32
-date_modified: null
+date_modified: 2021-02-05 14:19:32
 id: 20210205141932
 link: https://www.lisenet.com/2019/ansible-generate-crypted-passwords-for-the-user-module/
 pinned: false
+series: 
 tags: [ansible, user, module, crypted, vault, password, credentials]
 title: Generate Crypted Passwords for the Ansible User Module
 type: tech-note

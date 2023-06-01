@@ -3,9 +3,11 @@ alias: uri-handler
 category: miscellaneous
 classification: public
 date: 2021-09-06 18:15:47
-date_modified: null
+date_modified: 2021-09-06 18:15:47
 id: 20210906181547
+link: 
 pinned: false
+series: 
 tags: [gvim, vim, uri, handler, gnome, macos, fedora, macvim, xdg-open]
 title: URI Handler
 type: tech-note

@@ -3,10 +3,11 @@ alias: set-macos-theme-mode-for-specific-apps
 category: macos
 classification: public
 date: 2022-11-28 15:13:34
-date_modified: null
+date_modified: 2022-11-28 15:13:34
 id: 20221128151334
-link: null
+link: 
 pinned: false
+series: 
 tags: [macos, theme, dark-mode]
 title: Set macOS Theme for Specific Apps
 type: tech-note

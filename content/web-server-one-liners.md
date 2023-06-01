@@ -3,9 +3,11 @@ alias: web-server-one-liners
 category: cli
 classification: public
 date: 2020-12-25 21:58:32
-date_modified: null
+date_modified: 2020-12-25 21:58:32
 id: 20201225215832
+link: 
 pinned: false
+series: 
 tags: [web-server, python, php, android, termux]
 title: Web Server One Liners
 type: tech-note

@@ -3,10 +3,11 @@ alias: convert-json-to-minified-json
 category: python
 classification: public
 date: 2020-07-05 19:45:25
-date_modified: null
+date_modified: 2020-07-05 19:45:25
 id: 20200705194525
 link: https://github.com/tikitu/jsmin/
 pinned: false
+series: 
 tags: [json, python, minify]
 title: Convert JSON to Minified JSON with Python
 type: tech-note

@@ -3,9 +3,11 @@ alias: find-recent-aws-amis
 category: aws
 classification: public
 date: 2019-10-10 12:12:00
-date_modified: null
+date_modified: 2019-10-10 12:12:00
 id: 20191010121200
+link: 
 pinned: false
+series: 
 tags: [aws, ami]
 title: Find The Most Recent AWS AMI
 type: tech-note

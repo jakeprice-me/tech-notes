@@ -3,9 +3,11 @@ alias: allow-specific-devices-to-bypass-pihole
 category: pihole
 classification: public
 date: 2020-01-04 22:12:44
-date_modified: null
+date_modified: 2020-01-04 22:12:44
 id: 20200104221244
+link: 
 pinned: false
+series: 
 tags: [mac-address, network, pihole, dnsmasq, override, bypass]
 title: Allow Specific Devices to Bypass Pi-hole or dnsmasq
 type: tech-note

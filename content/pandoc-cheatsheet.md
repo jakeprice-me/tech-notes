@@ -3,9 +3,11 @@ alias: pandoc-cheatsheet
 category: pandoc
 classification: public
 date: 2020-05-16 10:46:32
-date_modified: null
+date_modified: 2020-05-16 10:46:32
 id: 20200516104632
+link: 
 pinned: false
+series: 
 tags: [pandoc, commands, markdown, markup, cheatsheet]
 title: Pandoc Cheatsheet
 type: tech-note

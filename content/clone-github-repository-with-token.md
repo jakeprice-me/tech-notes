@@ -3,10 +3,11 @@ alias: clone-github-repository-with-token
 category: github
 classification: public
 date: 2022-09-09 21:13:39
-date_modified: null
+date_modified: 2022-09-09 21:13:39
 id: 20220909211339
-link: null
+link: 
 pinned: false
+series: 
 tags: [github, token, clone, personal-access-token]
 title: Clone GitHub Repository with Personal Access Token
 type: tech-note

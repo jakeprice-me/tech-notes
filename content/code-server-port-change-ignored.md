@@ -3,10 +3,11 @@ alias: code-server-port-change-ignored
 category: self-hosted
 classification: public
 date: 2022-02-08 13:13:24
-date_modified: null
+date_modified: 2022-02-08 13:13:24
 id: 20220208131324
-link: null
+link: 
 pinned: false
+series: 
 tags: [code-server, port, bind, mount, docker]
 title: Code Server Port Bind Issue
 type: tech-note

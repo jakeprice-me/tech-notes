@@ -3,10 +3,11 @@ alias: add-linux-user-without-prompt
 category: linux
 classification: public
 date: 2023-01-07 20:41:07
-date_modified: null
+date_modified: 2023-01-07 20:41:07
 id: 20230107204107
-link: null
+link: 
 pinned: false
+series: 
 tags: [linux, user, useradd, mkpasswd]
 title: Add Linux User without Prompt
 type: tech-note

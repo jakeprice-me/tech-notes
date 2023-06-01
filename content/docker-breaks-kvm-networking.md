@@ -3,10 +3,11 @@ alias: docker-breaks-kvm-networking
 category: network
 classification: public
 date: 2023-01-23 16:28:35
-date_modified: null
+date_modified: 2023-01-23 16:28:35
 id: 20230123162835
 link: https://wiki.archlinux.org/title/Docker#Starting_Docker_breaks_KVM_bridged_networking
 pinned: false
+series: 
 tags: [docker, kvm, bridge, network]
 title: Fix for Docker Breaking KVM Networking
 type: tech-note

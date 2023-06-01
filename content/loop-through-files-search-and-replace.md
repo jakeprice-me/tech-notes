@@ -3,9 +3,11 @@ alias: loop-through-files-search-and-replace
 category: bash
 classification: public
 date: 2020-03-09 20:13:20
-date_modified: null
+date_modified: 2020-03-09 20:13:20
 id: 20200309201320
+link: 
 pinned: false
+series: 
 tags: [bash, sed, loop, iteration]
 title: Loop Through Files and Search and Replace
 type: tech-note

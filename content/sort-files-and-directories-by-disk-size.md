@@ -3,9 +3,11 @@ alias: sort-files-and-directories-by-disk-size
 category: cli
 classification: public
 date: 2019-01-28 12:52:01
-date_modified: null
+date_modified: 2019-01-28 12:52:01
 id: 20190128125201
+link: 
 pinned: false
+series: 
 tags: [file, directory, size]
 title: Sort files and directories by disk size
 type: tech-note

@@ -3,9 +3,11 @@ alias: speed-up-powershell-invoke-webrequest
 category: powershell
 classification: public
 date: 2020-08-14 15:18:44
-date_modified: null
+date_modified: 2020-08-14 15:18:44
 id: 20200814151844
+link: 
 pinned: false
+series: 
 tags: [windows, powershell]
 title: Speed Up PowerShell Invoke-WebRequest
 type: tech-note

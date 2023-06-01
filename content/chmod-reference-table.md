@@ -3,10 +3,11 @@ alias: chmod-reference-table
 category: linux
 classification: public
 date: 2019-01-13 16:39:01
-date_modified: null
+date_modified: 2019-01-13 16:39:01
 id: 20190113163901
 link: https://dbiers.me/chmod-permissions-reference-chart/
 pinned: false
+series: 
 tags: [chmod, linux, permissions]
 title: chmod Reference Table
 type: tech-note

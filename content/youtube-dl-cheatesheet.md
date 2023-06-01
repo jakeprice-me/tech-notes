@@ -3,10 +3,11 @@ alias: youtube-dl-cheatesheet
 category: cli
 classification: public
 date: 2022-07-11 13:13:09
-date_modified: null
+date_modified: 2022-07-11 13:13:09
 id: 20220711131309
-link: null
+link: 
 pinned: false
+series: 
 tags: [youtube-dl, youtube, download, audio, video, cli]
 title: YouTube-DL Cheatsheet
 type: tech-note

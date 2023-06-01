@@ -3,9 +3,11 @@ alias: disable-cross-origin-request-blocking-firefox
 category: firefox
 classification: public
 date: 2020-09-25 17:50:47
-date_modified: null
+date_modified: 2020-09-25 17:50:47
 id: 20200925175047
+link: 
 pinned: false
+series: 
 tags: [cors, firefox, javascript]
 title: Disable Cross-Origin Request Blocking on Firefox
 type: tech-note

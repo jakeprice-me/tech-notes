@@ -3,9 +3,11 @@ alias: bulk-rename-files-with-regex
 category: cli
 classification: public
 date: 2020-03-27 20:20:03
-date_modified: null
+date_modified: 2020-03-27 20:20:03
 id: 20200327202003
+link: 
 pinned: false
+series: 
 tags: [regex, bash, rename, perl]
 title: Bulk Rename Regex Pattern
 type: tech-note

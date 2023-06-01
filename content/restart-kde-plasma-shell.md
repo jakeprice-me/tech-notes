@@ -3,9 +3,11 @@ alias: restart-kde-plasma-shell
 category: cli
 classification: public
 date: 2021-07-03 09:37:45
-date_modified: null
+date_modified: 2021-07-03 09:37:45
 id: 20210703093745
+link: 
 pinned: false
+series: 
 tags: [kde, plasma]
 title: Restart KDE Plasma
 type: tech-note

@@ -3,9 +3,11 @@ alias: copy-ssh-key-to-user-with-rsync
 category: ssh
 classification: public
 date: 2020-07-05 19:42:36
-date_modified: rsync
+date_modified: 2020-07-05 19:42:36
 id: 20200705194236
+link: 
 pinned: false
+series: 
 tags: [ssh, rsync, server]
 title: Copy an SSH Key to Another User with Rsync
 type: tech-note

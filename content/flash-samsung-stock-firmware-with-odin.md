@@ -3,10 +3,11 @@ alias: flash-samsung-stock-firmware-with-odin
 category: android
 classification: public
 date: 2022-12-19 15:30:33
-date_modified: null
+date_modified: 2022-12-19 15:30:33
 id: 20221219153033
-link: null
+link: 
 pinned: false
+series: 
 tags: []
 title: Flash Samsung Stock Firmware with Odin
 type: tech-note

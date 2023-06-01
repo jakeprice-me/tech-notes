@@ -3,10 +3,11 @@ alias: sky-fibre-setup-with-another-router
 category: network
 classification: public
 date: 2022-07-18 20:21:53
-date_modified: null
+date_modified: 2022-07-18 20:21:53
 id: 20220718202153
 link: https://helpforum.sky.com/t5/Broadband/PPPOE-codes-for-connection-to-third-party-router/m-p/3899878#M284210
 pinned: false
+series: 
 tags: [sky, fibre, ont, broadband, openreach, fttp, client-identifier-string, option-61]
 title: Sky Fibre Setup with Netgear R7800 Router
 type: tech-note

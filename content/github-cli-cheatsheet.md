@@ -3,10 +3,11 @@ alias: github-cli-cheatsheet
 category: github
 classification: public
 date: 2022-08-01 14:03:00
-date_modified: null
+date_modified: 2022-08-01 14:03:00
 id: 20220801140300
 link: https://cli.github.com/manual/gh
 pinned: false
+series: 
 tags: [github, gh, cli, git, cheatsheet]
 title: GitHub CLI Cheatsheet
 type: tech-note

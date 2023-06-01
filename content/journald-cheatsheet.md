@@ -3,10 +3,11 @@ alias: journald-cheatsheet
 category: cli
 classification: public
 date: 2022-08-09 16:31:52
-date_modified: null
+date_modified: 2022-08-09 16:31:52
 id: 20220809163152
-link: null
+link: 
 pinned: false
+series: 
 tags: [journald, log, follow]
 title: journald Cheatsheet
 type: tech-note

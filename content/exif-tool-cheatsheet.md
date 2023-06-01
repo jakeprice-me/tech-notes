@@ -3,10 +3,11 @@ alias: exif-tool-cheatsheet
 category: cli
 classification: public
 date: 2021-12-29 14:05:07
-date_modified: null
+date_modified: 2021-12-29 14:05:07
 id: 20211229140507
-link: null
+link: 
 pinned: false
+series: 
 tags: [exif, photo, video, tag]
 title: Exif Tool Cheatsheat
 type: tech-note

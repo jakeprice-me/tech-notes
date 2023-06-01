@@ -3,9 +3,11 @@ alias: inconsolata-wsltty-windows-10
 category: windows
 classification: public
 date: 2020-08-01 14:19:31
-date_modified: null
+date_modified: 2020-08-01 14:19:31
 id: 20200801141931
+link: 
 pinned: false
+series: 
 tags: [wsltty, inconsolata, fonts]
 title: Inconsolata on wsltty on Windows 10
 type: tech-note

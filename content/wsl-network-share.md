@@ -3,9 +3,11 @@ alias: wsl-network-share
 category: windows
 classification: public
 date: 2020-04-08 18:52:05
-date_modified: null
+date_modified: 2020-04-08 18:52:05
 id: 20200408185205
+link: 
 pinned: false
+series: 
 tags: [wsl]
 title: WSL Network Share
 type: tech-note

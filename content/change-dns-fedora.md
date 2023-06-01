@@ -3,9 +3,11 @@ alias: change-dns-fedora
 category: network
 classification: public
 date: 2020-08-31 20:44:51
-date_modified: null
+date_modified: 2020-08-31 20:44:51
 id: 20200831204451
+link: 
 pinned: false
+series: 
 tags: [dns, fedora, network-manager, resolv-conf]
 title: Change DNS on Fedora
 type: tech-note

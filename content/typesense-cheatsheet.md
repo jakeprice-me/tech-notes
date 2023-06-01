@@ -3,9 +3,11 @@ alias: typesense-cheatsheet
 category: typesense
 classification: public
 date: 2021-08-03 11:01:15
-date_modified: null
+date_modified: 2021-08-03 11:01:15
 id: 20210803110115
+link: 
 pinned: false
+series: 
 tags: [search, typesense, cheatsheet]
 title: Typesense Cheatsheet
 type: tech-note

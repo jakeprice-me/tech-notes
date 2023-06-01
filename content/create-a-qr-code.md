@@ -3,9 +3,11 @@ alias: create-a-qr-code
 category: cli
 classification: public
 date: 2021-09-02 15:05:32
-date_modified: cli
+date_modified: 2021-09-02 15:05:32
 id: 20210902150532
+link: 
 pinned: false
+series: 
 tags: [qrencode, wifi, credentials, password]
 title: Create a QR Code
 type: tech-note

@@ -3,10 +3,11 @@ alias: box-drawing-characters
 category: miscellaneous
 classification: public
 date: 2020-08-25 11:01:45
-date_modified: null
+date_modified: 2020-08-25 11:01:45
 id: 20200825110145
 link: https://en.wikipedia.org/wiki/Box-drawing_character
 pinned: false
+series: 
 tags: [pipe, box, line, characters, cli, plain-text]
 title: Box-drawing characters
 type: tech-note

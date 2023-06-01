@@ -3,9 +3,11 @@ alias: set-static-ip-ubuntu
 category: network
 classification: public
 date: 2020-06-28 13:02:40
-date_modified: null
+date_modified: 2020-06-28 13:02:40
 id: 20200628130240
+link: 
 pinned: false
+series: 
 tags: [static, networking, ubuntu]
 title: Set Static IP on Ubuntu 20.04
 type: tech-note

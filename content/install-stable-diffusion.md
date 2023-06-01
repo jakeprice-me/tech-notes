@@ -3,10 +3,11 @@ alias: install-stable-diffusion
 category: miscellaneous
 classification: public
 date: 2022-09-12 22:01:25
-date_modified: null
+date_modified: 2022-09-12 22:01:25
 id: 20220912220125
 link: https://github.com/lstein/stable-diffusion/blob/main/docs/installation/INSTALL_LINUX.md
 pinned: false
+series: 
 tags: [stable-diffusion, nvidia, gpu, cuda, conda, ai, art, machine-learning]
 title: Install InvokeAI Stable Diffusion Fork
 type: tech-note
