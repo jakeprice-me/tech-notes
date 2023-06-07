@@ -59,7 +59,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [vim](#vim)
 - [vscode](#vscode)
 - [windows](#windows)
-## Notes <sup>177</sup>
+## Notes <sup>179</sup>
 
 
 ### <a id="airflow">airflow</a> <sup>1</sup>
@@ -194,9 +194,10 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2022-01-15 - Installed Gnome Extensions](content/installed-gnome-extensions.md)
 - [2022-02-19 - View All Gnome Shortcuts](content/view-in-use-gnome-shortcuts.md)
 
-### <a id="hardware">hardware</a> <sup>1</sup>
+### <a id="hardware">hardware</a> <sup>2</sup>
 
 - [2022-01-29 - Switch Shortcut Modes on Logitech MX Keys](content/toggle-shortcode-modes-logitech-mx-keys.md)
+- [2023-06-07 - Reset Logitech MX Keys Keyboard](content/reset-logitech-mx-keys-keyboard.md)
 
 ### <a id="hledger">hledger</a> <sup>1</sup>
 
@@ -232,11 +233,12 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2022-09-30 - Extending the Size of a Logical Volume Group](content/extending-the-size-of-a-logical-volume-group.md)
 - [2023-01-07 - Add Linux User without Prompt](content/add-linux-user-without-prompt.md)
 
-### <a id="macos">macos</a> <sup>3</sup>
+### <a id="macos">macos</a> <sup>4</sup>
 
 - [2022-01-09 - Fix "... Damaged Can't be Opened" on MacOS](content/macos-chromium-damaged-cant-be-opened-fix.md)
 - [2022-11-18 - macOS cron Permission Issues](content/macos-cron-permission-issues.md)
 - [2022-11-28 - Set macOS Theme for Specific Apps](content/set-macos-theme-mode-for-specific-apps.md)
+- [2023-06-06 - Use MacOS Privileges App from the Command Line](content/use-macos-privileges-app-from-the-command-line.md)
 
 ### <a id="miscellaneous">miscellaneous</a> <sup>4</sup>
 
