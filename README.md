@@ -59,7 +59,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [vim](#vim)
 - [vscode](#vscode)
 - [windows](#windows)
-## Notes <sup>179</sup>
+## Notes <sup>180</sup>
 
 
 ### <a id="airflow">airflow</a> <sup>1</sup>
@@ -173,10 +173,11 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2020-09-08 - Connect to Fedora from Windows with xRDP](content/connect-to-fedora-from-windows-with-xrdp.md)
 - [2022-05-15 - Install HP Printer on Fedora](content/install-hp-printer-fedora.md)
 
-### <a id="firefox">firefox</a> <sup>2</sup>
+### <a id="firefox">firefox</a> <sup>3</sup>
 
 - [2020-07-14 - Installed Firefox Extensions](content/installed-firefox-extensions.md)
 - [2020-09-25 - Disable Cross-Origin Request Blocking on Firefox](content/disable-cross-origin-request-blocking-firefox.md)
+- [2023-06-16 - Sort Firefox Extensions List](content/sort-firefox-extensions-list.md)
 
 ### <a id="git">git</a> <sup>1</sup>
 
