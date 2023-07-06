@@ -6,6 +6,7 @@ date: 2021-03-02 16:23:13
 date_modified: 2021-03-02 16:23:13
 id: 20210302162313
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [syntax, cloudwatch, logs, insights, average]

@@ -6,6 +6,7 @@ date: 2020-11-24 21:48:52
 date_modified: 2020-11-24 21:48:52
 id: 20201124214852
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [debian, samba, file-server, smb]

@@ -6,6 +6,7 @@ date: 2020-08-25 11:01:45
 date_modified: 2020-08-25 11:01:45
 id: 20200825110145
 link: https://en.wikipedia.org/wiki/Box-drawing_character
+link_archive: 
 pinned: false
 series: 
 tags: [pipe, box, line, characters, cli, plain-text]

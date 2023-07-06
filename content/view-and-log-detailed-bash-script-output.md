@@ -6,6 +6,7 @@ date: 2019-11-22 17:30:25
 date_modified: 2019-11-22 17:30:25
 id: 20191122173025
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [log, bash, script, stdout, stderr, debug, tee, background, process, run]

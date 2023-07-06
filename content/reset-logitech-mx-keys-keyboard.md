@@ -6,6 +6,7 @@ date: 2023-06-07 15:03:44
 date_modified: 2023-06-07 15:03:44
 id: 20230607150346
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [logitech, mx, keyboard, bolt, macos, factory-reset]

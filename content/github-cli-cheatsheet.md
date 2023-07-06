@@ -6,6 +6,7 @@ date: 2022-08-01 14:03:00
 date_modified: 2022-08-01 14:03:00
 id: 20220801140300
 link: https://cli.github.com/manual/gh
+link_archive: 
 pinned: false
 series: 
 tags: [github, gh, cli, git, cheatsheet]

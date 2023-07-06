@@ -6,6 +6,7 @@ date: 2020-03-02 13:43:51
 date_modified: 2020-03-02 13:43:51
 id: 20200302134351
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [s3, aws, winscp, bucket]

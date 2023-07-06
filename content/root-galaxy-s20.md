@@ -6,6 +6,7 @@ date: 2021-11-15 21:01:44
 date_modified: 2021-11-15 21:01:44
 id: 20211115210144
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [samsung, galaxy-s20, android, root]

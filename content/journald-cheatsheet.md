@@ -6,6 +6,7 @@ date: 2022-08-09 16:31:52
 date_modified: 2022-08-09 16:31:52
 id: 20220809163152
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [journald, log, follow]

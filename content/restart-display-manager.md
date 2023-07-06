@@ -6,6 +6,7 @@ date: 2022-10-14 19:23:44
 date_modified: 2022-10-14 19:23:44
 id: 20221014192344
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [fedora, linux, monitor, multiple-monitor, screen, displayport, usb-c, dock]

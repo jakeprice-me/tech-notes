@@ -6,6 +6,7 @@ date: 2023-01-07 20:41:07
 date_modified: 2023-01-07 20:41:07
 id: 20230107204107
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [linux, user, useradd, mkpasswd]

@@ -6,6 +6,7 @@ date: 2022-07-05 20:01:59
 date_modified: 2022-07-05 20:01:59
 id: 20220705200159
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [qr, qrcode]

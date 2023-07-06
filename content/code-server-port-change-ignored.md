@@ -6,6 +6,7 @@ date: 2022-02-08 13:13:24
 date_modified: 2022-02-08 13:13:24
 id: 20220208131324
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [code-server, port, bind, mount, docker]

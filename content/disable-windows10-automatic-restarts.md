@@ -6,6 +6,7 @@ date: 2020-10-23 22:00:29
 date_modified: 2020-10-23 22:00:29
 id: 20201023220029
 link: https://answers.microsoft.com/en-us/windows/forum/all/disable-windows-10-automatic-restart-after-updates/16f1826d-a796-4de8-ac99-1d625420d265?auth=1
+link_archive: 
 pinned: false
 series: 
 tags: [windows-10, updates]

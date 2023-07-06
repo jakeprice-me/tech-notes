@@ -6,6 +6,7 @@ date: 2020-09-25 17:50:47
 date_modified: 2020-09-25 17:50:47
 id: 20200925175047
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [cors, firefox, javascript]

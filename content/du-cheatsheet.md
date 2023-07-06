@@ -6,6 +6,7 @@ date: 2020-07-05 19:40:16
 date_modified: 2020-07-05 19:40:16
 id: 20200705194016
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [disk-usage, du, bash, linux]

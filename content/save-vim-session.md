@@ -6,6 +6,7 @@ date: 2020-06-03 10:02:27
 date_modified: 2020-06-03 10:02:27
 id: 20200603100227
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [vim, sessions, buffers]

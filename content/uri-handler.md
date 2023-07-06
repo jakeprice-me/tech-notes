@@ -6,6 +6,7 @@ date: 2021-09-06 18:15:47
 date_modified: 2021-09-06 18:15:47
 id: 20210906181547
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [gvim, vim, uri, handler, gnome, macos, fedora, macvim, xdg-open]

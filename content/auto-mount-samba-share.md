@@ -6,6 +6,7 @@ date: 2020-12-23 22:07:40
 date_modified: 2020-12-23 22:07:40
 id: 20201223220740
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [fstab, samba, cifs]

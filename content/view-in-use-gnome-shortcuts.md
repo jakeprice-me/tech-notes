@@ -6,6 +6,7 @@ date: 2022-02-19 16:34:00
 date_modified: 2022-02-19 16:34:00
 id: 20220219163400
 link: https://askubuntu.com/questions/1317701/list-all-gnome-shortcuts-currently-in-use
+link_archive: 
 pinned: false
 series: 
 tags: [gnome, shortcut, gsettings, dconf]

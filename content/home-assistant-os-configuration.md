@@ -6,6 +6,7 @@ date: 2022-05-31 16:10:26
 date_modified: 2022-05-31 16:10:26
 id: 20220531161026
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [haos, home-assistant, smart-home, raspberry-pi]

@@ -6,6 +6,7 @@ date: 2022-01-29 21:40:21
 date_modified: 2022-01-29 21:40:21
 id: 20220129214021
 link: https://unix.stackexchange.com/questions/600178/logitech-mx-keys-sends-incorrect-modifier-keys
+link_archive: 
 pinned: false
 series: 
 tags: [logitech, mx, keyboard, macos, windows, linux, cmd, super-key]

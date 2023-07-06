@@ -6,6 +6,7 @@ date: 2020-09-08 20:12:31
 date_modified: 2020-09-08 20:12:31
 id: 20200908201231
 link: https://vi.stackexchange.com/a/2065
+link_archive: 
 pinned: false
 series: 
 tags: [fedora, vim, x11, clipboard, register]

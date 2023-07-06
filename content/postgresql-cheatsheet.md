@@ -6,6 +6,7 @@ date: 2020-08-04 20:53:23
 date_modified: 2020-08-04 20:53:23
 id: 20200804205323
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [sql, commands, statements, psql, postgresql]

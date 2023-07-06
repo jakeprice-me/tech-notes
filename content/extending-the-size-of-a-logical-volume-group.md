@@ -6,6 +6,7 @@ date: 2022-09-30 09:23:42
 date_modified: 2022-09-30 09:23:42
 id: 20220930092342
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [lvm, logical-volume-group, partition, fedora, disk]

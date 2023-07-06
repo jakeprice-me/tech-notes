@@ -6,6 +6,7 @@ date: 2020-12-09 15:23:58
 date_modified: 2020-12-09 15:23:58
 id: 20201209152358
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [azure-ad, powershell]

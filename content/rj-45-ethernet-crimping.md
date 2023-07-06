@@ -6,6 +6,7 @@ date: 2022-12-30 12:36:51
 date_modified: 2022-12-30 12:36:51
 id: 20221230123651
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [rj-45, ethernet, connector, crimp, terminate]

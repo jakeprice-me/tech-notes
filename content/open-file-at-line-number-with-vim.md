@@ -6,6 +6,7 @@ date: 2022-11-16 17:19:31
 date_modified: 2022-11-16 17:19:31
 id: 20221116171931
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [vim, line-number, open, file]

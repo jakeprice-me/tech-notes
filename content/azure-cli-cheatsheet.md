@@ -6,6 +6,7 @@ date: 2022-07-27 16:36:06
 date_modified: 2022-07-27 16:36:06
 id: 20220727163606
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [azure, cli, cheatsheet]

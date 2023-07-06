@@ -6,6 +6,7 @@ date: 2021-02-09 12:33:11
 date_modified: 2021-02-09 12:33:11
 id: 20210209123311
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [cheatsheet, sql, sqlite, database]

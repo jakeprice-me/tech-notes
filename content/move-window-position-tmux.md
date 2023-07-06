@@ -6,6 +6,7 @@ date: 2021-02-28 10:47:55
 date_modified: 2021-02-28 10:47:55
 id: 20210228104755
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [cheatsheet, shortcuts, tmux]

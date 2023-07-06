@@ -6,6 +6,7 @@ date: 2020-06-23 14:37:06
 date_modified: 2020-06-23 14:37:06
 id: 20200623143706
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [bash, loop, iterate]

@@ -6,6 +6,7 @@ date: 2022-11-16 17:22:41
 date_modified: 2022-11-16 17:22:41
 id: 20221116172241
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [vim, split, open, file]

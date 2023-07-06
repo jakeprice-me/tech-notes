@@ -6,6 +6,7 @@ date: 2019-07-17 16:10:12
 date_modified: 2019-07-17 16:10:12
 id: 20190717161012
 link: 
+link_archive: 
 pinned: false
 series: 
 tags: [redhat, aws, ami, cli]
