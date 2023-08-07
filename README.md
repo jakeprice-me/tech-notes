@@ -4,7 +4,7 @@
 
 A flat directory of my notes and knowledge on technical topics, in the same vein as the concept of TIL (Today I Learned) notes.
 
-## Categories <sup>53</sup>
+## Categories <sup>54</sup>
 
 - [airflow](#airflow)
 - [android](#android)
@@ -43,6 +43,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [powershell](#powershell)
 - [putty](#putty)
 - [python](#python)
+- [raspberry-pi](#raspberry-pi)
 - [samba](#samba)
 - [sass](#sass)
 - [sed](#sed)
@@ -173,9 +174,8 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2020-09-08 - Connect to Fedora from Windows with xRDP](content/connect-to-fedora-from-windows-with-xrdp.md)
 - [2022-05-15 - Install HP Printer on Fedora](content/install-hp-printer-fedora.md)
 
-### <a id="firefox">firefox</a> <sup>3</sup>
+### <a id="firefox">firefox</a> <sup>2</sup>
 
-- [2020-07-14 - Installed Firefox Extensions](content/installed-firefox-extensions.md)
 - [2020-09-25 - Disable Cross-Origin Request Blocking on Firefox](content/disable-cross-origin-request-blocking-firefox.md)
 - [2023-06-16 - Sort Firefox Extensions List](content/sort-firefox-extensions-list.md)
 
@@ -316,6 +316,10 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2020-08-23 - Requests Python Library](content/python-requests-cheatsheet.md)
 - [2020-12-24 - List Functions in a Python Module](content/list-functions-in-python-module.md)
 - [2022-01-29 - Automatically create a Pip requirements.txt](content/auto-create-pip-requirements-file.md)
+
+### <a id="raspberry-pi">raspberry-pi</a> <sup>1</sup>
+
+- [2023-07-11 - Enable Hardware Accelerated Video Decoding In Chromium On Raspberry Pi OS](content/enable-hardware-accelerated-video-decoding-in-chromium-on-raspberry-pi-os.md)
 
 ### <a id="samba">samba</a> <sup>2</sup>
 
