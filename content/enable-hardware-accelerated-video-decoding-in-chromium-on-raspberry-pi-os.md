@@ -1,0 +1,33 @@
+---
+alias: enable-hardware-accelerated-video-decoding-in-chromium-on-raspberry-pi-os
+archive_links: []
+category: raspberry-pi
+classification: public
+date: 2023-07-11 15:13:59
+date_modified: 2023-07-11 15:13:59
+id: 20230711151359
+link: https://lemariva.com/blog/2020/08/raspberry-pi-4-video-acceleration-decode-chromium
+local_archive:  
+pinned: false
+series: 
+tags: [video, decode, raspberry-pi, chromium, home-assistant]
+title: Enable Hardware Accelerated Video Decoding In Chromium On Raspberry Pi OS
+type: tech-note
+uuid: 74a0b40e-576b-498d-ac9a-d5f3ba67b8b1
+---
+
+I have a Raspberry Pi 4B I use to display a Home Assistant dashboard, it includes cameras from around my house as well. After a fresh install of my RPI these camera streams don't stream, until I install the below packages.
+
+```
+libgles2-mesa
+libgles2-mesa-dev
+xorg-dev
+```
+
+Video decoding seems to be enabled on Chromium by default now, but I also enable these flags which I found in an article [here](https://lemariva.com/blog/2020/08/raspberry-pi-4-video-acceleration-decode-chromium) - although I'm relatively certain you no longer need to do this! I just haven't gotten round to testing that.
+
+```
+ignore-gpu-blocklist
+enable-gpu-rasterization
+```
+
