@@ -1,12 +1,13 @@
 ---
 alias: jq-filters
+archive_link: []
 category: cli
 classification: public
 date: 2020-10-05 18:17:13
 date_modified: 2020-10-05 18:17:13
 id: 20201005181713
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [jq, json, aws, filter, query]

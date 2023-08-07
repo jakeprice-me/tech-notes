@@ -1,12 +1,13 @@
 ---
 alias: wrap-systemctl-output
+archive_link: []
 category: cli
 classification: public
 date: 2022-10-25 15:10:42
 date_modified: 2022-10-25 15:10:42
 id: 20221025151042
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [systemctl, systemd, wrap, log]

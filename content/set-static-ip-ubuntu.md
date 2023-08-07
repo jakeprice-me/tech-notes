@@ -1,12 +1,13 @@
 ---
 alias: set-static-ip-ubuntu
+archive_link: []
 category: network
 classification: public
 date: 2020-06-28 13:02:40
 date_modified: 2020-06-28 13:02:40
 id: 20200628130240
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [static, networking, ubuntu]

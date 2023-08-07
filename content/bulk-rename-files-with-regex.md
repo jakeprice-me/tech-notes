@@ -1,12 +1,13 @@
 ---
 alias: bulk-rename-files-with-regex
+archive_link: []
 category: cli
 classification: public
 date: 2020-03-27 20:20:03
 date_modified: 2020-03-27 20:20:03
 id: 20200327202003
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [regex, bash, rename, perl]

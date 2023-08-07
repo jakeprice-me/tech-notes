@@ -1,12 +1,13 @@
 ---
 alias: wireguard-commands
+archive_link: []
 category: network
 classification: public
 date: 2023-01-09 14:09:35
 date_modified: 2023-01-09 14:09:35
 id: 20230109140935
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [wireguard, troubleshoot, vpn]

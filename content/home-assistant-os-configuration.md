@@ -1,12 +1,13 @@
 ---
 alias: home-assistant-os-configuration
+archive_link: []
 category: smart-home
 classification: public
 date: 2022-05-31 16:10:26
-date_modified: 2022-05-31 16:10:26
+date_modified: 2023-07-10 14:39:18
 id: 20220531161026
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [haos, home-assistant, smart-home, raspberry-pi]
@@ -17,47 +18,55 @@ uuid: 4da5326e-9557-45d2-9bea-bce6cb5c0257
 
 [TOC]
 
-I use a dedicated Raspberry Pi 4 8GB for running Home Assistant OS.
+I use a dedicated HP EliteDesk Mini for running Home Assistant OS.
 
 ## Initial Installation
 
-Initially, follow the installation guide here to flash the OS onto a MicroSD card for the RPi: [Raspberry Pi - Home Assistant](https://www.home-assistant.io/installation/raspberrypi)
+Make sure you're using UEFI and Secure Boot is disabled.
+
+Then using Balena Etcher, flash the HAOS image directly to the drive you will be using (skipping the USB stick, as it's quicker). The image is located here (but you'll need to check the latest version).
+
+```text
+https://github.com/home-assistant/operating-system/releases/download/10.3/haos_generic-x86-64-10.3.img.xz
+```
 
 ## Post Installation Configuration
+
+https://www.home-assistant.io/getting-started/onboarding/
 
 ### Static IP & Hostname
 
 #### Static IP
 
-Assign a Static IP address in DHCP of `10.19.90.100`.
+Assign a Static IP address in dnsmasq of `10.19.90.99`.
 
 #### Hostname
 
 Change the default hostname to the below.
 
 ```sh
-ha host options --hostname "homeassistant-01"
+host options --hostname "homeassistant-01"
 ```
 
 Once those changes are made reboot the host.
 
 ```sh
-ha host reboot
+host reboot
 ```
 
 ### Restore Backup or Create New Account
 
-Go to http://10.19.90.100:9123 and either upload a backup, or create a new account.
+Go to http://10.19.90.99:8123 and either upload a backup, or create a new account. This process can take 5 to 10 minutes, and you might not get any feedback until it's done if you've not got a screen plugged in to the device.
 
 ### Post New Account Configuration
 
 #### Enable Advanced Mode
 
-Go to http://10.19.90.100:8123/profile and select the button for "Advanced Mode".
+Go to http://10.19.90.99:8123/profile and select the button for "Advanced Mode".
 
 #### Enable SSH Management
 
-Go to http://10.19.90.100:8123/hassio/addon/core_ssh/info and click "Install".
+Go to http://10.19.90.99:8123/hassio/addon/core_ssh/info and click "Install".
 
 After a short wait the addon will be installed. Select the "Watchdog" button and then click "Start" to start the SSH service.
 
@@ -68,26 +77,26 @@ Next add port 22 under the "Network" heading in the "Configuration" tab, click S
 Test it works by trying to ssh into the machine:
 
 ```sh
-ssh root@10.19.90.100 -i ~/.ssh/homeassistant-01
+ssh root@10.19.90.99 -i ~/.ssh/homeassistant-01
 ```
 
 ### Install Mosquitto broker
 
 Original instructions [here](https://mindcomponents.com/home-assistant-zigbee2mqtt-setup-with-raspbee-ii-on-raspberrypi/), but they weren't fully complete as they are below.
 
-Go to http://10.19.90.100:8123/hassio/addon/core_mosquitto/info and click "Install".
+Go to http://10.19.90.99:8123/hassio/addon/core_mosquitto/info and click "Install".
 
 After a short wait the addon will be installed. Select the "Watchdog" button and then click "Start" to start the service.
 
 ### Install Zigbee2MQTT
 
-Go to http://10.19.90.100:8123/hassio/store and click the `⋮` button and then "Repositories". Paste the below into the "Add" field and then click "Add".
+Go to http://10.19.90.99:8123/hassio/store and click the `⋮` button and then "Repositories". Paste the below into the "Add" field and then click "Add".
 
 ```
 https://github.com/zigbee2mqtt/hassio-zigbee2mqtt
 ```
 
-Then click "Close" and go to http://10.19.90.100:8123/hassio/addon/45df7312_zigbee2mqtt/info and click "Install".
+Then click "Close" and go to http://10.19.90.99:8123/hassio/addon/45df7312_zigbee2mqtt/info and click "Install".
 
 After a short wait the addon will be installed. Select the "Watchdog" button, and "Show in sidebar" button and then click "Start" to start the service.
 
@@ -107,19 +116,19 @@ openssl req -newkey rsa:2048 -new \
 Then use `scp` to upload these to the `/root/ssl` directory on the Home Assistant host.
 
 ```sh
-scp -i ~/.ssh/homeassistant-01 /home/jprice/ssl/* root@10.19.90.100:/root/ssl/
+scp -i ~/.ssh/homeassistant-01 /home/jprice/ssl/* root@10.19.90.99:/root/ssl/
 ```
 
-Go to http://10.19.90.100:8123/hassio/addon/core_mosquitto/config and specify the files in each field:
+Go to http://10.19.90.99:8123/hassio/addon/core_mosquitto/config and specify the files in each field:
 
 - Certificate File: `mqtt_cert.pem`
 - Private Key File: `mqtt_key.pem`
 
 Click Save and then "Restart Add-On".
 
-Next go to: http://10.19.90.100:8123/config/integrations and you should now see the MQTT integration has been discovered. Click "Configure" and then in the pop-up box click "Submit" and then "Finish".
+Next go to: http://10.19.90.99:8123/config/integrations and you should now see the MQTT integration has been discovered. Click "Configure" and then in the pop-up box click "Submit" and then "Finish".
 
-Then add the below into the "Serial" field here: http://10.19.90.100:8123/hassio/addon/45df7312_zigbee2mqtt/config
+Then add the below into the "Serial" field here: http://10.19.90.99:8123/hassio/addon/45df7312_zigbee2mqtt/config
 
 ```yaml
 port: /dev/serial/by-id/usb-dresden_elektronik_ingenieurtechnik_GmbH_ConBee_II_DE2490845-if00
@@ -160,13 +169,13 @@ INFO: Remember to restart Home Assistant before you configure it
 
 ```
 
-Then restart Home Assistant from the system screen: http://10.19.90.100:8123/config/system
+Then restart Home Assistant from the system screen: http://10.19.90.99:8123/config/system
 
 ### Install HACS Add-ons
 
-Add HACS as an Integration here: http://10.19.90.100:8123/config/integrations by clicking "Add Integration", searching for HACS, and following the setup wizard.
+Add HACS as an Integration here: http://10.19.90.99:8123/config/integrations by clicking "Add Integration", searching for HACS, and following the setup wizard.
 
-Go to http://10.19.90.100:8123/hacs/integrations and install the following add-ons:
+Go to http://10.19.90.99:8123/hacs/integrations and install the following add-ons:
 
 - Passive BLE monitor integration
 - Tapo Controller

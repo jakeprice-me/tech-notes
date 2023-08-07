@@ -1,12 +1,13 @@
 ---
 alias: resize-logical-volume-partition
+archive_link: []
 category: linux
 classification: public
 date: 2022-02-08 10:18:09
 date_modified: 2022-02-08 10:18:09
 id: 20220208101809
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [lvm, qemu, vm, partition, virsh]

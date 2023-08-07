@@ -1,12 +1,13 @@
 ---
 alias: visual-line-wrap-in-vim
+archive_link: []
 category: vim
 classification: public
 date: 2020-06-18 17:18:28
 date_modified: 2020-06-18 17:18:28
 id: 20200618171828
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [vim, wrapping, word-wrap]

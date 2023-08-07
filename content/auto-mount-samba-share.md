@@ -1,12 +1,13 @@
 ---
 alias: auto-mount-samba-share
+archive_link: []
 category: samba
 classification: public
 date: 2020-12-23 22:07:40
 date_modified: 2020-12-23 22:07:40
 id: 20201223220740
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [fstab, samba, cifs]
@@ -15,8 +16,8 @@ type: tech-note
 uuid: 9611c17b-680f-416d-8509-ae89c2430a64
 ---
 
-> [!tip]
-> If you encounter issues, or need to query what certain comma separated parameters mean then query the manual: `man mount.cifs`.
+!!! tip
+	If you encounter issues, or need to query what certain comma separated parameters mean then query the manual: `man mount.cifs`.
 
 Create a directory to mount Samba into `mkdir --parents /mnt/my`.
 
@@ -35,8 +36,8 @@ username=value
 password=value
 ```
 
-> [!tip]
-> You may need to install `cifs-utils`.
+!!! tip
+	You may need to install `cifs-utils`.
 
 You can test the drive mounts at boot, without rebooting, by running the below.
 
@@ -54,5 +55,5 @@ sudo chmod +s /bin/umount
 sudo chmod +s /usr/sbin/mount.cifs
 ```
 
-> [!admonition warning]
-> This works, but does seem to have trouble automounting and auto-unmounting on Fedora. I've not worked out why that is yet. I often have to run `sudo mount -a` after logging in.
+!!! warning
+    This works, but does seem to have trouble automounting and auto-unmounting on Fedora. I've not worked out why that is yet. I often have to run `sudo mount -a` after logging in.

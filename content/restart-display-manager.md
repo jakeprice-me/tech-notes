@@ -1,12 +1,13 @@
 ---
 alias: restart-display-manager
+archive_link: []
 category: cli
 classification: public
 date: 2022-10-14 19:23:44
 date_modified: 2022-10-14 19:23:44
 id: 20221014192344
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [fedora, linux, monitor, multiple-monitor, screen, displayport, usb-c, dock]

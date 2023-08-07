@@ -1,12 +1,13 @@
 ---
 alias: add-linux-user-without-prompt
+archive_link: []
 category: linux
 classification: public
 date: 2023-01-07 20:41:07
 date_modified: 2023-01-07 20:41:07
 id: 20230107204107
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [linux, user, useradd, mkpasswd]

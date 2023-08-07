@@ -1,12 +1,13 @@
 ---
 alias: keep-ssh-connection-alive
+archive_link: []
 category: cli
 classification: public
 date: 2020-07-01 21:26:41
 date_modified: 2020-07-01 21:26:41
 id: 20200701212641
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [ssh, connection, linux]

@@ -1,12 +1,13 @@
 ---
 alias: manage-ec2-keypairs-aws-cli
+archive_link: []
 category: aws
 classification: public
 date: 2020-08-26 15:25:49
 date_modified: 2020-08-26 15:25:49
 id: 20200826152549
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [aws, cli, ssh, keys, ec2]

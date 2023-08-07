@@ -1,12 +1,13 @@
 ---
 alias: create-powershell-profile
+archive_link: []
 category: powershell
 classification: public
 date: 2020-06-19 11:57:42
 date_modified: 2020-06-19 11:57:42
 id: 20200619115742
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [powershell, profile, windows]

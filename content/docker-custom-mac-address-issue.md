@@ -1,12 +1,13 @@
 ---
 alias: docker-custom-mac-address-issue
+archive_link: []
 category: docker
 classification: public
 date: 2021-12-10 21:01:16
 date_modified: 2021-12-10 21:01:16
 id: 20211210210116
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [docker, raspberry-pi, mac, range]

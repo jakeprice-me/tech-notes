@@ -1,12 +1,13 @@
 ---
 alias: extract-apk-android-using-adb
+archive_link: []
 category: android
 classification: public
 date: 2020-03-25 10:51:10
 date_modified: 2020-03-25 10:51:10
 id: 20200325105110
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [android, phone, apps, apk, pull, extract, download]

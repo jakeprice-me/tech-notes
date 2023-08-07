@@ -1,12 +1,13 @@
 ---
 alias: list-functions-in-python-module
+archive_link: []
 category: python
 classification: public
 date: 2020-12-24 15:29:05
 date_modified: 2020-12-24 15:29:05
 id: 20201224152905
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [python, module, functions]

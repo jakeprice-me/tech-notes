@@ -1,12 +1,13 @@
 ---
 alias: multiple-subdirectory-sed-operation
+archive_link: []
 category: bash
 classification: public
 date: 2020-11-24 18:51:02
 date_modified: 2020-11-24 18:51:02
 id: 20201124185102
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [loop, iterate, sed, bash]

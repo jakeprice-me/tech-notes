@@ -1,12 +1,13 @@
 ---
 alias: kusto-tips-and-snippets
+archive_link: []
 category: azure
 classification: public
 date: 2022-10-19 14:00:41
 date_modified: 2022-10-19 14:00:41
 id: 20221019140041
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [kusto, azure, query, log, metrics]

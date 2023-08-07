@@ -1,12 +1,13 @@
 ---
 alias: ipv4-address-classes
+archive_link: []
 category: network
 classification: public
 date: 2020-07-02 17:04:56
 date_modified: 2020-07-02 17:04:56
 id: 20200702170456
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [networking, ipv4]

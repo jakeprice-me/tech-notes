@@ -1,12 +1,13 @@
 ---
 alias: sort-files-and-directories-by-disk-size
+archive_link: []
 category: cli
 classification: public
 date: 2019-01-28 12:52:01
 date_modified: 2019-01-28 12:52:01
 id: 20190128125201
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [file, directory, size]

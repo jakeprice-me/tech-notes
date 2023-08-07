@@ -1,12 +1,13 @@
 ---
 alias: hard-wrap-selection-in-vim
+archive_link: []
 category: vim
 classification: public
 date: 2022-10-21 12:37:10
 date_modified: 2022-10-21 12:37:10
 id: 20221021123710
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [vim, hard-wrap, wrap, text-width]

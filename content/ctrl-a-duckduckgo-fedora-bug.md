@@ -1,12 +1,13 @@
 ---
 alias: ctrl-a-duckduckgo-fedora-bug
+archive_link: []
 category: fedora
 classification: public
 date: 2020-03-26 19:04:25
 date_modified: 2020-03-26 19:04:25
 id: 20200326190425
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [shortcuts, keyboard, duckduckgo, fedora]

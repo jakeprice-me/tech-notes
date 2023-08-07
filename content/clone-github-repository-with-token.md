@@ -1,12 +1,13 @@
 ---
 alias: clone-github-repository-with-token
+archive_link: []
 category: github
 classification: public
 date: 2022-09-09 21:13:39
 date_modified: 2022-09-09 21:13:39
 id: 20220909211339
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [github, token, clone, personal-access-token]

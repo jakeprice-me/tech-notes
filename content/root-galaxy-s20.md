@@ -1,12 +1,13 @@
 ---
 alias: root-galaxy-s20
+archive_link: []
 category: android
 classification: public
 date: 2021-11-15 21:01:44
 date_modified: 2021-11-15 21:01:44
 id: 20211115210144
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [samsung, galaxy-s20, android, root]
@@ -27,8 +28,8 @@ And also the below from Magisk.
 
 - [Installation | Magisk](https://topjohnwu.github.io/Magisk/install.html#samsung-system-as-root) - [Local Archive](attachments/20220211144549-install.html)
 
-> [!danger]
-> Unlocking the bootloader will erase all data on the phone.
+!!! danger
+	Unlocking the bootloader will erase all data on the phone.
 
 - Unlock Bootloader. Developer options > OEM Unlocking > True
 - Power off and boot into Download Mode by connecting it to the PC whilst holding volume up and down.
@@ -66,8 +67,8 @@ samloader --dev-model SM-G980F --dev-region BTU decrypt --fw-ver G980FXXUDEVA9/G
 
 ### Extract Firmware
 
-> [!warning]
-> If initial extraction fails, download the firmware again.
+!!! warning
+	If initial extraction fails, download the firmware again.
 
 ```sh
 unzip ~/Downloads/samsung/SM-G980F_3_20220126141002_sqgfarrj77_fac.zip -d ~/Downloads/samsung/
@@ -90,8 +91,8 @@ adb push AP_G980FXXSFGVK7_G980FXXSFGVK7_MQB59365521_REV01_user_low_ship_MULTI_CE
 
 ## Flash with Odin3 v3.14 on Windows
 
-> [!warning]
-> It is crucial you use a reliable USB-C cable to avoid soft-bricking the phone. A good test is to wiggle the connection and if it disconnects when you do that, _do not use it_!
+!!! warning
+	It is crucial you use a reliable USB-C cable to avoid soft-bricking the phone. A good test is to wiggle the connection and if it disconnects when you do that, _do not use it_!
 
 Begin by loading the firmware binaries in the Odin tool as instructed below:
 

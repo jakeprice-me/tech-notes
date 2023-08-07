@@ -1,12 +1,13 @@
 ---
 alias: jq-cheatsheet
+archive_link: []
 category: cli
 classification: public
 date: 2020-05-08 11:24:48
 date_modified: 2020-05-08 11:24:48
 id: 20200508112448
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [jq, json]

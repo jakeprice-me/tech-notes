@@ -1,12 +1,13 @@
 ---
 alias: selinux-cheatsheet
+archive_link: []
 category: selinux
 classification: public
 date: 2020-10-29 21:18:53
 date_modified: 2020-10-29 21:18:53
 id: 20201029211853
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [selinux, centos, redhat, security, ports, blocking, allow, firewall, cheatsheet]

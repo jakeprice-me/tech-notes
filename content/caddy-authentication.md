@@ -1,12 +1,13 @@
 ---
 alias: caddy-authentication
+archive_link: []
 category: caddy
 classification: public
 date: 2022-12-31 14:31:23
 date_modified: 2022-12-31 14:31:23
 id: 20221231143123
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [caddy, authentication, basic-authentication, hash]

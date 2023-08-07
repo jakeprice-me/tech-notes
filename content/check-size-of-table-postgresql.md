@@ -1,12 +1,13 @@
 ---
 alias: check-size-of-table-postgresql
+archive_link: []
 category: postgresql
 classification: public
 date: 2020-09-22 12:50:20
 date_modified: 2020-09-22 12:50:20
 id: 20200922125020
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [postgresql, psql, tables, size, database]

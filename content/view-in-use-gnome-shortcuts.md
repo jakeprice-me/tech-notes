@@ -1,12 +1,13 @@
 ---
 alias: view-in-use-gnome-shortcuts
+archive_link: []
 category: gnome
 classification: public
 date: 2022-02-19 16:34:00
 date_modified: 2022-02-19 16:34:00
 id: 20220219163400
 link: https://askubuntu.com/questions/1317701/list-all-gnome-shortcuts-currently-in-use
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [gnome, shortcut, gsettings, dconf]

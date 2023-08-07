@@ -1,12 +1,13 @@
 ---
 alias: prepare-new-drive-linux
+archive_link: []
 category: linux
 classification: public
 date: 2020-12-11 13:34:32
 date_modified: 2020-12-11 13:34:32
 id: 20201211133432
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [format, ext4, hard-drive, linux, disk]

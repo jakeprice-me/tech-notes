@@ -1,12 +1,13 @@
 ---
 alias: set-static-ip-address-debian
+archive_link: []
 category: network
 classification: public
 date: 2020-12-10 10:17:15
 date_modified: 2020-12-10 10:17:15
 id: 20201210101715
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [debian, networking, ip, linux]
@@ -15,8 +16,8 @@ type: tech-note
 uuid: ed99730f-0dbf-40a2-ab79-1431bd5bd8e2
 ---
 
-> [!danger]
-> There's a not insignificant chance you'll get kicked out of the server, so you should be physically present to reboot it to get back in. Don't do it on a server you can't access.
+!!! danger
+	There's a not insignificant chance you'll get kicked out of the server, so you should be physically present to reboot it to get back in. Don't do it on a server you can't access.
 
 ```sh
 # File: /etc/network/interfaces

@@ -1,12 +1,13 @@
 ---
 alias: install-aws-cloudwatch-agent-linux
+archive_link: []
 category: aws
 classification: public
 date: 2021-01-11 14:50:45
 date_modified: 2021-01-11 14:50:45
 id: 20210111145045
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [aws, cloudwatch, linux, monitoring, metrics]

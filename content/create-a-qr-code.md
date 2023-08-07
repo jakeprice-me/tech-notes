@@ -1,12 +1,13 @@
 ---
 alias: create-a-qr-code
+archive_link: []
 category: cli
 classification: public
 date: 2021-09-02 15:05:32
 date_modified: 2021-09-02 15:05:32
 id: 20210902150532
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [qrencode, wifi, credentials, password]

@@ -1,12 +1,13 @@
 ---
 alias: python-requests-cheatsheet
+archive_link: []
 category: python
 classification: public
 date: 2020-08-23 19:32:17
 date_modified: 2020-08-23 19:32:17
 id: 20200823193217
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [python, requests, api]

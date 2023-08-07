@@ -1,12 +1,13 @@
 ---
 alias: azure-cli-cheatsheet
+archive_link: []
 category: azure
 classification: public
 date: 2022-07-27 16:36:06
 date_modified: 2022-07-27 16:36:06
 id: 20220727163606
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [azure, cli, cheatsheet]

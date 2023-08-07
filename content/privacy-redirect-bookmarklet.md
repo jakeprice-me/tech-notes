@@ -1,12 +1,13 @@
 ---
 alias: privacy-redirect-bookmarklet
+archive_link: []
 category: javascript
 classification: public
 date: 2023-05-10 21:25:40
 date_modified: 2023-05-10 21:25:40
 id: 20230510212540
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [bookmarklet, javascript, chrome, firefox, nitter, twitter, reddit, libreddit]

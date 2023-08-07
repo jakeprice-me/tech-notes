@@ -1,12 +1,13 @@
 ---
 alias: enable-vscode-scope-inspector
+archive_link: []
 category: vscode
 classification: public
 date: 2020-07-05 19:43:21
 date_modified: 2020-07-05 19:43:21
 id: 20200705194321
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [vscode, editor]

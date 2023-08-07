@@ -1,12 +1,13 @@
 ---
 alias: use-macos-privileges-app-from-the-command-line
+archive_link: []
 category: macos
 classification: public
 date: 2023-06-06 12:07:53
 date_modified: 2023-06-06 12:07:53
 id: 20230606120753
 link: https://github.com/SAP/macOS-enterprise-privileges/wiki/Frequently-Asked-Questions#how-do-i-use-privilegesapp-in-a-script-or-from-the-command-line
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [admin, sudo, privileges, cli]

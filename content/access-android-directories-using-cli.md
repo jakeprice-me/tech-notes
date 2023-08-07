@@ -1,12 +1,13 @@
 ---
 alias: access-android-directories-using-cli
+archive_link: []
 category: android
 classification: public
 date: 2020-09-06 15:26:26
 date_modified: 2020-09-06 15:26:26
 id: 20200906152626
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [android, gvfs, samsung, galaxy-s20, mtp]

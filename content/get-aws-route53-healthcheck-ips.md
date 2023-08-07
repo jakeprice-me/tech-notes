@@ -1,12 +1,13 @@
 ---
 alias: get-aws-route53-healthcheck-ips
+archive_link: []
 category: aws
 classification: public
 date: 2020-12-22 16:32:06
 date_modified: 2020-12-22 16:32:06
 id: 20201222163206
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [aws, route53, ip, health, check, ipv4]

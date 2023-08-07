@@ -1,12 +1,13 @@
 ---
 alias: exchange-online-powershell-cheatsheet
+archive_link: []
 category: powershell
 classification: public
 date: 2020-11-25 17:21:11
 date_modified: 2020-11-25 17:21:11
 id: 20201125172111
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [exchange, azure, office, powershell]

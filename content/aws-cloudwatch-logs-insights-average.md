@@ -1,12 +1,13 @@
 ---
 alias: aws-cloudwatch-logs-insights-average
+archive_link: []
 category: aws
 classification: public
 date: 2021-03-02 16:23:13
 date_modified: 2021-03-02 16:23:13
 id: 20210302162313
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [syntax, cloudwatch, logs, insights, average]

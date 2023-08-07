@@ -1,12 +1,13 @@
 ---
 alias: installed-gnome-extensions
+archive_link: []
 category: gnome
 classification: public
 date: 2022-01-15 17:17:50
 date_modified: 2022-01-15 17:17:50
 id: 20220115171750
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [gnome, extensions]

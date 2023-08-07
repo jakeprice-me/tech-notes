@@ -1,12 +1,13 @@
 ---
 alias: ansible-cheatsheet
+archive_link: []
 category: ansible
 classification: public
 date: 2021-01-16 13:07:43
 date_modified: 2021-01-16 13:07:43
 id: 20210116130743
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [ansible, cheatsheet]

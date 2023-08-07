@@ -1,12 +1,13 @@
 ---
 alias: hide-apache-tomcat-version-details
+archive_link: []
 category: tomcat
 classification: public
 date: 2020-10-10 11:57:30
 date_modified: 2020-10-10 11:57:30
 id: 20201010115730
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [tomcat, apache, version, security]

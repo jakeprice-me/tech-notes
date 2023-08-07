@@ -1,12 +1,13 @@
 ---
 alias: delete-files-matching-a-pattern-using-find
+archive_link: []
 category: cli
 classification: public
 date: 2019-01-28 09:43:00
 date_modified: 2019-01-28 09:43:00
 id: 20190128094300
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [find, delete, file, directory, pattern]

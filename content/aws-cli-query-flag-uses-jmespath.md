@@ -1,12 +1,13 @@
 ---
 alias: aws-cli-query-flag-uses-jmespath
+archive_link: []
 category: aws
 classification: public
 date: 2019-09-11 11:29:04
 date_modified: 2019-09-11 11:29:04
 id: 20190911112904
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [aws-cli, jmespath]

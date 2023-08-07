@@ -1,12 +1,13 @@
 ---
 alias: postgresql-cheatsheet
+archive_link: []
 category: postgresql
 classification: public
 date: 2020-08-04 20:53:23
 date_modified: 2020-08-04 20:53:23
 id: 20200804205323
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [sql, commands, statements, psql, postgresql]

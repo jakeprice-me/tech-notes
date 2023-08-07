@@ -1,12 +1,13 @@
 ---
 alias: inconsolata-wsltty-windows-10
+archive_link: []
 category: windows
 classification: public
 date: 2020-08-01 14:19:31
 date_modified: 2020-08-01 14:19:31
 id: 20200801141931
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [wsltty, inconsolata, fonts]

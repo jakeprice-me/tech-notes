@@ -1,12 +1,13 @@
 ---
 alias: convert-json-to-minified-json
+archive_link: []
 category: python
 classification: public
 date: 2020-07-05 19:45:25
 date_modified: 2020-07-05 19:45:25
 id: 20200705194525
 link: https://github.com/tikitu/jsmin/
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [json, python, minify]

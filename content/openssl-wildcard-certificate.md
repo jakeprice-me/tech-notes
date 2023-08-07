@@ -1,12 +1,13 @@
 ---
 alias: openssl-wildcard-certificate
+archive_link: []
 category: openssl
 classification: public
 date: 2021-01-09 20:45:54
 date_modified: 2021-01-09 20:45:54
 id: 20210109204554
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [openssl, lan, self-hosted, certificate, authority]

@@ -1,12 +1,13 @@
 ---
 alias: conventional-commits-types
+archive_link: []
 category: git
 classification: public
 date: 2023-07-04 15:11:26
 date_modified: 2023-07-04 15:11:26
 id: 20230704151126
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [git, conventional-commits, type]

@@ -1,12 +1,13 @@
 ---
 alias: get-the-disk-size-of-a-file-or-directory
+archive_link: []
 category: cli
 classification: public
 date: 2019-03-08 11:34:54
 date_modified: 2019-03-08 11:34:54
 id: 20190308113454
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [file, directory, size]

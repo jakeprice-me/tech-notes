@@ -1,12 +1,13 @@
 ---
 alias: exif-tool-cheatsheet
+archive_link: []
 category: cli
 classification: public
 date: 2021-12-29 14:05:07
 date_modified: 2021-12-29 14:05:07
 id: 20211229140507
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [exif, photo, video, tag]

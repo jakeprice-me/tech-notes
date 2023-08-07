@@ -1,12 +1,13 @@
 ---
 alias: speed-up-powershell-invoke-webrequest
+archive_link: []
 category: powershell
 classification: public
 date: 2020-08-14 15:18:44
 date_modified: 2020-08-14 15:18:44
 id: 20200814151844
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [windows, powershell]

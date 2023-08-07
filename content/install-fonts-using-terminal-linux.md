@@ -1,12 +1,13 @@
 ---
 alias: install-fonts-using-terminal-linux
+archive_link: []
 category: linux
 classification: public
 date: 2021-01-01 15:03:58
 date_modified: 2021-01-01 15:03:58
 id: 20210101150358
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [linux, fonts]
@@ -26,5 +27,5 @@ sudo cp /tmp/fonts/ttf/Inconsolata-*.ttf /usr/local/share/fonts/
 sudo fc-cache /usr/local/share/fonts/
 ```
 
-> [!tip]
-> You can check `/etc/fonts/fonts.conf` for a list of directories that contain fonts.
+!!! tip
+	You can check `/etc/fonts/fonts.conf` for a list of directories that contain fonts.

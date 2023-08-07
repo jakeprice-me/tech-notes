@@ -1,12 +1,13 @@
 ---
 alias: tmux-split-window-edit-alias
+archive_link: []
 category: tmux
 classification: public
 date: 2020-07-04 19:01:10
 date_modified: 2020-07-04 19:01:10
 id: 20200704190110
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [tmux, vim, shell, alias]

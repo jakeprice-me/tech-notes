@@ -1,12 +1,13 @@
 ---
 alias: find-out-laptop-screen-panel-model
+archive_link: []
 category: linux
 classification: public
 date: 2022-01-19 20:51:59
 date_modified: 2022-01-19 20:51:59
 id: 20220119205159
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [laptop, lcd, panel, edid, edp]

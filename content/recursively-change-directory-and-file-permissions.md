@@ -1,12 +1,13 @@
 ---
 alias: recursively-change-directory-and-file-permissions
+archive_link: []
 category: cli
 classification: public
 date: 2021-07-26 14:37:38
 date_modified: 2021-07-26 14:37:38
 id: 20210726143738
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [find, chmod, recursive, permission]

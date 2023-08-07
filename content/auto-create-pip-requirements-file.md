@@ -1,12 +1,13 @@
 ---
 alias: auto-create-pip-requirements-file
+archive_link: []
 category: python
 classification: public
 date: 2022-01-29 14:30:03
 date_modified: 2022-01-29 14:30:03
 id: 20220129143003
 link: https://stackoverflow.com/questions/31684375/automatically-create-requirements-txt
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [python, pip, requirements, dependencies]

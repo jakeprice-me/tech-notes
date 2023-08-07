@@ -1,12 +1,13 @@
 ---
 alias: docker-container-name-clash
+archive_link: []
 category: docker
 classification: public
 date: 2022-06-01 16:38:01
 date_modified: 2022-06-01 16:38:01
 id: 20220601163801
 link: https://stackoverflow.com/a/55040196/9625225
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [php, docker, caddy]

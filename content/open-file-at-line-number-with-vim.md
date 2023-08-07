@@ -1,12 +1,13 @@
 ---
 alias: open-file-at-line-number-with-vim
+archive_link: []
 category: vim
 classification: public
 date: 2022-11-16 17:19:31
 date_modified: 2022-11-16 17:19:31
 id: 20221116171931
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [vim, line-number, open, file]

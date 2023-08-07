@@ -1,12 +1,13 @@
 ---
 alias: reset-logitech-mx-keys-keyboard
+archive_link: []
 category: hardware
 classification: public
 date: 2023-06-07 15:03:44
 date_modified: 2023-06-07 15:03:44
 id: 20230607150346
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [logitech, mx, keyboard, bolt, macos, factory-reset]
@@ -26,5 +27,5 @@ I came across the below steps to reset it, which fixed the issue.
 
 Device Switch 1 will now blink rapidly, which means it's ready to be paired again.
 
-> [!tip]
-> On macOS at least I had to manually remove the keyboard from Logi Bolt before I could actually re-pair it with my Unifying Receiver.
+!!! tip
+	On macOS at least I had to manually remove the keyboard from Logi Bolt before I could actually re-pair it with my Unifying Receiver.

@@ -1,12 +1,13 @@
 ---
 alias: powershell-date-command
+archive_link: []
 category: powershell
 classification: public
 date: 2020-03-18 12:36:45
 date_modified: 2020-03-18 12:36:45
 id: 20200318123645
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [powershell, date]

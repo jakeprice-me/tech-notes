@@ -1,12 +1,13 @@
 ---
 alias: save-vim-session
+archive_link: []
 category: vim
 classification: public
 date: 2020-06-03 10:02:27
 date_modified: 2020-06-03 10:02:27
 id: 20200603100227
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [vim, sessions, buffers]

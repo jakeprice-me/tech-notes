@@ -1,12 +1,13 @@
 ---
 alias: loop-through-files-search-and-replace
+archive_link: []
 category: bash
 classification: public
 date: 2020-03-09 20:13:20
 date_modified: 2020-03-09 20:13:20
 id: 20200309201320
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [bash, sed, loop, iteration]

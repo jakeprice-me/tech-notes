@@ -1,12 +1,13 @@
 ---
 alias: download-vsix-for-any-vscode-extension
+archive_link: []
 category: vscode
 classification: public
 date: 2020-10-21 10:00:20
 date_modified: 2020-10-21 10:00:20
 id: 20201021100020
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [vscode, extensions, vsix, codium]
@@ -15,8 +16,8 @@ type: tech-note
 uuid: 77bff079-068f-4b20-aef3-f9a22284caa1
 ---
 
->[!tip]
-> The `.vsix` file is simply a zip archive. You can unzip it and see the contents.
+!!! tip
+    The `.vsix` file is simply a zip archive. You can unzip it and see the contents.
 
 You can get the details needed to fill in the required parameters from the `package.json` of any extension you wish to download. This can be found in the extension's repository on GitHub.
 

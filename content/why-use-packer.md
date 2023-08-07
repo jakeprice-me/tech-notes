@@ -1,12 +1,13 @@
 ---
 alias: why-use-packer
+archive_link: []
 category: packer
 classification: public
 date: 2021-02-28 11:15:14
 date_modified: 2021-02-28 11:15:14
 id: 20210228111514
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [packer, ansible, ami, image, configuration, devops]

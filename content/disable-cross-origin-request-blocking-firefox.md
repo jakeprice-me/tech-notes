@@ -1,12 +1,13 @@
 ---
 alias: disable-cross-origin-request-blocking-firefox
+archive_link: []
 category: firefox
 classification: public
 date: 2020-09-25 17:50:47
 date_modified: 2020-09-25 17:50:47
 id: 20200925175047
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [cors, firefox, javascript]
@@ -23,8 +24,8 @@ Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remot
 
 It's only an issue when running locally, but a quick and easy way to resolve it can be found in `about:config` on Firefox. The following preference should be set to `false`.
 
-> [!warning]
-> Make sure you set it back to `true` once you have finished testing.
+!!! warning
+	Make sure you set it back to `true` once you have finished testing.
 
 ```ini
 security.fileuri.strict_origin_policy: false

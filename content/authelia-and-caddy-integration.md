@@ -1,12 +1,13 @@
 ---
 alias: authelia-and-caddy-integration
+archive_link: []
 category: authelia
 classification: public
 date: 2023-01-11 19:46:11
 date_modified: 2023-01-11 19:46:11
 id: 20230111194611
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [authelia, caddy, security, login, authentication]

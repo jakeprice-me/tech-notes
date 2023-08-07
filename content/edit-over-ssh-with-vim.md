@@ -1,12 +1,13 @@
 ---
 alias: edit-over-ssh-with-vim
+archive_link: []
 category: vim
 classification: public
 date: 2020-06-19 10:05:44
 date_modified: 2020-06-19 10:05:44
 id: 20200619100544
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [vim, remote, scp]

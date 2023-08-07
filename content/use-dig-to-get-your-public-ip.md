@@ -1,12 +1,13 @@
 ---
 alias: use-dig-to-get-your-public-ip
+archive_link: []
 category: cli
 classification: public
 date: 2020-05-30 13:34:52
 date_modified: 2020-05-30 13:34:52
 id: 20200530133452
 link: https://unix.stackexchange.com/questions/22615/how-can-i-get-my-external-ip-address-in-a-shell-script)
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [dig, linux, ip, dnsutils]

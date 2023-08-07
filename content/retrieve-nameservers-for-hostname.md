@@ -1,12 +1,13 @@
 ---
 alias: retrieve-nameservers-for-hostname
+archive_link: []
 category: cli
 classification: public
 date: 2019-03-05 09:44:09
 date_modified: 2019-03-05 09:44:09
 id: 20190305094409
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [nameserver, dns, hostname, domain]

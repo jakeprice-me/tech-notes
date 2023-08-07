@@ -1,12 +1,13 @@
 ---
 alias: wsl-network-share
+archive_link: []
 category: windows
 classification: public
 date: 2020-04-08 18:52:05
 date_modified: 2020-04-08 18:52:05
 id: 20200408185205
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [wsl]

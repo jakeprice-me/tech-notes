@@ -1,12 +1,13 @@
 ---
 alias: linux-shells
+archive_link: []
 category: linux
 classification: public
 date: 2020-07-14 21:15:25
 date_modified: 2020-07-14 21:15:25
 id: 20200714211525
 link: https://unix.stackexchange.com/questions/170493/login-non-login-and-interactive-non-interactive-shells/170499#170499
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [bash, shell, linux, stack-exchange]

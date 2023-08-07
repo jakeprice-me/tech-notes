@@ -1,12 +1,13 @@
 ---
 alias: start-and-stop-a-network-interface
+archive_link: []
 category: network
 classification: public
 date: 2019-01-31 17:53:23
 date_modified: 2019-01-31 17:53:23
 id: 20190131175323
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [network, ifconfig, interface]

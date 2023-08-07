@@ -1,12 +1,13 @@
 ---
 alias: openssl
+archive_link: []
 category: openssl
 classification: public
 date: 2021-08-13 18:14:04
 date_modified: 2021-08-13 18:14:04
 id: 20210813181404
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [certificate, certificate-authority, ca]
@@ -71,8 +72,8 @@ DNS.2 = local.lan
 
 ## Wildcard Certificate
 
-> [!tip]
-> On MacOS you have to use `sudo` for the final certificate creation command otherwise you get an error with the `srl` file not being accessible.
+!!! tip
+	On MacOS you have to use `sudo` for the final certificate creation command otherwise you get an error with the `srl` file not being accessible.
 
 ```sh
 # Create key:

@@ -1,12 +1,13 @@
 ---
 alias: kubernetes-cheatsheet
+archive_link: []
 category: kubernetes
 classification: public
 date: 2021-12-07 11:18:37
 date_modified: 2021-12-07 11:18:37
 id: 20211207111837
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [cheatsheat, kubernetes, orchestration]

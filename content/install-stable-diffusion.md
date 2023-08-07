@@ -1,12 +1,13 @@
 ---
 alias: install-stable-diffusion
+archive_link: []
 category: miscellaneous
 classification: public
 date: 2022-09-12 22:01:25
 date_modified: 2022-09-12 22:01:25
 id: 20220912220125
 link: https://github.com/lstein/stable-diffusion/blob/main/docs/installation/INSTALL_LINUX.md
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [stable-diffusion, nvidia, gpu, cuda, conda, ai, art, machine-learning]

@@ -1,12 +1,13 @@
 ---
 alias: openssl-on-macos-configuration
+archive_link: []
 category: openssl
 classification: public
 date: 2021-08-13 16:11:21
 date_modified: 2021-08-13 16:11:21
 id: 20210813161121
 link: 
-link_archive: 
+local_archive: 
 pinned: false
 series: 
 tags: [openssl, macos]
