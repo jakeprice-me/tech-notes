@@ -30,7 +30,7 @@ If connection is lost, and a sensor stops reporting, the simplest way to fix is 
 	This seems to pretty consistently work, step 2 is particularly important if you have issues with the battery status not registering, which also tends to mean the sensor values aren't being published.
 
 !!! warning
-	If it really doesn't work, then remove the battery and try again in 30 minutes.
+	If it really doesn't work, then swap the battery with another and try again. It'll sometimes take a few goes before it gets picked up. Often you just have to keep restarting, and trying until it works.
 
 ## Replace Battery
 
