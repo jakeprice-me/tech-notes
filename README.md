@@ -60,7 +60,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [vim](#vim)
 - [vscode](#vscode)
 - [windows](#windows)
-## Notes <sup>182</sup>
+## Notes <sup>183</sup>
 
 
 ### <a id="airflow">airflow</a> <sup>1</sup>
@@ -197,10 +197,11 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2022-01-15 - Installed Gnome Extensions](content/installed-gnome-extensions.md)
 - [2022-02-19 - View All Gnome Shortcuts](content/view-in-use-gnome-shortcuts.md)
 
-### <a id="hardware">hardware</a> <sup>2</sup>
+### <a id="hardware">hardware</a> <sup>3</sup>
 
 - [2022-01-29 - Switch Shortcut Modes on Logitech MX Keys](content/toggle-shortcode-modes-logitech-mx-keys.md)
 - [2023-06-07 - Reset Logitech MX Keys Keyboard](content/reset-logitech-mx-keys-keyboard.md)
+- [2023-09-01 - Anker Soundcore Mini 2 Bluetooth Volume Control on Windows 10](content/anker-soundcore-mini-2-bluetooth-volume-control-on-windows-10.md)
 
 ### <a id="hledger">hledger</a> <sup>1</sup>
 
