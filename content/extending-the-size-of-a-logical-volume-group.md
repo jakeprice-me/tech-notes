@@ -76,7 +76,7 @@ $ sudo lvdisplay -m
 This simple command tells the system to increase the volume group capacity by 100% of the remaining capacity.
 
 ```sh
-$ sudo lvextend -r -l +100%FREE /dev/fedora_fedora/root
+$ sudo lvextend --resizefs --extents +100%FREE /dev/fedora_fedora/root
 ```
 
 You can then see that everything was sorted.
@@ -95,3 +95,4 @@ sdc
 └─sdc1                 ext4        1.0      backup ebc7b754-fa8f-4387-a979-a55f72a180e0
 zram0                                                                                                    [SWAP]
 ```
+
