@@ -1,6 +1,6 @@
 ---
 alias: toggle-shortcode-modes-logitech-mx-keys
-archive_link: []
+archive_links: []
 category: hardware
 classification: public
 date: 2022-01-29 21:40:21

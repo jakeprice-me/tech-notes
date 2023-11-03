@@ -1,6 +1,6 @@
 ---
 alias: move-window-position-tmux
-archive_link: []
+archive_links: []
 category: tmux
 classification: public
 date: 2021-02-28 10:47:55

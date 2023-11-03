@@ -1,6 +1,6 @@
 ---
 alias: pandoc-cheatsheet
-archive_link: []
+archive_links: []
 category: pandoc
 classification: public
 date: 2020-05-16 10:46:32

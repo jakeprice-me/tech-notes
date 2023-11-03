@@ -1,6 +1,6 @@
 ---
 alias: open-files-side-by-side-with-vim
-archive_link: []
+archive_links: []
 category: vim
 classification: public
 date: 2022-11-16 17:22:41

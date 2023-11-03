@@ -1,6 +1,6 @@
 ---
 alias: vim-cheatsheet
-archive_link: []
+archive_links: []
 category: vim
 classification: public
 date: 2020-10-13 12:53:36

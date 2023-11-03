@@ -1,6 +1,6 @@
 ---
 alias: fzf-fuzzy-completion
-archive_link: []
+archive_links: []
 category: cli
 classification: public
 date: 2020-04-19 19:39:44

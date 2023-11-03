@@ -1,6 +1,6 @@
 ---
 alias: recreate-public-key-from-private-key
-archive_link: []
+archive_links: []
 category: ssh
 classification: public
 date: 2019-03-09 20:07:45

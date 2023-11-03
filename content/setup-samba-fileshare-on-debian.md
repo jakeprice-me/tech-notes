@@ -1,6 +1,6 @@
 ---
 alias: setup-samba-fileshare-on-debian
-archive_link: []
+archive_links: []
 category: samba
 classification: public
 date: 2020-11-24 21:48:52

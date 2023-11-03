@@ -1,6 +1,6 @@
 ---
 alias: use-dig-to-get-your-public-ip
-archive_link: []
+archive_links: []
 category: cli
 classification: public
 date: 2020-05-30 13:34:52

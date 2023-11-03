@@ -1,6 +1,6 @@
 ---
 alias: disable-windows10-automatic-restarts
-archive_link: []
+archive_links: []
 category: windows
 classification: public
 date: 2020-10-23 22:00:29

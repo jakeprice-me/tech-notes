@@ -1,6 +1,6 @@
 ---
 alias: create-network-manager-bridge
-archive_link: []
+archive_links: []
 category: network
 classification: public
 date: 2021-11-19 21:36:36

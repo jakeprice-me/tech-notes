@@ -1,6 +1,6 @@
 ---
 alias: auto-create-pip-requirements-file
-archive_link: []
+archive_links: []
 category: python
 classification: public
 date: 2022-01-29 14:30:03

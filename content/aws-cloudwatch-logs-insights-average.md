@@ -1,6 +1,6 @@
 ---
 alias: aws-cloudwatch-logs-insights-average
-archive_link: []
+archive_links: []
 category: aws
 classification: public
 date: 2021-03-02 16:23:13

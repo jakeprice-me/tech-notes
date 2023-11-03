@@ -1,6 +1,6 @@
 ---
 alias: get-aws-route53-healthcheck-ips
-archive_link: []
+archive_links: []
 category: aws
 classification: public
 date: 2020-12-22 16:32:06

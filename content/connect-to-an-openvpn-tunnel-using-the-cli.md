@@ -1,6 +1,6 @@
 ---
 alias: connect-to-an-openvpn-tunnel-using-the-cli
-archive_link: []
+archive_links: []
 category: openvpn
 classification: public
 date: 2019-09-14 21:34:52

@@ -1,6 +1,6 @@
 ---
 alias: borg-backup-item-flags
-archive_link: []
+archive_links: []
 category: borg
 classification: public
 date: 2022-10-26 13:49:07

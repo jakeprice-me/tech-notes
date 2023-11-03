@@ -1,6 +1,6 @@
 ---
 alias: box-drawing-characters
-archive_link: []
+archive_links: []
 category: miscellaneous
 classification: public
 date: 2020-08-25 11:01:45

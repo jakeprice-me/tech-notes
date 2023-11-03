@@ -1,6 +1,6 @@
 ---
 alias: hledger-cheatsheet
-archive_link: []
+archive_links: []
 category: hledger
 classification: public
 date: 2021-08-14 22:00:33

@@ -1,6 +1,6 @@
 ---
 alias: installed-gnome-extensions
-archive_link: []
+archive_links: []
 category: gnome
 classification: public
 date: 2022-01-15 17:17:50

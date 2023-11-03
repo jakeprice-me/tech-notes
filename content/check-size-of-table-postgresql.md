@@ -1,6 +1,6 @@
 ---
 alias: check-size-of-table-postgresql
-archive_link: []
+archive_links: []
 category: postgresql
 classification: public
 date: 2020-09-22 12:50:20

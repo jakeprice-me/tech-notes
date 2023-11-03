@@ -1,6 +1,6 @@
 ---
 alias: view-in-use-gnome-shortcuts
-archive_link: []
+archive_links: []
 category: gnome
 classification: public
 date: 2022-02-19 16:34:00

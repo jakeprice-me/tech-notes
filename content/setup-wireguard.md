@@ -1,6 +1,6 @@
 ---
 alias: setup-wireguard
-archive_link: []
+archive_links: []
 category: network
 classification: public
 date: 2023-01-08 12:21:34

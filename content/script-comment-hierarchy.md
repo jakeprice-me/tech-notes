@@ -1,6 +1,6 @@
 ---
 alias: script-comment-hierarchy
-archive_link: []
+archive_links: []
 category: miscellaneous
 classification: public
 date: 2020-08-28 12:03:51

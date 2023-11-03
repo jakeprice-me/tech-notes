@@ -1,6 +1,6 @@
 ---
 alias: list-functions-in-python-module
-archive_link: []
+archive_links: []
 category: python
 classification: public
 date: 2020-12-24 15:29:05

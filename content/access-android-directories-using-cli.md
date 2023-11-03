@@ -1,6 +1,6 @@
 ---
 alias: access-android-directories-using-cli
-archive_link: []
+archive_links: []
 category: android
 classification: public
 date: 2020-09-06 15:26:26

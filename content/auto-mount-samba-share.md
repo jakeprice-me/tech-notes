@@ -1,6 +1,6 @@
 ---
 alias: auto-mount-samba-share
-archive_link: []
+archive_links: []
 category: samba
 classification: public
 date: 2020-12-23 22:07:40

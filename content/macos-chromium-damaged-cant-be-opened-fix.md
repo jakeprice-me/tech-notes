@@ -1,6 +1,6 @@
 ---
 alias: macos-chromium-damaged-cant-be-opened-fix
-archive_link: []
+archive_links: []
 category: macos
 classification: public
 date: 2022-01-09 17:41:01

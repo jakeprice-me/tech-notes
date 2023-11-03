@@ -1,6 +1,6 @@
 ---
 alias: convert-rsa-token-to-qr-code
-archive_link: []
+archive_links: []
 category: cli
 classification: public
 date: 2021-08-12 16:39:22

@@ -1,6 +1,6 @@
 ---
 alias: tmux-split-window-edit-alias
-archive_link: []
+archive_links: []
 category: tmux
 classification: public
 date: 2020-07-04 19:01:10

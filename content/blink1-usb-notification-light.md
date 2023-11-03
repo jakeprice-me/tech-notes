@@ -1,6 +1,6 @@
 ---
 alias: blink1-usb-notification-light
-archive_link: []
+archive_links: []
 category: blink
 classification: public
 date: 2022-02-04 20:29:34

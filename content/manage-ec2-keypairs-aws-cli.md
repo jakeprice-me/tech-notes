@@ -1,6 +1,6 @@
 ---
 alias: manage-ec2-keypairs-aws-cli
-archive_link: []
+archive_links: []
 category: aws
 classification: public
 date: 2020-08-26 15:25:49

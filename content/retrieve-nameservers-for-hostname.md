@@ -1,6 +1,6 @@
 ---
 alias: retrieve-nameservers-for-hostname
-archive_link: []
+archive_links: []
 category: cli
 classification: public
 date: 2019-03-05 09:44:09

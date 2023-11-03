@@ -1,6 +1,6 @@
 ---
 alias: install-heimdall-on-fedora
-archive_link: []
+archive_links: []
 category: android
 classification: public
 date: 2022-12-19 13:08:30

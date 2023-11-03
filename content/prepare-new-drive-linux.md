@@ -1,6 +1,6 @@
 ---
 alias: prepare-new-drive-linux
-archive_link: []
+archive_links: []
 category: linux
 classification: public
 date: 2020-12-11 13:34:32

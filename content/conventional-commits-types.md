@@ -1,6 +1,6 @@
 ---
 alias: conventional-commits-types
-archive_link: []
+archive_links: []
 category: git
 classification: public
 date: 2023-07-04 15:11:26

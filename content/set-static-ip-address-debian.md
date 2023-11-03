@@ -1,6 +1,6 @@
 ---
 alias: set-static-ip-address-debian
-archive_link: []
+archive_links: []
 category: network
 classification: public
 date: 2020-12-10 10:17:15

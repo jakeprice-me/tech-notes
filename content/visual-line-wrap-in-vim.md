@@ -1,6 +1,6 @@
 ---
 alias: visual-line-wrap-in-vim
-archive_link: []
+archive_links: []
 category: vim
 classification: public
 date: 2020-06-18 17:18:28

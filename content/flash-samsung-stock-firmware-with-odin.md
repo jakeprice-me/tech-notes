@@ -1,6 +1,6 @@
 ---
 alias: flash-samsung-stock-firmware-with-odin
-archive_link: []
+archive_links: []
 category: android
 classification: public
 date: 2022-12-19 15:30:33

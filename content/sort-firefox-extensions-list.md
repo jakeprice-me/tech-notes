@@ -1,6 +1,6 @@
 ---
 alias: sort-firefox-extensions-list
-archive_link: []
+archive_links: []
 category: firefox
 classification: public
 date: 2023-06-16 16:49:30

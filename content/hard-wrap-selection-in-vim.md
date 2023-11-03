@@ -1,6 +1,6 @@
 ---
 alias: hard-wrap-selection-in-vim
-archive_link: []
+archive_links: []
 category: vim
 classification: public
 date: 2022-10-21 12:37:10

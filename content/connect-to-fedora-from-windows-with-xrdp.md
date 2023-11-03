@@ -1,6 +1,6 @@
 ---
 alias: connect-to-fedora-from-windows-with-xrdp
-archive_link: []
+archive_links: []
 category: fedora
 classification: public
 date: 2020-09-08 19:04:55

@@ -1,6 +1,6 @@
 ---
 alias: install-stable-diffusion
-archive_link: []
+archive_links: []
 category: miscellaneous
 classification: public
 date: 2022-09-12 22:01:25

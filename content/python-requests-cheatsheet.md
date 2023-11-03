@@ -1,6 +1,6 @@
 ---
 alias: python-requests-cheatsheet
-archive_link: []
+archive_links: []
 category: python
 classification: public
 date: 2020-08-23 19:32:17

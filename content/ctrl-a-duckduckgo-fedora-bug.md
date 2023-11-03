@@ -1,6 +1,6 @@
 ---
 alias: ctrl-a-duckduckgo-fedora-bug
-archive_link: []
+archive_links: []
 category: fedora
 classification: public
 date: 2020-03-26 19:04:25

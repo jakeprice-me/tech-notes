@@ -1,6 +1,6 @@
 ---
 alias: wrap-systemctl-output
-archive_link: []
+archive_links: []
 category: cli
 classification: public
 date: 2022-10-25 15:10:42

@@ -1,6 +1,6 @@
 ---
 alias: multiple-subdirectory-sed-operation
-archive_link: []
+archive_links: []
 category: bash
 classification: public
 date: 2020-11-24 18:51:02

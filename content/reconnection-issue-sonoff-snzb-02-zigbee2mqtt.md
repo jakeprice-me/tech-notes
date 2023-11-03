@@ -1,6 +1,6 @@
 ---
 alias: reconnection-issue-sonoff-snzb-02-zigbee2mqtt
-archive_link: []
+archive_links: []
 category: smart-home
 classification: public
 date: 2022-10-07 16:24:37

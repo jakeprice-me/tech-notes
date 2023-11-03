@@ -1,6 +1,6 @@
 ---
 alias: openssl-rsa-encryption
-archive_link: []
+archive_links: []
 category: openssl
 classification: public
 date: 2020-08-26 16:39:42

@@ -1,6 +1,6 @@
 ---
 alias: hide-apache-tomcat-version-details
-archive_link: []
+archive_links: []
 category: tomcat
 classification: public
 date: 2020-10-10 11:57:30

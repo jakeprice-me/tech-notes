@@ -1,6 +1,6 @@
 ---
 alias: change-dns-fedora
-archive_link: []
+archive_links: []
 category: network
 classification: public
 date: 2020-08-31 20:44:51

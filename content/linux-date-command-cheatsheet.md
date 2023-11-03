@@ -1,6 +1,6 @@
 ---
 alias: linux-date-command-cheatsheet
-archive_link: []
+archive_links: []
 category: cli
 classification: public
 date: 2020-10-13 19:02:22

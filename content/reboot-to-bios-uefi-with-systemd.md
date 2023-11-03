@@ -1,6 +1,6 @@
 ---
 alias: reboot-to-bios-uefi-with-systemd
-archive_link: []
+archive_links: []
 category: systemd
 classification: public
 date: 2022-10-07 21:33:34

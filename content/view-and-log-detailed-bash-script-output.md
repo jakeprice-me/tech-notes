@@ -1,6 +1,6 @@
 ---
 alias: view-and-log-detailed-bash-script-output
-archive_link: []
+archive_links: []
 category: bash
 classification: public
 date: 2019-11-22 17:30:25

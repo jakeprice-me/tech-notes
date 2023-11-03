@@ -1,6 +1,6 @@
 ---
 alias: man-page-sections
-archive_link: []
+archive_links: []
 category: linux
 classification: public
 date: 2019-01-13 16:37:00

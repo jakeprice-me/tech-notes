@@ -1,6 +1,6 @@
 ---
 alias: troubleshoot-fedora-boot-time
-archive_link: []
+archive_links: []
 category: systemd
 classification: public
 date: 2022-01-16 18:25:09

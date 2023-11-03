@@ -1,6 +1,6 @@
 ---
 alias: systemd-laptop-lid-closure-settings
-archive_link: []
+archive_links: []
 category: systemd
 classification: public
 date: 2022-02-12 16:43:24

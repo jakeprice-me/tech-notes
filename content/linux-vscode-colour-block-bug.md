@@ -1,6 +1,6 @@
 ---
 alias: linux-vscode-colour-block-bug
-archive_link: []
+archive_links: []
 category: vscode
 classification: public
 date: 2020-03-15 12:20:53

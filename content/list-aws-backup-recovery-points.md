@@ -1,6 +1,6 @@
 ---
 alias: list-aws-backup-recovery-points
-archive_link: []
+archive_links: []
 category: aws
 classification: public
 date: 2019-10-22 14:38:50

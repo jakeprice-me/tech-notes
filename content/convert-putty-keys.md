@@ -1,6 +1,6 @@
 ---
 alias: convert-putty-keys
-archive_link: []
+archive_links: []
 category: putty
 classification: public
 date: 2019-06-26 15:08:00

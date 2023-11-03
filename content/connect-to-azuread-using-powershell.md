@@ -1,6 +1,6 @@
 ---
 alias: connect-to-azuread-using-powershell
-archive_link: []
+archive_links: []
 category: azure
 classification: public
 date: 2020-12-09 15:23:58

@@ -1,6 +1,6 @@
 ---
 alias: wireguard-commands
-archive_link: []
+archive_links: []
 category: network
 classification: public
 date: 2023-01-09 14:09:35

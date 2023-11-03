@@ -1,6 +1,6 @@
 ---
 alias: get-the-disk-size-of-a-file-or-directory
-archive_link: []
+archive_links: []
 category: cli
 classification: public
 date: 2019-03-08 11:34:54

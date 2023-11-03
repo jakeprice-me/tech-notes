@@ -1,6 +1,6 @@
 ---
 alias: resize-an-ec2-linux-file-system-on-aws
-archive_link: []
+archive_links: []
 category: aws
 classification: public
 date: 2019-08-20 10:59:10

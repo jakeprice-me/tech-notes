@@ -1,6 +1,6 @@
 ---
 alias: convert-python-dict-to-json
-archive_link: []
+archive_links: []
 category: python
 classification: public
 date: 2020-01-04 15:20:16

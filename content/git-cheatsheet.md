@@ -1,6 +1,6 @@
 ---
 alias: git-cheatsheet
-archive_link: []
+archive_links: []
 category: git
 classification: public
 date: 2020-05-16 21:19:55

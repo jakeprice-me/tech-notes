@@ -1,6 +1,6 @@
 ---
 alias: create-a-qr-code
-archive_link: []
+archive_links: []
 category: cli
 classification: public
 date: 2021-09-02 15:05:32

@@ -1,6 +1,6 @@
 ---
 alias: exchange-online-powershell-cheatsheet
-archive_link: []
+archive_links: []
 category: powershell
 classification: public
 date: 2020-11-25 17:21:11

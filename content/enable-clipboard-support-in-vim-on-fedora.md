@@ -1,6 +1,6 @@
 ---
 alias: enable-clipboard-support-in-vim-on-fedora
-archive_link: []
+archive_links: []
 category: vim
 classification: public
 date: 2020-09-08 20:12:31

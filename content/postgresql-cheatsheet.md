@@ -1,6 +1,6 @@
 ---
 alias: postgresql-cheatsheet
-archive_link: []
+archive_links: []
 category: postgresql
 classification: public
 date: 2020-08-04 20:53:23

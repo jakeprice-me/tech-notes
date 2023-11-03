@@ -1,6 +1,6 @@
 ---
 alias: fzf-search-preview
-archive_link: []
+archive_links: []
 category: cli
 classification: public
 date: 2020-07-01 19:22:31

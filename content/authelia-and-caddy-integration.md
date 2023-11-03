@@ -1,6 +1,6 @@
 ---
 alias: authelia-and-caddy-integration
-archive_link: []
+archive_links: []
 category: authelia
 classification: public
 date: 2023-01-11 19:46:11

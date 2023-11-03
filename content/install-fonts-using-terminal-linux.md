@@ -1,6 +1,6 @@
 ---
 alias: install-fonts-using-terminal-linux
-archive_link: []
+archive_links: []
 category: linux
 classification: public
 date: 2021-01-01 15:03:58

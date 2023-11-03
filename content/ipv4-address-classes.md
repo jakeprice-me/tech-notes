@@ -1,6 +1,6 @@
 ---
 alias: ipv4-address-classes
-archive_link: []
+archive_links: []
 category: network
 classification: public
 date: 2020-07-02 17:04:56

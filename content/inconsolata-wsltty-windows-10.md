@@ -1,6 +1,6 @@
 ---
 alias: inconsolata-wsltty-windows-10
-archive_link: []
+archive_links: []
 category: windows
 classification: public
 date: 2020-08-01 14:19:31

@@ -1,6 +1,6 @@
 ---
 alias: mount-windows-drive-in-wsl
-archive_link: []
+archive_links: []
 category: windows
 classification: public
 date: 2021-07-21 10:39:17

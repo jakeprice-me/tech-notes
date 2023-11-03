@@ -1,6 +1,6 @@
 ---
 alias: caddy-authentication
-archive_link: []
+archive_links: []
 category: caddy
 classification: public
 date: 2022-12-31 14:31:23

@@ -1,6 +1,6 @@
 ---
 alias: generate-crypted-passwords-for-ansible-user-module
-archive_link: []
+archive_links: []
 category: ansible
 classification: public
 date: 2021-02-05 14:19:32

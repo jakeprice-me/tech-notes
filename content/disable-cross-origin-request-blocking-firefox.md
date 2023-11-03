@@ -1,6 +1,6 @@
 ---
 alias: disable-cross-origin-request-blocking-firefox
-archive_link: []
+archive_links: []
 category: firefox
 classification: public
 date: 2020-09-25 17:50:47

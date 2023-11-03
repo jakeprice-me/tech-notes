@@ -1,6 +1,6 @@
 ---
 alias: hash-password-bcrypt
-archive_link: []
+archive_links: []
 category: cli
 classification: public
 date: 2023-01-11 08:49:41

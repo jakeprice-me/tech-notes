@@ -1,6 +1,6 @@
 ---
 alias: jq-cheatsheet
-archive_link: []
+archive_links: []
 category: cli
 classification: public
 date: 2020-05-08 11:24:48

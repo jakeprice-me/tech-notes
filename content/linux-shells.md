@@ -1,6 +1,6 @@
 ---
 alias: linux-shells
-archive_link: []
+archive_links: []
 category: linux
 classification: public
 date: 2020-07-14 21:15:25

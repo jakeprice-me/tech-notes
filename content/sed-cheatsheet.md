@@ -1,6 +1,6 @@
 ---
 alias: sed-cheatsheet
-archive_link: []
+archive_links: []
 category: sed
 classification: public
 date: 2020-06-01 18:03:09

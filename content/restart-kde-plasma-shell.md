@@ -1,6 +1,6 @@
 ---
 alias: restart-kde-plasma-shell
-archive_link: []
+archive_links: []
 category: cli
 classification: public
 date: 2021-07-03 09:37:45

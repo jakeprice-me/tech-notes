@@ -1,6 +1,6 @@
 ---
 alias: extending-the-size-of-a-logical-volume-group
-archive_link: []
+archive_links: []
 category: linux
 classification: public
 date: 2022-09-30 09:23:42

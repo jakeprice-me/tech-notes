@@ -1,6 +1,6 @@
 ---
 alias: enable-vscode-scope-inspector
-archive_link: []
+archive_links: []
 category: vscode
 classification: public
 date: 2020-07-05 19:43:21

@@ -1,6 +1,6 @@
 ---
 alias: bulk-rename-files-with-regex
-archive_link: []
+archive_links: []
 category: cli
 classification: public
 date: 2020-03-27 20:20:03

@@ -1,6 +1,6 @@
 ---
 alias: exif-tool-cheatsheet
-archive_link: []
+archive_links: []
 category: cli
 classification: public
 date: 2021-12-29 14:05:07

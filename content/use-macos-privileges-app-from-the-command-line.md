@@ -1,6 +1,6 @@
 ---
 alias: use-macos-privileges-app-from-the-command-line
-archive_link: []
+archive_links: []
 category: macos
 classification: public
 date: 2023-06-06 12:07:53

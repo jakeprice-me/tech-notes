@@ -1,6 +1,6 @@
 ---
 alias: remove-all-temporary-unison-files
-archive_link: []
+archive_links: []
 category: cli
 classification: public
 date: 2022-11-06 10:19:01

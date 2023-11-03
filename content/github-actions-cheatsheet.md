@@ -1,6 +1,6 @@
 ---
 alias: github-actions-cheatsheet
-archive_link: []
+archive_links: []
 category: github
 classification: public
 date: 2022-08-09 10:58:41

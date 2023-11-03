@@ -1,6 +1,6 @@
 ---
 alias: openssl
-archive_link: []
+archive_links: []
 category: openssl
 classification: public
 date: 2021-08-13 18:14:04

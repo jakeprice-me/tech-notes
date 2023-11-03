@@ -1,6 +1,6 @@
 ---
 alias: install-node-version-manager
-archive_link: []
+archive_links: []
 category: cli
 classification: public
 date: 2020-07-05 16:05:06

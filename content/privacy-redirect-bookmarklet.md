@@ -1,6 +1,6 @@
 ---
 alias: privacy-redirect-bookmarklet
-archive_link: []
+archive_links: []
 category: javascript
 classification: public
 date: 2023-05-10 21:25:40

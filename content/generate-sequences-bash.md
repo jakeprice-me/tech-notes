@@ -1,6 +1,6 @@
 ---
 alias: generate-sequences-bash
-archive_link: []
+archive_links: []
 category: bash
 classification: public
 date: 2020-06-23 14:37:06

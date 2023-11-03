@@ -1,6 +1,6 @@
 ---
 alias: sky-fibre-setup-with-another-router
-archive_link: []
+archive_links: []
 category: network
 classification: public
 date: 2022-07-18 20:21:53

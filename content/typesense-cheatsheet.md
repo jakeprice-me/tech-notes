@@ -1,6 +1,6 @@
 ---
 alias: typesense-cheatsheet
-archive_link: []
+archive_links: []
 category: typesense
 classification: public
 date: 2021-08-03 11:01:15

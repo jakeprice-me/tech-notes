@@ -1,6 +1,6 @@
 ---
 alias: set-macos-theme-mode-for-specific-apps
-archive_link: []
+archive_links: []
 category: macos
 classification: public
 date: 2022-11-28 15:13:34

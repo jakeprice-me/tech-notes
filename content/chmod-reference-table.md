@@ -1,6 +1,6 @@
 ---
 alias: chmod-reference-table
-archive_link: []
+archive_links: []
 category: linux
 classification: public
 date: 2019-01-13 16:39:01

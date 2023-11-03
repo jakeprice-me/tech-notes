@@ -1,6 +1,6 @@
 ---
 alias: extract-apk-android-using-adb
-archive_link: []
+archive_links: []
 category: android
 classification: public
 date: 2020-03-25 10:51:10

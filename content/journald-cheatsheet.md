@@ -1,6 +1,6 @@
 ---
 alias: journald-cheatsheet
-archive_link: []
+archive_links: []
 category: cli
 classification: public
 date: 2022-08-09 16:31:52

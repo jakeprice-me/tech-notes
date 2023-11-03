@@ -1,6 +1,6 @@
 ---
 alias: sed-backreferences-regex-capture-groups
-archive_link: []
+archive_links: []
 category: sed
 classification: public
 date: 2020-10-06 11:14:53

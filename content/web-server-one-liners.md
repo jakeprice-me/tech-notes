@@ -1,6 +1,6 @@
 ---
 alias: web-server-one-liners
-archive_link: []
+archive_links: []
 category: cli
 classification: public
 date: 2020-12-25 21:58:32

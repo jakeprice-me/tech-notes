@@ -1,6 +1,6 @@
 ---
 alias: recursively-change-directory-and-file-permissions
-archive_link: []
+archive_links: []
 category: cli
 classification: public
 date: 2021-07-26 14:37:38

@@ -1,6 +1,6 @@
 ---
 alias: create-powershell-profile
-archive_link: []
+archive_links: []
 category: powershell
 classification: public
 date: 2020-06-19 11:57:42
