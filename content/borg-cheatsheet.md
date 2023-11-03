@@ -1,16 +1,21 @@
 ---
 alias: borg-cheatsheet
-archive_link: []
+archive_links: 
 category: borg
 classification: public
 date: 2021-07-19 16:48:18
-date_modified: 2021-07-19 16:48:18
+date_modified: 2023-11-03 22:13:52
 id: 20210719164818
 link: 
 local_archive: 
 pinned: false
 series: 
-tags: [borg, backup, deduplication, encryption, cheatsheet]
+tags:
+  - borg
+  - backup
+  - deduplication
+  - encryption
+  - cheatsheet
 title: Borg Cheatsheet
 type: tech-note
 uuid: 476ca90f-d6df-4107-84b9-b9f950377552
@@ -20,7 +25,7 @@ uuid: 476ca90f-d6df-4107-84b9-b9f950377552
 
 ```sh
 # Create repository:
-borg init --encryption repokey /mnt/backup/borg/my
+borg init --encryption repokey-blake2  /mnt/backup/borg/my
 
 # Export the repository key, as you need the key and passphrase for repository access (delete the key once you have backed it up):
 borg key export /mnt/backup/borg/my/ /tmp/borg_my_key
@@ -55,7 +60,6 @@ borg list /mnt/backup/borg/my::<archive-name>
 
 # Delete an archive:
 borg delete /mnt/backup/borg/my::<archive-name>
-
 ```
 
 ```sh
