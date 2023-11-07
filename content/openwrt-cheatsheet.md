@@ -10,10 +10,7 @@ link:
 local_archive: 
 pinned: false
 series: 
-tags:
-  - openwrt
-  - router
-  - cli
+tags: [openwrt, router, cli]
 title: OpenWRT Cheatsheet
 type: tech-note
 uuid: e2829508-6a98-47e7-a3e8-4f4f140f1696

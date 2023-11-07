@@ -10,11 +10,7 @@ link: https://old.reddit.com/r/pihole/comments/etp9vm/how_do_i_verify_if_unbound
 local_archive: attachments/archive/20231103214353.html
 pinned: false
 series: 
-tags:
-  - unbound
-  - dns
-  - recursive
-  - resolve
+tags: [unbound, dns, recursive, resolve]
 title: Verify if Unbound is Resolving DNS Queries Locally
 type: tech-note
 uuid: 7759706c-6fd9-4353-8ff4-b38c1fef46dc

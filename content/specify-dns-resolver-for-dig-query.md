@@ -10,11 +10,7 @@ link:
 local_archive: 
 pinned: false
 series: 
-tags:
-  - dig
-  - dns
-  - resolver
-  - unbound
+tags: [dig, dns, resolver, unbound]
 title: Specify DNS Resolver for dig Query
 type: tech-note
 uuid: 6b398f63-4966-44c8-8cfb-8a4b9fb20882
