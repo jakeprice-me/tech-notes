@@ -13,7 +13,6 @@ series:
 tags: [format, ext4, hard-drive, linux, disk]
 title: Prepare a New Hard Drive in Linux
 type: tech-note
-updpated: 
 uuid: e1e2626d-df78-4123-92ee-7da77940492b
 ---
 

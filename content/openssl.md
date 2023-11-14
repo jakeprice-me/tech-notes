@@ -13,7 +13,6 @@ series:
 tags: [certificate, certificate-authority, ca]
 title: Local LAN Certificate
 type: tech-note
-updated: 
 uuid: 228eea5c-d751-4172-aeed-23c6c34c7bd9
 ---
 

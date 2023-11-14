@@ -13,7 +13,6 @@ series:
 tags: [rsa, token, qr, logical-access]
 title: RSA Token to QR Code
 type: tech-note
-updated: 
 uuid: be1aaf29-d010-4952-8e99-c0903875d9fd
 ---
 
