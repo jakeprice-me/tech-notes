@@ -4,7 +4,7 @@ archive_links: []
 category: cli
 classification: public
 date: 2022-02-04 11:54:27
-date_modified: 2022-02-04 11:54:27
+date_modified: 2023-11-19 11:39:22
 id: 20220204115427
 link: 
 local_archive: 
@@ -19,5 +19,10 @@ uuid: faf3cb58-4fd5-4642-8f90-c6cb472e65c0
 To send the output of a command in the terminal to the clipboard, the below is super helpful.
 
 ```sh
+# Send contents of file to clipboard:
 xclip -selection clip /tmp/owm.json
+
+# Send pipe to clipboard:
+rg --files-with-matches "^tags: \[\]" *.md | xclip -selection clip
 ```
+
