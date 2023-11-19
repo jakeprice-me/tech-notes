@@ -60,7 +60,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [vim](#vim)
 - [vscode](#vscode)
 - [windows](#windows)
-## Notes <sup>186</sup>
+## Notes <sup>188</sup>
 
 
 ### <a id="airflow">airflow</a> <sup>1</sup>
@@ -180,10 +180,11 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2023-06-16 - Sort Firefox Extensions List](content/sort-firefox-extensions-list.md)
 - [2023-08-11 - Tabler Icon Fonts are not OpenType spec compliant](content/tabler-icon-fonts-are-not-opentype-spec-compliant.md)
 
-### <a id="git">git</a> <sup>2</sup>
+### <a id="git">git</a> <sup>3</sup>
 
 - [2020-05-16 - Git Cheatsheet](content/git-cheatsheet.md)
 - [2023-07-04 - Conventional Commits Types](content/conventional-commits-types.md)
+- [2023-11-10 - Squash Commits in Git](content/squash-commits-in-git.md)
 
 ### <a id="github">github</a> <sup>4</sup>
 
@@ -255,7 +256,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 
 - [2021-04-23 - Netlify Domain Redirects](content/netlify-domain-redirects.md)
 
-### <a id="network">network</a> <sup>16</sup>
+### <a id="network">network</a> <sup>17</sup>
 
 - [2019-01-31 - Start and Stop a Network Interface](content/start-and-stop-a-network-interface.md)
 - [2020-06-28 - Set Static IP on Ubuntu 20.04](content/set-static-ip-ubuntu.md)
@@ -273,6 +274,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2023-11-03 - OpenWRT Cheatsheet](content/openwrt-cheatsheet.md)
 - [2023-11-03 - Specify DNS Resolver for dig Query](content/specify-dns-resolver-for-dig-query.md)
 - [2023-11-03 - Verify if Unbound is Resolving DNS Queries Locally](content/verify-if-unbound-is-resolving-dns-queries-locally.md)
+- [2023-11-18 - OpenWRT Firewall Zones](content/openwrt-firewall-zones.md)
 
 ### <a id="openssl">openssl</a> <sup>4</sup>
 
