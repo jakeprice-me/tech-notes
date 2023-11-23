@@ -1,6 +1,7 @@
 ---
-alias: openssl-rsa-encryption
-archive_links: []
+aliases:
+  - openssl-rsa-encryption
+archive_links: 
 category: openssl
 classification: public
 date: 2020-08-26 16:39:42
@@ -13,7 +14,6 @@ series:
 tags: [openssl, rsa, encryption, keys, private, public]
 title: OpenSSL RSA Encryption
 type: tech-note
-uuid: 8292c009-7e4a-472d-b420-46f5ff40a07b
 ---
 
 More can be found here: [/docs/man1.1.1/man1/rsautl.html](https://www.openssl.org/docs/man1.1.1/man1/rsautl.html)

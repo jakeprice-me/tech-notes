@@ -1,6 +1,7 @@
 ---
-alias: sed-cheatsheet
-archive_links: []
+aliases:
+  - sed-cheatsheet
+archive_links: 
 category: sed
 classification: public
 date: 2020-06-01 18:03:09
@@ -13,7 +14,6 @@ series:
 tags: [sed, bash, linux]
 title: sed Cheatsheet
 type: tech-note
-uuid: 3ffa8c38-0d7c-4605-9054-df71bc888656
 ---
 
 ```sh

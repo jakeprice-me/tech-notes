@@ -1,6 +1,7 @@
 ---
-alias: typesense-cheatsheet
-archive_links: []
+aliases:
+  - typesense-cheatsheet
+archive_links: 
 category: typesense
 classification: public
 date: 2021-08-03 11:01:15
@@ -13,7 +14,6 @@ series:
 tags: [search, typesense, cheatsheet]
 title: Typesense Cheatsheet
 type: tech-note
-uuid: cbe77241-a9e4-4c81-b796-64433017dfa7
 ---
 
 ```sh

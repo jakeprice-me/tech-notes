@@ -1,6 +1,7 @@
 ---
-alias: caddy-authentication
-archive_links: []
+aliases:
+  - caddy-authentication
+archive_links: 
 category: caddy
 classification: public
 date: 2022-12-31 14:31:23
@@ -13,7 +14,6 @@ series:
 tags: [caddy, authentication, basic-authentication, hash]
 title: Caddy Server Basic Authentication
 type: tech-note
-uuid: 40831088-1fcc-467b-a85a-c27d1306d285
 ---
 
 ## Basic Authentication

@@ -1,6 +1,7 @@
 ---
-alias: github-actions-cheatsheet
-archive_links: []
+aliases:
+  - github-actions-cheatsheet
+archive_links: 
 category: github
 classification: public
 date: 2022-08-09 10:58:41
@@ -13,7 +14,6 @@ series:
 tags: [github, actions, ci-cd, pipeline]
 title: GitHub Actions Cheatsheet
 type: tech-note
-uuid: b1b1c9d0-36ba-4afe-b023-4a88c1123285
 ---
 
 ## Enable debug logging

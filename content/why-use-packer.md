@@ -1,6 +1,7 @@
 ---
-alias: why-use-packer
-archive_links: []
+aliases:
+  - why-use-packer
+archive_links: 
 category: packer
 classification: public
 date: 2021-02-28 11:15:14
@@ -13,7 +14,6 @@ series:
 tags: [packer, ansible, ami, image, configuration, devops]
 title: Why Packer?
 type: tech-note
-uuid: 3efdd2af-ead2-4148-919e-6bc9d8c0d5f0
 ---
 
 This is a good comment from Reddit on why you should use Packer.

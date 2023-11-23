@@ -1,6 +1,7 @@
 ---
-alias: restart-kde-plasma-shell
-archive_links: []
+aliases:
+  - restart-kde-plasma-shell
+archive_links: 
 category: cli
 classification: public
 date: 2021-07-03 09:37:45
@@ -13,7 +14,6 @@ series:
 tags: [kde, plasma]
 title: Restart KDE Plasma
 type: tech-note
-uuid: b0998816-3192-43cb-9bd2-155a61f5170a
 ---
 
 ```sh

@@ -1,6 +1,7 @@
 ---
-alias: create-a-qr-code
-archive_links: []
+aliases:
+  - create-a-qr-code
+archive_links: 
 category: cli
 classification: public
 date: 2021-09-02 15:05:32
@@ -13,7 +14,6 @@ series:
 tags: [qrencode, wifi, credentials, password]
 title: Create a QR Code
 type: tech-note
-uuid: 6fe0984f-610d-4211-80c2-c758441f7e32
 ---
 
 ## Wi-Fi

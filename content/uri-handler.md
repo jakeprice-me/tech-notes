@@ -1,6 +1,7 @@
 ---
-alias: uri-handler
-archive_links: []
+aliases:
+  - uri-handler
+archive_links: 
 category: miscellaneous
 classification: public
 date: 2021-09-06 18:15:47
@@ -13,7 +14,6 @@ series:
 tags: [gvim, vim, uri, handler, gnome, macos, fedora, macvim, xdg-open]
 title: URI Handler
 type: tech-note
-uuid: 06e71c60-9ac7-4eae-94eb-e40fd45305a8
 ---
 
 ## Gnome

@@ -1,6 +1,7 @@
 ---
-alias: youtube-dl-cheatesheet
-archive_links: []
+aliases:
+  - youtube-dl-cheatesheet
+archive_links: 
 category: cli
 classification: public
 date: 2022-07-11 13:13:09
@@ -13,7 +14,6 @@ series:
 tags: [youtube-dl, youtube, download, audio, video, cli]
 title: YouTube-DL Cheatsheet
 type: tech-note
-uuid: f4556301-5bcd-4663-ac57-cc1ef5ab2934
 ---
 
 ```sh

@@ -1,6 +1,7 @@
 ---
-alias: tailscale-setup-with-split-dns
-archive_links: []
+aliases:
+  - tailscale-setup-with-split-dns
+archive_links: 
 category: network
 classification: public
 date: 2022-08-09 09:35:34
@@ -13,7 +14,6 @@ series:
 tags: [vpn, ppn, wireguard, tailscale, network, router]
 title: Tailscale Setup & Split DNS
 type: tech-note
-uuid: 91683b7e-63d7-43e4-a6e1-90a177fc0593
 ---
 
 I have Tailscale installed on `network-01`, using a [Subnet Router](https://tailscale.com/kb/1019/subnets/). 

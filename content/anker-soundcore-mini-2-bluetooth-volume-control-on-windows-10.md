@@ -1,6 +1,7 @@
 ---
-alias: anker-soundcore-mini-2-bluetooth-volume-control-on-windows-10
-archive_links: []
+aliases:
+  - anker-soundcore-mini-2-bluetooth-volume-control-on-windows-10
+archive_links: 
 category: hardware
 classification: public
 date: 2023-09-01 21:14:06
@@ -13,7 +14,6 @@ series:
 tags: [anker, bluetooth, volume, windows, registry]
 title: Anker Soundcore Mini 2 Bluetooth Volume Control on Windows 10
 type: tech-note
-uuid: 44d778d9-c52a-47fb-8048-11537dc1c929
 ---
 
 When connecting an Anker Soundcore Mini 2 to a Windows 10 device the volume slider on Windows has no effect.

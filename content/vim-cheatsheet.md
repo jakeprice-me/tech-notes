@@ -1,6 +1,7 @@
 ---
-alias: vim-cheatsheet
-archive_links: []
+aliases:
+  - vim-cheatsheet
+archive_links: 
 category: vim
 classification: public
 date: 2020-10-13 12:53:36
@@ -13,7 +14,6 @@ series:
 tags: [vim, cheatsheet, keys]
 title: Vim Cheatsheet
 type: tech-note
-uuid: 772769f0-334c-458f-a57e-36dbd8674747
 ---
 
 Here's a list of shortcuts for Vim that I might not always remember.

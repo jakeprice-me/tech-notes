@@ -1,6 +1,7 @@
 ---
-alias: act-cheatsheet
-archive_links: []
+aliases:
+  - act-cheatsheet
+archive_links: 
 category: github
 classification: public
 date: 2022-08-08 11:05:14
@@ -13,7 +14,6 @@ series:
 tags: [github, action, runner, local, ci-cd, pipeline]
 title: act Cheatsheet
 type: tech-note
-uuid: 47e6d68e-00cc-4167-9b67-3a40df279584
 ---
 
 ```sh

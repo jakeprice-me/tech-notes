@@ -1,6 +1,7 @@
 ---
-alias: wireguard-commands
-archive_links: []
+aliases:
+  - wireguard-commands
+archive_links: 
 category: network
 classification: public
 date: 2023-01-09 14:09:35
@@ -13,7 +14,6 @@ series:
 tags: [wireguard, troubleshoot, vpn]
 title: WireGuard Commands
 type: tech-note
-uuid: 2d629ce3-ae5a-4e5c-aa28-046677126c8b
 ---
 
 ## Bring WireGuard Interface Up or Down

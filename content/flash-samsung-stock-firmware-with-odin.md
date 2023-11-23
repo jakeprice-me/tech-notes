@@ -1,6 +1,7 @@
 ---
-alias: flash-samsung-stock-firmware-with-odin
-archive_links: []
+aliases:
+  - flash-samsung-stock-firmware-with-odin
+archive_links: 
 category: android
 classification: public
 date: 2022-12-19 15:30:33
@@ -13,7 +14,6 @@ series:
 tags: []
 title: Flash Samsung Stock Firmware with Odin
 type: tech-note
-uuid: 386a9735-3423-4ed7-a026-eab737f4ac46
 ---
 
 ## Download Official Stock Firmware
@@ -44,8 +44,8 @@ samloader --dev-model SM-G980F --dev-region BTU decrypt --fw-ver G980FXXUDEVA9/G
 
 ### Extract Firmware
 
-!!! important
-	If initial extraction fails, download the firmware again.
+> [!important]
+> If initial extraction fails, download the firmware again.
 
 ```sh
 unzip ~/Downloads/samsung/SM-G980F_3_20220126141002_sqgfarrj77_fac.zip -d ~/Downloads/samsung/
@@ -59,8 +59,8 @@ unzip ~/Downloads/samsung/SM-G980F_3_20220126141002_sqgfarrj77_fac.zip -d ~/Down
 
 ## Flash with Odin3 v3.14 on Windows
 
-!!! danger
-	It is crucial you use a reliable USB-C cable to avoid soft-bricking the phone. A good test is to wiggle the connection and if it disconnects when you do that, _do not use it_!
+> [!danger]
+> It is crucial you use a reliable USB-C cable to avoid soft-bricking the phone. A good test is to wiggle the connection and if it disconnects when you do that, _do not use it_!
 
 Begin by loading the firmware binaries in the Odin tool as instructed below:
 
@@ -77,5 +77,5 @@ You can close Odin and disconnect your phone from the computer.
 
 After a while you should see the "SAMSUNG" boot logo, and the ROM should boot.
 
-!!! tip
-	On Android 13, to stop the intermittant "Access denied" pop-up, disable "Samsung Wallet Digital Key" from being allowed to "Appear on top".
+> [!tip]
+> On Android 13, to stop the intermittant "Access denied" pop-up, disable "Samsung Wallet Digital Key" from being allowed to "Appear on top".

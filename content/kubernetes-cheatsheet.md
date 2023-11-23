@@ -1,6 +1,7 @@
 ---
-alias: kubernetes-cheatsheet
-archive_links: []
+aliases:
+  - kubernetes-cheatsheet
+archive_links: 
 category: kubernetes
 classification: public
 date: 2021-12-07 11:18:37
@@ -13,7 +14,6 @@ series:
 tags: [cheatsheat, kubernetes, orchestration]
 title: Kubernetes Cheatsheat
 type: tech-note
-uuid: 55604f03-789e-4730-9a76-5b665394f4f6
 ---
 
 ## Download & Install Kubernetes

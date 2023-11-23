@@ -1,6 +1,7 @@
 ---
-alias: sort-firefox-extensions-list
-archive_links: []
+aliases:
+  - sort-firefox-extensions-list
+archive_links: 
 category: firefox
 classification: public
 date: 2023-06-16 16:49:30
@@ -13,7 +14,6 @@ series:
 tags: [firefox, extensions]
 title: Sort Firefox Extensions List
 type: tech-note
-uuid: 87f926bc-5b0b-4cf9-8f1a-191828c87baa
 ---
 
 Follow the below steps to sort your extension list (jigsaw icon) in Firefox until they have a way to sort it automatically (thanks to [this script](https://raw.githubusercontent.com/icpantsparti2/browser-bits/main/javascript/firefox-v109-change-order-under-extensions-button.js)).

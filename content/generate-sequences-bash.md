@@ -1,6 +1,7 @@
 ---
-alias: generate-sequences-bash
-archive_links: []
+aliases:
+  - generate-sequences-bash
+archive_links: 
 category: bash
 classification: public
 date: 2020-06-23 14:37:06
@@ -13,7 +14,6 @@ series:
 tags: [bash, loop, iterate]
 title: Generate Sequences in Bash
 type: tech-note
-uuid: 4c7c1951-f8f5-46c9-abbc-1d6f51667207
 ---
 
 You can generate sequences in Bash using the following syntax.

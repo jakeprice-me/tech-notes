@@ -1,6 +1,7 @@
 ---
-alias: speed-up-powershell-invoke-webrequest
-archive_links: []
+aliases:
+  - speed-up-powershell-invoke-webrequest
+archive_links: 
 category: powershell
 classification: public
 date: 2020-08-14 15:18:44
@@ -13,7 +14,6 @@ series:
 tags: [windows, powershell]
 title: Speed Up PowerShell Invoke-WebRequest
 type: tech-note
-uuid: ac8a218b-2e69-4ce7-a2c2-00d0d2b80cb8
 ---
 
 If you don't disable the progress bar when downloading a file using `Invoke-WebRequest` on Windows PowerShell, it will take significantly longer to download. 

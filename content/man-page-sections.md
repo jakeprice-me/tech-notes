@@ -1,6 +1,7 @@
 ---
-alias: man-page-sections
-archive_links: []
+aliases:
+  - man-page-sections
+archive_links: 
 category: linux
 classification: public
 date: 2019-01-13 16:37:00
@@ -13,7 +14,6 @@ series:
 tags: [manpage, linux, cli]
 title: man Page Sections
 type: tech-note
-uuid: e93e8de4-6a16-40df-990c-d75e39178544
 ---
 
 A list of all the man page sections that are used.

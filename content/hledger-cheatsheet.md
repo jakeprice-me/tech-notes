@@ -1,6 +1,7 @@
 ---
-alias: hledger-cheatsheet
-archive_links: []
+aliases:
+  - hledger-cheatsheet
+archive_links: 
 category: hledger
 classification: public
 date: 2021-08-14 22:00:33
@@ -13,7 +14,6 @@ series:
 tags: [hledger, ledger, accounting, finance, money]
 title: hledger Cheatsheet
 type: tech-note
-uuid: 18cab5f8-6ec5-4fbd-9e6b-9ed3f1ae240c
 ---
 
 [TOC]

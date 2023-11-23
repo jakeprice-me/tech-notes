@@ -1,6 +1,7 @@
 ---
-alias: visual-line-wrap-in-vim
-archive_links: []
+aliases:
+  - visual-line-wrap-in-vim
+archive_links: 
 category: vim
 classification: public
 date: 2020-06-18 17:18:28
@@ -13,7 +14,6 @@ series:
 tags: [vim, wrapping, word-wrap]
 title: Visual Line Wrap in Vim
 type: tech-note
-uuid: 5a95c850-6ee8-413e-b5ba-bfc365c03196
 ---
 
 A really quick and easy way to show a visual wrap line in vim is to run `:set colorcolumn=79`.

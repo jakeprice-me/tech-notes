@@ -1,6 +1,7 @@
 ---
-alias: borg-backup-item-flags
-archive_links: []
+aliases:
+  - borg-backup-item-flags
+archive_links: 
 category: borg
 classification: public
 date: 2022-10-26 13:49:07
@@ -13,7 +14,6 @@ series:
 tags: [borg, backup, character, status, type, flag]
 title: Borg Backup Item Flags
 type: tech-note
-uuid: 945e1f0b-a938-4f92-9a89-f0fde748ad0b
 ---
 
 When Borg Backup runs each file will show a status character, these are detailed below:

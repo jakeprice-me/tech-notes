@@ -1,6 +1,7 @@
 ---
-alias: convert-json-to-minified-json
-archive_links: []
+aliases:
+  - convert-json-to-minified-json
+archive_links: 
 category: python
 classification: public
 date: 2020-07-05 19:45:25
@@ -13,7 +14,6 @@ series:
 tags: [json, python, minify]
 title: Convert JSON to Minified JSON with Python
 type: tech-note
-uuid: 65f64557-deb0-4100-9398-b1409f398aee
 ---
 
 You can run `jsmin` as a command line tool.

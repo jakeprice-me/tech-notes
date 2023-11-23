@@ -1,6 +1,7 @@
 ---
-alias: auto-create-pip-requirements-file
-archive_links: []
+aliases:
+  - auto-create-pip-requirements-file
+archive_links: 
 category: python
 classification: public
 date: 2022-01-29 14:30:03
@@ -13,7 +14,6 @@ series:
 tags: [python, pip, requirements, dependencies]
 title: Automatically create a Pip requirements.txt
 type: tech-note
-uuid: 4accf4ae-5a7f-4064-a791-c342c3ddc755
 ---
 
 > You can use the following code to generate a requirements.txt file:

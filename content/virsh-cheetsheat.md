@@ -1,6 +1,7 @@
 ---
-alias: virsh-cheetsheat
-archive_links: []
+aliases:
+  - virsh-cheetsheat
+archive_links: 
 category: libvirt
 classification: public
 date: 2022-01-09 16:31:43
@@ -13,7 +14,6 @@ series:
 tags: [kvm, qemu, vm]
 title: KVM/QEMU Notes
 type: tech-note
-uuid: 93ae3e5c-6303-49e2-b5db-4bc6e484e99b
 ---
 
 ## KVM/QEMU

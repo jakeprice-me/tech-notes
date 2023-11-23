@@ -1,6 +1,7 @@
 ---
-alias: view-and-log-detailed-bash-script-output
-archive_links: []
+aliases:
+  - view-and-log-detailed-bash-script-output
+archive_links: 
 category: bash
 classification: public
 date: 2019-11-22 17:30:25
@@ -13,7 +14,6 @@ series:
 tags: [log, bash, script, stdout, stderr, debug, tee, background, process, run]
 title: View and Log Detailed Bash Script Output
 type: tech-note
-uuid: bef8e458-5553-45e3-8be7-ccdfc3e5231f
 ---
 
 Append `-xe` to `#!/bin/bash` in the script you wish to see detailed output for.

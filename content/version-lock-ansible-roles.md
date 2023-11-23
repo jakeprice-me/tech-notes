@@ -1,6 +1,7 @@
 ---
-alias: version-lock-ansible-roles
-archive_links: []
+aliases:
+  - version-lock-ansible-roles
+archive_links: 
 category: ansible
 classification: public
 date: 2021-01-13 20:44:21
@@ -13,7 +14,6 @@ series:
 tags: [roles, playbook, ansible, git]
 title: Version Locking Ansible Roles in a Playbook
 type: tech-note
-uuid: 16db2b23-1918-4c98-9474-83cfe34b4800
 ---
 
 In example directory: `~/code/ansible-playbooks-system1/system1` create an additional directory, `roles`

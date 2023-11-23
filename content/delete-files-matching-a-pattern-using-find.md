@@ -1,6 +1,7 @@
 ---
-alias: delete-files-matching-a-pattern-using-find
-archive_links: []
+aliases:
+  - delete-files-matching-a-pattern-using-find
+archive_links: 
 category: cli
 classification: public
 date: 2019-01-28 09:43:00
@@ -13,7 +14,6 @@ series:
 tags: [find, delete, file, directory, pattern]
 title: Delete files matching a pattern using find
 type: tech-note
-uuid: f50484b6-1f51-4d3a-bcd6-40230a0b62b3
 ---
 
 Delete all files that match a specific pattern. This is just `find` with `-delete` appended, so be careful!

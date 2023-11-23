@@ -1,6 +1,7 @@
 ---
-alias: edit-over-ssh-with-vim
-archive_links: []
+aliases:
+  - edit-over-ssh-with-vim
+archive_links: 
 category: vim
 classification: public
 date: 2020-06-19 10:05:44
@@ -13,7 +14,6 @@ series:
 tags: [vim, remote, scp]
 title: Edit over SSH with Vim
 type: tech-note
-uuid: d6b002c3-e43a-4a60-b124-f93f244f9ea0
 ---
 
 Vim can edit files remotely, on a server. It uses `scp` to copy it locally, allow you to work on it, and then it copies it back to the server. You can even use `netrw` to view remote directories, and then select a file to edit.

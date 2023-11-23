@@ -1,6 +1,7 @@
 ---
-alias: find-out-laptop-screen-panel-model
-archive_links: []
+aliases:
+  - find-out-laptop-screen-panel-model
+archive_links: 
 category: linux
 classification: public
 date: 2022-01-19 20:51:59
@@ -13,7 +14,6 @@ series:
 tags: [laptop, lcd, panel, edid, edp]
 title: Find out Laptop Screen Panel Model
 type: tech-note
-uuid: 3bf4ba87-4adf-4afb-8988-d82d6a070f89
 ---
 
 ```sh

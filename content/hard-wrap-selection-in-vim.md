@@ -1,6 +1,7 @@
 ---
-alias: hard-wrap-selection-in-vim
-archive_links: []
+aliases:
+  - hard-wrap-selection-in-vim
+archive_links: 
 category: vim
 classification: public
 date: 2022-10-21 12:37:10
@@ -13,7 +14,6 @@ series:
 tags: [vim, hard-wrap, wrap, text-width]
 title: Hard Wrap Selection in Vim
 type: tech-note
-uuid: ef3e44ea-1476-43a2-8df0-e1d915099446
 ---
 
 This is a handy little trick to hard wrap a selection of text to a specific column number. I usually use this when I'm rewriting a Git commit message which I may have edited a bit and lost the automatic hardwrapping Vim enables for Git commit messages.

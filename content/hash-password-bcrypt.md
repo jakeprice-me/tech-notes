@@ -1,6 +1,7 @@
 ---
-alias: hash-password-bcrypt
-archive_links: []
+aliases:
+  - hash-password-bcrypt
+archive_links: 
 category: cli
 classification: public
 date: 2023-01-11 08:49:41
@@ -13,7 +14,6 @@ series:
 tags: [bcrypt, hash, password, caddy-security]
 title: Hash a Password using bcrypt
 type: tech-note
-uuid: 7ec82f91-6c72-4eea-90ad-34fb48578438
 ---
 
 It's surprisingly not that straightforward to find a tool to create a bcrypt hashed password.

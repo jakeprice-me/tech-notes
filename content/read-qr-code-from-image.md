@@ -1,6 +1,7 @@
 ---
-alias: read-qr-code-from-image
-archive_links: []
+aliases:
+  - read-qr-code-from-image
+archive_links: 
 category: cli
 classification: public
 date: 2022-07-05 20:01:59
@@ -13,7 +14,6 @@ series:
 tags: [qr, qrcode]
 title: Read QR Code from Image
 type: tech-note
-uuid: fa59305f-2ebc-4185-b455-437aef40acb5
 ---
 
 ```sh

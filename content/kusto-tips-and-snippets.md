@@ -1,6 +1,7 @@
 ---
-alias: kusto-tips-and-snippets
-archive_links: []
+aliases:
+  - kusto-tips-and-snippets
+archive_links: 
 category: azure
 classification: public
 date: 2022-10-19 14:00:41
@@ -13,7 +14,6 @@ series:
 tags: [kusto, azure, query, log, metrics]
 title: Kusto Tips & Snippets
 type: tech-note
-uuid: 0e667d1d-5eab-4872-807b-e730b0f8459c
 ---
 
 > KQL is case-sensitive for everything – table names, table column names, operators, functions, and so on.

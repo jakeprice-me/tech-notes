@@ -1,6 +1,7 @@
 ---
-alias: github-cli-cheatsheet
-archive_links: []
+aliases:
+  - github-cli-cheatsheet
+archive_links: 
 category: github
 classification: public
 date: 2022-08-01 14:03:00
@@ -13,7 +14,6 @@ series:
 tags: [github, gh, cli, git, cheatsheet]
 title: GitHub CLI Cheatsheet
 type: tech-note
-uuid: e5c88f52-ccdb-4807-a37c-3f12679e0315
 ---
 
 ```sh

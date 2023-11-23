@@ -1,6 +1,7 @@
 ---
-alias: ansible-cheatsheet
-archive_links: []
+aliases:
+  - ansible-cheatsheet
+archive_links: 
 category: ansible
 classification: public
 date: 2021-01-16 13:07:43
@@ -13,7 +14,6 @@ series:
 tags: [ansible, cheatsheet]
 title: Ansible Cheatsheet
 type: tech-note
-uuid: 5ac82d2b-905d-4697-8cda-12b598d2a193
 ---
 
 ## Ansible Roles

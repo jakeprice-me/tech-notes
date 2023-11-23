@@ -1,6 +1,7 @@
 ---
-alias: keep-ssh-connection-alive
-archive_links: []
+aliases:
+  - keep-ssh-connection-alive
+archive_links: 
 category: cli
 classification: public
 date: 2020-07-01 21:26:41
@@ -13,7 +14,6 @@ series:
 tags: [ssh, connection, linux]
 title: Keep SSH Connection Alive
 type: tech-note
-uuid: 114c1d46-2549-4ee5-b6f5-9e27549d9bc1
 ---
 
 The option `-o ServerAliveInterval=60` tells the SSH agent to keep sending "pings" to keep the connection alive.

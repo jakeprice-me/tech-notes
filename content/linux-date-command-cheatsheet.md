@@ -1,6 +1,7 @@
 ---
-alias: linux-date-command-cheatsheet
-archive_links: []
+aliases:
+  - linux-date-command-cheatsheet
+archive_links: 
 category: cli
 classification: public
 date: 2020-10-13 19:02:22
@@ -13,7 +14,6 @@ series:
 tags: [date, linux, shell]
 title: Linux Date Command
 type: tech-note
-uuid: 11495221-e3e7-49ee-9b8e-5710c5d06995
 ---
 
 ## Commands

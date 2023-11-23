@@ -1,6 +1,7 @@
 ---
-alias: enable-vscode-scope-inspector
-archive_links: []
+aliases:
+  - enable-vscode-scope-inspector
+archive_links: 
 category: vscode
 classification: public
 date: 2020-07-05 19:43:21
@@ -13,7 +14,6 @@ series:
 tags: [vscode, editor]
 title: Enable Scope Inspector in VS Code
 type: tech-note
-uuid: 07dfa8cd-c4d9-4ac7-b4d1-c5d43dca2b62
 ---
 
 Use the scope inspector to debug grammars. You can view scopes for a selected token.

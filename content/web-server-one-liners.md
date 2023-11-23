@@ -1,6 +1,7 @@
 ---
-alias: web-server-one-liners
-archive_links: []
+aliases:
+  - web-server-one-liners
+archive_links: 
 category: cli
 classification: public
 date: 2020-12-25 21:58:32
@@ -13,7 +14,6 @@ series:
 tags: [web-server, python, php, android, termux]
 title: Web Server One Liners
 type: tech-note
-uuid: 59b3e23e-73cd-4414-9972-f1ed90dfc040
 ---
 
 Some very handy one line commands for starting a web server for testing and development.

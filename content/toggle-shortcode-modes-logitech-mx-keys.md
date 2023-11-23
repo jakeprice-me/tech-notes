@@ -1,6 +1,7 @@
 ---
-alias: toggle-shortcode-modes-logitech-mx-keys
-archive_links: []
+aliases:
+  - toggle-shortcode-modes-logitech-mx-keys
+archive_links: 
 category: hardware
 classification: public
 date: 2022-01-29 21:40:21
@@ -13,7 +14,6 @@ series:
 tags: [logitech, mx, keyboard, macos, windows, linux, cmd, super-key]
 title: Switch Shortcut Modes on Logitech MX Keys
 type: tech-note
-uuid: 1846cab7-6a7b-4867-be51-7de01f9249d4
 ---
 
 I was experiencing what I thought was a strange bug on my Logitech MX Keys, that whenever I used the keyboard, via my dock (which meant it was using the Logitech Unified Receiver) then the `Alt` key was the `Windows` key, and vice versa. Really jarring.

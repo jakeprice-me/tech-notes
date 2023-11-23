@@ -1,6 +1,7 @@
 ---
-alias: fzf-search-preview
-archive_links: []
+aliases:
+  - fzf-search-preview
+archive_links: 
 category: cli
 classification: public
 date: 2020-07-01 19:22:31
@@ -13,7 +14,6 @@ series:
 tags: [fzf, search, notes]
 title: fzf Search on My Notes
 type: tech-note
-uuid: ea329c8e-0e43-4583-920a-5e711c44fdb0
 ---
 
 I've finally found out how you can use `fzf` in a much better way, that allows me to search for strings within files, but also display a preview of that file.

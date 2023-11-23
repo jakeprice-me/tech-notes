@@ -1,6 +1,7 @@
 ---
-alias: restart-display-manager
-archive_links: []
+aliases:
+  - restart-display-manager
+archive_links: 
 category: cli
 classification: public
 date: 2022-10-14 19:23:44
@@ -13,7 +14,6 @@ series:
 tags: [fedora, linux, monitor, multiple-monitor, screen, displayport, usb-c, dock]
 title: Restart Display Manager
 type: tech-note
-uuid: b043e38d-2273-448f-9dd0-270b6aeaccd7
 ---
 
 When I connect my EliteBook to my Dock and Daisy Chain USB-C cable, sometimes there are issues with the screens coming on.

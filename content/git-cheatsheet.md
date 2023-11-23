@@ -1,6 +1,7 @@
 ---
-alias: git-cheatsheet
-archive_links: []
+aliases:
+  - git-cheatsheet
+archive_links: 
 category: git
 classification: public
 date: 2020-05-16 21:19:55
@@ -13,7 +14,6 @@ series:
 tags: [git, version-control, repository]
 title: Git Cheatsheet
 type: tech-note
-uuid: 92de174a-7b82-417c-8e51-059586056f9d
 ---
 
 ```sh

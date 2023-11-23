@@ -1,6 +1,7 @@
 ---
-alias: prepare-new-drive-linux
-archive_links: []
+aliases:
+  - prepare-new-drive-linux
+archive_links: 
 category: linux
 classification: public
 date: 2020-12-11 13:34:32
@@ -13,7 +14,6 @@ series:
 tags: [format, ext4, hard-drive, linux, disk]
 title: Prepare a New Hard Drive in Linux
 type: tech-note
-uuid: e1e2626d-df78-4123-92ee-7da77940492b
 ---
 
 ## Identify the New Drive

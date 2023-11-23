@@ -1,6 +1,7 @@
 ---
-alias: recreate-public-key-from-private-key
-archive_links: []
+aliases:
+  - recreate-public-key-from-private-key
+archive_links: 
 category: ssh
 classification: public
 date: 2019-03-09 20:07:45
@@ -13,7 +14,6 @@ series:
 tags: [ssh, ssh-keygen, public-key, private-key]
 title: Recreate Public Key from Private Key
 type: tech-note
-uuid: 0e90b140-9245-4fef-bc5f-982a70e1f1d8
 ---
 
 If you've lost a public key you can read the private key and have `ssh-keygen` recreate the public key.

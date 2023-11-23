@@ -1,6 +1,7 @@
 ---
-alias: clone-github-repository-with-token
-archive_links: []
+aliases:
+  - clone-github-repository-with-token
+archive_links: 
 category: github
 classification: public
 date: 2022-09-09 21:13:39
@@ -13,7 +14,6 @@ series:
 tags: [github, token, clone, personal-access-token]
 title: Clone GitHub Repository with Personal Access Token
 type: tech-note
-uuid: 09381c0e-2aec-48cb-89c5-26ab448931eb
 ---
 
 Create a Personal Access Token (PAT) [here](https://github.com/settings/tokens/new). Then you can use it to clone a repository, and save the need for a private key. Especially helpful on a server.

@@ -1,6 +1,7 @@
 ---
-alias: retrieve-nameservers-for-hostname
-archive_links: []
+aliases:
+  - retrieve-nameservers-for-hostname
+archive_links: 
 category: cli
 classification: public
 date: 2019-03-05 09:44:09
@@ -13,7 +14,6 @@ series:
 tags: [nameserver, dns, hostname, domain]
 title: Retrieve Nameservers for Hostname
 type: tech-note
-uuid: ec9eff1d-18e0-4560-a0c3-418a77915f73
 ---
 
 Return the nameservers for a hostname.

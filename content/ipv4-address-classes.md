@@ -1,6 +1,7 @@
 ---
-alias: ipv4-address-classes
-archive_links: []
+aliases:
+  - ipv4-address-classes
+archive_links: 
 category: network
 classification: public
 date: 2020-07-02 17:04:56
@@ -13,7 +14,6 @@ series:
 tags: [networking, ipv4]
 title: IP Address Classes
 type: tech-note
-uuid: 4b50e015-e26c-49e3-9cad-0a724d50ef12
 ---
 
 ``` markdown

@@ -1,6 +1,7 @@
 ---
-alias: tabler-icon-fonts-are-not-opentype-spec-compliant
-archive_links: []
+aliases:
+  - tabler-icon-fonts-are-not-opentype-spec-compliant
+archive_links: 
 category: firefox
 classification: public
 date: 2023-08-11 10:02:33
@@ -13,7 +14,6 @@ series:
 tags: [firefox, icon, font]
 title: Tabler Icon Fonts are not OpenType spec compliant
 type: tech-note
-uuid: 32eeaafa-936f-4d45-933b-167d233c2d57
 ---
 
 Only an issue on Firefox for Android Nightly, but I have to set `gfx.downloadable_fonts.otl_validation` to `false` when using the latest Tabler Icons otherwise they are not displayed, and return errors in the remote console like this:

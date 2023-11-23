@@ -1,6 +1,7 @@
 ---
-alias: privacy-redirect-bookmarklet
-archive_links: []
+aliases:
+  - privacy-redirect-bookmarklet
+archive_links: 
 category: javascript
 classification: public
 date: 2023-05-10 21:25:40
@@ -13,7 +14,6 @@ series:
 tags: [bookmarklet, javascript, chrome, firefox, nitter, twitter, reddit, libreddit]
 title: Privacy Redirect Bookmarklet
 type: tech-note
-uuid: 35ff9113-634a-424d-bb83-1ad22b8f064b
 ---
 
 A bookmarklet that can be used to open the current Twitter or Reddit page in my self-hosted [Nitter](https://github.com/zedeus/nitter) or [Libreddit](https://github.com/libreddit/libreddit) instances.

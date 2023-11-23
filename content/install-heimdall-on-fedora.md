@@ -1,6 +1,7 @@
 ---
-alias: install-heimdall-on-fedora
-archive_links: []
+aliases:
+  - install-heimdall-on-fedora
+archive_links: 
 category: android
 classification: public
 date: 2022-12-19 13:08:30
@@ -13,11 +14,10 @@ series:
 tags: [android, heimdall, linux, odin, samsung, flash, image, firmware]
 title: Install Heimdall on Fedora
 type: tech-note
-uuid: 81d8b312-b319-45f5-9053-a5d31ed47158
 ---
 
-!!! warning
-	Doing this is all well and good, but it's impossible to use - because there's no documentation on how to map the partitions to the files you should upload! Unfortunately Odin on Windows remains the simplest way to flash firmware for Samsung devices.
+> [!warning]
+> Doing this is all well and good, but it's impossible to use - because there's no documentation on how to map the partitions to the files you should upload! Unfortunately Odin on Windows remains the simplest way to flash firmware for Samsung devices.
 
 ## Prerequisites
 

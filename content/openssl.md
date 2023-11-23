@@ -1,6 +1,7 @@
 ---
-alias: openssl
-archive_links: []
+aliases:
+  - openssl
+archive_links: 
 category: openssl
 classification: public
 date: 2021-08-13 18:14:04
@@ -13,7 +14,6 @@ series:
 tags: [certificate, certificate-authority, ca]
 title: Local LAN Certificate
 type: tech-note
-uuid: 228eea5c-d751-4172-aeed-23c6c34c7bd9
 ---
 
 ## OpenSSL
@@ -71,8 +71,8 @@ DNS.2 = local.lan
 
 ## Wildcard Certificate
 
-!!! tip
-	On MacOS you have to use `sudo` for the final certificate creation command otherwise you get an error with the `srl` file not being accessible.
+> [!tip]
+> On MacOS you have to use `sudo` for the final certificate creation command otherwise you get an error with the `srl` file not being accessible.
 
 ```sh
 # Create key:

@@ -1,6 +1,7 @@
 ---
-alias: conventional-commits-types
-archive_links: []
+aliases:
+  - conventional-commits-types
+archive_links: 
 category: git
 classification: public
 date: 2023-07-04 15:11:26
@@ -13,7 +14,6 @@ series:
 tags: [git, conventional-commits, type]
 title: Conventional Commits Types
 type: tech-note
-uuid: 2f7a4d12-1680-4d97-8e9e-3c078003d98c
 ---
 
 I _hate_ [Conventional Commits](https://www.conventionalcommits.org). It actively makes me want to avoid committing regularly so I don't have to think of a commit "type" that fits within the philosophy.

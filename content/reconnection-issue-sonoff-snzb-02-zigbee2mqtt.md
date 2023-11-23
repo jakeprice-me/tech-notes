@@ -1,6 +1,7 @@
 ---
-alias: reconnection-issue-sonoff-snzb-02-zigbee2mqtt
-archive_links: []
+aliases:
+  - reconnection-issue-sonoff-snzb-02-zigbee2mqtt
+archive_links: 
 category: smart-home
 classification: public
 date: 2022-10-07 16:24:37
@@ -13,7 +14,6 @@ series:
 tags: [sonoff, zigbee, mqtt, temperature, sensor, home-assistant, temperature, power]
 title: Reconnection Issue with Sonoff SNZB-02 in Zigbee2MQTT
 type: tech-note
-uuid: d19e79e6-486e-4bba-8b83-304941b8d405
 ---
 
 [TOC]
@@ -26,11 +26,11 @@ If connection is lost, and a sensor stops reporting, the simplest way to fix is 
 2. Restart Zigbee2MQTT.
 3. Re-pair the device.
 
-!!! tip
-	This seems to pretty consistently work, step 2 is particularly important if you have issues with the battery status not registering, which also tends to mean the sensor values aren't being published.
+> [!tip]
+> This seems to pretty consistently work, step 2 is particularly important if you have issues with the battery status not registering, which also tends to mean the sensor values aren't being published.
 
-!!! warning
-	If it really doesn't work, then swap the battery with another and try again. It'll sometimes take a few goes before it gets picked up. Often you just have to keep restarting, and trying until it works.
+> [!warning]
+> If it really doesn't work, then swap the battery with another and try again. It'll sometimes take a few goes before it gets picked up. Often you just have to keep restarting, and trying until it works.
 
 ## Replace Battery
 
@@ -38,8 +38,8 @@ Run through the same steps as "Lost Connection Issue".
 
 ## Post Battery Replacement Issue
 
-!!! tip
-	Don't rush the process, sometimes it takes a minute or so to finish configuring. So only follow the below steps if after a few minutes the battery level has not updated.
+> [!tip]
+> Don't rush the process, sometimes it takes a minute or so to finish configuring. So only follow the below steps if after a few minutes the battery level has not updated.
 
 I had an issue with a SONOFF SNZB-02 temperature & humidity sensor, after replacing the battery I couldn't get it to reconnect to Zigbee2MQTT without the power column showing a question mark for the battery status. As a result it wasn't exposing any results. 
 

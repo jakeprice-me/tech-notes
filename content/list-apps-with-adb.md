@@ -1,6 +1,7 @@
 ---
-alias: list-apps-with-adb
-archive_links: []
+aliases:
+  - list-apps-with-adb
+archive_links: 
 category: android
 classification: public
 date: 2020-03-29 22:07:01
@@ -13,7 +14,6 @@ series:
 tags: [adb, android, apps, search, find, filter]
 title: List Apps with ADB
 type: tech-note
-uuid: 31f7f32d-e368-46ed-b481-bde887db8c13
 ---
 
 ```sh

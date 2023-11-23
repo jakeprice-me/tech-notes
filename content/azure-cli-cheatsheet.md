@@ -1,6 +1,7 @@
 ---
-alias: azure-cli-cheatsheet
-archive_links: []
+aliases:
+  - azure-cli-cheatsheet
+archive_links: 
 category: azure
 classification: public
 date: 2022-07-27 16:36:06
@@ -13,7 +14,6 @@ series:
 tags: [azure, cli, cheatsheet]
 title: Azure CLI Cheatsheet
 type: tech-note
-uuid: 0ab98662-3bd5-4832-b558-cb7daa58e654
 ---
 
 ```sh

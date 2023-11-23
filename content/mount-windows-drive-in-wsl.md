@@ -1,6 +1,7 @@
 ---
-alias: mount-windows-drive-in-wsl
-archive_links: []
+aliases:
+  - mount-windows-drive-in-wsl
+archive_links: 
 category: windows
 classification: public
 date: 2021-07-21 10:39:17
@@ -13,7 +14,6 @@ series:
 tags: [wsl, mount, windows, fstab]
 title: Mount Windows Drive in WSL
 type: tech-note
-uuid: 45f649ee-cd99-4fa9-9c54-a1050babe912
 ---
 
 > ## Mount Drives in a Persistent Manner

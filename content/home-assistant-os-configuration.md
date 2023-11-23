@@ -1,6 +1,7 @@
 ---
-alias: home-assistant-os-configuration
-archive_links: []
+aliases:
+  - home-assistant-os-configuration
+archive_links: 
 category: smart-home
 classification: public
 date: 2022-05-31 16:10:26
@@ -13,7 +14,6 @@ series:
 tags: [haos, home-assistant, smart-home, raspberry-pi]
 title: Home Assistant OS Configuration
 type: tech-note
-uuid: 4da5326e-9557-45d2-9bea-bce6cb5c0257
 ---
 
 [TOC]

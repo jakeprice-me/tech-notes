@@ -1,6 +1,7 @@
 ---
-alias: sqlite3-cheatsheet
-archive_links: []
+aliases:
+  - sqlite3-cheatsheet
+archive_links: 
 category: sqlite
 classification: public
 date: 2021-02-09 12:33:11
@@ -13,7 +14,6 @@ series:
 tags: [cheatsheet, sql, sqlite, database]
 title: SQLite3 Cheat Sheet
 type: tech-note
-uuid: 39f73f6f-11e1-4a07-bc21-b118260c5885
 ---
 
 ```sh

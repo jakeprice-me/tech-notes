@@ -1,6 +1,7 @@
 ---
-alias: rsync-cheatsheet
-archive_links: []
+aliases:
+  - rsync-cheatsheet
+archive_links: 
 category: cli
 classification: public
 date: 2020-06-20 23:26:43
@@ -13,7 +14,6 @@ series:
 tags: [rsync, backups]
 title: rsync Cheatsheet
 type: tech-note
-uuid: 1f677e56-3332-4990-a5d4-9c32caf4849e
 ---
 
 ```sh

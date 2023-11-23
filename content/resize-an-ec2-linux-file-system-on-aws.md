@@ -1,6 +1,7 @@
 ---
-alias: resize-an-ec2-linux-file-system-on-aws
-archive_links: []
+aliases:
+  - resize-an-ec2-linux-file-system-on-aws
+archive_links: 
 category: aws
 classification: public
 date: 2019-08-20 10:59:10
@@ -13,7 +14,6 @@ series:
 tags: [linux, aws, ec2, filesystem]
 title: Resize an EC2 Linux File System on AWS
 type: tech-note
-uuid: efa775f0-991e-46eb-9730-966f37dc8dfe
 ---
 
 If you need to resize an EC2 instance, or an additional mounted volume in AWS.

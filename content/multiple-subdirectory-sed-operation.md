@@ -1,6 +1,7 @@
 ---
-alias: multiple-subdirectory-sed-operation
-archive_links: []
+aliases:
+  - multiple-subdirectory-sed-operation
+archive_links: 
 category: bash
 classification: public
 date: 2020-11-24 18:51:02
@@ -13,7 +14,6 @@ series:
 tags: [loop, iterate, sed, bash]
 title: Multiple Subdirectory sed Operation
 type: tech-note
-uuid: 02e439bc-66d6-4859-80c2-638d3991da20
 ---
 
 The below will loop through each subdirectory from wherever you run it, then perform a `sed` operation on files matching the file ending.

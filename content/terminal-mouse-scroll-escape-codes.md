@@ -1,6 +1,7 @@
 ---
-alias: terminal-mouse-scroll-escape-codes
-archive_links: []
+aliases:
+  - terminal-mouse-scroll-escape-codes
+archive_links: 
 category: cli
 classification: public
 date: 2020-11-14 15:58:33
@@ -13,7 +14,6 @@ series:
 tags: [mouse, scrolling, escape, terminal, shell]
 title: Mouse Scroll Escape Codes in Terminal
 type: tech-note
-uuid: 7d36541f-8e03-47b3-965f-5bcc4f43ca87
 ---
 
 Very rarely I lose the ability to scroll in a terminal window, and when I try, the escape code `65;70;7M` is printed constantly instead.

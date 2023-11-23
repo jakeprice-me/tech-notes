@@ -1,6 +1,7 @@
 ---
-alias: systemd-laptop-lid-closure-settings
-archive_links: []
+aliases:
+  - systemd-laptop-lid-closure-settings
+archive_links: 
 category: systemd
 classification: public
 date: 2022-02-12 16:43:24
@@ -13,7 +14,6 @@ series:
 tags: [screen, laptop, lid, sleep, suspend, monitor, power]
 title: Laptop Lid Closure Settings on Linux
 type: tech-note
-uuid: 6293d7b0-f206-49ad-8b40-ed52c6a3493f
 ---
 
 ```sh

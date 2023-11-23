@@ -1,6 +1,7 @@
 ---
-alias: create-powershell-profile
-archive_links: []
+aliases:
+  - create-powershell-profile
+archive_links: 
 category: powershell
 classification: public
 date: 2020-06-19 11:57:42
@@ -13,7 +14,6 @@ series:
 tags: [powershell, profile, windows]
 title: Create a PowerShell Profile
 type: tech-note
-uuid: 28ba907b-7a74-4634-b0a4-2e825d6c7b43
 ---
 
 ```powershell

@@ -1,6 +1,7 @@
 ---
-alias: comment-current-command-in-terminal
-archive_links: []
+aliases:
+  - comment-current-command-in-terminal
+archive_links: 
 category: cli
 classification: public
 date: 2022-10-27 15:12:18
@@ -13,7 +14,6 @@ series:
 tags: [bash, shell, readline, shortcut, comment]
 title: Comment the Current Command in the Terminal
 type: tech-note
-uuid: 5283cafe-e84f-4b9e-8ae5-aa9da361a317
 ---
 
 You can comment the command you are currently typing out in the terminal using the shortcut `Alt + #`. 

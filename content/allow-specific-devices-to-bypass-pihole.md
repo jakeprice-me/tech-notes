@@ -1,6 +1,7 @@
 ---
-alias: allow-specific-devices-to-bypass-pihole
-archive_links: []
+aliases:
+  - allow-specific-devices-to-bypass-pihole
+archive_links: 
 category: pihole
 classification: public
 date: 2020-01-04 22:12:44
@@ -13,7 +14,6 @@ series:
 tags: [mac-address, network, pihole, dnsmasq, override, bypass]
 title: Allow Specific Devices to Bypass Pi-hole or dnsmasq
 type: tech-note
-uuid: ecd2f29e-528f-43cb-8037-a1dce9fc5490
 ---
 
 If you want a specific device to bypass Pi-hole and use another DNS server you can do it by adding an exception to `/etc/dnsmasq.d/04-bypass.conf`.

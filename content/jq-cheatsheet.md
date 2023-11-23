@@ -1,6 +1,7 @@
 ---
-alias: jq-cheatsheet
-archive_links: []
+aliases:
+  - jq-cheatsheet
+archive_links: 
 category: cli
 classification: public
 date: 2020-05-08 11:24:48
@@ -13,7 +14,6 @@ series:
 tags: [jq, json]
 title: jq Cheatsheet
 type: tech-note
-uuid: 9bf4766e-2481-45d2-bd37-5c9e61e5d05c
 ---
 
 ```sh

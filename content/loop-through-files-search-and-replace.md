@@ -1,6 +1,7 @@
 ---
-alias: loop-through-files-search-and-replace
-archive_links: []
+aliases:
+  - loop-through-files-search-and-replace
+archive_links: 
 category: bash
 classification: public
 date: 2020-03-09 20:13:20
@@ -13,7 +14,6 @@ series:
 tags: [bash, sed, loop, iteration]
 title: Loop Through Files and Search and Replace
 type: tech-note
-uuid: 4d3bf7a5-1fa2-4bd0-9639-d1657aa7552d
 ---
 
 Loop through all files, and run a search and replace with `sed`.

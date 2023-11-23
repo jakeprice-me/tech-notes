@@ -1,6 +1,7 @@
 ---
-alias: check-size-of-table-postgresql
-archive_links: []
+aliases:
+  - check-size-of-table-postgresql
+archive_links: 
 category: postgresql
 classification: public
 date: 2020-09-22 12:50:20
@@ -13,7 +14,6 @@ series:
 tags: [postgresql, psql, tables, size, database]
 title: Check Size of a Table in PostgreSQL
 type: tech-note
-uuid: 820571f3-bca2-40c5-a2e1-db682ec2e5ab
 ---
 
 To get an overview of how much space is taken by each table in a database.

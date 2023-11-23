@@ -1,6 +1,7 @@
 ---
-alias: use-macos-privileges-app-from-the-command-line
-archive_links: []
+aliases:
+  - use-macos-privileges-app-from-the-command-line
+archive_links: 
 category: macos
 classification: public
 date: 2023-06-06 12:07:53
@@ -13,7 +14,6 @@ series:
 tags: [admin, sudo, privileges, cli]
 title: Use MacOS Privileges App from the Command Line
 type: tech-note
-uuid: a71c5a70-e4ea-4c7f-8a34-fc54dfe0b2cc
 ---
 
 In most places I've worked where I've had a MacBook, you can use the [Privileges](https://github.com/SAP/macOS-enterprise-privileges) application to allow you to elevate your permissions to administrator for a set period of time. It's a great option, and works really well. Turns out you can also use it from the command line, which makes it much quicker to toggle.

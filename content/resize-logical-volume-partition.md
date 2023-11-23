@@ -1,6 +1,7 @@
 ---
-alias: resize-logical-volume-partition
-archive_links: []
+aliases:
+  - resize-logical-volume-partition
+archive_links: 
 category: linux
 classification: public
 date: 2022-02-08 10:18:09
@@ -13,7 +14,6 @@ series:
 tags: [lvm, qemu, vm, partition, virsh]
 title: Resize Logical Volume Partition
 type: tech-note
-uuid: ed824946-c622-4bd0-88e9-aac9e0f2cda0
 ---
 
 ```sh

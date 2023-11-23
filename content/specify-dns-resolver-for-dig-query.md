@@ -1,5 +1,6 @@
 ---
-alias: specify-dns-resolver-for-dig-query
+aliases:
+  - specify-dns-resolver-for-dig-query
 archive_links: 
 category: network
 classification: public
@@ -13,7 +14,6 @@ series:
 tags: [dig, dns, resolver, unbound]
 title: Specify DNS Resolver for dig Query
 type: tech-note
-uuid: 6b398f63-4966-44c8-8cfb-8a4b9fb20882
 ---
 
 I probably did know this, but had forgotten it, and it just came in handy whilst trying to confirm some stuff with Unbound.

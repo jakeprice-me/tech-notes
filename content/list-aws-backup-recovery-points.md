@@ -1,6 +1,7 @@
 ---
-alias: list-aws-backup-recovery-points
-archive_links: []
+aliases:
+  - list-aws-backup-recovery-points
+archive_links: 
 category: aws
 classification: public
 date: 2019-10-22 14:38:50
@@ -13,7 +14,6 @@ series:
 tags: [aws, backup, cli]
 title: List AWS Backup Recovery Points Using AWS CLI
 type: tech-note
-uuid: bc89e56c-0900-4ea9-9d74-941d6443ecd0
 ---
 
 To see the number of recovery points for a specific resource you first need to get the resource ARN for that resource.

@@ -1,6 +1,7 @@
 ---
-alias: hide-apache-tomcat-version-details
-archive_links: []
+aliases:
+  - hide-apache-tomcat-version-details
+archive_links: 
 category: tomcat
 classification: public
 date: 2020-10-10 11:57:30
@@ -13,7 +14,6 @@ series:
 tags: [tomcat, apache, version, security]
 title: Hide Tomcat Version Details on 404 Page
 type: tech-note
-uuid: 7357063d-0081-4aed-bb46-b7046ab97161
 ---
 
 It's important to hide the version of Tomcat that is being used to ensure the baddies are unsure!

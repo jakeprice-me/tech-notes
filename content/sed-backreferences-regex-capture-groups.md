@@ -1,6 +1,7 @@
 ---
-alias: sed-backreferences-regex-capture-groups
-archive_links: []
+aliases:
+  - sed-backreferences-regex-capture-groups
+archive_links: 
 category: sed
 classification: public
 date: 2020-10-06 11:14:53
@@ -13,7 +14,6 @@ series:
 tags: [sed, backreferences, regex, capturing-groups]
 title: Sed Backreferences and RegEx Capturing Groups
 type: tech-note
-uuid: 9186397d-093f-4acd-89ed-b73053d11935
 ---
 
 Sed is very powerful, and I've just learnt about how you can utilise regular expression capturing groups, and sed backreferences to do some particuarly powerful edits.

@@ -1,6 +1,7 @@
 ---
-alias: chmod-reference-table
-archive_links: []
+aliases:
+  - chmod-reference-table
+archive_links: 
 category: linux
 classification: public
 date: 2019-01-13 16:39:01
@@ -13,7 +14,6 @@ series:
 tags: [chmod, linux, permissions]
 title: chmod Reference Table
 type: tech-note
-uuid: 6335c00d-5cbb-4f09-9d12-644a92d308f8
 ---
 
 A helpful overview of `chmod` permissions.

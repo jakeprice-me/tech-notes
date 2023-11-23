@@ -1,6 +1,7 @@
 ---
-alias: python-requests-cheatsheet
-archive_links: []
+aliases:
+  - python-requests-cheatsheet
+archive_links: 
 category: python
 classification: public
 date: 2020-08-23 19:32:17
@@ -13,7 +14,6 @@ series:
 tags: [python, requests, api]
 title: Requests Python Library
 type: tech-note
-uuid: a823cd35-212e-4ec4-a585-22f515c8e3f6
 ---
 
 ## View raw HTTP Request

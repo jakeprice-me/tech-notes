@@ -1,6 +1,7 @@
 ---
-alias: get-telegram-bot-chat-id
-archive_links: []
+aliases:
+  - get-telegram-bot-chat-id
+archive_links: 
 category: telegram
 classification: public
 date: 2022-08-11 21:20:57
@@ -13,7 +14,6 @@ series:
 tags: [telegram, bot, chat-id, api]
 title: Get Telegram Bot Chat ID
 type: tech-note
-uuid: 590e0154-50be-4da6-bc5b-58f19f5cf4eb
 ---
 
 Send a message to your Telegram Bot first using the Bot token, then you can retrieve the Chat ID. 

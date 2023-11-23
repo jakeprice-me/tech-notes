@@ -1,6 +1,7 @@
 ---
-alias: selinux-cheatsheet
-archive_links: []
+aliases:
+  - selinux-cheatsheet
+archive_links: 
 category: selinux
 classification: public
 date: 2020-10-29 21:18:53
@@ -13,7 +14,6 @@ series:
 tags: [selinux, centos, redhat, security, ports, blocking, allow, firewall, cheatsheet]
 title: SELinux Cheatsheet
 type: tech-note
-uuid: 6aa242db-a857-4144-8014-6e58afbaa33a
 ---
 
 SELinux is the cause of a number of issues sometimes, if I can't access a port, and the firewall allows it, on a system using SELinux then it's probably because of SELinux.

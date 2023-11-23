@@ -1,6 +1,7 @@
 ---
-alias: script-comment-hierarchy
-archive_links: []
+aliases:
+  - script-comment-hierarchy
+archive_links: 
 category: miscellaneous
 classification: public
 date: 2020-08-28 12:03:51
@@ -13,7 +14,6 @@ series:
 tags: [comments, scripts]
 title: Script Comment Hierarchy
 type: tech-note
-uuid: 249d2b3d-1dbb-45dc-bd75-4ed79d891892
 ---
 
 Nothing like this seems to exist, so I've come up with my own.

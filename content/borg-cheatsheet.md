@@ -1,5 +1,6 @@
 ---
-alias: borg-cheatsheet
+aliases:
+  - borg-cheatsheet
 archive_links: 
 category: borg
 classification: public
@@ -18,7 +19,6 @@ tags:
   - cheatsheet
 title: Borg Cheatsheet
 type: tech-note
-uuid: 476ca90f-d6df-4107-84b9-b9f950377552
 ---
 
 ### Initiation

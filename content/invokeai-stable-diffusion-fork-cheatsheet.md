@@ -1,6 +1,7 @@
 ---
-alias: invokeai-stable-diffusion-fork-cheatsheet
-archive_links: []
+aliases:
+  - invokeai-stable-diffusion-fork-cheatsheet
+archive_links: 
 category: cli
 classification: public
 date: 2022-10-02 21:49:05
@@ -13,7 +14,6 @@ series:
 tags: [ai, stable-diffusion, cheatsheet, ai-art]
 title: InvokeAI Stable Diffusion Fork Cheatsheet
 type: tech-note
-uuid: f7ba5582-2adc-43e0-83d6-cebd39b0a488
 ---
 
 ## Activate Anaconda Environment

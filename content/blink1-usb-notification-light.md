@@ -1,6 +1,7 @@
 ---
-alias: blink1-usb-notification-light
-archive_links: []
+aliases:
+  - blink1-usb-notification-light
+archive_links: 
 category: blink
 classification: public
 date: 2022-02-04 20:29:34
@@ -13,7 +14,6 @@ series:
 tags: [blink1, usb, notification]
 title: blink(1) USB Notification Light
 type: tech-note
-uuid: e230f402-d4ad-4a68-87b5-6f6bd60479ad
 ---
 
 ## Install & Configure Dependencies

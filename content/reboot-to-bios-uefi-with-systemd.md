@@ -1,6 +1,7 @@
 ---
-alias: reboot-to-bios-uefi-with-systemd
-archive_links: []
+aliases:
+  - reboot-to-bios-uefi-with-systemd
+archive_links: 
 category: systemd
 classification: public
 date: 2022-10-07 21:33:34
@@ -13,7 +14,6 @@ series:
 tags: [systemd, systemctl, reboot, restart, bios, uefi, firmware]
 title: Reboot to BIOS/UEFI with systemd
 type: tech-note
-uuid: e7a31ab1-62d6-4f58-8285-2968d4c51bfe
 ---
 
 Reboot to your device's BIOS/UEFI with systemd, by using the `systemctl` command.

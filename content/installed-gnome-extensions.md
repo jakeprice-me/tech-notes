@@ -1,6 +1,7 @@
 ---
-alias: installed-gnome-extensions
-archive_links: []
+aliases:
+  - installed-gnome-extensions
+archive_links: 
 category: gnome
 classification: public
 date: 2022-01-15 17:17:50
@@ -13,7 +14,6 @@ series:
 tags: [gnome, extensions]
 title: Installed Gnome Extensions
 type: tech-note
-uuid: 4353ffe8-fcb6-4df2-9a1f-c187014cce6d
 ---
 
 I don't particuarly like extensions on Gnome, and would prefer to use them as little as possible, but the ones below are essential in my opinion.

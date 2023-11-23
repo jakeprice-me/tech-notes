@@ -1,6 +1,7 @@
 ---
-alias: enable-clipboard-support-in-vim-on-fedora
-archive_links: []
+aliases:
+  - enable-clipboard-support-in-vim-on-fedora
+archive_links: 
 category: vim
 classification: public
 date: 2020-09-08 20:12:31
@@ -13,7 +14,6 @@ series:
 tags: [fedora, vim, x11, clipboard, register]
 title: Enable Vim +clipboard Support On Fedora
 type: tech-note
-uuid: 1b361ccc-36fc-4404-a739-e32534f64d5c
 ---
 
 > So, installing vim-enhanced and vim-X11 is enough, but is not at the same time. To enable the system functions like +clipboard, you moreover need to use the `vimx` executable rather than vim or vi (even though they are probably identical, the name changes the behaviour).

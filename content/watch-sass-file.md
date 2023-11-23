@@ -1,6 +1,7 @@
 ---
-alias: watch-sass-file
-archive_links: []
+aliases:
+  - watch-sass-file
+archive_links: 
 category: sass
 classification: public
 date: 2020-07-05 19:47:26
@@ -13,7 +14,6 @@ series:
 tags: [sass, scss, css]
 title: Watch a Sass File
 type: tech-note
-uuid: 29baed1a-10b1-4377-a8a0-541e82401e9c
 ---
 
 ```sh

@@ -1,6 +1,7 @@
 ---
-alias: docker-cheatsheet
-archive_links: []
+aliases:
+  - docker-cheatsheet
+archive_links: 
 category: docker
 classification: public
 date: 2021-04-03 21:26:50
@@ -13,7 +14,6 @@ series:
 tags: [docker, containers, cheatsheet]
 title: Docker Cheatsheet
 type: tech-note
-uuid: 95629ac4-938a-4fe4-b5b1-86704df7b2df
 ---
 
 ```sh

@@ -1,6 +1,7 @@
 ---
-alias: create-sftp-server
-archive_links: []
+aliases:
+  - create-sftp-server
+archive_links: 
 category: self-hosted
 classification: public
 date: 2020-11-24 09:33:31
@@ -13,7 +14,6 @@ series:
 tags: [sftp, linux, password]
 title: Create an SFTP Server
 type: tech-note
-uuid: 3e3063ea-f3ce-409f-a1f1-57d7ab85b35f
 ---
 
 At work I've used a couple of options for enabling SFTP. The directory structure I tend to use is as follows.

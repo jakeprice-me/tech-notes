@@ -1,6 +1,7 @@
 ---
-alias: aws-cloudwatch-logs-insights-average
-archive_links: []
+aliases:
+  - aws-cloudwatch-logs-insights-average
+archive_links: 
 category: aws
 classification: public
 date: 2021-03-02 16:23:13
@@ -13,7 +14,6 @@ series:
 tags: [syntax, cloudwatch, logs, insights, average]
 title: AWS CloudWatch Insights Average
 type: tech-note
-uuid: 78a322a3-53b5-46ec-9c3d-096257c90e88
 ---
 
 [CloudWatch Logs Insights Query Syntax](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/CWL_QuerySyntax.html)

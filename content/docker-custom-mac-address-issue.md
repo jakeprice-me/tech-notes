@@ -1,6 +1,7 @@
 ---
-alias: docker-custom-mac-address-issue
-archive_links: []
+aliases:
+  - docker-custom-mac-address-issue
+archive_links: 
 category: docker
 classification: public
 date: 2021-12-10 21:01:16
@@ -13,7 +14,6 @@ series:
 tags: [docker, raspberry-pi, mac, range]
 title: Docker cannot start service app
 type: tech-note
-uuid: 85d75821-030c-4907-acfe-fc4cbe3b0cd2
 ---
 
 Docker on Raspberry Pi - I manually set MAC's but I get the below error.

@@ -1,6 +1,7 @@
 ---
-alias: disable-windows10-automatic-restarts
-archive_links: []
+aliases:
+  - disable-windows10-automatic-restarts
+archive_links: 
 category: windows
 classification: public
 date: 2020-10-23 22:00:29
@@ -13,7 +14,6 @@ series:
 tags: [windows-10, updates]
 title: Disable Windows 10 Automatic Restarts after Updates
 type: tech-note
-uuid: ab9e7a17-2138-4030-87e5-e49fa904aa62
 ---
 
 > 1. Click on the `Start` button and type `gpedit.msc`, press Enter.

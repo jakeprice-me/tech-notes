@@ -1,6 +1,7 @@
 ---
-alias: troubleshoot-fedora-boot-time
-archive_links: []
+aliases:
+  - troubleshoot-fedora-boot-time
+archive_links: 
 category: systemd
 classification: public
 date: 2022-01-16 18:25:09
@@ -13,7 +14,6 @@ series:
 tags: [fedora, boot, systemd, analyze, blame, unbound, network-manager]
 title: Speed-up Fedora Boot Time
 type: tech-note
-uuid: 686548c1-ef5a-49c1-bd6d-6a4644ee5215
 ---
 
 Run the below commands to see what takes the longest at boot.

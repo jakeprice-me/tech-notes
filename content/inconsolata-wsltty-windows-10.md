@@ -1,6 +1,7 @@
 ---
-alias: inconsolata-wsltty-windows-10
-archive_links: []
+aliases:
+  - inconsolata-wsltty-windows-10
+archive_links: 
 category: windows
 classification: public
 date: 2020-08-01 14:19:31
@@ -13,7 +14,6 @@ series:
 tags: [wsltty, inconsolata, fonts]
 title: Inconsolata on wsltty on Windows 10
 type: tech-note
-uuid: 018d4e64-f69f-486f-918d-56e01c3b5f15
 ---
 
 When installing my favourite monospace font on Windows 10 at work It is really blurry, because when downloaded from [Inconsolata](https://www.levien.com/type/myfonts/inconsolata.html) it only seems to include `Medium` as a useable font style, and it looks horrible on wsltty.

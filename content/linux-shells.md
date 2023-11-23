@@ -1,6 +1,7 @@
 ---
-alias: linux-shells
-archive_links: []
+aliases:
+  - linux-shells
+archive_links: 
 category: linux
 classification: public
 date: 2020-07-14 21:15:25
@@ -13,7 +14,6 @@ series:
 tags: [bash, shell, linux, stack-exchange]
 title: Linux Shell
 type: tech-note
-uuid: 9d540072-afb2-49f9-9785-7849bf0f62c2
 ---
 
 > - **login** shell: A login shell logs you into the system as a specific user, necessary for this is a username and password. When you hit ctrl+alt+F1 to login into a virtual terminal you get after successful login: a login shell (that is interactive). Sourced files:

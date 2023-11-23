@@ -1,5 +1,6 @@
 ---
-alias: verify-if-unbound-is-resolving-dns-queries-locally
+aliases:
+  - verify-if-unbound-is-resolving-dns-queries-locally
 archive_links: 
 category: network
 classification: public
@@ -13,7 +14,6 @@ series:
 tags: [unbound, dns, recursive, resolve]
 title: Verify if Unbound is Resolving DNS Queries Locally
 type: tech-note
-uuid: 7759706c-6fd9-4353-8ff4-b38c1fef46dc
 ---
 
 I needed to verify that my Unbound DNS server (which is, as of a few weeks ago now running as a service on my OpenWRT router as opposed to a Raspberry Pi) was actually resolving it's own queries and not passing them off to Google or Cloudflare. 

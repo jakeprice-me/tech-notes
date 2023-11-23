@@ -1,6 +1,7 @@
 ---
-alias: pandoc-cheatsheet
-archive_links: []
+aliases:
+  - pandoc-cheatsheet
+archive_links: 
 category: pandoc
 classification: public
 date: 2020-05-16 10:46:32
@@ -13,7 +14,6 @@ series:
 tags: [pandoc, commands, markdown, markup, cheatsheet]
 title: Pandoc Cheatsheet
 type: tech-note
-uuid: 73da8d1e-66ed-41af-bfd0-5985bd117e70
 ---
 
 ```sh

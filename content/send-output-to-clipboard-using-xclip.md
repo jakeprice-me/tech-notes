@@ -1,6 +1,7 @@
 ---
-alias: send-output-to-clipboard-using-xclip
-archive_links: []
+aliases:
+  - send-output-to-clipboard-using-xclip
+archive_links: 
 category: cli
 classification: public
 date: 2022-02-04 11:54:27
@@ -13,7 +14,6 @@ series:
 tags: [xclip, xsel, clipboard, stdout, stdin, copy, paste]
 title: Send Output to Clipboard using xclip
 type: tech-note
-uuid: faf3cb58-4fd5-4642-8f90-c6cb472e65c0
 ---
 
 To send the output of a command in the terminal to the clipboard, the below is super helpful.

@@ -1,6 +1,7 @@
 ---
-alias: start-apache-airflow
-archive_links: []
+aliases:
+  - start-apache-airflow
+archive_links: 
 category: airflow
 classification: public
 date: 2020-10-22 16:23:49
@@ -13,7 +14,6 @@ series:
 tags: [airflow, apache]
 title: Start Airflow
 type: tech-note
-uuid: c843ef1a-c34d-43ad-9201-5d10607ca19c
 ---
 
 ```sh

@@ -1,6 +1,7 @@
 ---
-alias: postgresql-cheatsheet
-archive_links: []
+aliases:
+  - postgresql-cheatsheet
+archive_links: 
 category: postgresql
 classification: public
 date: 2020-08-04 20:53:23
@@ -13,7 +14,6 @@ series:
 tags: [sql, commands, statements, psql, postgresql]
 title: PostgreSQL Commands
 type: tech-note
-uuid: eab4a299-6e9b-4669-9da3-5a9bde803893
 ---
 
 ## Connection Strings

@@ -1,6 +1,7 @@
 ---
-alias: fzf-fuzzy-completion
-archive_links: []
+aliases:
+  - fzf-fuzzy-completion
+archive_links: 
 category: cli
 classification: public
 date: 2020-04-19 19:39:44
@@ -13,7 +14,6 @@ series:
 tags: [fzf, fuzzy]
 title: fzf Fuzzy Completion
 type: tech-note
-uuid: 7f58c390-cfef-46c3-9b15-5badad9167e7
 ---
 
 ```sh

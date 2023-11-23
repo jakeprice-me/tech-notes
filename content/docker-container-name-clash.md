@@ -1,6 +1,7 @@
 ---
-alias: docker-container-name-clash
-archive_links: []
+aliases:
+  - docker-container-name-clash
+archive_links: 
 category: docker
 classification: public
 date: 2022-06-01 16:38:01
@@ -13,7 +14,6 @@ series:
 tags: [php, docker, caddy]
 title: Regular File Not Found Error PHP Container
 type: tech-note
-uuid: b25b2def-296e-45db-9135-3a65ee04063e
 ---
 
 I was having an issue launching another PHP application on the same device with Docker Compose. 

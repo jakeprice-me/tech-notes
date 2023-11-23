@@ -1,6 +1,7 @@
 ---
-alias: du-cheatsheet
-archive_links: []
+aliases:
+  - du-cheatsheet
+archive_links: 
 category: cli
 classification: public
 date: 2020-07-05 19:40:16
@@ -13,7 +14,6 @@ series:
 tags: [disk-usage, du, bash, linux]
 title: File Space Usage with du
 type: tech-note
-uuid: 2cdf7e39-e5ab-4517-bbae-0b1846269fe4
 ---
 
 ```sh

@@ -1,6 +1,7 @@
 ---
-alias: remove-all-temporary-unison-files
-archive_links: []
+aliases:
+  - remove-all-temporary-unison-files
+archive_links: 
 category: cli
 classification: public
 date: 2022-11-06 10:19:01
@@ -13,7 +14,6 @@ series:
 tags: [unison, sync, find, temporary]
 title: Remove all Temporary Unison Files
 type: tech-note
-uuid: f3fcafc1-90fb-4383-aca3-fd1dd49b8521
 ---
 
 Find and delete all `.unison.tmp` files.

@@ -1,6 +1,7 @@
 ---
-alias: view-in-use-gnome-shortcuts
-archive_links: []
+aliases:
+  - view-in-use-gnome-shortcuts
+archive_links: 
 category: gnome
 classification: public
 date: 2022-02-19 16:34:00
@@ -13,7 +14,6 @@ series:
 tags: [gnome, shortcut, gsettings, dconf]
 title: View All Gnome Shortcuts
 type: tech-note
-uuid: 3e0b5628-63dc-42ab-acd4-26fbb621628b
 ---
 
 To view a list of all shortcuts with their corresponding `gsettings` path, run the below. You can substitute `Super` with other keys obviously.

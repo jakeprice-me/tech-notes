@@ -1,6 +1,7 @@
 ---
-alias: home-assistant-os-cli-cheatsheet
-archive_links: []
+aliases:
+  - home-assistant-os-cli-cheatsheet
+archive_links: 
 category: smart-home
 classification: public
 date: 2022-06-01 14:36:14
@@ -13,7 +14,6 @@ series:
 tags: [home-assistant, haos, cli, cheatsheet]
 title: Home Assistant OS CLI Cheatsheet
 type: tech-note
-uuid: 6b1a3188-4d04-4522-a291-3a9745673011
 ---
 
 [Common Tasks - Operating System - Home Assistant](https://www.home-assistant.io/common-tasks/os/)

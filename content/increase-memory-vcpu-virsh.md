@@ -1,6 +1,7 @@
 ---
-alias: increase-memory-vcpu-virsh
-archive_links: []
+aliases:
+  - increase-memory-vcpu-virsh
+archive_links: 
 category: libvirt
 classification: public
 date: 2022-02-21 22:50:05
@@ -13,7 +14,6 @@ series:
 tags: [virsh, vm, domain, memory, ram, vcpu, cpu, max, maximum]
 title: Increase Memory & Virtual CPU on Virtual Machine
 type: tech-note
-uuid: 37ada0cf-74b3-4c04-9648-f5cf8901f46d
 ---
 
 ```sh

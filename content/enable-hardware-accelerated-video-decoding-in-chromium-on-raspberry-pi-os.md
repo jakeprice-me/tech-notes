@@ -1,6 +1,7 @@
 ---
-alias: enable-hardware-accelerated-video-decoding-in-chromium-on-raspberry-pi-os
-archive_links: []
+aliases:
+  - enable-hardware-accelerated-video-decoding-in-chromium-on-raspberry-pi-os
+archive_links: 
 category: raspberry-pi
 classification: public
 date: 2023-07-11 15:13:59
@@ -13,7 +14,6 @@ series:
 tags: [video, decode, raspberry-pi, chromium, home-assistant]
 title: Enable Hardware Accelerated Video Decoding In Chromium On Raspberry Pi OS
 type: tech-note
-uuid: 74a0b40e-576b-498d-ac9a-d5f3ba67b8b1
 ---
 
 I have a Raspberry Pi 4B I use to display a Home Assistant dashboard, it includes cameras from around my house as well. After a fresh install of my RPI these camera streams don't stream, until I install the below packages.

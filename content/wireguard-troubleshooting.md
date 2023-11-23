@@ -1,6 +1,7 @@
 ---
-alias: wireguard-troubleshooting
-archive_links: []
+aliases:
+  - wireguard-troubleshooting
+archive_links: 
 category: network
 classification: public
 date: 2023-01-09 14:14:37
@@ -13,7 +14,6 @@ series:
 tags: [vpn, wireguard, troubleshoot]
 title: WireGuard Troubleshooting
 type: tech-note
-uuid: 417a489b-4714-4a49-8b7d-550ee56e20b5
 ---
 
 ## Port Forward Rule

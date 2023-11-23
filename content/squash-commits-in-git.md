@@ -1,6 +1,7 @@
 ---
-alias: squash-commits-in-git
-archive_links: []
+aliases:
+  - squash-commits-in-git
+archive_links: 
 category: git
 classification: public
 date: 2023-11-10 15:31:31
@@ -13,7 +14,6 @@ series:
 tags: [git, squash, history, commit, rebase, interactive]
 title: Squash Commits in Git
 type: tech-note
-uuid: 5ba9db74-e644-4e6f-9b59-b8944a92824e
 ---
 
 In most situations I don't like the idea of squashing commits, I feel like it's much better to have each change associated to a single commit. However, sometimes that's not always possible, and there's nothing worse than dozens of "trying this again" or "still not working" commit messages (especially when you're trying stuff in a pipeline), which if still working on a single issue, should really end up just being one commit most of the time.

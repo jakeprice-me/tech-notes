@@ -1,6 +1,7 @@
 ---
-alias: setup-samba-fileshare-on-debian
-archive_links: []
+aliases:
+  - setup-samba-fileshare-on-debian
+archive_links: 
 category: samba
 classification: public
 date: 2020-11-24 21:48:52
@@ -13,7 +14,6 @@ series:
 tags: [debian, samba, file-server, smb]
 title: Setup a Samba Fileshare on Debian
 type: tech-note
-uuid: 83b5248d-6beb-4c4e-accf-1d8a89fd045c
 ---
 
 I use the commands below to setup a Samba network share on my local server.

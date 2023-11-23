@@ -1,6 +1,7 @@
 ---
-alias: journald-cheatsheet
-archive_links: []
+aliases:
+  - journald-cheatsheet
+archive_links: 
 category: cli
 classification: public
 date: 2022-08-09 16:31:52
@@ -13,7 +14,6 @@ series:
 tags: [journald, log, follow]
 title: journald Cheatsheet
 type: tech-note
-uuid: ec28bb00-d300-4b1e-af36-8c38cd4b6798
 ---
 
 ```sh

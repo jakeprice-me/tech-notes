@@ -1,6 +1,7 @@
 ---
-alias: manage-ec2-keypairs-aws-cli
-archive_links: []
+aliases:
+  - manage-ec2-keypairs-aws-cli
+archive_links: 
 category: aws
 classification: public
 date: 2020-08-26 15:25:49
@@ -13,7 +14,6 @@ series:
 tags: [aws, cli, ssh, keys, ec2]
 title: Manage EC2 KeyPairs with the AWS CLI
 type: tech-note
-uuid: c503f453-8d02-492c-afac-d5f7506a0fe2
 ---
 
 ## Create a Key Pair

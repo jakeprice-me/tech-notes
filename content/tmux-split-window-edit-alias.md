@@ -1,6 +1,7 @@
 ---
-alias: tmux-split-window-edit-alias
-archive_links: []
+aliases:
+  - tmux-split-window-edit-alias
+archive_links: 
 category: tmux
 classification: public
 date: 2020-07-04 19:01:10
@@ -13,7 +14,6 @@ series:
 tags: [tmux, vim, shell, alias]
 title: tmux Split Window Shell Alias
 type: tech-note
-uuid: 531b99ad-4b09-4b36-88f3-ca9a7d93a48d
 ---
 
 This is a super handy shell alias I found on Reddit.

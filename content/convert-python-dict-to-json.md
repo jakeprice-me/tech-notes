@@ -1,6 +1,7 @@
 ---
-alias: convert-python-dict-to-json
-archive_links: []
+aliases:
+  - convert-python-dict-to-json
+archive_links: 
 category: python
 classification: public
 date: 2020-01-04 15:20:16
@@ -13,7 +14,6 @@ series:
 tags: [python, dict, json]
 title: Convert Python Dictionary to JSON
 type: tech-note
-uuid: 52c9bf0b-9ff2-4da8-86df-9229a412fcaf
 ---
 
 ``` python

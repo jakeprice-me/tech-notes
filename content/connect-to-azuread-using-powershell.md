@@ -1,6 +1,7 @@
 ---
-alias: connect-to-azuread-using-powershell
-archive_links: []
+aliases:
+  - connect-to-azuread-using-powershell
+archive_links: 
 category: azure
 classification: public
 date: 2020-12-09 15:23:58
@@ -13,11 +14,10 @@ series:
 tags: [azure-ad, powershell]
 title: Connect to Azure AD in PowerShell
 type: tech-note
-uuid: c9c3add0-7a28-43e3-9cff-622b4ce0c883
 ---
 
-!!! tip
-	Make sure you have run the `Install-Module AzureAD` command.
+> [!tip]
+> Make sure you have run the `Install-Module AzureAD` command.
 
 In PowerShell type `Connect-AzureAD`, and type in your credentials in the login box that pops-up.
 

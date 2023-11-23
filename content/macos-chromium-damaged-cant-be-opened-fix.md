@@ -1,6 +1,7 @@
 ---
-alias: macos-chromium-damaged-cant-be-opened-fix
-archive_links: []
+aliases:
+  - macos-chromium-damaged-cant-be-opened-fix
+archive_links: 
 category: macos
 classification: public
 date: 2022-01-09 17:41:01
@@ -13,7 +14,6 @@ series:
 tags: [macos, chromium, damaged, xattr, attribute, application]
 title: Fix "... Damaged Can't be Opened" on MacOS
 type: tech-note
-uuid: f1f272f1-c910-4662-90bf-a5b8c7b117d7
 ---
 
 How to fix "Chromium is Damaged Can't Be Opened".

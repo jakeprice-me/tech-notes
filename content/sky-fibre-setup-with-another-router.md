@@ -1,6 +1,7 @@
 ---
-alias: sky-fibre-setup-with-another-router
-archive_links: []
+aliases:
+  - sky-fibre-setup-with-another-router
+archive_links: 
 category: network
 classification: public
 date: 2022-07-18 20:21:53
@@ -13,7 +14,6 @@ series:
 tags: [sky, fibre, ont, broadband, openreach, fttp, client-identifier-string, option-61]
 title: Sky Fibre Setup with Netgear R7800 Router
 type: tech-note
-uuid: d0a0feed-e760-447a-b21d-52cbf33e610e
 ---
 
 Setup is _really_ easy. No need to use the Sky Router at all. 

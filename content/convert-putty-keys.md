@@ -1,6 +1,7 @@
 ---
-alias: convert-putty-keys
-archive_links: []
+aliases:
+  - convert-putty-keys
+archive_links: 
 category: putty
 classification: public
 date: 2019-06-26 15:08:00
@@ -13,7 +14,6 @@ series:
 tags: [putty, ppk, pem, ssh]
 title: Convert Putty Keys
 type: tech-note
-uuid: 3481ba7c-a881-49ba-944c-d150b564071c
 ---
 
 To convert a PuTTY `.ppk` key to something that you can use on Linux or WSL start by installing "PuTTY Tools".

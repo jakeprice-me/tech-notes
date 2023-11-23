@@ -1,6 +1,7 @@
 ---
-alias: connect-to-an-openvpn-tunnel-using-the-cli
-archive_links: []
+aliases:
+  - connect-to-an-openvpn-tunnel-using-the-cli
+archive_links: 
 category: openvpn
 classification: public
 date: 2019-09-14 21:34:52
@@ -13,7 +14,6 @@ series:
 tags: [openvpn, ubuntu]
 title: Connect to an OpenVPN Tunnel Using the CLI
 type: tech-note
-uuid: f897a427-3bf4-4f96-ad5e-89f5efc2b7e0
 ---
 
 Use an OpenVPN configuration file to connect to an OpenVPN tunnel.
