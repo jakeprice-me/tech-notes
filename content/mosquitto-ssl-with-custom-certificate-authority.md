@@ -2,7 +2,7 @@
 aliases:
   - mosquitto-ssl-with-custom-certificate-authority
 archive_links: https://web.archive.org/web/20230911045315/http://www.steves-internet-guide.com/mosquitto-tls/
-category: 
+category: smart-home
 classification: public
 date: 2023-11-22 12:02:20
 date_modified: 2023-11-22 12:02:20
