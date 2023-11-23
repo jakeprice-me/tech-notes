@@ -60,7 +60,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [vim](#vim)
 - [vscode](#vscode)
 - [windows](#windows)
-## Notes <sup>188</sup>
+## Notes <sup>190</sup>
 
 
 ### <a id="airflow">airflow</a> <sup>1</sup>
@@ -180,11 +180,12 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2023-06-16 - Sort Firefox Extensions List](content/sort-firefox-extensions-list.md)
 - [2023-08-11 - Tabler Icon Fonts are not OpenType spec compliant](content/tabler-icon-fonts-are-not-opentype-spec-compliant.md)
 
-### <a id="git">git</a> <sup>3</sup>
+### <a id="git">git</a> <sup>4</sup>
 
 - [2020-05-16 - Git Cheatsheet](content/git-cheatsheet.md)
 - [2023-07-04 - Conventional Commits Types](content/conventional-commits-types.md)
 - [2023-11-10 - Squash Commits in Git](content/squash-commits-in-git.md)
+- [2023-11-23 - Fix no newline at end of file in Git diff](content/fix-no-newline-at-end-of-file-in-git-diff.md)
 
 ### <a id="github">github</a> <sup>4</sup>
 
@@ -351,11 +352,12 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 
 - [2020-10-29 - SELinux Cheatsheet](content/selinux-cheatsheet.md)
 
-### <a id="smart-home">smart-home</a> <sup>3</sup>
+### <a id="smart-home">smart-home</a> <sup>4</sup>
 
 - [2022-05-31 - Home Assistant OS Configuration](content/home-assistant-os-configuration.md)
 - [2022-06-01 - Home Assistant OS CLI Cheatsheet](content/home-assistant-os-cli-cheatsheet.md)
 - [2022-10-07 - Reconnection Issue with Sonoff SNZB-02 in Zigbee2MQTT](content/reconnection-issue-sonoff-snzb-02-zigbee2mqtt.md)
+- [2023-11-22 - Mosquitto SSL with Custom Certificate Authority](content/mosquitto-ssl-with-custom-certificate-authority.md)
 
 ### <a id="sqlite">sqlite</a> <sup>1</sup>
 
