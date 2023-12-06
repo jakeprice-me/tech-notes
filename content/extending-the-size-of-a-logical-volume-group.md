@@ -37,7 +37,7 @@ sdc
 zram0                                                                                                    [SWAP]
 ```
 
-As I had Fedora setup paitions with a logical volume group, I was able to check that the volume group had a lot more space capacity (under `VFree`).
+As I had Fedora setup partitions with a logical volume group, I was able to check that the volume group had a lot more space capacity (under `VFree`).
 
 ```sh
 $ sudo vgs
