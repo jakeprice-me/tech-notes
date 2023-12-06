@@ -11,7 +11,10 @@ link:
 local_archive: 
 pinned: false
 series: 
-tags: [jcmd, heap-dump, java, digi]
+tags:
+  - jcmd
+  - heap-dump
+  - java
 title: Take a heap-dump using jcmd
 type: tech-note
 ---

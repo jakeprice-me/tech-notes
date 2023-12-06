@@ -11,7 +11,11 @@ link: https://docs.github.com/en/actions
 local_archive: 
 pinned: false
 series: 
-tags: [github, actions, ci-cd, pipeline]
+tags:
+  - github
+  - ci-cd
+  - pipeline
+  - github-actions
 title: GitHub Actions Cheatsheet
 type: tech-note
 ---

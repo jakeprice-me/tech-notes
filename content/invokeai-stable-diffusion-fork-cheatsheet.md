@@ -11,7 +11,10 @@ link:
 local_archive: 
 pinned: false
 series: 
-tags: [ai, stable-diffusion, cheatsheet, ai-art]
+tags:
+  - ai
+  - stable-diffusion
+  - cheatsheet
 title: InvokeAI Stable Diffusion Fork Cheatsheet
 type: tech-note
 ---
