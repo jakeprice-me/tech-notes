@@ -19,4 +19,10 @@ type: tech-note
 ```sh
 # Follow unbound logs:
 logread -f | grep unbound
+
+# View DHCP leases:
+vim /tmp/dhcp.leases
+
+# Restart DHCP:
+service dnsmasq restart
 ```

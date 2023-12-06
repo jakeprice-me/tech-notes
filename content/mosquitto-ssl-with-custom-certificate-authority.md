@@ -5,10 +5,10 @@ archive_links: https://web.archive.org/web/20230911045315/http://www.steves-inte
 category: smart-home
 classification: public
 date: 2023-11-22 12:02:20
-date_modified: 2023-11-22 12:02:20
+date_modified: 2023-11-27 09:55:21
 id: 20231122120220
 link: http://www.steves-internet-guide.com/mosquitto-tls/
-local_archive: attachments/archive/20231122120220.html
+local_archive: attachments/20231122120220.html
 pinned: false
 series: 
 tags:
@@ -20,9 +20,14 @@ title: Mosquitto SSL with Custom Certificate Authority
 type: tech-note
 ---
 
-It's easy enough to use a custom certificate authority when enabling SSL with Mosquitto, but as with all things `openssl` I'll never remember it by heart!
+It's easy enough to use a custom certificate authority when enabling SSL with Mosquitto, but as with all things `openssl` I'll never remember it by heart! 
+
+> [!note]
+> To clarify this process does not enable client authentication, you still authenticate with username and password.
 
 So I run the following `openssl` commands.
+
+## Certificate Authority
 
 ```sh
 # Create a certificate directory:
@@ -47,7 +52,32 @@ Organization Name (eg, company) [Default Company Ltd]:Mosquitto
 Organizational Unit Name (eg, section) []:
 Common Name (eg, your name or your servers hostname) []:
 Email Address []:
+```
 
+## Server Certificate
+
+### Configuration File
+
+Create a file `san.cnf` so we can specify SAN (Subject Alternative Names) on the certificate.
+
+```ini
+[req]
+req_extensions = v3_req
+distinguished_name = req_distinguished_name
+
+[req_distinguished_name]
+
+[v3_req]
+subjectAltName = @alt_names
+
+[alt_names]
+DNS.1 = mosquitto.int.price.gb.net
+DNS.2 = mqtt.int.price.gb.net
+```
+
+### Generate Server Certificate
+
+```sh
 # Generate server certificate key:
 $ openssl genrsa -out server.key 2048
 
@@ -74,8 +104,18 @@ A challenge password []:
 An optional company name []:
 
 # Generate server certificate:
-$ openssl x509 -req -in server.csr -CA ca.crt -CAkey ca.key -CAcreateserial -out server.crt -days 3650
+$ openssl x509 -req -in server.csr -CA ca.crt -CAkey ca.key -CAcreateserial -out server.crt -days 3650 -extfile san_config.cnf -extensions v3_req
 ```
+
+### Check the Certificate
+
+Make sure the certificate looks as expected.
+
+```sh
+openssl x509 -in server.crt -text -noout
+```
+
+### Copy Certificate
 
 Then make sure you copy `ca.crt`, `server.crt` and `server.key` to your Mosquitto certificate directory, and specify the certificates and key file in `mosquitto.conf`.
 
@@ -83,16 +123,22 @@ Then make sure you copy `ca.crt`, `server.crt` and `server.key` to your Mosquitt
 cp ca.crt server.crt server.key ../mosquitto/config/certs
 ```
 
+### Use Certificate
+
+Add the certificate to the Mosquitto configuration file, and then restart Mosquitto.
+
 ```ini
 cafile /mosquitto/config/certs/ca.crt
 certfile /mosquitto/config/certs/server.crt
 keyfile /mosquitto/config/certs/server.key
 ```
 
+## Connecting to Mosquitto Server
+
 When connecting to the Mosquitto server you'll need to provide the CA file along with the username and password. Here's a few examples for various different services I use.
 
-## Examples
-### CLI
+### Examples
+#### CLI
 
 ```sh
 docker run \
@@ -106,7 +152,7 @@ docker run \
 	-u <username> \
 	-P <password>
 ```
-### Frigate
+#### Frigate
 
 ```yaml
 mqtt:
@@ -118,7 +164,7 @@ mqtt:
   tls_insecure: false
 ```
 
-### Zigbee2MQTT
+#### Zigbee2MQTT
 
 ```yaml
 mqtt:
