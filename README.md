@@ -60,7 +60,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [vim](#vim)
 - [vscode](#vscode)
 - [windows](#windows)
-## Notes <sup>190</sup>
+## Notes <sup>193</sup>
 
 
 ### <a id="airflow">airflow</a> <sup>1</sup>
@@ -162,11 +162,12 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2022-11-06 - Remove all Temporary Unison Files](content/remove-all-temporary-unison-files.md)
 - [2023-01-11 - Hash a Password using bcrypt](content/hash-password-bcrypt.md)
 
-### <a id="docker">docker</a> <sup>3</sup>
+### <a id="docker">docker</a> <sup>4</sup>
 
 - [2021-04-03 - Docker Cheatsheet](content/docker-cheatsheet.md)
 - [2021-12-10 - Docker cannot start service app](content/docker-custom-mac-address-issue.md)
 - [2022-06-01 - Regular File Not Found Error PHP Container](content/docker-container-name-clash.md)
+- [2023-12-06 - It's compose.yaml](content/its-compose-yaml.md)
 
 ### <a id="fedora">fedora</a> <sup>3</sup>
 
@@ -174,9 +175,10 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2020-09-08 - Connect to Fedora from Windows with xRDP](content/connect-to-fedora-from-windows-with-xrdp.md)
 - [2022-05-15 - Install HP Printer on Fedora](content/install-hp-printer-fedora.md)
 
-### <a id="firefox">firefox</a> <sup>3</sup>
+### <a id="firefox">firefox</a> <sup>4</sup>
 
 - [2020-09-25 - Disable Cross-Origin Request Blocking on Firefox](content/disable-cross-origin-request-blocking-firefox.md)
+- [2022-12-27 - Stuck Tooltips on Firefox Linux](content/stuck-tooltips-on-firefox-linux.md)
 - [2023-06-16 - Sort Firefox Extensions List](content/sort-firefox-extensions-list.md)
 - [2023-08-11 - Tabler Icon Fonts are not OpenType spec compliant](content/tabler-icon-fonts-are-not-opentype-spec-compliant.md)
 
@@ -325,9 +327,10 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2020-12-24 - List Functions in a Python Module](content/list-functions-in-python-module.md)
 - [2022-01-29 - Automatically create a Pip requirements.txt](content/auto-create-pip-requirements-file.md)
 
-### <a id="raspberry-pi">raspberry-pi</a> <sup>1</sup>
+### <a id="raspberry-pi">raspberry-pi</a> <sup>2</sup>
 
 - [2023-07-11 - Enable Hardware Accelerated Video Decoding In Chromium On Raspberry Pi OS](content/enable-hardware-accelerated-video-decoding-in-chromium-on-raspberry-pi-os.md)
+- [2023-11-30 - Install Fedora on Raspberry Pi](content/install-fedora-on-raspberry-pi.md)
 
 ### <a id="samba">samba</a> <sup>2</sup>
 
