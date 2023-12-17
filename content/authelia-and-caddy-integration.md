@@ -63,5 +63,5 @@ users:
 ## Hash a Password
 
 ```sh
-docker exec -it auth-01 authelia hash-password <password>
+docker exec -it <container-name> authelia hash-password
 ```
