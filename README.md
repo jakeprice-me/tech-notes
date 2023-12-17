@@ -4,7 +4,7 @@
 
 A flat directory of my notes and knowledge on technical topics, in the same vein as the concept of TIL (Today I Learned) notes.
 
-## Categories <sup>54</sup>
+## Categories <sup>55</sup>
 
 - [airflow](#airflow)
 - [android](#android)
@@ -45,6 +45,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [python](#python)
 - [raspberry-pi](#raspberry-pi)
 - [samba](#samba)
+- [samsung](#samsung)
 - [sass](#sass)
 - [sed](#sed)
 - [self-hosted](#self-hosted)
@@ -60,7 +61,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [vim](#vim)
 - [vscode](#vscode)
 - [windows](#windows)
-## Notes <sup>193</sup>
+## Notes <sup>195</sup>
 
 
 ### <a id="airflow">airflow</a> <sup>1</sup>
@@ -118,10 +119,11 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 
 - [2022-02-04 - blink(1) USB Notification Light](content/blink1-usb-notification-light.md)
 
-### <a id="borg">borg</a> <sup>2</sup>
+### <a id="borg">borg</a> <sup>3</sup>
 
 - [2021-07-19 - Borg Cheatsheet](content/borg-cheatsheet.md)
 - [2022-10-26 - Borg Backup Item Flags](content/borg-backup-item-flags.md)
+- [2023-07-10 - Borg Backup Exclusion List](content/borg-backup-exclusion-list.md)
 
 ### <a id="caddy">caddy</a> <sup>1</sup>
 
@@ -336,6 +338,10 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 
 - [2020-11-24 - Setup a Samba Fileshare on Debian](content/setup-samba-fileshare-on-debian.md)
 - [2020-12-23 - Automatically Mount Samba Share](content/auto-mount-samba-share.md)
+
+### <a id="samsung">samsung</a> <sup>1</sup>
+
+- [2023-12-07 - Install Jellyfin App on Samsung Smart TV running Tizen](content/install-jellyfin-app-on-samsung-smart-tv-running-tizen.md)
 
 ### <a id="sass">sass</a> <sup>1</sup>
 
