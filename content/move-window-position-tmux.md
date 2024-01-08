@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: tmux
 classification: public
-date: 2021-02-28 10:47:55
-date_modified: 2021-02-28 10:47:55
+date: 2021-02-28T10:47:55
+date_modified: 2021-02-28T10:47:55
 id: 20210228104755
 link: 
 local_archive: 

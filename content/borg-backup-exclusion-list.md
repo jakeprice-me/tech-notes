@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: borg
 classification: public
-date: 2023-07-10 22:16:40
-date_modified: 2023-07-10 22:16:40
+date: 2023-07-10T22:16:40
+date_modified: 2023-07-10T22:16:40
 id: 20230710221640
 link: 
 local_archive: 

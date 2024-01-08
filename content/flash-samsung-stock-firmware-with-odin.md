@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: android
 classification: public
-date: 2022-12-19 15:30:33
-date_modified: 2022-12-19 15:30:33
+date: 2022-12-19T15:30:33
+date_modified: 2022-12-19T15:30:33
 id: 20221219153033
 link: 
 local_archive: 

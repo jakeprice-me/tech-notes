@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: self-hosted
 classification: public
-date: 2020-11-24 09:33:31
-date_modified: 2020-11-24 09:33:31
+date: 2020-11-24T09:33:31
+date_modified: 2020-11-24T09:33:31
 id: 20201124093331
 link: 
 local_archive: 

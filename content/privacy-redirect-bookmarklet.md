@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: javascript
 classification: public
-date: 2023-05-10 21:25:40
-date_modified: 2023-05-10 21:25:40
+date: 2023-05-10T21:25:40
+date_modified: 2023-05-10T21:25:40
 id: 20230510212540
 link: 
 local_archive: 

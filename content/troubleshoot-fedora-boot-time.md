@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: systemd
 classification: public
-date: 2022-01-16 18:25:09
-date_modified: 2022-01-16 18:25:09
+date: 2022-01-16T18:25:09
+date_modified: 2022-01-16T18:25:09
 id: 20220116182509
 link: 
 local_archive: 

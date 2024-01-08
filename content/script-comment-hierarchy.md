@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: miscellaneous
 classification: public
-date: 2020-08-28 12:03:51
-date_modified: 2020-08-28 12:03:51
+date: 2020-08-28T12:03:51
+date_modified: 2020-08-28T12:03:51
 id: 20200828120351
 link: 
 local_archive: 

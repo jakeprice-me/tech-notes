@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: firefox
 classification: public
-date: 2023-06-16 16:49:30
-date_modified: 2023-06-16 16:49:30
+date: 2023-06-16T16:49:30
+date_modified: 2023-06-16T16:49:30
 id: 20230616164930
 link: https://raw.githubusercontent.com/icpantsparti2/browser-bits/main/javascript/firefox-v109-change-order-under-extensions-button.js
 local_archive: 

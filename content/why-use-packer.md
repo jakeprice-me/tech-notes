@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: packer
 classification: public
-date: 2021-02-28 11:15:14
-date_modified: 2021-02-28 11:15:14
+date: 2021-02-28T11:15:14
+date_modified: 2021-02-28T11:15:14
 id: 20210228111514
 link: 
 local_archive: 

@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: network
 classification: public
-date: 2020-07-02 17:04:56
-date_modified: 2020-07-02 17:04:56
+date: 2020-07-02T17:04:56
+date_modified: 2020-07-02T17:04:56
 id: 20200702170456
 link: 
 local_archive: 

@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: typesense
 classification: public
-date: 2021-08-03 11:01:15
-date_modified: 2021-08-03 11:01:15
+date: 2021-08-03T11:01:15
+date_modified: 2021-08-03T11:01:15
 id: 20210803110115
 link: 
 local_archive: 

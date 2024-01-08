@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: docker
 classification: public
-date: 2023-12-06 09:54:33
-date_modified: 2023-12-06 09:54:33
+date: 2023-12-06T09:54:33
+date_modified: 2023-12-06T09:54:33
 id: 20231206095433
 link: https://github.com/compose-spec/compose-spec/blob/master/spec.md
 local_archive: 

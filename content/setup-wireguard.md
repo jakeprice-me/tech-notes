@@ -1,29 +1,33 @@
 ---
 aliases:
   - setup-wireguard
-archive_links: 
+archive_links:
+  - https://web.archive.org/web/20231205035613/https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-22-04
 category: network
 classification: public
-date: 2023-01-08 12:21:34
-date_modified: 2023-01-08 12:21:34
+date: 2023-01-08T12:21:34
+date_modified: 2023-01-08T12:21:34
 id: 20230108122134
 link: https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-22-04
-local_archive: 
+local_archive: attachments/20230108122134.html
 pinned: false
 series: 
-tags: [wireguard, vpn]
+tags:
+  - wireguard
+  - vpn
 title: Setup WireGuard on Debian
 type: tech-note
 ---
 
 [TOC]
 
+> [!important]
+> This only works if your internet provider isn't using NAT. If that's the case, you must use a VPS, as described in [[20231209103435]].
+
 > [!info]
 > Worth bearing in mind, I've now gone the Docker route with this, using [wg-easy/wg-easy: The easiest way to run WireGuard VPN + Web-based Admin UI.](https://github.com/wg-easy/wg-easy)
 
 I've extracted what I needed to do from the clearest article I found on setting up WireGuard - [How To Set Up WireGuard on Ubuntu 22.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-22-04) 
-
-Local Copy: [Here](attachments/setup-wireguard.html)
 
 > [!important]
 > You must set `UDP` as the protocol when setting up the port forwarding rule on your router. Initially, I missed this and things were not working, with no obvious reason for ages (like 48 hours before I realised)!

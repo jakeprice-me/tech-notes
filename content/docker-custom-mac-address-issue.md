@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: docker
 classification: public
-date: 2021-12-10 21:01:16
-date_modified: 2021-12-10 21:01:16
+date: 2021-12-10T21:01:16
+date_modified: 2021-12-10T21:01:16
 id: 20211210210116
 link: 
 local_archive: 

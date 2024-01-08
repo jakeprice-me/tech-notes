@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: borg
 classification: public
-date: 2022-10-26 13:49:07
-date_modified: 2022-10-26 13:49:07
+date: 2022-10-26T13:49:07
+date_modified: 2022-10-26T13:49:07
 id: 20221026134907
 link: https://borgbackup.readthedocs.io/en/stable/usage/create.html#item-flags
 local_archive: 

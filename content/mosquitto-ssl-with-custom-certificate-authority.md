@@ -4,8 +4,8 @@ aliases:
 archive_links: https://web.archive.org/web/20230911045315/http://www.steves-internet-guide.com/mosquitto-tls/
 category: smart-home
 classification: public
-date: 2023-11-22 12:02:20
-date_modified: 2023-11-27 09:55:21
+date: 2023-11-22T12:02:20
+date_modified: 2023-11-27T09:55:21
 id: 20231122120220
 link: http://www.steves-internet-guide.com/mosquitto-tls/
 local_archive: attachments/20231122120220.html

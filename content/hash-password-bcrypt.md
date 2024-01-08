@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: cli
 classification: public
-date: 2023-01-11 08:49:41
-date_modified: 2023-01-11 08:49:41
+date: 2023-01-11T08:49:41
+date_modified: 2023-01-11T08:49:41
 id: 20230111084941
 link: https://unix.stackexchange.com/a/419855/331627
 local_archive: 

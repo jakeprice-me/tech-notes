@@ -5,8 +5,8 @@ archive_links:
   - https://web.archive.org/web/20231126220409/https://developer.samsung.com/smarttv/develop/getting-started/using-sdk/tv-device.html
 category: samsung
 classification: public
-date: 2023-12-07 17:23:20
-date_modified: 2023-12-07 17:23:20
+date: 2023-12-07T17:23:20
+date_modified: 2023-12-07T17:23:20
 id: 20231207172320
 link: 
 local_archive: attachments/20231207172320.html

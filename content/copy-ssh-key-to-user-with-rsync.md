@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: ssh
 classification: public
-date: 2020-07-05 19:42:36
-date_modified: 2020-07-05 19:42:36
+date: 2020-07-05T19:42:36
+date_modified: 2020-07-05T19:42:36
 id: 20200705194236
 link: 
 local_archive: 

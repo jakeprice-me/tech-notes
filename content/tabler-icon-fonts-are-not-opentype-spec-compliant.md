@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: firefox
 classification: public
-date: 2023-08-11 10:02:33
-date_modified: 2023-08-11 10:02:33
+date: 2023-08-11T10:02:33
+date_modified: 2023-08-11T10:02:33
 id: 20230811100233
 link: 
 local_archive:  

@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: sed
 classification: public
-date: 2020-10-06 11:14:53
-date_modified: 2020-10-06 11:14:53
+date: 2020-10-06T11:14:53
+date_modified: 2020-10-06T11:14:53
 id: 20201006111453
 link: 
 local_archive: 

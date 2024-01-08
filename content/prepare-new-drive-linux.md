@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: linux
 classification: public
-date: 2020-12-11 13:34:32
-date_modified: 2020-12-11 13:34:32
+date: 2020-12-11T13:34:32
+date_modified: 2020-12-11T13:34:32
 id: 20201211133432
 link: 
 local_archive: 

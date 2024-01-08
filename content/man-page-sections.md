@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: linux
 classification: public
-date: 2019-01-13 16:37:00
-date_modified: 2019-01-13 16:37:00
+date: 2019-01-13T16:37:00
+date_modified: 2019-01-13T16:37:00
 id: 20190113163700
 link: https://en.wikipedia.org/wiki/Man_page#Manual_sections
 local_archive: 

@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: samba
 classification: public
-date: 2020-11-24 21:48:52
-date_modified: 2020-11-24 21:48:52
+date: 2020-11-24T21:48:52
+date_modified: 2020-11-24T21:48:52
 id: 20201124214852
 link: 
 local_archive: 

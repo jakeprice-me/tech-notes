@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: smart-home
 classification: public
-date: 2022-06-01 14:36:14
-date_modified: 2022-06-01 14:36:14
+date: 2022-06-01T14:36:14
+date_modified: 2022-06-01T14:36:14
 id: 20220601143614
 link: https://www.home-assistant.io/common-tasks/os/
 local_archive: 

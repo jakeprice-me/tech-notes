@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: cli
 classification: public
-date: 2022-10-27 15:12:18
-date_modified: 2022-10-27 15:12:18
+date: 2022-10-27T15:12:18
+date_modified: 2022-10-27T15:12:18
 id: 20221027151218
 link: 
 local_archive: 

@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: github
 classification: public
-date: 2022-08-01 14:03:00
-date_modified: 2022-08-01 14:03:00
+date: 2022-08-01T14:03:00
+date_modified: 2022-08-01T14:03:00
 id: 20220801140300
 link: https://cli.github.com/manual/gh
 local_archive: 

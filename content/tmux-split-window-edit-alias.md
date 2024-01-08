@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: tmux
 classification: public
-date: 2020-07-04 19:01:10
-date_modified: 2020-07-04 19:01:10
+date: 2020-07-04T19:01:10
+date_modified: 2020-07-04T19:01:10
 id: 20200704190110
 link: 
 local_archive: 

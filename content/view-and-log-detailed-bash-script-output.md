@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: bash
 classification: public
-date: 2019-11-22 17:30:25
-date_modified: 2019-11-22 17:30:25
+date: 2019-11-22T17:30:25
+date_modified: 2019-11-22T17:30:25
 id: 20191122173025
 link: 
 local_archive: 

@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: tomcat
 classification: public
-date: 2020-10-10 11:57:30
-date_modified: 2020-10-10 11:57:30
+date: 2020-10-10T11:57:30
+date_modified: 2020-10-10T11:57:30
 id: 20201010115730
 link: 
 local_archive: 

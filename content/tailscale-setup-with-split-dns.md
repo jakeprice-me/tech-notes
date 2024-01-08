@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: network
 classification: public
-date: 2022-08-09 09:35:34
-date_modified: 2022-08-09 09:35:34
+date: 2022-08-09T09:35:34
+date_modified: 2022-08-09T09:35:34
 id: 20220809093534
 link: https://login.tailscale.com/
 local_archive: 

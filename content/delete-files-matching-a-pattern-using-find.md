@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: cli
 classification: public
-date: 2019-01-28 09:43:00
-date_modified: 2019-01-28 09:43:00
+date: 2019-01-28T09:43:00
+date_modified: 2019-01-28T09:43:00
 id: 20190128094300
 link: 
 local_archive: 

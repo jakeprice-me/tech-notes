@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: python
 classification: public
-date: 2020-07-05 19:45:25
-date_modified: 2020-07-05 19:45:25
+date: 2020-07-05T19:45:25
+date_modified: 2020-07-05T19:45:25
 id: 20200705194525
 link: https://github.com/tikitu/jsmin/
 local_archive: 

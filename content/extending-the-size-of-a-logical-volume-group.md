@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: linux
 classification: public
-date: 2022-09-30 09:23:42
-date_modified: 2022-09-30 09:23:42
+date: 2022-09-30T09:23:42
+date_modified: 2022-09-30T09:23:42
 id: 20220930092342
 link: 
 local_archive: 

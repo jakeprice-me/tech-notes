@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: github
 classification: public
-date: 2022-09-09 21:13:39
-date_modified: 2022-09-09 21:13:39
+date: 2022-09-09T21:13:39
+date_modified: 2022-09-09T21:13:39
 id: 20220909211339
 link: 
 local_archive: 

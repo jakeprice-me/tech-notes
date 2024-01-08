@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: python
 classification: public
-date: 2020-12-24 15:29:05
-date_modified: 2020-12-24 15:29:05
+date: 2020-12-24T15:29:05
+date_modified: 2020-12-24T15:29:05
 id: 20201224152905
 link: 
 local_archive: 

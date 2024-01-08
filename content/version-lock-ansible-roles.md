@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: ansible
 classification: public
-date: 2021-01-13 20:44:21
-date_modified: 2021-01-13 20:44:21
+date: 2021-01-13T20:44:21
+date_modified: 2021-01-13T20:44:21
 id: 20210113204421
 link: 
 local_archive: 

@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: network
 classification: public
-date: 2023-11-18 21:48:07
-date_modified: 2023-11-18 21:48:07
+date: 2023-11-18T21:48:07
+date_modified: 2023-11-18T21:48:07
 id: 20231118214807
 link: https://openwrt.org/docs/guide-user/firewall/firewall_configuration#zones
 local_archive: 

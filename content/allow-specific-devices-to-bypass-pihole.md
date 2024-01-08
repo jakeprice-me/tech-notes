@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: pihole
 classification: public
-date: 2020-01-04 22:12:44
-date_modified: 2020-01-04 22:12:44
+date: 2020-01-04T22:12:44
+date_modified: 2020-01-04T22:12:44
 id: 20200104221244
 link: 
 local_archive: 

@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: raspberry-pi
 classification: public
-date: 2023-11-30 10:54:37
-date_modified: 2023-11-30 10:54:37
+date: 2023-11-30T10:54:37
+date_modified: 2023-11-30T10:54:37
 id: 20231130105437
 link: https://docs.fedoraproject.org/en-US/quick-docs/raspberry-pi/
 local_archive: 
@@ -19,6 +19,9 @@ tags:
 title: Install Fedora on Raspberry Pi
 type: tech-note
 ---
+
+> [!warning]
+> I've abandoned running Fedora on my Raspberry Pi's. Even on a 4B, for me it just runs slow, takes significantly longer to start up, and often fails to even boot on initial setup. I've gone back to Raspberry Pi OS (Lite), which always works and runs really well. 
 
 Here's how to download an install Fedora to a Raspberry Pi, from a Fedora device.
 

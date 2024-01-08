@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: putty
 classification: public
-date: 2019-06-26 15:08:00
-date_modified: 2019-06-26 15:08:00
+date: 2019-06-26T15:08:00
+date_modified: 2019-06-26T15:08:00
 id: 20190626150800
 link: 
 local_archive: 

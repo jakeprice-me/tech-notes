@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: docker
 classification: public
-date: 2022-06-01 16:38:01
-date_modified: 2022-06-01 16:38:01
+date: 2022-06-01T16:38:01
+date_modified: 2022-06-01T16:38:01
 id: 20220601163801
 link: https://stackoverflow.com/a/55040196/9625225
 local_archive: 

@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: macos
 classification: public
-date: 2022-11-18 14:48:22
-date_modified: 2023-05-11 09:40:21
+date: 2022-11-18T14:48:22
+date_modified: 2023-05-11T09:40:21
 id: 20221118144822
 link: 
 local_archive: 

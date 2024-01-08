@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: git
 classification: public
-date: 2023-07-04 15:11:26
-date_modified: 2023-07-04 15:11:26
+date: 2023-07-04T15:11:26
+date_modified: 2023-07-04T15:11:26
 id: 20230704151126
 link: 
 local_archive: 

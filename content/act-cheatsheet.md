@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: github
 classification: public
-date: 2022-08-08 11:05:14
-date_modified: 2022-08-08 11:05:14
+date: 2022-08-08T11:05:14
+date_modified: 2022-08-08T11:05:14
 id: 20220808110514
 link: https://github.com/nektos/act
 local_archive: 

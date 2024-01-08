@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: network
 classification: public
-date: 2023-11-03 21:34:52
-date_modified: 2023-11-03 21:34:52
+date: 2023-11-03T21:34:52
+date_modified: 2023-11-03T21:34:52
 id: 20231103213452
 link: 
 local_archive: 

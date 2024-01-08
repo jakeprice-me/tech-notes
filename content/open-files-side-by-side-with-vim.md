@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: vim
 classification: public
-date: 2022-11-16 17:22:41
-date_modified: 2022-11-16 17:22:41
+date: 2022-11-16T17:22:41
+date_modified: 2022-11-16T17:22:41
 id: 20221116172241
 link: 
 local_archive: 

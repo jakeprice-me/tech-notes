@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: network
 classification: public
-date: 2022-07-18 20:21:53
-date_modified: 2022-07-18 20:21:53
+date: 2022-07-18T20:21:53
+date_modified: 2022-07-18T20:21:53
 id: 20220718202153
 link: https://helpforum.sky.com/t5/Broadband/PPPOE-codes-for-connection-to-third-party-router/m-p/3899878#M284210
 local_archive: 

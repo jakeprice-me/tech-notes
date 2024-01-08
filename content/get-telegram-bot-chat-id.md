@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: telegram
 classification: public
-date: 2022-08-11 21:20:57
-date_modified: 2022-08-11 21:20:57
+date: 2022-08-11T21:20:57
+date_modified: 2022-08-11T21:20:57
 id: 20220811212057
 link: 
 local_archive: 

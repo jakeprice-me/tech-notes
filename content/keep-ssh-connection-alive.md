@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: cli
 classification: public
-date: 2020-07-01 21:26:41
-date_modified: 2020-07-01 21:26:41
+date: 2020-07-01T21:26:41
+date_modified: 2020-07-01T21:26:41
 id: 20200701212641
 link: 
 local_archive: 

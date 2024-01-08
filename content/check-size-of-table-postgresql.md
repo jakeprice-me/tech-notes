@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: postgresql
 classification: public
-date: 2020-09-22 12:50:20
-date_modified: 2020-09-22 12:50:20
+date: 2020-09-22T12:50:20
+date_modified: 2020-09-22T12:50:20
 id: 20200922125020
 link: 
 local_archive: 

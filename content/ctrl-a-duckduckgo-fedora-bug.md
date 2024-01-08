@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: fedora
 classification: public
-date: 2020-03-26 19:04:25
-date_modified: 2020-03-26 19:04:25
+date: 2020-03-26T19:04:25
+date_modified: 2020-03-26T19:04:25
 id: 20200326190425
 link: 
 local_archive: 

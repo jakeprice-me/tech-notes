@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: firefox
 classification: public
-date: 2020-09-25 17:50:47
-date_modified: 2020-09-25 17:50:47
+date: 2020-09-25T17:50:47
+date_modified: 2020-09-25T17:50:47
 id: 20200925175047
 link: 
 local_archive: 

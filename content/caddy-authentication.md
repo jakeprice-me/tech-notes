@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: caddy
 classification: public
-date: 2022-12-31 14:31:23
-date_modified: 2022-12-31 14:31:23
+date: 2022-12-31T14:31:23
+date_modified: 2022-12-31T14:31:23
 id: 20221231143123
 link: 
 local_archive: 

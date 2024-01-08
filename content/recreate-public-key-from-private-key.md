@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: ssh
 classification: public
-date: 2019-03-09 20:07:45
-date_modified: 2019-03-09 20:07:45
+date: 2019-03-09T20:07:45
+date_modified: 2019-03-09T20:07:45
 id: 20190309200745
 link: 
 local_archive: 

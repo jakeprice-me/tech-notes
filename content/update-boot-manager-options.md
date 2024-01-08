@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: linux
 classification: public
-date: 2019-06-21 14:59:22
-date_modified: 2019-06-21 14:59:22
+date: 2019-06-21T14:59:22
+date_modified: 2019-06-21T14:59:22
 id: 20190621145922
 link: 
 local_archive: 

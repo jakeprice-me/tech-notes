@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: selinux
 classification: public
-date: 2020-10-29 21:18:53
-date_modified: 2020-10-29 21:18:53
+date: 2020-10-29T21:18:53
+date_modified: 2020-10-29T21:18:53
 id: 20201029211853
 link: 
 local_archive: 

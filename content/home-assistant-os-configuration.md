@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: smart-home
 classification: public
-date: 2022-05-31 16:10:26
-date_modified: 2023-07-10 14:39:18
+date: 2022-05-31T16:10:26
+date_modified: 2023-07-10T14:39:18
 id: 20220531161026
 link: 
 local_archive: 

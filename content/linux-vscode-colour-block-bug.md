@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: vscode
 classification: public
-date: 2020-03-15 12:20:53
-date_modified: 2020-03-15 12:20:53
+date: 2020-03-15T12:20:53
+date_modified: 2020-03-15T12:20:53
 id: 20200315122053
 link: 
 local_archive: 

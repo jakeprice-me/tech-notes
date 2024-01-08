@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: git
 classification: public
-date: 2023-11-23 17:13:26
-date_modified: 2023-11-23 17:13:26
+date: 2023-11-23T17:13:26
+date_modified: 2023-11-23T17:13:26
 id: 20231123171326
 link: https://stackoverflow.com/questions/51957907/avoid-no-newline-at-end-of-file-in-git-diff
 local_archive: 

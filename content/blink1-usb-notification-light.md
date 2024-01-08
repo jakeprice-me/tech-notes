@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: blink
 classification: public
-date: 2022-02-04 20:29:34
-date_modified: 2022-02-04 20:29:34
+date: 2022-02-04T20:29:34
+date_modified: 2022-02-04T20:29:34
 id: 20220204202934
 link: https://github.com/todbot/blink1-python
 local_archive: 

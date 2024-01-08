@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: gnome
 classification: public
-date: 2022-01-15 17:17:50
-date_modified: 2022-01-15 17:17:50
+date: 2022-01-15T17:17:50
+date_modified: 2022-01-15T17:17:50
 id: 20220115171750
 link: 
 local_archive: 

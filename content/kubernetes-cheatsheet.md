@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: kubernetes
 classification: public
-date: 2021-12-07 11:18:37
-date_modified: 2021-12-07 11:18:37
+date: 2021-12-07T11:18:37
+date_modified: 2021-12-07T11:18:37
 id: 20211207111837
 link: 
 local_archive: 

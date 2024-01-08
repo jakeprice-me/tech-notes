@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: android
 classification: public
-date: 2020-09-06 15:26:26
-date_modified: 2020-09-06 15:26:26
+date: 2020-09-06T15:26:26
+date_modified: 2020-09-06T15:26:26
 id: 20200906152626
 link: 
 local_archive: 

@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: python
 classification: public
-date: 2022-01-29 14:30:03
-date_modified: 2022-01-29 14:30:03
+date: 2022-01-29T14:30:03
+date_modified: 2022-01-29T14:30:03
 id: 20220129143003
 link: https://stackoverflow.com/questions/31684375/automatically-create-requirements-txt
 local_archive: 

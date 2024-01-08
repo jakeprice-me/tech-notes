@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: aws
 classification: public
-date: 2020-10-13 12:45:24
-date_modified: 2020-10-13 12:45:24
+date: 2020-10-13T12:45:24
+date_modified: 2020-10-13T12:45:24
 id: 20201013124524
 link: 
 local_archive: 

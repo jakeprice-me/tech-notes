@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: hledger
 classification: public
-date: 2021-08-14 22:00:33
-date_modified: 2021-08-14 22:00:33
+date: 2021-08-14T22:00:33
+date_modified: 2021-08-14T22:00:33
 id: 20210814220033
 link: 
 local_archive: 

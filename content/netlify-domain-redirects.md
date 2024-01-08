@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: netlify
 classification: public
-date: 2021-04-23 10:50:44
-date_modified: 2021-04-23 10:50:44
+date: 2021-04-23T10:50:44
+date_modified: 2021-04-23T10:50:44
 id: 20210423105044
 link: 
 local_archive: 

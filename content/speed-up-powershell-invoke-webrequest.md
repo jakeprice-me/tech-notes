@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: powershell
 classification: public
-date: 2020-08-14 15:18:44
-date_modified: 2020-08-14 15:18:44
+date: 2020-08-14T15:18:44
+date_modified: 2020-08-14T15:18:44
 id: 20200814151844
 link: 
 local_archive: 

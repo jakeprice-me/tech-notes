@@ -4,8 +4,8 @@ aliases:
 archive_links: 
 category: systemd
 classification: public
-date: 2022-02-12 16:43:24
-date_modified: 2022-02-12 16:43:24
+date: 2022-02-12T16:43:24
+date_modified: 2022-02-12T16:43:24
 id: 20220212164324
 link: https://unix.stackexchange.com/a/583059/331627
 local_archive: 
