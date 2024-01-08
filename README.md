@@ -155,7 +155,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2021-12-29 - Exif Tool Cheatsheat](content/exif-tool-cheatsheet.md)
 - [2022-02-04 - Send Output to Clipboard using xclip](content/send-output-to-clipboard-using-xclip.md)
 - [2022-07-05 - Read QR Code from Image](content/read-qr-code-from-image.md)
-- [2022-07-11 - YouTube-DL Cheatsheet](content/youtube-dl-cheatesheet.md)
+- [2022-07-11 - YouTube-DL Cheatsheet](content/youtube-dl-cheatsheet.md)
 - [2022-08-09 - journald Cheatsheet](content/journald-cheatsheet.md)
 - [2022-10-02 - InvokeAI Stable Diffusion Fork Cheatsheet](content/invokeai-stable-diffusion-fork-cheatsheet.md)
 - [2022-10-14 - Restart Display Manager](content/restart-display-manager.md)
