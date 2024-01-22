@@ -63,5 +63,6 @@ users:
 ## Hash a Password
 
 ```sh
+# https://www.authelia.com/reference/guides/passwords/#passwords
 docker exec -it <container-name> authelia hash-password
 ```
