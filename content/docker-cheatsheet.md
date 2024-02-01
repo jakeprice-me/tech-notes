@@ -89,6 +89,12 @@ host-port:container-port
 # Inspect an image and container:
 docker image inspect <image-id>
 docker container inspect <container-id>
+
+# View image layers and size of each layer:
+docker history <image> --no-trunc
+
+# Clear docker build cache:
+docker builder prune
 ```
 
 Keep dockerfile docker container running for debugging:
