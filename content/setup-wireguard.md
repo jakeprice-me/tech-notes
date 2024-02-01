@@ -22,7 +22,7 @@ type: tech-note
 [TOC]
 
 > [!important]
-> This only works if your internet provider isn't using NAT. If that's the case, you must use a VPS, as described in [[20231209103435]].
+> This only works if your internet provider isn't using CGNAT. If that's the case, you must use a VPS, as described in [[20231209103435]].
 
 > [!info]
 > Worth bearing in mind, I've now gone the Docker route with this, using [wg-easy/wg-easy: The easiest way to run WireGuard VPN + Web-based Admin UI.](https://github.com/wg-easy/wg-easy)
