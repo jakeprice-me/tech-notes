@@ -61,7 +61,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [vim](#vim)
 - [vscode](#vscode)
 - [windows](#windows)
-## Notes <sup>196</sup>
+## Notes <sup>197</sup>
 
 
 ### <a id="airflow">airflow</a> <sup>1</sup>
@@ -231,11 +231,12 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2022-01-09 - KVM/QEMU Notes](content/virsh-cheetsheat.md)
 - [2022-02-21 - Increase Memory & Virtual CPU on Virtual Machine](content/increase-memory-vcpu-virsh.md)
 
-### <a id="linux">linux</a> <sup>10</sup>
+### <a id="linux">linux</a> <sup>11</sup>
 
 - [2019-01-13 - man Page Sections](content/man-page-sections.md)
 - [2019-01-13 - chmod Reference Table](content/chmod-reference-table.md)
 - [2019-06-21 - Update Boot Manager Options](content/update-boot-manager-options.md)
+- [2020-03-02 - Bulk change file endings in a directory](content/bulk-change-file-endings-in-a-directory.md)
 - [2020-07-14 - Linux Shell](content/linux-shells.md)
 - [2020-12-11 - Prepare a New Hard Drive in Linux](content/prepare-new-drive-linux.md)
 - [2021-01-01 - Install Fonts on Linux](content/install-fonts-using-terminal-linux.md)
@@ -287,7 +288,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2020-08-26 - OpenSSL RSA Encryption](content/openssl-rsa-encryption.md)
 - [2021-01-09 - Wildcard OpenSSL Certificate Authority](content/openssl-wildcard-certificate.md)
 - [2021-08-13 - OpenSSL on MacOS](content/openssl-on-macos-configuration.md)
-- [2021-08-13 - Local LAN Certificate](content/openssl.md)
+- [2021-08-13 - Local LAN Certificate](content/local-lan-certificate.md)
 
 ### <a id="openvpn">openvpn</a> <sup>1</sup>
 
