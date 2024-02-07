@@ -6,6 +6,7 @@ category: linux
 classification: public
 date: 2019-01-13T16:39:01
 date_modified: 2019-01-13T16:39:01
+draft: false
 id: 20190113163901
 link: https://dbiers.me/chmod-permissions-reference-chart/
 local_archive: 

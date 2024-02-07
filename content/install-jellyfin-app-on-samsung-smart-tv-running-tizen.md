@@ -7,6 +7,7 @@ category: samsung
 classification: public
 date: 2023-12-07T17:23:20
 date_modified: 2023-12-07T17:23:20
+draft: false
 id: 20231207172320
 link: 
 local_archive: attachments/20231207172320.html

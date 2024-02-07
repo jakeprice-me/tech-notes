@@ -6,6 +6,7 @@ category: android
 classification: public
 date: 2022-12-19T13:08:30
 date_modified: 2022-12-19T13:08:30
+draft: false
 id: 20221219130830
 link: https://github.com/Benjamin-Dobell/Heimdall/wiki/Build-instructions-(Linux)#fedora
 local_archive: 

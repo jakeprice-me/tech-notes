@@ -6,6 +6,7 @@ category: smart-home
 classification: public
 date: 2022-05-31T16:10:26
 date_modified: 2023-07-10T14:39:18
+draft: false
 id: 20220531161026
 link: 
 local_archive: 
@@ -102,7 +103,7 @@ After a short wait the addon will be installed. Select the "Watchdog" button, an
 
 ### Configure Zigbee2mqtt and Mosquitto
 
-Follow the instructions here: [here](attachments/home-assistant-os-configuration.html#ssh-access--certificates)
+Follow the instructions here: [here](attachments/20220515221115.html)
 
 On the laptop create a key and certificate.
 

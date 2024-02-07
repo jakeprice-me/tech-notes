@@ -6,6 +6,7 @@ category: docker
 classification: public
 date: 2023-12-06T09:54:33
 date_modified: 2023-12-06T09:54:33
+draft: false
 id: 20231206095433
 link: https://github.com/compose-spec/compose-spec/blob/master/spec.md
 local_archive: 

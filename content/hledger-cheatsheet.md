@@ -6,6 +6,7 @@ category: hledger
 classification: public
 date: 2021-08-14T22:00:33
 date_modified: 2021-08-14T22:00:33
+draft: false
 id: 20210814220033
 link: 
 local_archive: 

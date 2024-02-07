@@ -6,6 +6,7 @@ category: network
 classification: public
 date: 2022-07-18T20:21:53
 date_modified: 2022-07-18T20:21:53
+draft: false
 id: 20220718202153
 link: https://helpforum.sky.com/t5/Broadband/PPPOE-codes-for-connection-to-third-party-router/m-p/3899878#M284210
 local_archive: 
@@ -28,8 +29,8 @@ You can replace the `anything` but you actually don't need to. Once you click `A
 
 Screenshot of the settings below.
 
-![](attachments/sky-fibre-setup-with-another-router_1.png)
+![](attachments/20220718202153_1.png)
 
 Screenshot of the comment below and [here](https://helpforum.sky.com/t5/Broadband/PPPOE-codes-for-connection-to-third-party-router/m-p/3899878#M284210) at Sky's community forum.
 
-![](attachments/sky-fibre-setup-with-another-router_2.png)
+![](attachments/20220718202153_2.png)

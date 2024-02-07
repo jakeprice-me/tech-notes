@@ -6,6 +6,7 @@ category: bash
 classification: public
 date: 2020-03-09T20:13:20
 date_modified: 2020-03-09T20:13:20
+draft: false
 id: 20200309201320
 link: 
 local_archive: 

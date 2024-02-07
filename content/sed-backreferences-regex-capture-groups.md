@@ -6,6 +6,7 @@ category: sed
 classification: public
 date: 2020-10-06T11:14:53
 date_modified: 2020-10-06T11:14:53
+draft: false
 id: 20201006111453
 link: 
 local_archive: 
@@ -16,7 +17,7 @@ title: Sed Backreferences and RegEx Capturing Groups
 type: tech-note
 ---
 
-Sed is very powerful, and I've just learnt about how you can utilise regular expression capturing groups, and sed backreferences to do some particuarly powerful edits.
+Sed is very powerful, and I've just learnt about how you can utilise regular expression capturing groups, and sed backreferences to do some particularly powerful edits.
 
 At work we had some synthetic data and I needed to strip the first 3 characters from strings in two specific columns in a 1GB+ CSV. I had to make sure that it was only these columns, so I couldn't just match the first 3 digits, as that would match on all numerical strings. Thankfully the structure of the strings in the `SigningNum` and `SigningNumAdd` columns were unique.
 

@@ -6,6 +6,7 @@ category: borg
 classification: public
 date: 2023-07-10T22:16:40
 date_modified: 2023-07-10T22:16:40
+draft: false
 id: 20230710221640
 link: 
 local_archive: 

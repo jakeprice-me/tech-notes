@@ -6,6 +6,7 @@ category: cli
 classification: public
 date: 2023-01-11T08:49:41
 date_modified: 2023-01-11T08:49:41
+draft: false
 id: 20230111084941
 link: https://unix.stackexchange.com/a/419855/331627
 local_archive: 

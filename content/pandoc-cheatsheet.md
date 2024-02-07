@@ -6,6 +6,7 @@ category: pandoc
 classification: public
 date: 2020-05-16T10:46:32
 date_modified: 2020-05-16T10:46:32
+draft: false
 id: 20200516104632
 link: 
 local_archive: 

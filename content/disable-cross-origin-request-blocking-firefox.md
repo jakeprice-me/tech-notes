@@ -6,6 +6,7 @@ category: firefox
 classification: public
 date: 2020-09-25T17:50:47
 date_modified: 2020-09-25T17:50:47
+draft: false
 id: 20200925175047
 link: 
 local_archive: 

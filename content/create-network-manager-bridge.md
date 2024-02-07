@@ -6,20 +6,28 @@ category: network
 classification: public
 date: 2021-11-19T21:36:36
 date_modified: 2021-11-19T21:36:36
+draft: false
 id: 20211119213636
 link: https://wiki.archlinux.org/title/Network_bridge#With_NetworkManager
-local_archive: 
+local_archive: attachments/20211119213636.html
 pinned: false
 series: 
-tags: [arch-wiki, nmcli, network-manager, bridge, ethernet, interface, br0]
+tags:
+  - arch-wiki
+  - nmcli
+  - network-manager
+  - bridge
+  - ethernet
+  - interface
+  - br0
 title: Creating a Bridge with NetworkManager
 type: tech-note
 ---
 
 Source: [Network bridge - ArchWiki](https://wiki.archlinux.org/title/Network_bridge#With_NetworkManager)
-Local: [Here](20211119213636_Network_bridge.html)
 
 _Important bits excerpted below_.
+
 ---
 
 ## Creating a Bridge

@@ -6,6 +6,7 @@ category: pandoc
 classification: public
 date: 2019-12-29T20:10:00
 date_modified: 2019-12-29T20:10:00
+draft: false
 id: 20191229201000
 link: 
 local_archive: 

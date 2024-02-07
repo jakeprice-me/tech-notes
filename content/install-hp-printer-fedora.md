@@ -6,6 +6,7 @@ category: fedora
 classification: public
 date: 2022-05-15T22:15:00
 date_modified: 2022-05-15T22:15:00
+draft: false
 id: 20220515221500
 link: https://www.cyberciti.biz/faq/how-to-install-networked-hp-printer-and-scanner-on-fedora-linux/
 local_archive: attachments/20220515221500.html

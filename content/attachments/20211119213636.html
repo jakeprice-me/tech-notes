@@ -1,0 +1,371 @@
+<!DOCTYPE html> <html class=client-js dir=ltr style lang=en><!--
+ Page saved with SingleFile 
+ url: https://wiki.archlinux.org/title/Network_bridge#With_NetworkManager 
+ saved date: Fri Nov 19 2021 21:41:09 GMT+0000 (Greenwich Mean Time)
+--><meta charset=utf-8>
+<title>Network bridge - ArchWiki</title>
+<style>:root{--sf-img-7:url("data:image/png;base64,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");--sf-img-8:url("data:image/png;base64,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")}body{margin:0}@supports (text-decoration:underline dotted){abbr[title]{border-bottom:0;text-decoration:underline dotted}}pre{font-family:monospace,monospace}img{border:0}input{margin:0}button::-moz-focus-inner,[type='button']::-moz-focus-inner,[type='reset']::-moz-focus-inner,[type='submit']::-moz-focus-inner{border-style:none;padding:0}.toctogglecheckbox:checked~ul{display:none}@media screen{html,body{height:100%}:focus{outline-color:#36c}body{background-color:#f6f6f6;overflow-y:scroll}.mw-body{background-color:#fff;color:#202122;direction:ltr;padding:1em}#p-personal{position:absolute;top:6px;right:.75em;z-index:100}#p-personal ul{padding-left:10em}#p-personal li{float:left}.mw-body{margin-left:10em}.mw-body{margin-top:-1px;border:1px solid #a7d7f9;border-right-width:0}.mw-body .firstHeading{overflow:visible}.mw-body-content{position:relative;z-index:0}#bodyContent:after{clear:both;content:'';display:block}.mw-parser-output:after{content:none}#mw-page-base{background-color:#fbfbfb;background-image:-webkit-linear-gradient(top,#fff 50%,#f6f6f6 100%);background-image:linear-gradient(to bottom,#fff 50%,#f6f6f6 100%);background-position:bottom left;height:5em}#mw-head-base{margin-top:-5em;margin-left:10em;height:5em}#mw-navigation h2{position:absolute;top:-9999px}#mw-head{position:absolute;top:0;right:0;width:100%}#left-navigation{float:left;margin-left:10em;margin-top:2.5em;margin-bottom:-2.5em}#right-navigation{float:right;margin-top:2.5em}#p-search{float:left;margin-right:.5em;margin-left:.5em}#p-search form{margin:.5em 0 0}#simpleSearch{min-width:5em;width:20vw;max-width:20em}#mw-panel{position:absolute;top:0;width:10em;left:0}.mw-footer{margin-left:10em;margin-top:0}html{font-size:100%}html,body{font-family:sans-serif}ul{list-style-image:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1IiBoZWlnaHQ9IjEzIj4KCTxjaXJjbGUgY3g9IjIuNSIgY3k9IjkiIHI9IjIuNSIgZmlsbD0iIzIwMjEyMiIvPgo8L3N2Zz4K)}pre{line-height:1.3}.mw-jump-link:not(:focus){display:block;position:absolute!important;clip:rect(1px,1px,1px,1px);width:1px;height:1px;margin:-1px;border:0;padding:0;overflow:hidden}#p-personal li{font-size:.75em}.mw-body h1,.mw-body-content h2{margin-bottom:.25em;padding:0;font-family:'Linux Libertine','Georgia','Times',serif;line-height:1.3}.mw-body h1:lang(ja),.mw-body-content h1:lang(ja),.mw-body-content h2:lang(ja),.mw-body h1:lang(he),.mw-body-content h1:lang(he),.mw-body-content h2:lang(he),.mw-body h1:lang(ko),.mw-body-content h1:lang(ko),.mw-body-content h2:lang(ko){font-family:sans-serif}.mw-body h1:lang(my),.mw-body-content h1:lang(my),.mw-body-content h2:lang(my){line-height:normal}.mw-body h1{font-size:1.8em}.mw-body-content{font-size:calc(1em * 0.875);line-height:1.6}.mw-body-content h2{margin-top:1em;font-size:1.5em}.mw-body-content h3{margin-top:.3em;margin-bottom:0;padding-bottom:0;line-height:1.6}.mw-body-content h3{font-size:1.2em}.mw-body-content h3{font-weight:bold}.mw-body-content .toc h2{font-family:sans-serif;font-size:100%}.mw-body-content p{margin:.5em 0}.mw-parser-output .external{background-image:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiI+Cgk8cGF0aCBmaWxsPSIjZmZmIiBzdHJva2U9IiMzNmMiIGQ9Ik0xLjUgNC41MThoNS45ODJWMTAuNUgxLjV6Ii8+Cgk8cGF0aCBmaWxsPSIjMzZjIiBkPSJNNS43NjUgMUgxMXY1LjM5TDkuNDI3IDcuOTM3bC0xLjMxLTEuMzFMNS4zOTMgOS4zNWwtMi42OS0yLjY4OCAyLjgxLTIuODA4TDQuMiAyLjU0NHoiLz4KCTxwYXRoIGZpbGw9IiNmZmYiIGQ9Im05Ljk5NSAyLjAwNC4wMjIgNC44ODVMOC4yIDUuMDcgNS4zMiA3Ljk1IDQuMDkgNi43MjNsMi44ODItMi44OC0xLjg1LTEuODUyeiIvPgo8L3N2Zz4K);background-position:center right;background-repeat:no-repeat;padding-right:13px}.mw-body .mw-indicators{font-size:.875em;line-height:1.6;position:relative}#siteNotice{font-size:.8em}#p-personal .vector-menu-content-list{display:flex;flex-wrap:wrap;flex-grow:1;justify-content:flex-end;align-items:baseline}.mw-portlet ul{list-style:none none;margin:0}.mw-portlet li{margin-left:.75em;padding-top:.5em;line-height:1.16666667}#p-search h3{display:block;position:absolute!important;clip:rect(1px,1px,1px,1px);width:1px;height:1px;margin:-1px;border:0;padding:0;overflow:hidden}#simpleSearch{position:relative;height:100%}#searchInput{background-color:rgba(255,255,255,0.5);color:#000;width:100%;height:2.15384615em;-moz-box-sizing:border-box;box-sizing:border-box;border:1px solid #a2a9b1;border-radius:2px;padding:5px 2.15384615em 5px .4em;box-shadow:inset 0 0 0 1px transparent;font-family:inherit;font-size:.8125em;direction:ltr;-webkit-transition:border-color 250ms,box-shadow 250ms;transition:border-color 250ms,box-shadow 250ms;-webkit-appearance:none;-moz-appearance:textfield}#simpleSearch:hover #searchInput{border-color:#72777d}#searchInput:focus,#simpleSearch:hover #searchInput:focus{outline:0;border-color:#36c;box-shadow:inset 0 0 0 1px #36c}#searchInput::-webkit-input-placeholder{color:#72777d;opacity:1}#searchInput::-moz-placeholder{color:#72777d;opacity:1}#searchInput::placeholder{color:#72777d;opacity:1}#searchInput::-webkit-search-decoration,#searchInput::-webkit-search-cancel-button,#searchInput::-webkit-search-results-button,#searchInput::-webkit-search-results-decoration{display:none}#searchButton,#mw-searchButton{background-color:transparent;position:absolute;top:1px;bottom:1px;right:1px;min-width:28px;width:2.15384615em;border:0;padding:0;cursor:pointer;font-size:.8125em;direction:ltr;text-indent:-99999px;white-space:nowrap;overflow:hidden;z-index:1}#searchButton{background:no-repeat center / 1.23076923em url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDIwIDIwIj4KCTx0aXRsZT4KCQlzZWFyY2gKCTwvdGl0bGU+Cgk8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMi4yIDEzLjZhNyA3IDAgMSAxIDEuNC0xLjRsNS40IDUuNC0xLjQgMS40LTUuNC01LjR6TTEzIDhBNSA1IDAgMSAxIDMgOGE1IDUgMCAwIDEgMTAgMHoiLz4KPC9zdmc+Cg==);opacity:.67}.vector-menu-tabs{background-position:left bottom;float:left;height:2.5em;padding-left:1px}.vector-menu-tabs ul{float:left;height:100%;list-style:none none;margin:0;padding:0}.vector-menu-tabs li{background-image:linear-gradient(to top,#77c1f6 0,#e8f2f8 1px,#fff 100%);background-position:left bottom;background-repeat:repeat-x;float:left;display:block;height:100%;margin:0;padding:0;line-height:1.125em;white-space:nowrap}.vector-menu-tabs li a{background-position:right bottom;color:#0645ad;-moz-box-sizing:border-box;box-sizing:border-box;display:block;float:left;height:3.07692308em;position:relative;padding-top:1.25em;padding-left:8px;padding-right:8px;font-size:.8125em;cursor:pointer}.vector-menu-tabs .selected{background:#fff}.vector-menu-tabs .selected a,.vector-menu-tabs .selected a:visited{color:#202122;text-decoration:none}@-webkit-keyframes rotate{from{-webkit-transform:rotate(0deg);-moz-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);transform:rotate(360deg)}}@-moz-keyframes rotate{from{-webkit-transform:rotate(0deg);-moz-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes rotate{from{-webkit-transform:rotate(0deg);-moz-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);transform:rotate(360deg)}}.vector-menu-tabs,.vector-menu-tabs a{background-image:linear-gradient(to bottom,rgba(167,215,249,0) 0,#a7d7f9 100%);background-repeat:no-repeat;background-size:1px 100%}.vector-menu-portal{margin:0 .6em 0 .7em;padding:.25em 0;direction:ltr}.vector-menu-portal h3{display:block;background-image:linear-gradient(to right,rgba(200,204,209,0) 0,#c8ccd1 33%,#c8ccd1 66%,rgba(200,204,209,0) 100%);background-position:center bottom;background-repeat:no-repeat;background-size:100% 1px;color:#54595d;margin:.5em 0 0 .66666667em;border:0;padding:.25em 0;font-size:.75em;font-weight:normal;cursor:default}.vector-menu-portal .vector-menu-content{margin-left:.5em;padding-top:0}.vector-menu-portal .vector-menu-content ul{list-style:none none;margin:0;padding-top:.3em}.vector-menu-portal .vector-menu-content li{margin:0;padding:.25em 0;font-size:.75em;line-height:1.125em;word-wrap:break-word}.vector-menu-portal .vector-menu-content li a{color:#0645ad}.vector-menu-portal .vector-menu-content li a:visited{color:#0b0080}#mw-panel{font-size:inherit}#mw-panel nav:first-child{background-image:none}#mw-panel nav:first-child h3{display:none}#mw-panel nav:first-child .vector-menu-content{margin-left:.5em}.mw-footer{padding:.75em;direction:ltr}.mw-footer ul{list-style:none none;margin:0;padding:0}.mw-footer li{color:#202122;margin:0;padding:.5em 0;font-size:.75em}#footer-info li{line-height:1.4}#footer-places li{float:left;margin-right:1em;line-height:2}}@media screen and (min-width:982px){.mw-body,#mw-head-base,#left-navigation,.mw-footer{margin-left:11em}.mw-body{padding:1.25em 1.5em 1.5em 1.5em}.mw-footer{padding:1.25em}#mw-panel{padding-left:.5em}#p-search{margin-right:1em}#p-personal{right:1em}}@media screen{.mw-parser-output:after{clear:both;content:'';display:block}.catlinks{border:1px solid #a2a9b1;background-color:#f8f9fa;padding:5px;margin-top:1em;clear:both}#siteNotice{position:relative;text-align:center;margin:0}#contentSub,#contentSub2{font-size:84%;line-height:1.2em;margin:0 0 1.4em 1em;color:#54595d;width:auto}.mw-indicators{float:right}a{text-decoration:none;color:#0645ad;background:0}a:not([href]){cursor:pointer}a:visited{color:#0b0080}a:active{color:#faa700}a:hover,a:focus{text-decoration:underline}a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}.mw-parser-output a.extiw,.mw-parser-output a.external{color:#36b}.mw-parser-output a.extiw:visited,.mw-parser-output a.external:visited{color:#636}.mw-parser-output a.extiw:active,.mw-parser-output a.external:active{color:#b63}.plainlinks a.external{background:none!important;padding:0!important}img{border:0;vertical-align:middle}h1,h2,h3{color:#000;margin:0;padding-top:.5em;padding-bottom:.17em;overflow:hidden}h1,h2{margin-bottom:.6em;border-bottom:1px solid #a2a9b1}h3{margin-bottom:.3em}h1{font-size:188%;font-weight:normal}h2{font-size:150%;font-weight:normal}h3{font-size:128%}p{margin:.4em 0 .5em 0}p img{margin:0}ul{margin:.3em 0 0 1.6em;padding:0}li{margin-bottom:.1em}pre,code{font-family:monospace,monospace}pre,code{background-color:#f8f9fa;color:#000;border:1px solid #eaecf0}code{border-radius:2px;padding:1px 4px}pre{padding:1em;white-space:pre-wrap;overflow-x:hidden;word-wrap:break-word}form{border:0;margin:0}.mw-content-ltr{direction:ltr}.sitedir-ltr input{direction:ltr}input[type='submit']{direction:ltr}@supports (text-decoration:underline dotted){abbr[title],.explain[title]{border-bottom:0;text-decoration:underline dotted}}#catlinks{text-align:left}.catlinks ul{display:inline;margin:0;padding:0;list-style:none none}.catlinks li{display:inline-block;line-height:1.25em;border-left:1px solid #a2a9b1;margin:.125em 0;padding:0 .5em}.catlinks li:first-child{padding-left:.25em;border-left:0}.mw-content-ltr ul{margin:.3em 0 0 1.6em;padding:0}h1:lang(anp),h1:lang(as),h1:lang(bh),h1:lang(bho),h1:lang(bn),h1:lang(gu),h1:lang(hi),h1:lang(kn),h1:lang(ks),h1:lang(ml),h1:lang(mr),h1:lang(my),h1:lang(mai),h1:lang(ne),h1:lang(new),h1:lang(or),h1:lang(pa),h1:lang(pi),h1:lang(sa),h1:lang(ta),h1:lang(te){line-height:1.6em!important}h2:lang(anp),h3:lang(anp),h4:lang(anp),h5:lang(anp),h6:lang(anp),h2:lang(as),h3:lang(as),h4:lang(as),h5:lang(as),h6:lang(as),h2:lang(bho),h3:lang(bho),h4:lang(bho),h5:lang(bho),h6:lang(bho),h2:lang(bh),h3:lang(bh),h4:lang(bh),h5:lang(bh),h6:lang(bh),h2:lang(bn),h3:lang(bn),h4:lang(bn),h5:lang(bn),h6:lang(bn),h2:lang(gu),h3:lang(gu),h4:lang(gu),h5:lang(gu),h6:lang(gu),h2:lang(hi),h3:lang(hi),h4:lang(hi),h5:lang(hi),h6:lang(hi),h2:lang(kn),h3:lang(kn),h4:lang(kn),h5:lang(kn),h6:lang(kn),h2:lang(ks),h3:lang(ks),h4:lang(ks),h5:lang(ks),h6:lang(ks),h2:lang(ml),h3:lang(ml),h4:lang(ml),h5:lang(ml),h6:lang(ml),h2:lang(mr),h3:lang(mr),h4:lang(mr),h5:lang(mr),h6:lang(mr),h2:lang(my),h3:lang(my),h4:lang(my),h5:lang(my),h6:lang(my),h2:lang(mai),h3:lang(mai),h4:lang(mai),h5:lang(mai),h6:lang(mai),h2:lang(ne),h3:lang(ne),h4:lang(ne),h5:lang(ne),h6:lang(ne),h2:lang(new),h3:lang(new),h4:lang(new),h5:lang(new),h6:lang(new),h2:lang(or),h3:lang(or),h4:lang(or),h5:lang(or),h6:lang(or),h2:lang(pa),h3:lang(pa),h4:lang(pa),h5:lang(pa),h6:lang(pa),h2:lang(pi),h3:lang(pi),h4:lang(pi),h5:lang(pi),h6:lang(pi),h2:lang(sa),h3:lang(sa),h4:lang(sa),h5:lang(sa),h6:lang(sa),h2:lang(ta),h3:lang(ta),h4:lang(ta),h5:lang(ta),h6:lang(ta),h2:lang(te),h3:lang(te),h4:lang(te),h5:lang(te),h6:lang(te){line-height:1.4em}.toc{border:1px solid #a2a9b1;background-color:#f8f9fa;font-size:95%}.toc{display:table;padding:7px}.toc h2{display:inline;border:0;padding:0;font-size:100%;font-weight:bold}.toc .toctitle{text-align:center}.toc ul{list-style-type:none;list-style-image:none;margin:.3em 0;padding:0}.tocnumber,.toctext{display:table-cell;text-decoration:inherit}.tocnumber{color:#202122}.mw-content-ltr .tocnumber{padding-left:0;padding-right:.5em}:not(:checked)>.toctogglecheckbox{display:inline!important;position:absolute;opacity:0;z-index:-1}.toctogglespan{font-size:94%}:not(:checked)>.toctogglespan:before{content:' ['}:not(:checked)>.toctogglespan:after{content:']'}.toctogglelabel{cursor:pointer;color:#0645ad}.toctogglelabel:hover{text-decoration:underline}.toctogglecheckbox:focus+.toctitle .toctogglelabel{text-decoration:underline;outline:dotted 1px;outline:auto -webkit-focus-ring-color}.toctogglecheckbox:checked+.toctitle .toctogglelabel:after{content:'show'}.toctogglecheckbox:not(:checked)+.toctitle .toctogglelabel:after{content:'hide'}.toc .toctitle{direction:ltr}.mw-content-ltr .toc ul{text-align:left}.mw-content-ltr .toc ul ul{margin:0 0 0 2em}}#archnavbar{height:40px!important;padding:10px 15px!important;background:#333!important;border-bottom:5px #08c solid!important}#archnavbarlogo{float:left!important;margin:0!important;padding:0!important;height:40px!important;width:190px!important}html>body #archnavbarlogo{background:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iMTI2Ij48cGF0aCBkPSJNMTU5LjU2OCAzNC40MjdjLTguODktLjAxNC0xNi4yNjcgMS44MDktMTkuMTIgMi44MDNsLTIuOTM3IDE1Ljg1N2MtLjAwNy4wNTggMTQuNjE3LTMuOSAyMS4wNTktMy42NjcgMTAuNjY1LjM4MyAxMS42NDYgNC4wNzYgMTEuNDYgOS4wNi4xODIuMjkyLTIuNzUyLTQuNTAzLTExLjk3OS00LjY2NC0xMS42NC0uMi0yOC4wNjkgNC4xMjItMjguMDQ2IDIxLjY5Mi0uMzE0IDE5Ljc2NSAxNC43NjQgMjUuNTc5IDI1LjAzMiAyNS42ODYgOS4yMzItLjE2OCAxMy41NjMtMy40OTYgMTUuOTM0LTUuMjggMy4xMTUtMy4yNTcgNi42NzktNi41MzIgMTAuMDc4LTEwLjQ2Mi0zLjIxNiA1Ljg0NC02LjAwNSA5Ljg4NC04LjkwNyAxMi45Nzd2Mi42MTFsMTQuMDMzLTIuMzYxLjA5Ni0zOC4xNDRjLS4xNDMtNS4zOTkgMy4wOTYtMjYuMDU3LTI2LjcwMy0yNi4xMDh6bS0yLjAxNiAzMy4yMWM1LjgxNy4wOCAxMi40ODggMi45NDggMTIuNDk3IDkuODQ5LjAzIDYuMjc3LTcuODYzIDkuNjUxLTEyLjk5NiA5LjU5OC01LjEzNS0uMDUzLTExLjk0OS00LjAzNi0xMS45NzktMTAuMTU1LjA5OS01LjQ3IDYuNDI2LTkuNDMyIDEyLjQ3OC05LjI5MXptMzcuOTcyLTI5LjY4NWwtLjA5NSA2My4xNjYgMTYuMzQ4LTMuMTUuMDI3LTM1LjgxNGMuMDA0LTUuMzMzIDcuNjItMTEuNTY0IDE3LjE3OC0xMS40NjQgMi4wMjgtMy42NyA1Ljg0LTEzLjA1IDYuNzctMTUuMTgzLTIxLjM1MS0uMDUxLTIxLjYyMyA2LjEzNy0yNS4zMzYgOS4xOC0uMDQtNS44MDYtLjAxMy05LjI5Mi0uMDEzLTkuMjkybC0xNC44NzkgMi41NTd6bTkyLjAwMiA4LjI5MmMtLjE1OC0uMDc0LTguNTI2LTkuNzg4LTI1LjM1LTkuODY0LTE1Ljc1OC0uMjYyLTMzLjQzMyA1Ljg0Ny0zMy43MTYgMzIuMjcuMTM4IDIzLjIzMiAxNi45NzkgMzIuMzExIDMzLjgwNSAzMi40ODggMTguMDA3LjE4NyAyNS4xNzItMTEuMjYgMjUuNjAyLTExLjU0My0yLjE0OS0xLjg2My0xMC4xOTYtOS44MzctMTAuMTk2LTkuODM3cy01LjAyNyA3LjE1Ny0xNC43NzkgNy4yNDhjLTkuNzU1LjA5My0xOC4yMzQtNy41NC0xOC4zNTQtMTguMTg5LS4xMjUtMTAuNjUgNy43OTUtMTYuNDE5IDE4LjQyNy0xNi44ODUgOS4yMDUtLjAwMiAxNC41MTYgNS45NDMgMTQuNTE2IDUuOTQzem0yMC42MDYtMzAuMzk5bC0xNS40MzQgMy42MjguMTE1IDgyLjI3NyAxNS4yMDQtMi43NDUuMTcyLTM4LjcyYy4wMzMtNC4wNiA1Ljg3NC0xMC4yOTUgMTUuNjI2LTEwLjA5NyA5LjMyNS4wOTcgMTEuNDEgNi4yMTUgMTEuMzg0IDYuOTg4bC4yNjkgNDQuODI0IDE0Ljk5My0yLjY1LjA1Ny00Ny41M2MuMDk5LTQuNTc0LTEwLjAxOC0xNC4yMzMtMjYuMjgtMTQuMzAyLTcuNzI5LjAxMi0xMi4wMDkgMS43NjItMTQuMTg3IDMuMDUyLTMuNzI2IDIuODc5LTcuOTg1IDUuNjM3LTEyLjE3IDkuMTU3IDMuODY5LTQuOTcgNy4xMTctOC40MDcgMTAuMjktMTAuOTYxbC0uMDQtMjIuOTIxeiIgZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIi8+PHBhdGggZD0iTTM2MC4xMzYgMTcuMjE4bDYuOTYyLTEuNzQyLjMzIDgyLjk1LTcuMDc0IDEuMjA0em0xOC45MjggMjQuNzU3bDYuMTAxLTIuNzE2LjA1MiA1OS40NzgtNS44OTIgMS4yMTd6bS0xLjQ1LTIxLjQ0OGw0LjkyLTQuMDE1IDQuMDg2IDQuNTQ3LTQuOTIxIDQuMTIxem0xOS4wMjQgMjAuMzY1bDYuOTYyLTEuNDIxLjAzMyAxMi40MzRjLjAwMS41MzQgMy44MjMtMTMuODkgMjIuMjU4LTEzLjU3IDE3LjkuMSAyMC44MjcgMTMuOTU3IDIwLjczIDE3LjA2NGwuMjIxIDQzLjcyNS02LjEwMiAxLjMyNC0uMDM1LTQzLjE4OWMuMDctMS4yNjEtMi43OS0xMS45MjctMTUuNDM5LTExLjk2Ni0xMi42NDYtLjAzNy0yMS40MDkgOS4xODYtMjEuMzkzIDE1LjA3OGwuMSAzOC4wNDctNy4wNyAxLjg0N3ptMTEwLjk1NCA1OC41NDZsLTYuOTYyIDEuNDItLjAzMy0xMi40MzNjLS4wMDEtLjUzNC0zLjgyNSAxMy44OS0yMi4yNTggMTMuNTctMTcuOS0uMS0yMC44MjctMTMuOTU3LTIwLjczLTE3LjA2NGwtLjIyMS00My43MjUgNy4zOTctMS40OTQuMTE0IDQzLjE5Yy4wMDMgMS4xOCAxLjQxNiAxMi4wOTYgMTQuMDY1IDEyLjEzNSAxMi42NDYuMDM3IDIxLjUwNi03LjYxNiAyMS41NjktMTkuMTM5bC0uMDktMzQuMDc2IDYuODg1LTEuNzU3em0xMy42NDUtNTkuMDM3bC00Ljg4MiAzLjgyIDE4LjcxNyAyNC40OTQtMTkuOTYzIDI4LjMgNS4xNzkgMy44NDMgMTguNzY2LTI2LjI4IDE5LjM2OCAyNi45MDIgNC43OTEtMy44Mi0yMC43NTctMjguNzY1IDE2LjU2LTIzLjI2Mi01LjA5Mi00LjMwNS0xNS4wODUgMjEuNTI1ek02MS44OCAxLjc3OGMtNS4zODUgMTMuMjAzLTguNjMzIDIxLjgzOS0xNC42MjkgMzQuNjQ5IDMuNjc2IDMuODk2IDguMTg4IDguNDM0IDE1LjUxNiAxMy41NTktNy44NzgtMy4yNDItMTMuMjUyLTYuNDk3LTE3LjI2Ny05Ljg3NC03LjY3MyAxNi4wMTEtMTkuNjk1IDM4LjgxOC00NC4wOSA4Mi42NSAxOS4xNzQtMTEuMDY4IDM0LjAzNy0xNy44OTMgNDcuODg5LTIwLjQ5N2EzNS4xMDMgMzUuMTAzIDAgMCAxLS45MS04LjIxM2wuMDIzLS42MTRjLjMwNC0xMi4yODQgNi42OTQtMjEuNzMgMTQuMjY0LTIxLjA5IDcuNTcuNjQyIDEzLjQ1NCAxMS4xMjYgMTMuMTUgMjMuNDEtLjA1OCAyLjMxMi0uMzE5IDQuNTM2LS43NzQgNi41OTggMTMuNzAxIDIuNjggMjguNDA1IDkuNDg3IDQ3LjMyIDIwLjQwNy0zLjczLTYuODY2LTcuMDU5LTEzLjA1Ni0xMC4yMzgtMTguOTUtNS4wMDctMy44ODItMTAuMjMtOC45MzMtMjAuODg0LTE0LjQwMiA3LjMyMyAxLjkwMyAxMi41NjYgNC4wOTkgMTYuNjUzIDYuNTUyQzc1LjU4IDM1Ljc4NiA3Mi45NjMgMjcuNzkgNjEuODggMS43Nzh6IiBmaWxsPSIjMTc5M2QxIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz48cGF0aCBkPSJNNTc2Ljc3MSA5My4yNjVWODAuNjAzaC00Ljczdi0xLjY5NWgxMS4zOHYxLjY5NWgtNC43NXYxMi42NjJoLTEuOW04LjYyOSAwVjc4LjkwOGgyLjg1OWwzLjM5OCAxMC4xNjZjLjMxNC45NDcuNTQyIDEuNjU1LjY4NiAyLjEyNS4xNjMtLjUyMi40MTgtMS4yOS43NjQtMi4zMDFsMy40MzctOS45OWgyLjU1NnYxNC4zNTdoLTEuODMxVjgxLjI1bC00LjE3MiAxMi4wMTZoLTEuNzE0bC00LjE1Mi0xMi4yMjJ2MTIuMjIyaC0xLjgzMiIgZm9udC13ZWlnaHQ9IjQwMCIgZm9udC1zaXplPSI4LjQ0MSIgZm9udC1mYW1pbHk9IkRlamFWdSBTYW5zIE1vbm8iIGZpbGw9ImdyYXkiLz48L3N2Zz4=) no-repeat!important;background-size:190px 40px!important}#archnavbarlogo p{margin:0!important;padding:0!important;text-indent:-9999px!important}#archnavbarlogo a{display:block!important;height:40px!important;width:190px!important}#archnavbar ul{display:inline!important;float:right!important;list-style:none!important;margin:0!important;padding:0!important}#archnavbar ul li{float:left!important;font-size:14px!important;font-family:sans-serif!important;line-height:45px!important;padding-right:15px!important;padding-left:15px!important}#archnavbar ul#archnavbarlist li a{color:#999;font-weight:bold!important;text-decoration:none!important}#archnavbar ul li a:hover{color:white!important;text-decoration:underline!important}#archnavbar ul li.anb-selected a{color:white!important}@media (max-width:600px){#anb-wiki{display:none}}@media (max-width:680px){html>body #archnavbarlogo{width:40px!important;margin-right:5px!important;background:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjEyMDAiIHZlcnNpb249IjEiPjxwYXRoIGQ9Ik02MDAgMGMtNTMuNDE2IDEzMC45NjItODUuNjcxIDIxNi43NC0xNDUuMTQzIDM0My44MSAzNi40NjQgMzguNjUxIDgxLjIyIDgzLjQ0OSAxNTMuOTA1IDEzNC4yODUtNzguMTQ1LTMyLjE1Ni0xMzEuNDAzLTY0LjIxMy0xNzEuMjM4LTk3LjcxNEMzNjEuNDEgNTM5LjIgMjQxLjk4OSA3NjUuMTk0IDAgMTIwMGMxOTAuMTYxLTEwOS43ODQgMzM3LjY2NS0xNzcuMzk3IDQ3NS4wNDgtMjAzLjIzOC01Ljg5NS0yNS4zNjctOS4xOC01Mi44OTYtOC45NTMtODEuNTI0bC4xOS01LjkwNUM0NjkuMzA1IDc4Ny40OCA1MzIuNzIgNjkzLjYzOCA2MDcuODEgNzAwYzc1LjA4OSA2LjM2MiAxMzMuNDk0IDExMC41MjggMTMwLjQ3NiAyMzIuMzgxLS41NjggMjIuOTE2LTMuMTA1IDQ0Ljg4NS03LjYyIDY1LjMzM0M4NjYuNTI4IDEwMjQuMzI1IDEwMTIuNDYyIDEwOTEuNzMgMTIwMCAxMjAwYy0zNi45OTUtNjguMTExLTcwLjE4LTEyOS4zMzUtMTAxLjcxNC0xODcuODEtNDkuNjcyLTM4LjQ5OS0xMDEuMzY1LTg4LjYxMy0yMDcuMDQ4LTE0Mi44NTcgNzIuNjQgMTguODc1IDEyNC43OTMgNDAuNjEyIDE2NS4zMzMgNjQuOTUzQzczNS45NTIgMzM3LjM0OCA3MDkuOTQ4IDI1OC4wMTYgNjAwIDB6IiBmaWxsPSIjMTc5M2QxIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz48L3N2Zz4=) no-repeat!important;background-size:40px 40px!important}#archnavbar ul{display:flex!important;justify-content:space-between;flex-wrap:nowrap;overflow:hidden;float:none!important}#archnavbar ul li{padding:0!important;float:none!important}}@media (max-width:830px){#anb-home{display:none}html>body #archnavbarlogo{padding-right:15px!important}#archnavbar{padding-left:5px!important;padding-right:5px!important}#archnavbar ul li{padding-left:5px!important;padding-right:5px!important}}body{background:#f6f9fc}#content{background:#fff;border:1px solid #ccc}#content h1,#content h2,#content h3,#content pre,#content code{color:#222}#content ul{list-style-image:none}#content pre:not([class*="CodeMirror"]){border:1px solid #bcd;overflow:auto;word-break:break-all;white-space:pre-wrap!important}#content pre:not([class*="CodeMirror"]),#content code{background-color:#ebf1f5;font-family:monospace}#content code{display:inline-block;padding:0 .3em;border-width:0;border-radius:0}#footer{color:#333}#toc{background-color:#f9faff;border:1px solid #d7dfe3}#bodyContent>div.mw-content-ltr a{font-weight:bold}#bodyContent #toc a{font-weight:normal}#content a:not(.new),header.mw-header li:not(.new) a:not(.new),#mw-navigation li:not(.new) a:not(.new),#mw-panel li:not(.new) a:not(.new),#column-one li:not(.new) a:not(.new),#footer a:not(.new){text-decoration:none;color:#07b!important}#content a:not(.new):hover,header.mw-header li:not(.new) a:not(.new):hover,#mw-navigation li:not(.new) a:not(.new):hover,#mw-panel li:not(.new) a:not(.new):hover,#column-one li:not(.new) a:not(.new):hover,#footer a:not(.new):hover{text-decoration:underline;background-color:transparent;color:#999!important}#content a:active,header.mw-header li:not(.new) a:active,#mw-navigation li:not(.new) a:active,#mw-panel li:not(.new) a:active,#column-one li:not(.new) a:active,#footer a:active,#content a:focus,header.mw-header li:not(.new) a:focus,#mw-navigation li:not(.new) a:focus,#mw-panel li:not(.new) a:focus,#column-one li:not(.new) a:focus,#footer a:focus,#content a:active:hover,header.mw-header li:not(.new) a:active:hover,#mw-navigation li:not(.new) a:active:hover,#mw-panel li:not(.new) a:active:hover,#column-one li:not(.new) a:active:hover,#footer a:active:hover,#content a:focus:hover,header.mw-header li:not(.new) a:focus:hover,#mw-navigation li:not(.new) a:focus:hover,#mw-panel li:not(.new) a:focus:hover,#column-one li:not(.new) a:focus:hover,#footer a:focus:hover{color:#e90!important}#content a:not(.new):visited,#mw-panel li:not(.new) a:not(.new):visited,#p-navigation li:not(.new) a:not(.new):visited,#p-tb li:not(.new) a:not(.new):visited{color:#666!important}.mw-body-content a.external,.mw-body-content a.extiw{background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMyI+Cgk8cGF0aCBmaWxsPSIjMzZiIiBkPSJNNS4wMDIgMS4wMWg3djdsLTItMi0zIDJ2LTFsMy0yLjI1IDEgMVYyLjAxaC0zLjc1bDEgMS0yLjI1IDNoLTFsMi0zeiIvPgoJPHBhdGggZmlsbD0iIzM2YiIgZD0iTTcuMDAyIDMuMDFoLTV2OGg4di01aC0xdjRoLTZ2LTZoNHoiLz4KCTxwYXRoIGZpbGw9IiMxNWE1ZWEiIGQ9Ik00LjA4MiA1LjUxYzAtLjYyMS42MjEtLjYyMS42MjEtLjYyMSAxLjg2NC42MjEgMy4xMDcgMS44NjQgMy43MjggMy43MjggMCAwIDAgLjYyMS0uNjIuNjIxLTEuMjQ1LTEuODY0LTEuODY2LTIuNDg1LTMuNzMtMy43Mjh6Ii8+Cjwvc3ZnPgo=) center right no-repeat;padding-right:13px}.mw-body h1,.mw-body-content h2{font-family:sans-serif}nav.vector-menu-tabs{padding-left:0}nav.vector-menu-tabs ul,nav.vector-menu-tabs ul li{background:0}nav.vector-menu-tabs li.selected{border:1px solid #ccc;border-bottom-color:#fff;background-color:#fff}nav.vector-menu-tabs li.selected a{background:none!important}nav.vector-menu-tabs ul li{border:1px}body.skin-vector-legacy div#mw-head{top:65px}body.skin-vector-legacy div#mw-panel{top:65px;margin-top:1em}body.skin-vector-legacy #mw-page-base{background:0}body.skin-vector-legacy nav.vector-menu-tabs,body.skin-vector-legacy nav.vector-menu{margin-top:-2px}body.skin-vector-legacy nav.vector-menu-tabs li:not(:first-child).selected{margin-left:-2px}@media screen and (max-width:720px){body.skin-vector-legacy div#mw-panel{padding-top:0}}</style>
+<meta name=ResourceLoaderDynamicStyles content>
+<style>pre{white-space:pre}#bodyContent a.external[href^="https://wiki.archlinux.org"]{background:0;padding-right:0}span.archwiki-template-pkg,span.archwiki-template-man{font-family:monospace}div.archwiki-template-box{padding:5px;border:thin solid black;margin:.5em 0;overflow:hidden}div.archwiki-template-box.archwiki-template-box-note{background-color:#ddf;border-color:#bbd}div.archwiki-template-message{position:relative;overflow:hidden;min-height:4.6em;margin-bottom:1em;background-color:#f9faff;border:1px solid #d7dfe3;padding:0 100px;text-align:center}div.archwiki-template-message>p>a{display:block;position:absolute;top:5px}div.archwiki-template-message>p>a:first-of-type{left:26px}div.archwiki-template-message>p>a:last-of-type{right:26px}div.archwiki-template-message>div{font-size:90%}div.archwiki-template-meta-related-articles-start{float:right;clear:right;width:25%;margin:0 0 .5em .5em}div.archwiki-template-meta-related-articles-start>p{background:#333;color:white;padding:.2em;border-bottom:5px #08c solid;margin:0;text-align:center;font-weight:bold}div.archwiki-template-meta-related-articles-start>ul{list-style-type:none;margin:0;padding:.3em}div.archwiki-template-meta-related-articles-start>ul>li{padding:.4em 0;line-height:1}</style>
+<meta name=generator content="MediaWiki 1.36.2">
+<meta name=referrer content=no-referrer-when-downgrade>
+<link rel=search type=application/opensearchdescription+xml href=https://wiki.archlinux.org/opensearch_desc.php title="ArchWiki (en)">
+<link rel=EditURI type=application/rsd+xml href="https://wiki.archlinux.org/api.php?action=rsd">
+<link rel=license href=http://www.gnu.org/copyleft/fdl.html>
+<link rel=alternate type=application/atom+xml title="ArchWiki Atom feed" href="https://wiki.archlinux.org/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="shortcut icon" href=data:image/vnd.microsoft.icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABvElEQVQ4jY2TP4gTQRTGfzM7ybp35mBX8LY4GxM5OI4UiqDWtoKIjWhl4QmmEQwIhzZaa3GLlYWgjViI+AcUrrASUYTbQ0UxepwpFj1EDCSXuLNj4QYSLxP8mnm8972P3wyMMMZgUxjF+ycLUjUW5l/YPMq6/VfnHCEmAGuAsBHsurG6QwiaRUeq2cCdfXy88nmUT9qSJ4tywVNyGxjVSbPzNp81wFNyt6cknpJ00uzk2Wfr/n8HHLrz4ajriFeuEsuekvS08Zu/eoujvFveYN+t98XAUw1jmEmN+ZEZfG2M8BzZKhVl+f6x8vexBIGn6hMFOeMqgTEEXZ2J39qwqbNSR5tLYwnmbr6b2hO4axvt1P/a6tHTw3SuI1pTrlNZPT33bSTBps7qb5K23/jZ7S8/AO72511tShud9MJIgjCKdwINYHs+e5TUqkfy2W3gVN5vA+WkVk3+Jbg8sAzwcKB+mp8G+ALUh64QRnEZOMOwPg3Ub/vEgAvcGwoArgKFvF4DrgEfBwKawHVgHagAy2EUnwAQ00sre4HXwBPgSlKrvmSMwig+CCwCh4F5Mb20chF4ntSq1h83JujAH3Eom+H9uAq8AAAAAElFTkSuQmCC><style>.sf-hidden{display:none!important}</style><link rel=canonical href=https://wiki.archlinux.org/title/Network_bridge#With_NetworkManager><meta http-equiv=content-security-policy content="default-src 'none'; font-src 'self' data:; img-src 'self' data:; style-src 'unsafe-inline'; media-src 'self' data:; script-src 'unsafe-inline' data:;"></head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Network_bridge rootpage-Network_bridge skin-vector action-view skin-vector-legacy"><div id=archnavbar class=noprint>
+ <div id=archnavbarlogo>
+ <p><a id=logo href=https://www.archlinux.org/></a></p>
+ </div>
+ <div id=archnavbarmenu>
+ <ul id=archnavbarlist>
+ <li id=anb-home><a href=https://www.archlinux.org/>Home</a></li> <li id=anb-packages><a href=https://www.archlinux.org/packages/>Packages</a></li> <li id=anb-forums><a href=https://bbs.archlinux.org/>Forums</a></li> <li id=anb-wiki class=anb-selected><a href=https://wiki.archlinux.org/>Wiki</a></li> <li id=anb-bugs><a href=https://bugs.archlinux.org/>Bugs</a></li> <li id=anb-security><a href=https://security.archlinux.org/>Security</a></li> <li id=anb-aur><a href=https://aur.archlinux.org/>AUR</a></li> <li id=anb-download><a href=https://www.archlinux.org/download/>Download</a></li> </ul>
+ </div>
+</div>
+<div id=mw-page-base class=noprint></div>
+<div id=mw-head-base class=noprint></div>
+<div id=content class=mw-body role=main>
+ <a id=top></a>
+ <div id=siteNotice class=mw-body-content></div>
+ <div class="mw-indicators mw-body-content">
+ </div>
+ <h1 id=firstHeading class=firstHeading>Network bridge</h1>
+ <div id=bodyContent class=mw-body-content>
+ <div id=siteSub class="noprint sf-hidden">From ArchWiki</div>
+ <div id=contentSub></div>
+ <div id=contentSub2></div>
+ 
+ <div id=jump-to-nav></div>
+ <a class=mw-jump-link href=#mw-head>Jump to navigation</a>
+ <a class=mw-jump-link href=#searchInput>Jump to search</a>
+ <div id=mw-content-text dir=ltr class=mw-content-ltr lang=en><div class=mw-parser-output><div class=archwiki-template-meta-related-articles-start><p>Related articles<ul>
+<li><a href=https://wiki.archlinux.org/title/Bridge_with_netctl title="Bridge with netctl">Bridge with netctl</a></li>
+<li><a href=https://wiki.archlinux.org/title/Network_configuration#Bonding_or_LAG title="Network configuration">Network configuration#Bonding or LAG</a></li>
+</ul></div>
+<p>A bridge is a piece of software used to unite two or more network segments. A bridge behaves like a virtual network switch, working transparently (the other machines do not need to know about its existence). Any real devices (e.g. <code>eth0</code>) and virtual devices (e.g. <code>tap0</code>) can be connected to it.
+<p>This article explains how to create a bridge that contains at least an ethernet device. This is useful for things like the bridge mode of <a href=https://wiki.archlinux.org/title/QEMU title=QEMU>QEMU</a>, setting a software based access point, etc.
+</p>
+<div id=toc class=toc role=navigation aria-labelledby=mw-toc-heading><input type=checkbox role=button id=toctogglecheckbox class=toctogglecheckbox style=display:none><div class=toctitle dir=ltr lang=en><h2 id=mw-toc-heading>Contents</h2><span class=toctogglespan><label class=toctogglelabel for=toctogglecheckbox></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href=#Creating_a_bridge><span class=tocnumber>1</span> <span class=toctext>Creating a bridge</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href=#With_iproute2><span class=tocnumber>1.1</span> <span class=toctext>With iproute2</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href=#With_bridge-utils><span class=tocnumber>1.2</span> <span class=toctext>With bridge-utils</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href=#With_netctl><span class=tocnumber>1.3</span> <span class=toctext>With netctl</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href=#With_systemd-networkd><span class=tocnumber>1.4</span> <span class=toctext>With systemd-networkd</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href=#With_NetworkManager><span class=tocnumber>1.5</span> <span class=toctext>With NetworkManager</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href=#Assigning_an_IP_address><span class=tocnumber>2</span> <span class=toctext>Assigning an IP address</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href=#With_iproute2_2><span class=tocnumber>2.1</span> <span class=toctext>With iproute2</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href=#With_NetworkManager_2><span class=tocnumber>2.2</span> <span class=toctext>With NetworkManager</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href=#Tips_and_tricks><span class=tocnumber>3</span> <span class=toctext>Tips and tricks</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href=#Wireless_interface_on_a_bridge><span class=tocnumber>3.1</span> <span class=toctext>Wireless interface on a bridge</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href=#Speeding_up_traffic_destinated_to_the_bridge_itself><span class=tocnumber>3.2</span> <span class=toctext>Speeding up traffic destinated to the bridge itself</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href=#Troubleshooting><span class=tocnumber>4</span> <span class=toctext>Troubleshooting</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href=#No_networking_after_bridge_configuration><span class=tocnumber>4.1</span> <span class=toctext>No networking after bridge configuration</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href=#No_networking_on_hosted_servers_after_bridge_configuration><span class=tocnumber>4.2</span> <span class=toctext>No networking on hosted servers after bridge configuration</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href=#See_also><span class=tocnumber>5</span> <span class=toctext>See also</span></a></li>
+</ul>
+</div>
+<h2><span class=mw-headline id=Creating_a_bridge>Creating a bridge</span></h2>
+<p>There are a number of ways to create a bridge.
+</p>
+<h3><span class=mw-headline id=With_iproute2>With iproute2</span></h3>
+<p>This section describes the management of a network bridge using the <i>ip</i> tool from the <span class="plainlinks archwiki-template-pkg"><a rel=nofollow class="external text" href="https://archlinux.org/packages/?name=iproute2">iproute2</a></span> package, which is required by the <span class="plainlinks archwiki-template-pkg"><a rel=nofollow class="external text" href="https://archlinux.org/packages/?name=base">base</a></span> <a href=https://wiki.archlinux.org/title/Meta_package class=mw-redirect title="Meta package">meta package</a>.
+<p>Create a new bridge and change its state to up:
+</p>
+<pre># ip link add name <i>bridge_name</i> type bridge
+# ip link set <i>bridge_name</i> up
+</pre>
+<p>To add an interface (e.g. eth0) into the bridge, its state must be up:
+</p>
+<pre># ip link set eth0 up
+</pre>
+<p>Adding the interface into the bridge is done by setting its master to <code><i>bridge_name</i></code>:
+</p>
+<pre># ip link set eth0 master <i>bridge_name</i>
+</pre>
+<p>To show the existing bridges and associated interfaces, use the <i>bridge</i> utility (also part of <span class="plainlinks archwiki-template-pkg"><a rel=nofollow class="external text" href="https://archlinux.org/packages/?name=iproute2">iproute2</a></span>). See <span class="plainlinks archwiki-template-man" title="$ man 8 bridge"><a rel=nofollow class="external text" href=https://man.archlinux.org/man/bridge.8>bridge(8)</a></span> for details.
+</p>
+<pre># bridge link
+</pre>
+<p>This is how to remove an interface from a bridge:
+</p>
+<pre># ip link set eth0 nomaster
+</pre>
+<p>The interface will still be up, so you may also want to bring it down:
+</p>
+<pre># ip link set eth0 down
+</pre>
+<p>To delete a bridge issue the following command:
+</p>
+<pre># ip link delete <i>bridge_name</i> type bridge
+</pre>
+<p>This will automatically remove all interfaces from the bridge. The slave interfaces will still be up, though, so you may also want to bring them down after.
+</p>
+<h3><span class=mw-headline id=With_bridge-utils>With bridge-utils</span></h3>
+<p>This section describes the management of a network bridge using the legacy <i>brctl</i> tool from the <span class="plainlinks archwiki-template-pkg"><a rel=nofollow class="external text" href="https://archlinux.org/packages/?name=bridge-utils">bridge-utils</a></span> package, which is available in the <a href=https://wiki.archlinux.org/title/Official_repositories title="Official repositories">official repositories</a>. See <span class="plainlinks archwiki-template-man" title="$ man 8 brctl"><a rel=nofollow class="external text" href=https://man.archlinux.org/man/brctl.8>brctl(8)</a></span> for full listing of options.
+</p>
+<div class="archwiki-template-box archwiki-template-box-note"><strong>Note:</strong> The use of <i>brctl</i> is deprecated and is considered obsolete. See the Notes section in <span class="plainlinks archwiki-template-man" title="$ man 8 brctl"><a rel=nofollow class="external text" href=https://man.archlinux.org/man/brctl.8#NOTES>brctl(8) § NOTES</a></span> for details.</div>
+<p>Create a new bridge:
+</p>
+<pre># brctl addbr <i>bridge_name</i>
+</pre>
+<p>Add a device to a bridge, for example <code>eth0</code>:
+</p>
+<div class="archwiki-template-box archwiki-template-box-note"><strong>Note:</strong> Adding an interface to a bridge will cause the interface to lose its existing IP address. If you are connected remotely via the interface you intend to add to the bridge, you will lose your connection. This problem can be worked around by scripting the bridge to be created at system startup.</div>
+<pre># brctl addif <i>bridge_name</i> eth0
+</pre>
+<p>Show current bridges and what interfaces they are connected to:
+</p>
+<pre>$ brctl show
+</pre>
+<p>Set the bridge device up:
+</p>
+<pre># ip link set dev <i>bridge_name</i> up
+</pre>
+<p>Delete a bridge, you need to first set it to <i>down</i>:
+</p>
+<pre># ip link set dev <i>bridge_name</i> down
+# brctl delbr <i>bridge_name</i>
+</pre>
+<div class="archwiki-template-box archwiki-template-box-note"><strong>Note:</strong> To enable the <a rel=nofollow class="external text" href=http://ebtables.netfilter.org/documentation/bridge-nf.html>bridge-netfilter</a> functionality, you need to manually load the <code>br_netfilter</code> module:
+<pre># modprobe br_netfilter
+</pre>
+<p>See also <a href=https://wiki.archlinux.org/title/Kernel_modules#Automatic_module_loading_with_systemd class=mw-redirect title="Kernel modules">Kernel modules#Automatic module loading with systemd</a>.
+</p>
+</div>
+<h3><span class=mw-headline id=With_netctl>With netctl</span></h3>
+<p>See <a href=https://wiki.archlinux.org/title/Bridge_with_netctl title="Bridge with netctl">Bridge with netctl</a>.
+</p>
+<h3><span class=mw-headline id=With_systemd-networkd>With systemd-networkd</span></h3>
+<p>See <a href=https://wiki.archlinux.org/title/Systemd-networkd#Bridge_interface title=Systemd-networkd>systemd-networkd#Bridge interface</a>.
+</p>
+<h3><span class=mw-headline id=With_NetworkManager>With NetworkManager</span></h3>
+<p><a href=https://wiki.archlinux.org/title/GNOME title=GNOME>GNOME</a>'s Network settings can create bridges, but currently will not auto-connect to them or slave/attached interfaces. Open Network Settings, add a new interface of type Bridge, add a new bridged connection, and select the MAC address of the device to attach to the bridge.
+<p><a href=https://wiki.archlinux.org/title/KDE title=KDE>KDE</a>'s <span class="plainlinks archwiki-template-pkg"><a rel=nofollow class="external text" href="https://archlinux.org/packages/?name=plasma-nm">plasma-nm</a></span> can create bridges. In order to view, create and modify bridge interfaces open the Connections window either by right clicking the Networks applet in the system tray and selecting <i>Configure Network Connections...</i> or from <i>System Settings &gt; Connections</i>. Click the <i>Configuration</i> button in the lower left corner of the module and enable "Show virtual connections". A session restart will be necessary to use the enabled functionality.
+<p><span class="plainlinks archwiki-template-pkg"><a rel=nofollow class="external text" href="https://archlinux.org/packages/?name=nm-connection-editor">nm-connection-editor</a></span> can create bridges in the same manner as GNOME's Network settings.
+<p><code>nmcli</code> from <span class="plainlinks archwiki-template-pkg"><a rel=nofollow class="external text" href="https://archlinux.org/packages/?name=networkmanager">networkmanager</a></span> can create bridges. Creating a bridge with <a href=https://en.wikipedia.org/wiki/Spanning_Tree_Protocol class=extiw title="wikipedia:Spanning Tree Protocol">STP</a> disabled (to avoid the bridge being advertised on the network):
+</p>
+<pre>$ nmcli connection add type bridge ifname br0 stp no
+</pre>
+<p>Making interface <code>enp30s0</code> a slave to the bridge:
+</p>
+<pre>$ nmcli connection add type bridge-slave ifname enp30s0 master br0
+</pre>
+<p>Setting the existing connection as down (you can get it with <code>nmcli connection show --active</code>):
+</p>
+<pre>$ nmcli connection down <i>Connection</i>
+</pre>
+<p>Setting the new bridge as up:
+</p>
+<pre>$ nmcli connection up bridge-br0
+</pre>
+<p>If NetworkManager's default interface for the device you added to the bridge connects automatically, you may want to disable that by clicking the gear next to it in Network Settings, and unchecking "Connect automatically" under "Identity."
+</p>
+<h2><span class=mw-headline id=Assigning_an_IP_address>Assigning an IP address</span></h2>
+<div class="noprint archwiki-template-message">
+<p><a href=https://wiki.archlinux.org/title/File:Tango-view-fullscreen.png class=image><img alt=Tango-view-fullscreen.png src='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48"><rect fill-opacity="0"/></svg>' decoding=async style="background-blend-mode:normal!important;background-clip:content-box!important;background-position:50% 50%!important;background-color:rgba(0,0,0,0)!important;background-image:var(--sf-img-7)!important;background-size:100% 100%!important;background-origin:content-box!important;background-repeat:no-repeat!important" width=48 height=48></a><b>This article or section needs expansion.</b><a href=https://wiki.archlinux.org/title/File:Tango-view-fullscreen.png class=image><img alt=Tango-view-fullscreen.png src='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48"><rect fill-opacity="0"/></svg>' decoding=async style="background-blend-mode:normal!important;background-clip:content-box!important;background-position:50% 50%!important;background-color:rgba(0,0,0,0)!important;background-image:var(--sf-img-7)!important;background-size:100% 100%!important;background-origin:content-box!important;background-repeat:no-repeat!important" width=48 height=48></a></p>
+<div><b>Reason:</b> This section needs to be connected to the link-level part described in <a href=https://wiki.archlinux.org/title/QEMU#Tap_networking_with_QEMU title=QEMU>QEMU#Tap networking with QEMU</a>. For now, see the instructions given there. (Discuss in <a rel=nofollow class="external text" href=https://wiki.archlinux.org/title/Talk:Network_bridge>Talk:Network bridge</a>)</div>
+</div>
+<p>When the bridge is fully set up, it can be assigned an IP address:
+</p>
+<h3><span class=mw-headline id=With_iproute2_2>With iproute2</span></h3>
+<pre># ip address add dev <i>bridge_name</i> 192.168.66.66/24
+</pre>
+<h3><span class=mw-headline id=With_NetworkManager_2>With NetworkManager</span></h3>
+<p>Give it the desired address:
+</p>
+<pre># nmcli connection modify <i>interface</i> ipv4.addresses <i>desired_IP</i>
+</pre>
+<p>Set up a DNS server (this will also avoid not being able to load any pages after you apply the changes):
+</p>
+<pre># nmcli connection modify <i>interface</i> ipv4.dns <i>DNS_server</i>
+</pre>
+<p>Set the IP address to static:
+</p>
+<pre># nmcli connection modify <i>interface</i> ipv4.method manual
+</pre>
+<p>Apply the changes:
+</p>
+<pre># nmcli connection up <i>interface</i>
+</pre>
+<h2><span class=mw-headline id=Tips_and_tricks>Tips and tricks</span></h2>
+<h3><span class=mw-headline id=Wireless_interface_on_a_bridge>Wireless interface on a bridge</span></h3>
+<p>To add a wireless interface to a bridge, you first have to assign the wireless interface to an access point or start an access point with <a href=https://wiki.archlinux.org/title/Software_access_point title="Software access point">hostapd</a>. Otherwise the wireless interface will not be added to the bridge.
+<p>See also <a href=https://wiki.debian.org/BridgeNetworkConnections#Bridging_with_a_wireless_NIC class=extiw title=debian:BridgeNetworkConnections>Debian:BridgeNetworkConnections#Bridging with a wireless NIC</a>.
+</p>
+<h3><span class=mw-headline id=Speeding_up_traffic_destinated_to_the_bridge_itself>Speeding up traffic destinated to the bridge itself</span></h3>
+<p>In some situations the bridge not only serves as a bridge box, but also talks to other hosts. Packets that arrive on a bridge port and that are destinated to the bridge box itself will by default enter the iptables INPUT chain with the logical bridge port as input device. These packets will be queued twice by the network code, the first time they are queued after they are received by the network device. The second time after the bridge code examined the destination MAC address and determined it was a locally destinated packet and therefore decided to pass the frame up to the higher protocol stack.<a rel=nofollow class="external autonumber" href=http://ebtables.netfilter.org/examples/basic.html#ex_speed>[1]</a>
+<p>The way to let locally destinated packets be queued only once is by brouting them in the BROUTING chain of the broute table. Suppose br0 has an IP address and that br0's bridge ports do not have an IP address. Using the following rule should make all locally directed traffic be queued only once: 
+</p>
+<pre># ebtables -t broute -A BROUTING -d $MAC_OF_BR0 -p ipv4 -j redirect --redirect-target DROP
+</pre>
+<p>The replies from the bridge will be sent out through the br0 device (assuming your routing table is correct and sends all traffic through br0), so everything keeps working neatly, without the performance loss caused by the packet being queued twice. 
+<p>The redirect target is needed because the MAC address of the bridge port is not necessarily equal to the MAC address of the bridge device. The packets destinated to the bridge box will have a destination MAC address equal to that of the bridge br0, so that destination address must be changed to that of the bridge port.
+</p>
+<h2><span class=mw-headline id=Troubleshooting>Troubleshooting</span></h2>
+<h3><span class=mw-headline id=No_networking_after_bridge_configuration>No networking after bridge configuration</span></h3>
+<div class="noprint archwiki-template-message">
+<p><a href=https://wiki.archlinux.org/title/File:Tango-edit-clear.png class=image><img alt=Tango-edit-clear.png src='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48"><rect fill-opacity="0"/></svg>' decoding=async style="background-blend-mode:normal!important;background-clip:content-box!important;background-position:50% 50%!important;background-color:rgba(0,0,0,0)!important;background-image:var(--sf-img-8)!important;background-size:100% 100%!important;background-origin:content-box!important;background-repeat:no-repeat!important" width=48 height=48></a><b>This article or section needs language, wiki syntax or style improvements. See <a href=https://wiki.archlinux.org/title/Help:Style title=Help:Style>Help:Style</a> for reference.</b><a href=https://wiki.archlinux.org/title/File:Tango-edit-clear.png class=image><img alt=Tango-edit-clear.png src='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48"><rect fill-opacity="0"/></svg>' decoding=async style="background-blend-mode:normal!important;background-clip:content-box!important;background-position:50% 50%!important;background-color:rgba(0,0,0,0)!important;background-image:var(--sf-img-8)!important;background-size:100% 100%!important;background-origin:content-box!important;background-repeat:no-repeat!important" width=48 height=48></a></p>
+<div><b>Reason:</b> This problem is pointed out as a note in <a href=#With_bridge-utils>#With bridge-utils</a>. It should be made clear in all other sections and running a DHCP client should be added to <a href=#Assigning_an_IP_address>#Assigning an IP address</a>. (Discuss in <a rel=nofollow class="external text" href=https://wiki.archlinux.org/title/Talk:Network_bridge>Talk:Network bridge</a>)</div>
+</div>
+<p>It may help to remove all IP addresses and routes from the interface (e.g. <code>eth0</code>) that was added to the bridge and configure these parameters for the bridge instead.
+<p>First of all, make sure there is no <a href=https://wiki.archlinux.org/title/Dhcpcd title=Dhcpcd>dhcpcd</a> instance running for <code>eth0</code>, otherwise the deleted addresses may be reassigned.
+<p>Remove address and route from the <code>eth0</code> interface:
+</p>
+<pre># ip addr del <i>address</i> dev eth0
+# ip route del <i>address</i> dev eth0
+</pre>
+<p>Now IP address and route for the earlier configured bridge must be set. This is usually done by starting a DHCP client for this interface. Otherwise, consult <a href=https://wiki.archlinux.org/title/Network_configuration title="Network configuration">Network configuration</a> for manual configuration.
+</p>
+<h3><span class=mw-headline id=No_networking_on_hosted_servers_after_bridge_configuration>No networking on hosted servers after bridge configuration</span></h3>
+<div class="noprint archwiki-template-message">
+<p><a href=https://wiki.archlinux.org/title/File:Tango-edit-clear.png class=image><img alt=Tango-edit-clear.png src='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48"><rect fill-opacity="0"/></svg>' decoding=async style="background-blend-mode:normal!important;background-clip:content-box!important;background-position:50% 50%!important;background-color:rgba(0,0,0,0)!important;background-image:var(--sf-img-8)!important;background-size:100% 100%!important;background-origin:content-box!important;background-repeat:no-repeat!important" width=48 height=48></a><b>This article or section needs language, wiki syntax or style improvements. See <a href=https://wiki.archlinux.org/title/Help:Style title=Help:Style>Help:Style</a> for reference.</b><a href=https://wiki.archlinux.org/title/File:Tango-edit-clear.png class=image><img alt=Tango-edit-clear.png src='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48"><rect fill-opacity="0"/></svg>' decoding=async style="background-blend-mode:normal!important;background-clip:content-box!important;background-position:50% 50%!important;background-color:rgba(0,0,0,0)!important;background-image:var(--sf-img-8)!important;background-size:100% 100%!important;background-origin:content-box!important;background-repeat:no-repeat!important" width=48 height=48></a></p>
+<div><b>Reason:</b> "Hosted server" is not a generally obvious term. (Discuss in <a rel=nofollow class="external text" href=https://wiki.archlinux.org/title/Talk:Network_bridge>Talk:Network bridge</a>)</div>
+</div>
+<p>As the MAC address of the bridge is not necessarily equal to the MAC address of the networking card usually used by the server, the server provider might drop traffic coming out from the bridge, resulting in a loss of connectivity when bridging e.g. the server ethernet interface. Configuring the bridge to clone the mac address of the ethernet interface might therefore be needed for hosted servers.
+</p>
+<h2><span class=mw-headline id=See_also>See also</span></h2>
+<ul><li><a rel=nofollow class="external text" href=https://www.linuxfoundation.org/collaborate/workgroups/networking/bridge>Official documentation for bridge-utils</a></li>
+<li><a rel=nofollow class="external text" href=https://www.linuxfoundation.org/collaborate/workgroups/networking/iproute2>Official documentation for iproute2</a></li>
+<li><a rel=nofollow class="external text" href=http://ebtables.netfilter.org/br_fw_ia/br_fw_ia.html>ebtables/iptables interaction on a Linux-based bridge</a></ul>
+</div>
+<div class="printfooter sf-hidden">Retrieved from ""</div></div>
+ <div id=catlinks class=catlinks data-mw=interface><div id=mw-normal-catlinks class=mw-normal-catlinks><a href=https://wiki.archlinux.org/title/Special:Categories title=Special:Categories>Category</a>: <ul><li><a href=https://wiki.archlinux.org/title/Category:Networking title=Category:Networking>Networking</a></ul></div><div id=mw-hidden-catlinks class="mw-hidden-catlinks mw-hidden-cats-hidden sf-hidden">Hidden categories: </div></div>
+ </div>
+</div>
+<div id=mw-navigation>
+ <h2>Navigation menu</h2>
+ <div id=mw-head>
+ 
+<nav id=p-personal class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby=p-personal-label role=navigation>
+ <h3 id=p-personal-label class="vector-menu-heading sf-hidden">
+ 
+ </h3>
+ <div class=vector-menu-content>
+ <ul class=vector-menu-content-list><li id=pt-createaccount><a href="https://wiki.archlinux.org/index.php?title=Special:CreateAccount&amp;returnto=Network+bridge" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a><li id=pt-login><a href="https://wiki.archlinux.org/index.php?title=Special:UserLogin&amp;returnto=Network+bridge" title="You are encouraged to log in; however, it is not mandatory [Alt+Shift+o]" accesskey=o>Log in</a></ul>
+ 
+ </div>
+</nav>
+ <div id=left-navigation>
+ 
+<nav id=p-namespaces class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby=p-namespaces-label role=navigation>
+ <h3 id=p-namespaces-label class="vector-menu-heading sf-hidden">
+ 
+ </h3>
+ <div class=vector-menu-content>
+ <ul class=vector-menu-content-list><li id=ca-nstab-main class=selected><a href=https://wiki.archlinux.org/title/Network_bridge title="View the content page [Alt+Shift+c]" accesskey=c>Page</a><li id=ca-talk><a href=https://wiki.archlinux.org/title/Talk:Network_bridge rel=discussion title="Discussion about the content page [Alt+Shift+t]" accesskey=t>Discussion</a></ul>
+ 
+ </div>
+</nav>
+ 
+<nav id=p-variants class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown sf-hidden" aria-labelledby=p-variants-label role=navigation>
+ 
+ 
+ 
+</nav>
+ </div>
+ <div id=right-navigation>
+ 
+<nav id=p-views class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby=p-views-label role=navigation>
+ <h3 id=p-views-label class="vector-menu-heading sf-hidden">
+ 
+ </h3>
+ <div class=vector-menu-content>
+ <ul class=vector-menu-content-list><li id=ca-view class="selected collapsible"><a href=https://wiki.archlinux.org/title/Network_bridge>Read</a><li id=ca-viewsource class=collapsible><a href="https://wiki.archlinux.org/index.php?title=Network_bridge&amp;action=edit" title="This page is protected.
+You can view its source [Alt+Shift+e]" accesskey=e>View source</a><li id=ca-history class=collapsible><a href="https://wiki.archlinux.org/index.php?title=Network_bridge&amp;action=history" title="Past revisions of this page [Alt+Shift+h]" accesskey=h>View history</a></ul>
+ 
+ </div>
+</nav>
+ 
+<nav id=p-cactions class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown sf-hidden" aria-labelledby=p-cactions-label role=navigation>
+ 
+ 
+ 
+</nav>
+ <div id=p-search role=search>
+ <h3>
+ <label for=searchInput>Search</label>
+ </h3>
+ <form action=/index.php id=searchform>
+ <div id=simpleSearch data-search-loc=header-navigation>
+ <input type=search name=search placeholder="Search ArchWiki" autocapitalize=sentences title="Search ArchWiki [Alt+Shift+f]" accesskey=f id=searchInput value>
+ 
+ <input type=submit name=fulltext value=Search title="Search the pages for this text" id=mw-searchButton class="searchButton mw-fallbackSearchButton">
+ <input type=submit name=go value=Go title="Go to a page with this exact name if it exists" id=searchButton class=searchButton>
+ </div>
+ </form>
+</div>
+ </div>
+ </div>
+ 
+<div id=mw-panel>
+ <div id=p-logo role=banner class=sf-hidden>
+ 
+ </div>
+ 
+<nav id=p-navigation class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby=p-navigation-label role=navigation>
+ <h3 id=p-navigation-label class="vector-menu-heading sf-hidden">
+ 
+ </h3>
+ <div class=vector-menu-content>
+ <ul class=vector-menu-content-list><li id=n-mainpage-description><a href=https://wiki.archlinux.org/title/Main_page title="Visit the main page [Alt+Shift+z]" accesskey=z>Main page</a><li id=n-Table-of-contents><a href=https://wiki.archlinux.org/title/Table_of_contents>Table of contents</a><li id=n-portal><a href=https://wiki.archlinux.org/title/Getting_involved title="Various ways Archers can contribute to the community">Getting involved</a><li id=n-currentevents><a href=https://wiki.archlinux.org/title/ArchWiki:News title="The latest lowdown on the wiki">Wiki news</a><li id=n-randompage><a href=https://wiki.archlinux.org/title/Special:Random title="Load a random page [Alt+Shift+x]" accesskey=x>Random page</a></ul>
+ 
+ </div>
+</nav>
+ 
+<nav id=p-Interaction class="mw-portlet mw-portlet-Interaction vector-menu vector-menu-portal portal" aria-labelledby=p-Interaction-label role=navigation>
+ <h3 id=p-Interaction-label class=vector-menu-heading>
+ <span>Interaction</span>
+ </h3>
+ <div class=vector-menu-content>
+ <ul class=vector-menu-content-list><li id=n-help><a href=https://wiki.archlinux.org/title/Category:Help title="Wiki navigation, reading, and editing help">Help</a><li id=n-Contributing><a href=https://wiki.archlinux.org/title/ArchWiki:Contributing>Contributing</a><li id=n-recentchanges><a href=https://wiki.archlinux.org/title/Special:RecentChanges title="A list of recent changes in the wiki [Alt+Shift+r]" accesskey=r>Recent changes</a><li id=n-Recent-talks><a href="https://wiki.archlinux.org/index.php?title=Special:RecentChanges&amp;namespace=all-discussions" rel=nofollow>Recent talks</a><li id=n-newpages><a href=https://wiki.archlinux.org/title/Special:NewPages>New pages</a><li id=n-Statistics><a href=https://wiki.archlinux.org/title/ArchWiki:Statistics>Statistics</a><li id=n-Requests><a href=https://wiki.archlinux.org/title/ArchWiki_talk:Requests>Requests</a></ul>
+ 
+ </div>
+</nav>
+<nav id=p-tb class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby=p-tb-label role=navigation>
+ <h3 id=p-tb-label class=vector-menu-heading>
+ <span>Tools</span>
+ </h3>
+ <div class=vector-menu-content>
+ <ul class=vector-menu-content-list><li id=t-whatlinkshere><a href=https://wiki.archlinux.org/title/Special:WhatLinksHere/Network_bridge title="A list of all wiki pages that link here [Alt+Shift+j]" accesskey=j>What links here</a><li id=t-recentchangeslinked><a href=https://wiki.archlinux.org/title/Special:RecentChangesLinked/Network_bridge rel=nofollow title="Recent changes in pages linked from this page [Alt+Shift+k]" accesskey=k>Related changes</a><li id=t-specialpages><a href=https://wiki.archlinux.org/title/Special:SpecialPages title="A list of all special pages [Alt+Shift+q]" accesskey=q>Special pages</a><li id=t-print><a href=https://wiki.archlinux.org/title/Network_bridge rel=alternate title="Printable version of this page [Alt+Shift+p]" accesskey=p>Printable version</a><li id=t-permalink><a href="https://wiki.archlinux.org/index.php?title=Network_bridge&amp;oldid=672333" title="Permanent link to this revision of the page">Permanent link</a><li id=t-info><a href="https://wiki.archlinux.org/index.php?title=Network_bridge&amp;action=info" title="More information about this page">Page information</a></ul>
+ 
+ </div>
+</nav>
+ 
+<nav id=p-lang class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby=p-lang-label role=navigation>
+ <h3 id=p-lang-label class=vector-menu-heading>
+ <span>In other languages</span>
+ </h3>
+ <div class=vector-menu-content>
+ <ul class=vector-menu-content-list><li class="interlanguage-link interwiki-ja"><a href=https://wiki.archlinux.jp/index.php/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8 title="ネットワークブリッジ – 日本語" hreflang=ja class=interlanguage-link-target lang=ja>日本語</a><li class="interlanguage-link interwiki-zh-hans"><a href=https://wiki.archlinux.org/title/Network_bridge_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) title="Network bridge – 中文（简体）‎" hreflang=zh-Hans class=interlanguage-link-target lang=zh-Hans>中文（简体）‎</a></ul>
+ 
+ </div>
+</nav>
+</div>
+</div>
+<footer id=footer class=mw-footer role=contentinfo>
+ <ul id=footer-info>
+ <li id=footer-info-lastmod> This page was last edited on 21 May 2021, at 08:29.</li>
+ <li id=footer-info-copyright>Content is available under <a class=external rel=nofollow href=http://www.gnu.org/copyleft/fdl.html>GNU Free Documentation License 1.3 or later</a> unless otherwise noted.</li>
+</ul>
+ <ul id=footer-places>
+ <li id=footer-places-privacy><a href=https://terms.archlinux.org/docs/privacy-policy/ class=extiw title=archlinux-service-agreements:privacy-policy>Privacy policy</a></li>
+ <li id=footer-places-about><a href=https://wiki.archlinux.org/title/ArchWiki:About title=ArchWiki:About>About ArchWiki</a></li>
+ <li id=footer-places-disclaimer><a href=https://wiki.archlinux.org/title/ArchWiki:General_disclaimer title="ArchWiki:General disclaimer">Disclaimers</a></li>
+</ul>
+ 
+</footer>
+</body><!-- Cached/compressed 20211118041440 -->

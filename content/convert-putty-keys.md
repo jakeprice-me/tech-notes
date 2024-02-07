@@ -6,6 +6,7 @@ category: putty
 classification: public
 date: 2019-06-26T15:08:00
 date_modified: 2019-06-26T15:08:00
+draft: false
 id: 20190626150800
 link: 
 local_archive: 

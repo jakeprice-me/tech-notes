@@ -6,6 +6,7 @@ category: ansible
 classification: public
 date: 2021-02-05T14:19:32
 date_modified: 2021-02-05T14:19:32
+draft: false
 id: 20210205141932
 link: https://www.lisenet.com/2019/ansible-generate-crypted-passwords-for-the-user-module/
 local_archive: 

@@ -6,6 +6,7 @@ category: vim
 classification: public
 date: 2022-11-16T17:19:31
 date_modified: 2022-11-16T17:19:31
+draft: false
 id: 20221116171931
 link: 
 local_archive: 

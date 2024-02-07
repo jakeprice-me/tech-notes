@@ -8,6 +8,7 @@ category: firefox
 classification: public
 date: 2022-12-27T20:42:31
 date_modified: 2022-12-27T20:42:31
+draft: false
 id: 20221227204231
 link: https://bugzilla.mozilla.org/show_bug.cgi?id=1569439
 local_archive: 

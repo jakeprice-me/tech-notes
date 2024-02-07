@@ -6,6 +6,7 @@ category: samba
 classification: public
 date: 2020-12-23T22:07:40
 date_modified: 2020-12-23T22:07:40
+draft: false
 id: 20201223220740
 link: 
 local_archive: 

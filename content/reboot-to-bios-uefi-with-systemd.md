@@ -6,6 +6,7 @@ category: systemd
 classification: public
 date: 2022-10-07T21:33:34
 date_modified: 2022-10-07T21:33:34
+draft: false
 id: 20221007213334
 link: https://www.freedesktop.org/software/systemd/man/systemctl.html#--firmware-setup
 local_archive: 

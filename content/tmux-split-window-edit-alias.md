@@ -6,6 +6,7 @@ category: tmux
 classification: public
 date: 2020-07-04T19:01:10
 date_modified: 2020-07-04T19:01:10
+draft: false
 id: 20200704190110
 link: 
 local_archive: 

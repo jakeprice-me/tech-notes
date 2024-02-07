@@ -6,6 +6,7 @@ category: hardware
 classification: public
 date: 2024-01-23T12:57:39
 date_modified: 2024-01-23T12:57:39
+draft: false
 id: 20240123125739
 link: 
 local_archive: 

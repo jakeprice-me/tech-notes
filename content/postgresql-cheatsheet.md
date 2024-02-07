@@ -6,6 +6,7 @@ category: postgresql
 classification: public
 date: 2020-08-04T20:53:23
 date_modified: 2020-08-04T20:53:23
+draft: false
 id: 20200804205323
 link: 
 local_archive: 

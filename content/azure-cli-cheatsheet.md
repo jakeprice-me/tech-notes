@@ -6,6 +6,7 @@ category: azure
 classification: public
 date: 2022-07-27T16:36:06
 date_modified: 2022-07-27T16:36:06
+draft: false
 id: 20220727163606
 link: 
 local_archive: 

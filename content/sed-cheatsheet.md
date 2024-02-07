@@ -6,6 +6,7 @@ category: sed
 classification: public
 date: 2020-06-01T18:03:09
 date_modified: 2020-06-01T18:03:09
+draft: false
 id: 20200601180309
 link: 
 local_archive: 

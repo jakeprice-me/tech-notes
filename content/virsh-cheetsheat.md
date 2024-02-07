@@ -6,6 +6,7 @@ category: libvirt
 classification: public
 date: 2022-01-09T16:31:43
 date_modified: 2022-01-09T16:31:43
+draft: false
 id: 20220109163143
 link: 
 local_archive: 

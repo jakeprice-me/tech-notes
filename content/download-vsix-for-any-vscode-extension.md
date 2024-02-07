@@ -6,6 +6,7 @@ category: vscode
 classification: public
 date: 2020-10-21T10:00:20
 date_modified: 2020-10-21T10:00:20
+draft: false
 id: 20201021100020
 link: 
 local_archive: 
@@ -29,7 +30,7 @@ https://${publisher}.gallery.vsassets.io/_apis/public/gallery/publisher/${publis
 
 Let's say you want to download `vscode-todotxt-syntax` located [here](https://marketplace.visualstudio.com/items?itemName=dunstontc.vscode-todotxt). You can find the repository link under the `Resources` header on the right sidebar, as below:
 
-![](attachments/download-vsix-for-any-vscode-extension_1.png)
+![](attachments/20201021100020.png)
 
 Then from within the repository you can open up [package.json](https://github.com/dunstontc/vscode-todotxt/blob/master/package.json) which will contain something like the below. 
 

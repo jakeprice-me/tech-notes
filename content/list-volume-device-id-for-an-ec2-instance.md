@@ -6,6 +6,7 @@ category: aws
 classification: public
 date: 2019-12-24T13:18:00
 date_modified: 2019-12-24T13:18:00
+draft: false
 id: 20191224131800
 link: 
 local_archive: 

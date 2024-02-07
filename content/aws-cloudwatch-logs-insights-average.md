@@ -6,6 +6,7 @@ category: aws
 classification: public
 date: 2021-03-02T16:23:13
 date_modified: 2021-03-02T16:23:13
+draft: false
 id: 20210302162313
 link: 
 local_archive: 

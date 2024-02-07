@@ -6,6 +6,7 @@ category: raspberry-pi
 classification: public
 date: 2023-07-11T15:13:59
 date_modified: 2023-07-11T15:13:59
+draft: false
 id: 20230711151359
 link: https://lemariva.com/blog/2020/08/raspberry-pi-4-video-acceleration-decode-chromium
 local_archive:  

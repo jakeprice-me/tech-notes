@@ -6,6 +6,7 @@ category: borg
 classification: public
 date: 2022-10-26T13:49:07
 date_modified: 2022-10-26T13:49:07
+draft: false
 id: 20221026134907
 link: https://borgbackup.readthedocs.io/en/stable/usage/create.html#item-flags
 local_archive: 

@@ -6,6 +6,7 @@ category: cli
 classification: public
 date: 2019-01-28T09:43:00
 date_modified: 2019-01-28T09:43:00
+draft: false
 id: 20190128094300
 link: 
 local_archive: 

@@ -6,6 +6,7 @@ category: cli
 classification: public
 date: 2020-11-14T15:58:33
 date_modified: 2020-11-14T15:58:33
+draft: false
 id: 20201114155833
 link: 
 local_archive: 

@@ -7,6 +7,7 @@ category: network
 classification: public
 date: 2023-01-08T12:21:34
 date_modified: 2023-01-08T12:21:34
+draft: false
 id: 20230108122134
 link: https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-22-04
 local_archive: attachments/20230108122134.html
@@ -32,7 +33,7 @@ I've extracted what I needed to do from the clearest article I found on setting 
 > [!important]
 > You must set `UDP` as the protocol when setting up the port forwarding rule on your router. Initially, I missed this and things were not working, with no obvious reason for ages (like 48 hours before I realised)!
 
-![](attachments/setup-wireguard.png)
+![](attachments/20230108122134.png)
 
 ## Server
 

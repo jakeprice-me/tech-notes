@@ -6,6 +6,7 @@ category: network
 classification: public
 date: 2022-08-09T09:35:34
 date_modified: 2022-08-09T09:35:34
+draft: false
 id: 20220809093534
 link: https://login.tailscale.com/
 local_archive: 
@@ -29,7 +30,7 @@ sudo tailscale up --advertise-routes=10.19.90.0/24
 
 You then need to enable the subnet router from [Machines](https://login.tailscale.com/admin/machines), by turning the switch to "On" as below.
 
-![](attachments/tailscale-setup-with-split-dns.png)
+![](attachments/20220809093534_1.png)
 
 Then turn on IP forwarding, and restart the server. More [here](https://tailscale.com/kb/1019/subnets/#enable-ip-forwarding).
 
@@ -55,10 +56,10 @@ sudo tailscale up --accept-routes
 
 To make sure you can access `int.ppn.sh` sites and other LAN devices from devices connected to Tailscale, we need to add the 10.19.90.5 DNS server, and specify a "Search Domain".
 
-![](attachments/tailscale-setup-with-split-dns_2.png)
+![](attachments/20220809093534_2.png)
 
 Next, add some additional Global Nameservers for redundancy, and set the "Override local DNS" button to "On". This makes it so that by default, clients will use the global DNS servers, as opposed to 10.19.90.5, but, because we've added a Search Domain, when `int.ppn.sh` or queries to 10.19.90.0 devices are made, the 10.19.90.5 DNS server will be used. So, Split DNS.
 
-![](attachments/tailscale-setup-with-split-dns_3.png)
+![](attachments/20220809093534_3.png)
 
-That's it, no opening ports on the router, no manual Wireguard configs, it's as easy as this. Very cool.
+That's it, no opening ports on the router, no manual WireGuard configs, it's as easy as this. Very cool.

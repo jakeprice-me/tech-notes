@@ -6,6 +6,7 @@ category: azure
 classification: public
 date: 2020-12-09T15:23:58
 date_modified: 2020-12-09T15:23:58
+draft: false
 id: 20201209152358
 link: 
 local_archive: 

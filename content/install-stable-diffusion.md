@@ -6,6 +6,7 @@ category: miscellaneous
 classification: public
 date: 2022-09-12T22:01:25
 date_modified: 2022-09-12T22:01:25
+draft: false
 id: 20220912220125
 link: https://github.com/lstein/stable-diffusion/blob/main/docs/installation/INSTALL_LINUX.md
 local_archive: 

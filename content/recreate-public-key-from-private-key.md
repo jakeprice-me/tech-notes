@@ -6,6 +6,7 @@ category: ssh
 classification: public
 date: 2019-03-09T20:07:45
 date_modified: 2019-03-09T20:07:45
+draft: false
 id: 20190309200745
 link: 
 local_archive: 

@@ -6,6 +6,7 @@ category: powershell
 classification: public
 date: 2020-03-18T12:36:45
 date_modified: 2020-03-18T12:36:45
+draft: false
 id: 20200318123645
 link: 
 local_archive: 

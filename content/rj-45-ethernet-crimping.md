@@ -6,6 +6,7 @@ category: network
 classification: public
 date: 2022-12-30T12:36:51
 date_modified: 2022-12-30T12:36:51
+draft: false
 id: 20221230123651
 link: 
 local_archive: 
@@ -16,4 +17,4 @@ title: RJ-45 Ethernet Crimping
 type: tech-note
 ---
 
-![](attachments/rj-45-ethernet-crimping.jpg)
+![](attachments/20221230123651.jpg)

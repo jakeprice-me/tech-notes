@@ -6,6 +6,7 @@ category: ansible
 classification: public
 date: 2021-01-16T13:07:43
 date_modified: 2021-01-16T13:07:43
+draft: false
 id: 20210116130743
 link: 
 local_archive: 

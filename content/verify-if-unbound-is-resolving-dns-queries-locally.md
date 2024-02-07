@@ -6,6 +6,7 @@ category: network
 classification: public
 date: 2023-11-03T21:43:53
 date_modified: 2023-11-03T21:43:53
+draft: false
 id: 20231103214353
 link: https://old.reddit.com/r/pihole/comments/etp9vm/how_do_i_verify_if_unbound_is_working/
 local_archive: attachments/20231103214353.html

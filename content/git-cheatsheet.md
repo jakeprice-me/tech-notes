@@ -6,6 +6,7 @@ category: git
 classification: public
 date: 2020-05-16T21:19:55
 date_modified: 2020-05-16T21:19:55
+draft: false
 id: 20200516211955
 link: 
 local_archive: 

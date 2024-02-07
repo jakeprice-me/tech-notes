@@ -6,6 +6,7 @@ category: aws
 classification: public
 date: 2020-08-26T15:25:49
 date_modified: 2020-08-26T15:25:49
+draft: false
 id: 20200826152549
 link: 
 local_archive: 

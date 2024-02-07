@@ -6,6 +6,7 @@ category: linux
 classification: public
 date: 2019-06-21T14:59:22
 date_modified: 2019-06-21T14:59:22
+draft: false
 id: 20190621145922
 link: 
 local_archive: 

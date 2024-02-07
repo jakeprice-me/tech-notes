@@ -6,6 +6,7 @@ category: smart-home
 classification: public
 date: 2022-10-07T16:24:37
 date_modified: 2023-06-30T10:52:50
+draft: false
 id: 20221007162437
 link: https://www.zigbee2mqtt.io/devices/SNZB-02.html
 local_archive: 

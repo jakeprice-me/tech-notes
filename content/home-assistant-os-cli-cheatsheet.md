@@ -6,6 +6,7 @@ category: smart-home
 classification: public
 date: 2022-06-01T14:36:14
 date_modified: 2022-06-01T14:36:14
+draft: false
 id: 20220601143614
 link: https://www.home-assistant.io/common-tasks/os/
 local_archive: 

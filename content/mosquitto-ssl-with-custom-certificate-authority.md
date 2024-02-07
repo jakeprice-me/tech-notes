@@ -6,6 +6,7 @@ category: smart-home
 classification: public
 date: 2023-11-22T12:02:20
 date_modified: 2023-11-27T09:55:21
+draft: false
 id: 20231122120220
 link: http://www.steves-internet-guide.com/mosquitto-tls/
 local_archive: attachments/20231122120220.html

@@ -6,6 +6,7 @@ category: vim
 classification: public
 date: 2020-09-08T20:12:31
 date_modified: 2020-09-08T20:12:31
+draft: false
 id: 20200908201231
 link: https://vi.stackexchange.com/a/2065
 local_archive: 

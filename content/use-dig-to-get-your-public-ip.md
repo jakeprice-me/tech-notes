@@ -6,6 +6,7 @@ category: cli
 classification: public
 date: 2020-05-30T13:34:52
 date_modified: 2020-05-30T13:34:52
+draft: false
 id: 20200530133452
 link: https://unix.stackexchange.com/questions/22615/how-can-i-get-my-external-ip-address-in-a-shell-script)
 local_archive: 

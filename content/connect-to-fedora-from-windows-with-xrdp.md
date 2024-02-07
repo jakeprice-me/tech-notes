@@ -6,6 +6,7 @@ category: fedora
 classification: public
 date: 2020-09-08T19:04:55
 date_modified: 2020-09-08T19:04:55
+draft: false
 id: 20200908190455
 link: 
 local_archive: 

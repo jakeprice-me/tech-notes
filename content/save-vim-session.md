@@ -6,6 +6,7 @@ category: vim
 classification: public
 date: 2020-06-03T10:02:27
 date_modified: 2020-06-03T10:02:27
+draft: false
 id: 20200603100227
 link: 
 local_archive: 

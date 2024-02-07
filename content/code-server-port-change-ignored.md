@@ -6,6 +6,7 @@ category: self-hosted
 classification: public
 date: 2022-02-08T13:13:24
 date_modified: 2022-02-08T13:13:24
+draft: false
 id: 20220208131324
 link: 
 local_archive: 
