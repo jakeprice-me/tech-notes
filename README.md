@@ -4,7 +4,7 @@
 
 A flat directory of my notes and knowledge on technical topics, in the same vein as the concept of TIL (Today I Learned) notes.
 
-## Categories <sup>55</sup>
+## Categories <sup>57</sup>
 
 - [airflow](#airflow)
 - [android](#android)
@@ -27,6 +27,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [hledger](#hledger)
 - [java](#java)
 - [javascript](#javascript)
+- [jq](#jq)
 - [kubernetes](#kubernetes)
 - [libvirt](#libvirt)
 - [linux](#linux)
@@ -58,6 +59,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [tmux](#tmux)
 - [tomcat](#tomcat)
 - [typesense](#typesense)
+- [video](#video)
 - [vim](#vim)
 - [vscode](#vscode)
 - [windows](#windows)
@@ -129,7 +131,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 
 - [2022-12-31 - Caddy Server Basic Authentication](content/caddy-authentication.md)
 
-### <a id="cli">cli</a> <sup>32</sup>
+### <a id="cli">cli</a> <sup>29</sup>
 
 - [2019-01-28 - Delete files matching a pattern using find](content/delete-files-matching-a-pattern-using-find.md)
 - [2019-01-28 - Sort files and directories by disk size](content/sort-files-and-directories-by-disk-size.md)
@@ -137,14 +139,12 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2019-03-08 - Get the disk size of a file or directory](content/get-the-disk-size-of-a-file-or-directory.md)
 - [2020-03-27 - Bulk Rename Regex Pattern](content/bulk-rename-files-with-regex.md)
 - [2020-04-19 - fzf Fuzzy Completion](content/fzf-fuzzy-completion.md)
-- [2020-05-08 - jq Cheatsheet](content/jq-cheatsheet.md)
 - [2020-05-30 - Use Dig to Get Public IP](content/use-dig-to-get-your-public-ip.md)
 - [2020-06-20 - rsync Cheatsheet](content/rsync-cheatsheet.md)
 - [2020-07-01 - fzf Search on My Notes](content/fzf-search-preview.md)
 - [2020-07-01 - Keep SSH Connection Alive](content/keep-ssh-connection-alive.md)
 - [2020-07-05 - Install Node Version Manager](content/install-node-version-manager.md)
 - [2020-07-05 - File Space Usage with du](content/du-cheatsheet.md)
-- [2020-10-05 - jq Filters](content/jq-filters.md)
 - [2020-10-13 - Linux Date Command](content/linux-date-command-cheatsheet.md)
 - [2020-11-14 - Mouse Scroll Escape Codes in Terminal](content/terminal-mouse-scroll-escape-codes.md)
 - [2020-12-25 - Web Server One Liners](content/web-server-one-liners.md)
@@ -155,7 +155,6 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2021-12-29 - Exif Tool Cheatsheat](content/exif-tool-cheatsheet.md)
 - [2022-02-04 - Send Output to Clipboard using xclip](content/send-output-to-clipboard-using-xclip.md)
 - [2022-07-05 - Read QR Code from Image](content/read-qr-code-from-image.md)
-- [2022-07-11 - YouTube-DL Cheatsheet](content/youtube-dl-cheatsheet.md)
 - [2022-08-09 - journald Cheatsheet](content/journald-cheatsheet.md)
 - [2022-10-02 - InvokeAI Stable Diffusion Fork Cheatsheet](content/invokeai-stable-diffusion-fork-cheatsheet.md)
 - [2022-10-14 - Restart Display Manager](content/restart-display-manager.md)
@@ -221,6 +220,11 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 ### <a id="javascript">javascript</a> <sup>1</sup>
 
 - [2023-05-10 - Privacy Redirect Bookmarklet](content/privacy-redirect-bookmarklet.md)
+
+### <a id="jq">jq</a> <sup>2</sup>
+
+- [2020-05-08 - jq Cheatsheet](content/jq-cheatsheet.md)
+- [2020-10-05 - jq Filters](content/jq-filters.md)
 
 ### <a id="kubernetes">kubernetes</a> <sup>1</sup>
 
@@ -401,6 +405,10 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 ### <a id="typesense">typesense</a> <sup>1</sup>
 
 - [2021-08-03 - Typesense Cheatsheet](content/typesense-cheatsheet.md)
+
+### <a id="video">video</a> <sup>1</sup>
+
+- [2024-05-17 - Create Full Colour GIF from Video](content/create-full-colour-gif-from-video.md)
 
 ### <a id="vim">vim</a> <sup>8</sup>
 
