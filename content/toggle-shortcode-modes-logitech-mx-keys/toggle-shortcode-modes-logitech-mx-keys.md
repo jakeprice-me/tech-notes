@@ -1,21 +1,31 @@
 ---
 aliases:
   - toggle-shortcode-modes-logitech-mx-keys
-archive_links: 
+archive_links:
+  - https://web.archive.org/web/20240415000722/https://unix.stackexchange.com/questions/600178/logitech-mx-keys-sends-incorrect-modifier-keys
 category: hardware
 classification: public
 date: 2022-01-29T21:40:21
-date_modified: 2022-01-29T21:40:21
+date_modified: 2024-09-23T21:39:29
 draft: false
 id: 20220129214021
 image: 
 links:
   - https://unix.stackexchange.com/questions/600178/logitech-mx-keys-sends-incorrect-modifier-keys
-local_archive_links: 
+local_archive_links:
+  - attachments/20220129214021.html
 pinned: false
 print: false
 series: 
-tags: [logitech, mx, keyboard, macos, windows, linux, cmd, super-key]
+tags:
+  - logitech
+  - mx
+  - keyboard
+  - macos
+  - windows
+  - linux
+  - cmd
+  - super-key
 title: Switch Shortcut Modes on Logitech MX Keys
 type: tech-note
 ---

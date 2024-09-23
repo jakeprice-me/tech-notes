@@ -1,17 +1,19 @@
 ---
 aliases:
   - stop-and-start-docker-compose-if-youve-edited-your-compose-file
-archive_links: 
+archive_links:
+  - https://web.archive.org/web/20240917202528/https://docs.docker.com/reference/cli/docker/compose/restart/
 category: docker
 classification: public
 date: 2024-01-05T17:23:26
-date_modified: 2024-01-05T17:23:26
+date_modified: 2024-09-23T16:47:04
 draft: false
 id: 20240105172326
 image: 
 links:
   - https://docs.docker.com/engine/reference/commandline/compose_restart/
-local_archive_links: 
+local_archive_links:
+  - attachments/20240105172326.html
 pinned: false
 print: false
 series: 

@@ -1,21 +1,29 @@
 ---
 aliases:
   - borg-backup-item-flags
-archive_links: 
+archive_links:
+  - https://web.archive.org/web/20240909213943/https://borgbackup.readthedocs.io/en/stable/usage/create.html?__cf_chl_rt_tk=Rq7_hjz9CIbEi46UUCn7yk4kgkcQEQKiNVZCew.e.70-1725917983-0.0.1.1-4756
 category: borg
 classification: public
 date: 2022-10-26T13:49:07
-date_modified: 2022-10-26T13:49:07
+date_modified: 2024-09-23T19:07:10
 draft: false
 id: 20221026134907
 image: 
 links:
   - https://borgbackup.readthedocs.io/en/stable/usage/create.html#item-flags
-local_archive_links: 
+local_archive_links:
+  - attachments/20221026134907.html
 pinned: false
 print: false
 series: 
-tags: [borg, backup, character, status, type, flag]
+tags:
+  - borg
+  - backup
+  - character
+  - status
+  - type
+  - flag
 title: Borg Backup Item Flags
 type: tech-note
 ---

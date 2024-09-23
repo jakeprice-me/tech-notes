@@ -1,21 +1,28 @@
 ---
 aliases:
   - enable-clipboard-support-in-vim-on-fedora
-archive_links: 
+archive_links:
+  - https://web.archive.org/web/20231204171005/https://vi.stackexchange.com/questions/2063/how-do-i-get-clipboard-support-in-fedora-20/2065
 category: vim
 classification: public
 date: 2020-09-08T20:12:31
-date_modified: 2020-09-08T20:12:31
+date_modified: 2024-09-23T22:17:53
 draft: false
 id: 20200908201231
 image: 
 links:
-  - https://vi.stackexchange.com/a/2065
-local_archive_links: 
+  - https://vi.stackexchange.com/questions/2063/how-do-i-get-clipboard-support-in-fedora-20/2065#2065
+local_archive_links:
+  - attachments/20200908201231.html
 pinned: false
 print: false
 series: 
-tags: [fedora, vim, x11, clipboard, register]
+tags:
+  - fedora
+  - vim
+  - x11
+  - clipboard
+  - register
 title: Enable Vim +clipboard Support On Fedora
 type: tech-note
 ---

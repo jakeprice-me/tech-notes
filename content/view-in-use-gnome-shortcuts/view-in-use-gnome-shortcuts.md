@@ -1,21 +1,27 @@
 ---
 aliases:
   - view-in-use-gnome-shortcuts
-archive_links: 
+archive_links:
+  - https://web.archive.org/web/20240923201748/https://askubuntu.com/questions/1317701/list-all-gnome-shortcuts-currently-in-use
 category: gnome
 classification: public
 date: 2022-02-19T16:34:00
-date_modified: 2022-02-19T16:34:00
+date_modified: 2024-09-23T21:19:48
 draft: false
 id: 20220219163400
 image: 
 links:
   - https://askubuntu.com/questions/1317701/list-all-gnome-shortcuts-currently-in-use
-local_archive_links: 
+local_archive_links:
+  - attachments/20220219163400.html
 pinned: false
 print: false
 series: 
-tags: [gnome, shortcut, gsettings, dconf]
+tags:
+  - gnome
+  - shortcut
+  - gsettings
+  - dconf
 title: View All Gnome Shortcuts
 type: tech-note
 ---

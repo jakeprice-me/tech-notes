@@ -1,11 +1,12 @@
 ---
 aliases:
   - blink1-usb-notification-light
-archive_links: 
+archive_links:
+  - https://web.archive.org/web/20221128193120/https://github.com/todbot/blink1-python
 category: blink
 classification: public
 date: 2022-02-04T20:29:34
-date_modified: 2022-02-04T20:29:34
+date_modified: 2024-09-23T21:26:06
 draft: false
 id: 20220204202934
 image: 

@@ -1,11 +1,12 @@
 ---
 aliases:
   - obsidian-search-cheatsheet
-archive_links: 
+archive_links:
+  - https://web.archive.org/web/20240804200150/https://help.obsidian.md/Plugins/Search
 category: obsidian
 classification: public
 date: 2024-02-16T19:21:35
-date_modified: 2024-09-23T10:26:17
+date_modified: 2024-09-23T16:47:01
 draft: false
 id: 20240216192135
 image: 

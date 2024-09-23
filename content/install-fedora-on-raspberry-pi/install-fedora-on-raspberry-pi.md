@@ -1,17 +1,19 @@
 ---
 aliases:
   - install-fedora-on-raspberry-pi
-archive_links: 
+archive_links:
+  - https://web.archive.org/web/20240921181235/https://docs.fedoraproject.org/en-US/quick-docs/raspberry-pi/
 category: raspberry-pi
 classification: public
 date: 2023-11-30T10:54:37
-date_modified: 2023-11-30T10:54:37
+date_modified: 2024-09-23T16:47:07
 draft: false
 id: 20231130105437
 image: 
 links:
   - https://docs.fedoraproject.org/en-US/quick-docs/raspberry-pi/
-local_archive_links: 
+local_archive_links:
+  - attachments/20231130105437.html
 pinned: false
 print: false
 series: 

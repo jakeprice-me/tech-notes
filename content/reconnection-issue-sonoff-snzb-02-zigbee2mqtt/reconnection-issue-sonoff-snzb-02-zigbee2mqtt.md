@@ -1,26 +1,36 @@
 ---
 aliases:
   - reconnection-issue-sonoff-snzb-02-zigbee2mqtt
-archive_links: 
+archive_links:
+  - https://web.archive.org/web/20240703205917/https://www.zigbee2mqtt.io/devices/SNZB-02.html
 category: smart-home
 classification: public
 date: 2022-10-07T16:24:37
-date_modified: 2023-06-30T10:52:50
+date_modified: 2024-09-23T20:42:51
 draft: false
 id: 20221007162437
 image: 
 links:
   - https://www.zigbee2mqtt.io/devices/SNZB-02.html
-local_archive_links: 
+local_archive_links:
+  - attachments/20221007162437.html
 pinned: false
 print: false
 series: 
-tags: [sonoff, zigbee, mqtt, temperature, sensor, home-assistant, temperature, power]
+tags:
+  - sonoff
+  - zigbee
+  - mqtt
+  - temperature
+  - sensor
+  - home-assistant
+  - temperature
+  - power
 title: Reconnection Issue with Sonoff SNZB-02 in Zigbee2MQTT
 type: tech-note
 ---
 
-[TOC]
+((TOC))
 
 ## Lost Connection Issue
 

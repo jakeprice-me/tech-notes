@@ -1,7 +1,8 @@
 ---
 aliases:
   - enable-hardware-accelerated-video-decoding-in-chromium-on-raspberry-pi-os
-archive_links: 
+archive_links:
+  - https://web.archive.org/web/20240829143924/https://lemariva.com/blog/2020/08/raspberry-pi-4-video-acceleration-decode-chromium
 category: raspberry-pi
 classification: public
 date: 2023-07-11T15:13:59
@@ -11,11 +12,17 @@ id: 20230711151359
 image: 
 links:
   - https://lemariva.com/blog/2020/08/raspberry-pi-4-video-acceleration-decode-chromium
-local_archive_links:  
+local_archive_links:
+  - attachments/20230711151359.html
 pinned: false
 print: false
 series: 
-tags: [video, decode, raspberry-pi, chromium, home-assistant]
+tags:
+  - video
+  - decode
+  - raspberry-pi
+  - chromium
+  - home-assistant
 title: Enable Hardware Accelerated Video Decoding In Chromium On Raspberry Pi OS
 type: tech-note
 ---

@@ -1,21 +1,27 @@
 ---
 aliases:
   - auto-create-pip-requirements-file
-archive_links: 
+archive_links:
+  - https://web.archive.org/web/20240905092206/https://stackoverflow.com/questions/31684375/automatically-create-file-requirements-txt
 category: python
 classification: public
 date: 2022-01-29T14:30:03
-date_modified: 2022-01-29T14:30:03
+date_modified: 2024-09-23T21:39:32
 draft: false
 id: 20220129143003
 image: 
 links:
   - https://stackoverflow.com/questions/31684375/automatically-create-requirements-txt
-local_archive_links: 
+local_archive_links:
+  - attachments/20220129143003.html
 pinned: false
 print: false
 series: 
-tags: [python, pip, requirements, dependencies]
+tags:
+  - python
+  - pip
+  - requirements
+  - dependencies
 title: Automatically create a Pip requirements.txt
 type: tech-note
 ---

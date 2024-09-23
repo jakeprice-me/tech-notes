@@ -1,17 +1,19 @@
 ---
 aliases:
   - its-compose-yaml
-archive_links: 
+archive_links:
+  - https://web.archive.org/web/20240917151929/https://github.com/compose-spec/compose-spec/blob/main/spec.md
 category: docker
 classification: public
 date: 2023-12-06T09:54:33
-date_modified: 2023-12-06T09:54:33
+date_modified: 2024-09-23T16:47:06
 draft: false
 id: 20231206095433
 image: 
 links:
   - https://github.com/compose-spec/compose-spec/blob/master/spec.md
-local_archive_links: 
+local_archive_links:
+  - attachments/20231206095433.html
 pinned: false
 print: false
 series: 

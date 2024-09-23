@@ -1,11 +1,12 @@
 ---
 aliases:
   - box-drawing-characters
-archive_links: 
+archive_links:
+  - https://web.archive.org/web/20200716192428/https://en.wikipedia.org/wiki/Box-drawing_character
 category: miscellaneous
 classification: public
 date: 2020-08-25T11:01:45
-date_modified: 2020-08-25T11:01:45
+date_modified: 2024-09-23T22:16:11
 draft: false
 id: 20200825110145
 image: 

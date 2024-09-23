@@ -1,11 +1,12 @@
 ---
 aliases:
   - verify-if-unbound-is-resolving-dns-queries-locally
-archive_links: 
+archive_links:
+  - https://web.archive.org/web/20230615052140/https://old.reddit.com/r/pihole/comments/etp9vm/how_do_i_verify_if_unbound_is_working/
 category: network
 classification: public
 date: 2023-11-03T21:43:53
-date_modified: 2023-11-03T21:43:53
+date_modified: 2024-09-23T16:50:23
 draft: false
 id: 20231103214353
 image: 
@@ -16,7 +17,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [unbound, dns, recursive, resolve]
+tags:
+  - unbound
+  - dns
+  - recursive
+  - resolve
 title: Verify if Unbound is Resolving DNS Queries Locally
 type: tech-note
 ---

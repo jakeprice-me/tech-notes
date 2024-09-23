@@ -1,17 +1,19 @@
 ---
 aliases:
   - use-macos-privileges-app-from-the-command-line
-archive_links: 
+archive_links:
+  - https://web.archive.org/web/20230810231643/https://github.com/SAP/macOS-enterprise-privileges/wiki/Frequently-Asked-Questions
 category: macos
 classification: public
 date: 2023-06-06T12:07:53
-date_modified: 2023-06-06T12:07:53
+date_modified: 2024-09-23T17:00:18
 draft: false
 id: 20230606120753
 image: 
 links:
   - https://github.com/SAP/macOS-enterprise-privileges/wiki/Frequently-Asked-Questions#how-do-i-use-privilegesapp-in-a-script-or-from-the-command-line
-local_archive_links: 
+local_archive_links:
+  - attachments/20230606120753.html
 pinned: false
 print: false
 series: 

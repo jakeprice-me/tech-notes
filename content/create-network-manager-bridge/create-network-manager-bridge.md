@@ -1,11 +1,12 @@
 ---
 aliases:
   - create-network-manager-bridge
-archive_links: 
+archive_links:
+  - https://web.archive.org/web/20240921013648/https://wiki.archlinux.org/title/Network_bridge
 category: network
 classification: public
 date: 2021-11-19T21:36:36
-date_modified: 2021-11-19T21:36:36
+date_modified: 2024-09-23T21:53:16
 draft: false
 id: 20211119213636
 image: 
