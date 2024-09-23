@@ -68,7 +68,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [vim](#vim)
 - [vscode](#vscode)
 - [windows](#windows)
-## Notes <sup>223</sup>
+## Notes <sup>224</sup>
 
 
 ### <a id="airflow">airflow</a> <sup>1</sup>
@@ -403,10 +403,11 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2020-06-01 - sed Cheatsheet](content/sed-cheatsheet/sed-cheatsheet.md)
 - [2020-10-06 - Sed Backreferences and RegEx Capturing Groups](content/sed-backreferences-regex-capture-groups/sed-backreferences-regex-capture-groups.md)
 
-### <a id="self-hosted">self-hosted</a> <sup>2</sup>
+### <a id="self-hosted">self-hosted</a> <sup>3</sup>
 
 - [2020-11-24 - Create an SFTP Server](content/create-sftp-server/create-sftp-server.md)
 - [2022-02-08 - Code Server Port Bind Issue](content/code-server-port-change-ignored/code-server-port-change-ignored.md)
+- [2024-09-23 - Bulk Edit a Jellyfin Playlist](content/bulk-edit-a-jellyfin-playlist/bulk-edit-a-jellyfin-playlist.md)
 
 ### <a id="selinux">selinux</a> <sup>1</sup>
 
