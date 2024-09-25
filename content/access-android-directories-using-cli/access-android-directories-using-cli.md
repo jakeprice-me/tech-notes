@@ -38,3 +38,4 @@ You can then `cd` all the way in to that directory.
 ```sh
 cd /run/user/1000/gvfs/mtp:host=SAMSUNG_SAMSUNG_Android_RF8N30TLG3M/Phone
 ```
+

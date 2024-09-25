@@ -51,3 +51,4 @@ All YouTube Shortcuts.
 | Shift+N                           | Move to the next video (If you're using a playlist, will go to the next video of the playlist. If not using a playlist, it will move to the next YouTube suggested video). |
 | Shift+P                           | Move to the previous video. Note that this shortcut only works when you're using a playlist.                                                                               |
 | i                                 | Open the [Miniplayer](https://support.google.com/youtube/answer/9162927).                                                                                                  |
+

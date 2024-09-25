@@ -28,3 +28,4 @@ exiftool -d %Y%m%d_%H%M%S-c.%%e "-testname<CreateDate" .
 # Rename all files with "CreateDate" in directory and add copy number if required:
 exiftool -d %Y%m%d_%H%M%S%%-c.%%e "-filename<CreateDate" .
 ```
+

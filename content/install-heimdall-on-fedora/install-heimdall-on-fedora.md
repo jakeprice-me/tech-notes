@@ -57,3 +57,4 @@ sudo cp bin/* /usr/local/bin
 ## Run
 
 Start Heimdall by running `heimdall` or `heimdall-frontend` from the terminal.
+

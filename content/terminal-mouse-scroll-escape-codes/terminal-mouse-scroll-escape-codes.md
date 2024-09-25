@@ -24,3 +24,4 @@ Very rarely I lose the ability to scroll in a terminal window, and when I try, t
 There's a quick way to fix this, and that's to simply run `reset` to reset the terminal window, and you'll be back to normal.
 
 More can be read here: [Scrolling is disabled all of a sudden in terminal - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/259922/scrolling-is-disabled-all-of-a-sudden-in-terminal)
+

@@ -43,3 +43,4 @@ for i in {1..365}; do
     date '+%Y-%m-%d %a' -d "$START +$i days"
 done
 ```
+

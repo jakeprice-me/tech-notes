@@ -30,3 +30,4 @@ Then in wsltty set the font to `Inconsolata`, select `Regular` for the font styl
 I expect I could probably also just download from Google Fonts directly and accomplish the same thing.
 
 I've placed them on my work OneDrive account for backup as well.
+

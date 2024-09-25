@@ -24,3 +24,4 @@ Sort files and directories by human-readable disk size order.
 ```sh
 $ du --summarize --human-readable * | sort --human-numeric-sort --reverse
 ```
+

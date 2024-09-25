@@ -11,7 +11,7 @@ id: 20230829113652
 image: 
 links: 
 local_archive_links:
-  - 20230829113652.pdf
+  - attachments/20230829113652.pdf
 pinned: false
 print: false
 series: 

@@ -24,3 +24,4 @@ Send a message to your Telegram Bot first using the Bot token, then you can retr
 ```sh
 curl --silent --request GET https://api.telegram.org/bot<bot_api_token>/getUpdates | jq '.result[]|.message.chat.id'
 ```
+

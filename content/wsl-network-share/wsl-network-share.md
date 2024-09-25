@@ -20,3 +20,4 @@ type: tech-note
 ---
 
 Access WSL as a network share using `\\wsl$`.
+

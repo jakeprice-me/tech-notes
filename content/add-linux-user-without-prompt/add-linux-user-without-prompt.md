@@ -26,3 +26,4 @@ mkpasswd -m sha-512 | sed 's/\$/\\$/g'
 # Create user with password:
 useradd --create-home --password \$6\$ob93e.m1abmoZRB.\$ad4gujCIwkv8khaT3VeHsR9HJ4QC3J7jUpQO/Z/hIn0b.xHfG5SD8BmS2LmrWsicz3eIHJ.7v..XvajRapSFT0 --shell /bin/bash --groups sudo admin
 ```
+

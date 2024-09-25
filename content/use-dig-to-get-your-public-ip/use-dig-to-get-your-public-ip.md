@@ -42,3 +42,4 @@ dig @ns1-1.akamaitech.net ANY whoami.akamai.net +short
 ```
 
 Just make sure `dnsutils` is installed if `dig` isn't installed.
+

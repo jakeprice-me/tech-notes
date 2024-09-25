@@ -24,3 +24,4 @@ Make sure you've installed the Perl rename tool: `sudo dnf install prename`.
 ```sh
 prename --verbose 's/~\d{8}-\d{6}//;' *
 ```
+

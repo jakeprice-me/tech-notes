@@ -47,3 +47,4 @@ Enter password:
 Confirm password:
 $2a$14$piTqBgsf7igbN2FQ9fOBvusCAIYGrgSBe6sj7FaGdLQg9zJcbhzCu
 ```
+

@@ -32,3 +32,4 @@ ansible-galaxy role init <role-name>
 # Run Playbook with Extra Variables:
 ansible-playbook --extra-vars host_group=<host-name> <playbook>.yml
 ```
+

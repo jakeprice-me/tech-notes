@@ -28,3 +28,4 @@ find <path> -type d -exec chmod 755 {} \;
 # Operate on files:
 find <path> -type f -exec chmod 644 {} \;
 ```
+

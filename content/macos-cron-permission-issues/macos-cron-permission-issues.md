@@ -33,3 +33,4 @@ It's a "simple" enough fix. To get around it you have to give `/usr/sbin/cron` _
 > You'll need to run `Cmd-Shift-G` to bring up a "Go-To" box to get to the `/usr/sbin` directory.
 
 To do that go to "System Settings > Privacy & Security > Full Disk Access", and click to the `+` to add `cron`. There's no command you can run to do this in one it seems ☹️ and you'll need admin permissions.
+

@@ -19,7 +19,7 @@ title: Authelia & Caddy Integration
 type: tech-note
 ---
 
-[TOC]
+((TOC))
 
 ## Helpful Links
 
@@ -69,3 +69,4 @@ users:
 # https://www.authelia.com/reference/guides/passwords/#passwords
 docker exec -it <container-name> authelia hash-password
 ```
+

@@ -24,3 +24,4 @@ If you want to allow another user to login to a server with the same key as anot
 `rsync --archive --chown=username:username ~/.ssh /home/username`
 
 Then afterwards try logging in to the server as that user, and you should be able to.
+

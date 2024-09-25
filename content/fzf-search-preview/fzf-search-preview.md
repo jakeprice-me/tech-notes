@@ -38,3 +38,4 @@ The final command is below:
 ```sh
 grep --recursive --exclude-dir={scripts,views} "" $HOME/my/documents/notes/ | sort --reverse | fzf --delimiter ':' --preview "bat --italic-text=always --theme=base16 --style=numbers --color=always {1}"
 ```
+

@@ -46,3 +46,4 @@ iface eno1 inet static
         netmask 255.255.255.255
         gateway 10.0.0.1
 ```
+

@@ -41,3 +41,4 @@ type: tech-note
 > However, some of them are probably irrelevant for the terminal version of vimx and only do something for GVim.
 >
 > — [How do I get +clipboard support in Fedora 20?](https://vi.stackexchange.com/a/2065)
+

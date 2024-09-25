@@ -41,3 +41,4 @@ vim scp://<name>//home/<username>/<file>.py
 ```
 
 If you have an issue with the statusbar not displaying properly you can just refresh the screen with `^L`.
+

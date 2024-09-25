@@ -50,3 +50,4 @@ You can then disable long running services which aren't needed.
 sudo systemctl disable --now unbound-anchor.timer
 sudo systemctl disable --now NetworkManager-wait-online.service
 ```
+

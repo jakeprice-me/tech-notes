@@ -33,3 +33,4 @@ Alternatively you can add it the your ssh config file for all hosts:
 Host *
     ServerAliveInterval 60
 ```
+

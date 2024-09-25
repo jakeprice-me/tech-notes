@@ -23,7 +23,7 @@ title: hledger Cheatsheet
 type: tech-note
 ---
 
-[TOC]
+((TOC))
 
 ## Equity
 
@@ -81,3 +81,4 @@ hledger balancesheet -f 2022.journal "not:liabilities:debts:credit_account:examp
 # View all accounts:
 hledger accounts --file <journal-file>
 ```
+

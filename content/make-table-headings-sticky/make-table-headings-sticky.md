@@ -13,6 +13,7 @@ image:
 links:
   - https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/
 local_archive_links: 
+  - attachments/20240225080301.html
 pinned: false
 print: false
 series: 

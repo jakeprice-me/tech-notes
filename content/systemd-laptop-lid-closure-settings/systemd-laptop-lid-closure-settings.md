@@ -42,3 +42,4 @@ $ reboot
 # ↓ or ↑
 $ sudo systemctl restart systemd-logind  # will kill current X/Wayland session
 ```
+

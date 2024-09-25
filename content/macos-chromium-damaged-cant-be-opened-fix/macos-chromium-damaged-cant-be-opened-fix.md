@@ -33,3 +33,4 @@ How to fix "Chromium is Damaged Can't Be Opened".
 ```sh
 xattr -cr /Applications/Chromium.app
 ```
+

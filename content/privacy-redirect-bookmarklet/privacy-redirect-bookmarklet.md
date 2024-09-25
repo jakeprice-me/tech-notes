@@ -30,3 +30,4 @@ javascript:(function(){window.location.href="<URL-GOES-HERE>" + window.location.
 ```
 
 To use the bookmarklet, whilst on a Twitter or Reddit page click the address bar and type to find the bookmarklet, and then click it. It should open the page in Nitter or Libreddit. It won't work if you click the bookmark from the Bookmarks manager (don't know why).
+

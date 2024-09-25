@@ -28,3 +28,4 @@ This is a good comment from Reddit on why you should use Packer.
 > Baking images with packer also allows you to ensure all VMs are configured exactly the same (same package versions, CLI versions, etc) because they are created from the same image. Occasionally configuring after will run into issues with incomplete config runs so 2 VMs may be different even when they should be the same.
 >
 > — TheRealKingGordon [Why Packer?](https://www.reddit.com/r/devops/comments/ko3cwq/why_packer/gho2u06?utm_source=share&utm_medium=web2x&context=3)
+

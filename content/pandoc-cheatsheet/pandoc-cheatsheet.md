@@ -26,3 +26,4 @@ pandoc --from=markdown --to=html <file>.md > <file>.html
 # Create a self-contained HTML file:
 pandoc --toc --css <stylesheet>.css --standalone <input>.md --toc --output <output>.html
 ```
+

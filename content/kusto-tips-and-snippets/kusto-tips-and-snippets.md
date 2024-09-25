@@ -71,3 +71,4 @@ Perf
 | summarize Used_Space_Percent = max(CounterValue) by ComputerDrive, bin(TimeGenerated, 1h)
 | render timechart 
 ```
+

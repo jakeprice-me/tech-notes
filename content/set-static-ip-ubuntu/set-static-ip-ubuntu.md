@@ -37,3 +37,4 @@ network:
 The example above sets a static IP on my Raspberry Pi.
 
 To restart networking, you can then run `sudo netplan apply`.
+

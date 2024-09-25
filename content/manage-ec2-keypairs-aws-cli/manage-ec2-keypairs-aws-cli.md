@@ -32,3 +32,4 @@ aws ec2 create-key-pair --profile "<profile>" --region "<region>" --query "KeyMa
 ```sh
 aws ec2 create-key-pair --profile "<profile>" --region "<region>" --key-name "<key_name>"
 ```
+

@@ -33,3 +33,4 @@ $ find <path-to-search> -type f -name '<pattern>' #-delete
 # Directories only:
 $ find <path-to-search> -type d -name '<pattern>' #-delete
 ```
+

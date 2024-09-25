@@ -30,3 +30,4 @@ Then run it as below to see the debug output and stdout and stderr on the screen
 ``` sh
 ./script.sh 2>&1 | tee output.log
 ```
+

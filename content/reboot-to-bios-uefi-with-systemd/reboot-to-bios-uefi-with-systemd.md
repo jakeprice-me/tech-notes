@@ -34,3 +34,4 @@ Reboot to your device's BIOS/UEFI with systemd, by using the `systemctl` command
 ```sh
 $ systemctl reboot --firmware-setup
 ```
+

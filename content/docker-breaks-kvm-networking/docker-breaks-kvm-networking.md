@@ -41,3 +41,4 @@ In the end I needed to run the `iptables` rule _instead_, and that got things wo
 ```sh
 iptables -I FORWARD -i br0 -o br0 -j ACCEPT
 ```
+

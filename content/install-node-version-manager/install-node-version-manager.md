@@ -80,3 +80,4 @@ You can default any version downloaded.
 ``` bash
 nvm alias default v12.15.0
 ```
+

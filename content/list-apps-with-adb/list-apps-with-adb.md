@@ -26,3 +26,4 @@ adb shell pm list packages -f -s | sort
 # Search for and list:
 adb shell "pm list packages -f tplink"
 ```
+

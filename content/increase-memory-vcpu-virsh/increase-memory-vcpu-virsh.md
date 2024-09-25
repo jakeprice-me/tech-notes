@@ -47,3 +47,4 @@ virsh setvcpus --domain <domain> --count 2 --config
 # Restart domain:
 virsh start <domain>
 ```
+

@@ -37,3 +37,4 @@ A list of all the man page sections that are used.
 7   # File formats, conventions, and encodings (ASCII, suffixes, and so on)
 8   # System commands and servers
 ```
+

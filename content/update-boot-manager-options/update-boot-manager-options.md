@@ -47,3 +47,4 @@ If there's an entry you want to delete, you can delete it as follows, where `--b
 ``` sh
 $ efibootmgr --bootnum 4 --delete-bootnum
 ```
+

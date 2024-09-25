@@ -30,3 +30,4 @@ It's caused by having `Pointer Location` turned on in GNOME:
 > prefix (e.g. Ctrl+C for copy) unusable. The issue is gone after we stop invoking this gsd plugin. 
 >
 > — https://www.reddit.com/r/duckduckgo/comments/a4s35t/cannot_use_ctrl_prefix_key_shortcuts_in/
+

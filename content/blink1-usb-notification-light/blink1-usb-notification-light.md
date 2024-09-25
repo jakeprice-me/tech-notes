@@ -13,6 +13,7 @@ image:
 links:
   - https://github.com/todbot/blink1-python
 local_archive_links: 
+  - attachments/20220204202934.html
 pinned: false
 print: false
 series: 
@@ -41,3 +42,4 @@ $ sudo udevadm trigger
 blink1-flash
 blink1-shine
 ```
+

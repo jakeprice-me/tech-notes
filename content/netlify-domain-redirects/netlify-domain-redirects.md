@@ -51,3 +51,4 @@ curl -svo /dev/null https://jakeprice.tech  2>&1 | egrep '< (HTTP|location)'
 < HTTP/2 301
 < location: https://jacobprice.tech/
 ```
+

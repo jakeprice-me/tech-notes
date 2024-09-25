@@ -42,3 +42,4 @@ Furthermore, with Anaconda we don't want it to be activated on login, so disable
 ```sh
 $ conda config --set auto_activate_base false
 ```
+

@@ -29,3 +29,4 @@ Invoke-WebRequest <params>
 ```
 
 The `$ProgressPreference` variable will only last as long as the current PowerShell session.
+

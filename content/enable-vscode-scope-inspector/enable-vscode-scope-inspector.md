@@ -31,3 +31,4 @@ You can also create a keybinding for it.
   "command": "editor.action.inspectTMScopes"
 }
 ```
+

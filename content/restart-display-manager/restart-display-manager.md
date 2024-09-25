@@ -28,3 +28,4 @@ $ sudo systemctl restart display-manager
 ```
 
 This will log you out, so it's almost as inconvenient as a restart, but it tends to fix any issues I'm having.
+

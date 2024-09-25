@@ -20,3 +20,4 @@ type: tech-note
 ---
 
 Reminder that AWS CLI's `--query` flag uses [JMESPath](https://jmespath.org/) for queries.
+

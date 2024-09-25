@@ -24,3 +24,4 @@ List the ID of a volume attached to an EC2 instance, using the AWS CLI.
 ``` sh
 $ aws ec2 describe-volumes --filters "Name=attachment.instance-id,Values=<instance-id>" --query "Volumes[].Attachments[].{DeviceName:Device}" --region <region> --output text
 ```
+

@@ -26,3 +26,4 @@ sudo dnf install zbar
 # Read and display QR code contents:
 zbarimg <filename>
 ```
+

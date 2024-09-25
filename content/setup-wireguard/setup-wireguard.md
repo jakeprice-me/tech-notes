@@ -24,7 +24,7 @@ title: Setup WireGuard on Debian
 type: tech-note
 ---
 
-[TOC]
+((TOC))
 
 > [!important]
 > This only works if your internet provider isn't using CGNAT. If that's the case, you must use a VPS, as described in [[20231209103435]].

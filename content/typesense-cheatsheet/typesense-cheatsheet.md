@@ -71,3 +71,4 @@ curl --header "X-TYPESENSE-API-KEY: xyz" --request DELETE "http://localhost:8108
 # Search:
 curl --header "X-TYPESENSE-API-KEY: xyz" "http://localhost:8108/collections/log/documents/search?q=<query>&query_by=title" | jq '.'
 ```
+

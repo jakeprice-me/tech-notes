@@ -40,3 +40,4 @@ The below will output the average used memory as a single figure only.
 parse @message "usedMemory=*," as usedmem
 | avg(usedmem)
 ```
+

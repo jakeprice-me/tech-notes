@@ -33,3 +33,4 @@ Then click on `Advanced`, navigate to `Environments > Directories` and fill in t
 ```yaml
 Remote directory: /<bucket-name>
 ```
+

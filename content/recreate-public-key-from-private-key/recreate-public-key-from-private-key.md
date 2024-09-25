@@ -26,3 +26,4 @@ $ ssh-keygen -y -f <private-key-file> > <public-key-file>.pub
 ```
 
 It won't retain the private key's comment so you will need to manually append a comment to the public key if required.
+

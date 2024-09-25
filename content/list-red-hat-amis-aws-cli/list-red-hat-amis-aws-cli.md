@@ -24,3 +24,4 @@ aws ec2 describe-images --owners 309956199498 --query 'sort_by(Images, &Creation
 ```
 
 Make sure you leave the `owners` as is (or update it for another distro). But you can change `filters` and `region` as required.
+

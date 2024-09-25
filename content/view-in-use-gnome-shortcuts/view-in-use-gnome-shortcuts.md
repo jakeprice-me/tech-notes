@@ -40,3 +40,4 @@ org.gnome.settings-daemon.plugins.media-keys magnifier ['<Alt><Super>8']
 org.gnome.settings-daemon.plugins.media-keys screensaver ['<Super>l']
 org.gnome.desktop.wm.keybindings switch-group ['<Super>Above_Tab', '<Alt>Above_Tab']
 ```
+

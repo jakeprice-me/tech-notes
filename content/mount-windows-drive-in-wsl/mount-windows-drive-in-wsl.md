@@ -37,3 +37,4 @@ type: tech-note
 > 3.  Mount the drives in `/etc/fstab` with `sudo mount -a`
 > 
 > - [How to Mount Windows Network Drives in WSL - University of Iowa College of Public Health](https://www.public-health.uiowa.edu/it/support/kb48568/)
+

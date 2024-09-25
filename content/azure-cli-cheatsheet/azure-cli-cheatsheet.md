@@ -41,3 +41,4 @@ az vm image list-offers --publisher Canonical --location uksouth --output table
 # Find VM image skus based of an offer:
 az vm image list-skus --publisher Canonical --offer 0001-com-ubuntu-server-jammy --location uksouth --output table
 ```
+

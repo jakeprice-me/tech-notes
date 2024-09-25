@@ -24,3 +24,4 @@ Return the disk size of a file or directory.
 ```sh
 $ du --summarize --human-readable <path>
 ```
+

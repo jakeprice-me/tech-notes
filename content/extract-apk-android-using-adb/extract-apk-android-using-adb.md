@@ -54,3 +54,4 @@ Then pull the package to the local filesystem.
 ```sh
 adb pull /data/app/com.disney.disneyplus-25RV0E5WzDniJQvB1srQrA==/base.apk ~/Media/android/apps/
 ```
+

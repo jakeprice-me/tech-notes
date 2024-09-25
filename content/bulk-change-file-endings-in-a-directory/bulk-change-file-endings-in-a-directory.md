@@ -31,3 +31,4 @@ rename asc txt *.asc
 # Remove match from filenames:
 rename 's/-MC02FW6SFMD6M//g' *.md
 ```
+

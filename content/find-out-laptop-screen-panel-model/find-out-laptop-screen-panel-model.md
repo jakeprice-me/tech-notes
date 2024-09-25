@@ -23,3 +23,4 @@ type: tech-note
 sudo dnf install edid-decode
 cat /sys/class/drm/card0-eDP-1/edid | edid-decode
 ```
+

@@ -48,3 +48,4 @@ zL                          Move view to the right.
 While in insert mode or command mode (the : prompt at the bottom of the editor), type CTRL + V then TAB.
 
 Using CTRL + V signals Vim that it should take the next character literally. Even in insert mode.
+

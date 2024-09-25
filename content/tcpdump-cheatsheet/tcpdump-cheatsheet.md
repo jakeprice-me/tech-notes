@@ -32,3 +32,4 @@ Running `tcpdump` on your router is fantastic, because you can see any traffic g
 # View packets on 10.19.90.71, excluding if they are to/from 10.19.90.32:
 tcpdump -i any src host 10.19.90.71 and not host 10.19.90.32
 ```
+

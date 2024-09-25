@@ -29,3 +29,4 @@ type: tech-note
 ---
 
 Box drawing characters can be used for "drawing" things with lines in plain-text.
+

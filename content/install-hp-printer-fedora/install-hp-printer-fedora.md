@@ -28,3 +28,4 @@ type: tech-note
 The below article provided some pointers with some recent HP Printer issues I had on Fedora 36. 
 
 What got it working was running `hp-setup <ip-address-of-printer>` after making sure I had installed `sudo dnf install hplip hplip-common hplip-libs libsane-hpaio hplip-gui`.
+

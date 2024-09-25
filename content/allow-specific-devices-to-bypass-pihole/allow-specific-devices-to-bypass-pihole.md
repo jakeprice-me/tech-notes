@@ -89,3 +89,4 @@ dhcp-option=tag:norton6,6,199.85.127.30
 ## Your Device that goes to custom DNS Server
 #dhcp-host=MA:CA:DD:R:ES:SS,set:YOURTAGHERE
 ```
+

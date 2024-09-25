@@ -26,3 +26,4 @@ $ sudo openvpn --config <path-to-openvpn-config-file>
 ```
 
 The `sudo` is important, otherwise it may fail to connect.
+

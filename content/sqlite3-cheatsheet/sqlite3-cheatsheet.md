@@ -36,3 +36,4 @@ sqlite3 wiki.db "DELETE FROM entries WHERE id=20210209145248;"
 # Delete row:
 DELETE FROM "main"."entries" WHERE _rowid_ IN ('918');
 ```
+

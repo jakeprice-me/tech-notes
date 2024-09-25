@@ -27,3 +27,4 @@ act --workflows .github/workflows/azure_app_service.yml --secret-file .secrets -
 # Run act with a place to put an artifact:
 act --workflows .github/workflows/azure_app_service.yml --secret-file .secrets --container-architecture linux/amd64 --artifact-server-path /tmp/act-artifacts
 ```
+

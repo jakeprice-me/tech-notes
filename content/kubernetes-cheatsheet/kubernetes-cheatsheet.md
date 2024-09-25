@@ -46,3 +46,4 @@ gpgkey=https://packages.cloud.google.com/yum/doc/yum-key.gpg https://packages.cl
 ```sh
 sudo dnf install kubectl
 ```
+

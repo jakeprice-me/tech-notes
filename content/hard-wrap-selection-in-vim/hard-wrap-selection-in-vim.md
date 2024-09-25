@@ -51,3 +51,4 @@ Change `entries` command to only list by default
 `--edit`, or `-e` can now be appended to prompt for an ID to edit in the
 default editor.
 ```
+

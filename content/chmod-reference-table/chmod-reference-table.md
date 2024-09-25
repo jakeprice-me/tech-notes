@@ -42,3 +42,4 @@ A helpful overview of `chmod` permissions.
 | 644     | rw-r–r–    |
 | 700     | rwx——      |
 | 750     | rwxr-x—    |
+

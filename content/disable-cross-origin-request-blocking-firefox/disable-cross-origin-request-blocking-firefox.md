@@ -33,3 +33,4 @@ It's only an issue when running locally, but a quick and easy way to resolve it 
 ```ini
 security.fileuri.strict_origin_policy: false
 ```
+

@@ -33,3 +33,4 @@ pip install jsmin
 # Minify JSON:
 python3 -m jsmin file.json > file.min.json
 ```
+

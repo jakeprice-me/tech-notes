@@ -47,3 +47,4 @@ git tag -a v1.2 <checksum here (or part of it)>
 # Git logging:
 git log --pretty=format:"%h %an %ae"
 ```
+

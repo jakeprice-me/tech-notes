@@ -30,3 +30,4 @@ vim -o <file1> <file2>
 ```
 
 It works with more than one file as well, so you could open three files, and have a pane for each.
+

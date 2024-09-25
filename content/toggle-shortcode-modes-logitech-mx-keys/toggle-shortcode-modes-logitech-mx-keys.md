@@ -40,3 +40,4 @@ I found out that it's simple to fix. You just have to switch to the Windows (or 
 > Windows, Linux, Chrome OS: fn + P
 
 This switches it between the shortcut modes.
+

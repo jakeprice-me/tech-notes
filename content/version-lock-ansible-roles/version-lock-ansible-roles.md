@@ -74,3 +74,4 @@ When you run `ansible-playbook` for the play in this directory, it'll use this v
 This way you can version lock roles using Git tags, and ensure that each environment only uses a role that is tested with that environment, just like we do with Terraform. It's just a bit more obtuse with Ansible.
 
 Remember as well, that Terraform also downloads the roles into the environment directory, just as we're doing with the roles here. It's just within a hidden folder in Terraform.
+

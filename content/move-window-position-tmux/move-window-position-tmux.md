@@ -23,3 +23,4 @@ type: tech-note
 # tmux move window (-s = source, -t = target)
 move-window -s 3 -t 99
 ```
+

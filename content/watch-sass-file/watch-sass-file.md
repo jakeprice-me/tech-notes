@@ -22,3 +22,4 @@ type: tech-note
 ```sh
 sass --watch path/style.scss:path/style.css --style compressed
 ```
+

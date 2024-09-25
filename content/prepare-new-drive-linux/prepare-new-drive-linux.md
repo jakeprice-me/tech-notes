@@ -98,3 +98,4 @@ Finally to ensure the drive is mounted on startup, we'll append the below to `/e
 ```sh
 UUID=<uuid_here> /mnt/backup ext4 defaults 0 2
 ```
+

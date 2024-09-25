@@ -45,3 +45,4 @@ type: tech-note
 > Apparently there was a Samsung Wallet Digital Key update (probably v1.0.08.11) which causes it after a reboot as well as randomly every couple of hours. Disabling "Appear on top" for Samsung Wallet Digital Key fixed it for me.  
 >   
 > Uninstalling the update isn't a good permanent solution and you can't disable the app without root (meaning you probably don't want to disable it as it maybe could cause other issues). It can affect any device that has a tripped Know. Even formerly rooted devices running stock with a locked bootloader.
+

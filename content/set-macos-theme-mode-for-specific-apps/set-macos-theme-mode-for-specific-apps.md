@@ -33,3 +33,4 @@ defaults write com.microsoft.Outlook NSRequiresAquaSystemAppearance -bool no
 # Reset mode:
 defaults delete <Bundle-Identifier> NSRequiresAquaSystemAppearance
 ```
+

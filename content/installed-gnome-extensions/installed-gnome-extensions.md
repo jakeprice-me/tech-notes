@@ -39,3 +39,4 @@ I don't particuarly like extensions on Gnome, and would prefer to use them as li
 
 - [Rounded Window Corners - GNOME Shell Extensions](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
     - [yilozt/rounded-window-corners: A gnome-shell extensions that try to add rounded corners for all windows](https://github.com/yilozt/rounded-window-corners)
+

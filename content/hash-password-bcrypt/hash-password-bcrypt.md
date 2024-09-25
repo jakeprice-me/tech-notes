@@ -39,3 +39,4 @@ htpasswd -nBC 10 jprice | tr -d ':\n' | sed 's/$2y/$2a/'
 ```
 
 More on [StackExchange](https://unix.stackexchange.com/a/419855/331627)
+

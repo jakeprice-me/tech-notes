@@ -35,3 +35,4 @@ for file in *.md; do BOOK=$(basename --suffix=.md $file) && sed --in-place=.orig
 # Replace ## Chapter with frontmatter book name:
 for file in *.md; do BOOK=$(grep "book: " $file | sed 's/book: //'); echo $BOOK && sed --in-place=.orig "s/## Chapter/## $BOOK/" $file ; done
 ```
+

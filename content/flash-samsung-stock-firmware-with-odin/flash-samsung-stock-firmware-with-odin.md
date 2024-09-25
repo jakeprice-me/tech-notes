@@ -82,3 +82,4 @@ After a while you should see the "SAMSUNG" boot logo, and the ROM should boot.
 
 > [!tip]
 > On Android 13, to stop the intermittant "Access denied" pop-up, disable "Samsung Wallet Digital Key" from being allowed to "Appear on top".
+

@@ -47,3 +47,4 @@ Screenshot of the settings below.
 Screenshot of the comment below and [here](https://helpforum.sky.com/t5/Broadband/PPPOE-codes-for-connection-to-third-party-router/m-p/3899878#M284210) at Sky's community forum.
 
 ![](attachments/20220718202153_2.png)
+

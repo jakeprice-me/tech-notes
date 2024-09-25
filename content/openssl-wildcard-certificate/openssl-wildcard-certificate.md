@@ -19,7 +19,7 @@ title: Wildcard OpenSSL Certificate Authority
 type: tech-note
 ---
 
-[TOC]
+((TOC))
 
 I deploy a really simple certificate authority for all my self-hosted, LAN services, which deploys a single root authority, and a wildcard certificate.
 
@@ -128,3 +128,4 @@ openssl x509 \
     -text \
     -in ~/my/files/code/config/ark-ca/certificates/ark_lan_cert.pem
 ```
+

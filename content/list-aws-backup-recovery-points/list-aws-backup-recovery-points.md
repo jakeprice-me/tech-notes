@@ -50,3 +50,4 @@ As below:
 jprice@DESKTOP-IVR4GBM [14:55:59] ~ $ > aws backup list-recovery-points-by-resource --resource-arn arn:aws:rds:eu-west-2:<account-id>:db:<db-name> --region eu-west-2 --output text | wc -l
 4
 ```
+
