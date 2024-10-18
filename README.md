@@ -68,7 +68,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [vim](#vim)
 - [vscode](#vscode)
 - [windows](#windows)
-## Notes <sup>224</sup>
+## Notes <sup>226</sup>
 
 
 ### <a id="airflow">airflow</a> <sup>1</sup>
@@ -139,10 +139,11 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2022-10-26 - Borg Backup Item Flags](content/borg-backup-item-flags/borg-backup-item-flags.md)
 - [2023-07-10 - Borg Backup Exclusion List](content/borg-backup-exclusion-list/borg-backup-exclusion-list.md)
 
-### <a id="caddy">caddy</a> <sup>2</sup>
+### <a id="caddy">caddy</a> <sup>3</sup>
 
 - [2022-12-31 - Caddy Server Basic Authentication](content/caddy-authentication/caddy-authentication.md)
 - [2023-12-25 - Quick Caddy Reload](content/quick-caddy-reload/quick-caddy-reload.md)
+- [2024-10-17 - Caddy Certificate Renewal - No memory of presenting a DNS record](content/caddy-certificate-renewal-no-memory-of-presenting-a-dns-record/caddy-certificate-renewal-no-memory-of-presenting-a-dns-record.md)
 
 ### <a id="cli">cli</a> <sup>32</sup>
 
@@ -200,7 +201,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2023-03-31 - Cache Only DNF](content/cache-only-dnf/cache-only-dnf.md)
 - [2024-01-01 - Install GNOME and VNC Server on Fedora](content/install-gnome-and-vnc-server-on-fedora/install-gnome-and-vnc-server-on-fedora.md)
 
-### <a id="firefox">firefox</a> <sup>6</sup>
+### <a id="firefox">firefox</a> <sup>7</sup>
 
 - [2020-09-25 - Disable Cross-Origin Request Blocking on Firefox](content/disable-cross-origin-request-blocking-firefox/disable-cross-origin-request-blocking-firefox.md)
 - [2022-12-27 - Stuck Tooltips on Firefox Linux](content/stuck-tooltips-on-firefox-linux/stuck-tooltips-on-firefox-linux.md)
@@ -208,6 +209,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2023-08-11 - Tabler Icon Fonts are not OpenType spec compliant](content/tabler-icon-fonts-are-not-opentype-spec-compliant/tabler-icon-fonts-are-not-opentype-spec-compliant.md)
 - [2024-04-20 - YouTube Desktop Shortcuts](content/youtube-desktop-shortcuts/youtube-desktop-shortcuts.md)
 - [2024-06-25 - Block Javascript on Website Using uBlock Origin](content/block-javascript-on-website-using-ublock-origin/block-javascript-on-website-using-ublock-origin.md)
+- [2024-10-18 - Add a Custom Search Engine to Firefox Android](content/add-a-custom-search-engine-to-firefox-android/add-a-custom-search-engine-to-firefox-android.md)
 
 ### <a id="git">git</a> <sup>5</sup>
 
