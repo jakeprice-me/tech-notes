@@ -1,8 +1,6 @@
 ---
 aliases:
   - fix-no-newline-at-end-of-file-in-git-diff
-archive_links:
-  - https://web.archive.org/web/20240828023607/https://stackoverflow.com/questions/51957907/avoid-no-newline-at-end-of-file-in-git-diff
 category: git
 classification: public
 date: 2023-11-23T17:13:26

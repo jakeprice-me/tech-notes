@@ -1,7 +1,6 @@
 ---
 aliases:
   - update-or-change-connected-wi-fi-on-hp-deskjet-2722
-archive_links: 
 category: hardware
 classification: public
 date: 2023-08-29T11:36:52

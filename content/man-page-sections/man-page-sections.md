@@ -1,8 +1,6 @@
 ---
 aliases:
   - man-page-sections
-archive_links:
-  - https://web.archive.org/web/20190118221332/https://en.wikipedia.org/wiki/Man_page
 category: linux
 classification: public
 date: 2019-01-13T16:37:00

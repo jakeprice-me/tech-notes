@@ -1,7 +1,6 @@
 ---
 aliases:
   - sed-cheatsheet
-archive_links: 
 category: sed
 classification: public
 date: 2020-06-01T18:03:09

@@ -1,7 +1,6 @@
 ---
 aliases:
   - jq-cheatsheet
-archive_links: 
 category: jq
 classification: public
 date: 2020-05-08T11:24:48

@@ -1,7 +1,6 @@
 ---
 aliases:
   - openssl-wildcard-certificate
-archive_links: 
 category: openssl
 classification: public
 date: 2021-01-09T20:45:54

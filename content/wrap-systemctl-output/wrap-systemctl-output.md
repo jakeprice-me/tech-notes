@@ -1,7 +1,6 @@
 ---
 aliases:
   - wrap-systemctl-output
-archive_links: 
 category: cli
 classification: public
 date: 2022-10-25T15:10:42

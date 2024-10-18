@@ -1,8 +1,6 @@
 ---
 aliases:
   - uri-handler
-archive_links:
-  - https://web.archive.org/web/20231001112036/https://www.tkalin.com/blog_posts/using-console-vim-as-vim-protocol-handler-in-ubuntu/
 category: miscellaneous
 classification: public
 date: 2021-09-06T18:15:47

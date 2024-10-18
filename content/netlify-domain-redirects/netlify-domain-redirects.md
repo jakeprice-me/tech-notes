@@ -1,7 +1,6 @@
 ---
 aliases:
   - netlify-domain-redirects
-archive_links: 
 category: netlify
 classification: public
 date: 2021-04-23T10:50:44

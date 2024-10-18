@@ -1,7 +1,6 @@
 ---
 aliases:
   - quick-caddy-reload
-archive_links: 
 category: caddy
 classification: public
 date: 2023-12-25T23:14:43

@@ -1,7 +1,6 @@
 ---
 aliases:
   - update-hosts-file-on-rooted-android
-archive_links: 
 category: android
 classification: public
 date: 2024-06-24T16:48:51

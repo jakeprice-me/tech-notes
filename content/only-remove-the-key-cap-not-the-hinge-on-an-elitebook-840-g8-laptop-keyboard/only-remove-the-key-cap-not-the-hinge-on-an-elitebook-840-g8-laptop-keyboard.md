@@ -1,7 +1,6 @@
 ---
 aliases:
   - only-remove-the-key-cap-not-the-hinge-on-an-elitebook-840-g8-laptop-keyboard
-archive_links: 
 category: hardware
 classification: public
 date: 2024-01-23T12:57:39

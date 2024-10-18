@@ -1,7 +1,6 @@
 ---
 aliases:
   - read-qr-code-from-image
-archive_links: 
 category: cli
 classification: public
 date: 2022-07-05T20:01:59

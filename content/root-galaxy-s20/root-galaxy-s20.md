@@ -1,7 +1,6 @@
 ---
 aliases:
   - root-galaxy-s20
-archive_links: 
 category: android
 classification: public
 date: 2021-11-15T21:01:44

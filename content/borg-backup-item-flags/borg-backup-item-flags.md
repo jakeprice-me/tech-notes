@@ -1,8 +1,6 @@
 ---
 aliases:
   - borg-backup-item-flags
-archive_links:
-  - https://web.archive.org/web/20240909213943/https://borgbackup.readthedocs.io/en/stable/usage/create.html?__cf_chl_rt_tk=Rq7_hjz9CIbEi46UUCn7yk4kgkcQEQKiNVZCew.e.70-1725917983-0.0.1.1-4756
 category: borg
 classification: public
 date: 2022-10-26T13:49:07

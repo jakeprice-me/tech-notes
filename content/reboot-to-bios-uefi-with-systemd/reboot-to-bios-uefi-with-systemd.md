@@ -1,8 +1,6 @@
 ---
 aliases:
   - reboot-to-bios-uefi-with-systemd
-archive_links:
-  - https://web.archive.org/web/20240918195625/https://www.freedesktop.org/software/systemd/man/latest/systemctl.html
 category: systemd
 classification: public
 date: 2022-10-07T21:33:34

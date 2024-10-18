@@ -1,7 +1,6 @@
 ---
 aliases:
   - wsl-network-share
-archive_links: 
 category: windows
 classification: public
 date: 2020-04-08T18:52:05

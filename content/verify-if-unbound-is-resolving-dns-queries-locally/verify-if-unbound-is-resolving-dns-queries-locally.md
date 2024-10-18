@@ -1,8 +1,6 @@
 ---
 aliases:
   - verify-if-unbound-is-resolving-dns-queries-locally
-archive_links:
-  - https://web.archive.org/web/20230615052140/https://old.reddit.com/r/pihole/comments/etp9vm/how_do_i_verify_if_unbound_is_working/
 category: network
 classification: public
 date: 2023-11-03T21:43:53

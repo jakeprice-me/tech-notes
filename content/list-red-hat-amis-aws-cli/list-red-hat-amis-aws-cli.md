@@ -1,7 +1,6 @@
 ---
 aliases:
   - list-red-hat-amis-aws-cli
-archive_links: 
 category: aws
 classification: public
 date: 2019-07-17T16:10:12

@@ -1,7 +1,6 @@
 ---
 aliases:
   - delete-files-matching-a-pattern-using-find
-archive_links: 
 category: cli
 classification: public
 date: 2019-01-28T09:43:00

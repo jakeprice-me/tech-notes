@@ -1,7 +1,6 @@
 ---
 aliases:
   - kusto-tips-and-snippets
-archive_links: 
 category: azure
 classification: public
 date: 2022-10-19T14:00:41

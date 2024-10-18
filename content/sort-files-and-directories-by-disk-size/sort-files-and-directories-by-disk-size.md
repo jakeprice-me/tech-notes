@@ -1,7 +1,6 @@
 ---
 aliases:
   - sort-files-and-directories-by-disk-size
-archive_links: 
 category: cli
 classification: public
 date: 2019-01-28T12:52:01

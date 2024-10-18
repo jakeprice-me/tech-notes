@@ -1,7 +1,6 @@
 ---
 aliases:
   - aws-cloudwatch-logs-insights-average
-archive_links: 
 category: aws
 classification: public
 date: 2021-03-02T16:23:13

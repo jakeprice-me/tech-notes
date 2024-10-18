@@ -1,8 +1,6 @@
 ---
 aliases:
   - install-heimdall-on-fedora
-archive_links:
-  - https://web.archive.org/web/20240923180539/https://github.com/Benjamin-Dobell/Heimdall/wiki/Build-instructions-%28Linux%29
 category: android
 classification: public
 date: 2022-12-19T13:08:30

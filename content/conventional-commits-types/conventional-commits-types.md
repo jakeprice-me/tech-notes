@@ -1,7 +1,6 @@
 ---
 aliases:
   - conventional-commits-types
-archive_links: 
 category: git
 classification: public
 date: 2023-07-04T15:11:26

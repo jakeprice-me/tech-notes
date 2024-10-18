@@ -1,7 +1,6 @@
 ---
 aliases:
   - home-assistant-os-configuration
-archive_links: 
 category: smart-home
 classification: public
 date: 2022-05-31T16:10:26

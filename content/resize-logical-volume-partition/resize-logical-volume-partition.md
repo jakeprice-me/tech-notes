@@ -1,7 +1,6 @@
 ---
 aliases:
   - resize-logical-volume-partition
-archive_links: 
 category: linux
 classification: public
 date: 2022-02-08T10:18:09

@@ -1,7 +1,6 @@
 ---
 aliases:
   - take-heap-dump-jcmd
-archive_links: 
 category: java
 classification: public
 date: 2020-07-16T14:10:43

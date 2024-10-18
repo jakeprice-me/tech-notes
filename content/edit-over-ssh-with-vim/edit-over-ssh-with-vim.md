@@ -1,7 +1,6 @@
 ---
 aliases:
   - edit-over-ssh-with-vim
-archive_links: 
 category: vim
 classification: public
 date: 2020-06-19T10:05:44

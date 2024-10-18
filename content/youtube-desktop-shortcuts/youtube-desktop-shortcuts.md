@@ -1,8 +1,6 @@
 ---
 aliases:
   - youtube-desktop-shortcuts
-archive_links:
-  - https://web.archive.org/web/20230427162913/http://support.google.com/youtube/answer/7631406?hl=en-GB
 category: firefox
 classification: public
 date: 2024-04-20T18:37:29

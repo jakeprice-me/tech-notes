@@ -1,7 +1,6 @@
 ---
 aliases:
   - open-file-at-line-number-with-vim
-archive_links: 
 category: vim
 classification: public
 date: 2022-11-16T17:19:31

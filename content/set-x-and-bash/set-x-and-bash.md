@@ -1,8 +1,6 @@
 ---
 aliases:
   - set-x-and-bash
-archive_links:
-  - https://web.archive.org/web/20240803033215/https://www.reddit.com/r/bash/comments/xcejrb/set_x_is_your_friend/
 category: bash
 classification: public
 date: 2022-12-27T22:26:49

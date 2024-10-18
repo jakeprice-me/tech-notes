@@ -1,7 +1,6 @@
 ---
 aliases:
   - send-output-to-clipboard-using-xclip
-archive_links: 
 category: cli
 classification: public
 date: 2022-02-04T11:54:27

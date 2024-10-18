@@ -1,8 +1,6 @@
 ---
 aliases:
   - reconnection-issue-sonoff-snzb-02-zigbee2mqtt
-archive_links:
-  - https://web.archive.org/web/20240703205917/https://www.zigbee2mqtt.io/devices/SNZB-02.html
 category: smart-home
 classification: public
 date: 2022-10-07T16:24:37

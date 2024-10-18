@@ -1,8 +1,6 @@
 ---
 aliases:
   - hash-password-bcrypt
-archive_links:
-  - https://web.archive.org/web/20220624215701/https://unix.stackexchange.com/questions/307994/compute-bcrypt-hash-from-command-line/419855#419855
 category: cli
 classification: public
 date: 2023-01-11T08:49:41

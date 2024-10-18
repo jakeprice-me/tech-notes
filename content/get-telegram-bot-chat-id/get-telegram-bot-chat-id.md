@@ -1,7 +1,6 @@
 ---
 aliases:
   - get-telegram-bot-chat-id
-archive_links: 
 category: telegram
 classification: public
 date: 2022-08-11T21:20:57

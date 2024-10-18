@@ -1,7 +1,6 @@
 ---
 aliases:
   - list-apps-with-adb
-archive_links: 
 category: android
 classification: public
 date: 2020-03-29T22:07:01

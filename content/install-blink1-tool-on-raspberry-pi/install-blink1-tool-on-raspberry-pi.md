@@ -1,7 +1,6 @@
 ---
 aliases:
   - install-blink1-tool-on-raspberry-pi
-archive_links: 
 category: raspberry-pi
 classification: public
 date: 2024-09-11T08:54:29

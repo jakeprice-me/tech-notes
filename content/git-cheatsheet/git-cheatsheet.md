@@ -1,7 +1,6 @@
 ---
 aliases:
   - git-cheatsheet
-archive_links: 
 category: git
 classification: public
 date: 2020-05-16T21:19:55

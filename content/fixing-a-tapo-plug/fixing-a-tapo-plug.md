@@ -1,7 +1,6 @@
 ---
 aliases:
   - fixing-a-tapo-plug
-archive_links: 
 category: smart-home
 classification: public
 date: 2024-02-20T14:59:08

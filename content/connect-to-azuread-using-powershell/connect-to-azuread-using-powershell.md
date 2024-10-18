@@ -1,7 +1,6 @@
 ---
 aliases:
   - connect-to-azuread-using-powershell
-archive_links: 
 category: azure
 classification: public
 date: 2020-12-09T15:23:58

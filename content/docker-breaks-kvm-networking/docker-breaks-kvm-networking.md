@@ -1,8 +1,6 @@
 ---
 aliases:
   - docker-breaks-kvm-networking
-archive_links:
-  - https://web.archive.org/web/20240917131756/https://wiki.archlinux.org/title/Docker
 category: network
 classification: public
 date: 2023-01-23T16:28:35

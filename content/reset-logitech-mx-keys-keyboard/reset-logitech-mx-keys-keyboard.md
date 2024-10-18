@@ -1,7 +1,6 @@
 ---
 aliases:
   - reset-logitech-mx-keys-keyboard
-archive_links: 
 category: hardware
 classification: public
 date: 2023-06-07T15:03:44

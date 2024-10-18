@@ -1,8 +1,6 @@
 ---
 aliases:
   - a-good-explanation-of-git-rebase
-archive_links:
-  - https://web.archive.org/web/20240813005052/https://www.reddit.com/r/git/comments/10jiyxu/is_making_too_many_commits_bad/?rdt=33750
 category: git
 classification: public
 date: 2023-02-02T16:56:12

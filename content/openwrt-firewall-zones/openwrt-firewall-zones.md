@@ -1,8 +1,6 @@
 ---
 aliases:
   - openwrt-firewall-zones
-archive_links:
-  - https://web.archive.org/web/20240922120338/https://openwrt.org/docs/guide-user/firewall/firewall_configuration
 category: network
 classification: public
 date: 2023-11-18T21:48:07

@@ -1,7 +1,6 @@
 ---
 aliases:
   - python-requests-cheatsheet
-archive_links: 
 category: python
 classification: public
 date: 2020-08-23T19:32:17

@@ -1,7 +1,6 @@
 ---
 aliases:
   - list-volume-device-id-for-an-ec2-instance
-archive_links: 
 category: aws
 classification: public
 date: 2019-12-24T13:18:00

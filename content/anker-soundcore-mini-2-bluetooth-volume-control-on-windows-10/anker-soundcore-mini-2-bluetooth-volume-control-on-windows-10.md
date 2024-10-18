@@ -1,8 +1,6 @@
 ---
 aliases:
   - anker-soundcore-mini-2-bluetooth-volume-control-on-windows-10
-archive_links:
-  - https://web.archive.org/web/20230705085455/https://community.anker.com/t/cant-change-volume-via-windows/66148
 category: hardware
 classification: public
 date: 2023-09-01T21:14:06

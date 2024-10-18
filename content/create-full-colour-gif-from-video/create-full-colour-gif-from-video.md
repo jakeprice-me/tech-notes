@@ -1,7 +1,6 @@
 ---
 aliases:
   - create-full-colour-gif-from-video
-archive_links: 
 category: video
 classification: public
 date: 2024-05-17T20:21:59

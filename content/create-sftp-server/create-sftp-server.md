@@ -1,7 +1,6 @@
 ---
 aliases:
   - create-sftp-server
-archive_links: 
 category: self-hosted
 classification: public
 date: 2020-11-24T09:33:31

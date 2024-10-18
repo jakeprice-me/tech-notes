@@ -1,7 +1,6 @@
 ---
 aliases:
   - tailscale-setup-with-split-dns
-archive_links: 
 category: network
 classification: public
 date: 2022-08-09T09:35:34

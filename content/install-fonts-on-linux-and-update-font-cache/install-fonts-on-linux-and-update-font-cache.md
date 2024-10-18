@@ -1,7 +1,6 @@
 ---
 aliases:
   - install-fonts-on-linux-and-update-font-cache
-archive_links: 
 category: linux
 classification: public
 date: 2021-01-01T15:03:58

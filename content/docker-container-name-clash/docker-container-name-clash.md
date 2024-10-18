@@ -1,8 +1,6 @@
 ---
 aliases:
   - docker-container-name-clash
-archive_links:
-  - https://web.archive.org/web/20211128170228/https://stackoverflow.com/questions/55031169/docker-php-fpm-nginx-sometimes-files-not-found-on-php-file/55040196
 category: docker
 classification: public
 date: 2022-06-01T16:38:01

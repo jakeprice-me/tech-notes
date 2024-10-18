@@ -1,7 +1,6 @@
 ---
 aliases:
   - squash-commits-in-git
-archive_links: 
 category: git
 classification: public
 date: 2023-11-10T15:31:31

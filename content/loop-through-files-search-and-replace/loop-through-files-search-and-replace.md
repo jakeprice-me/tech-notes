@@ -1,7 +1,6 @@
 ---
 aliases:
   - loop-through-files-search-and-replace
-archive_links: 
 category: bash
 classification: public
 date: 2020-03-09T20:13:20

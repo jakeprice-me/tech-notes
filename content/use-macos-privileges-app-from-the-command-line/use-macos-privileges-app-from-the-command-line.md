@@ -1,8 +1,6 @@
 ---
 aliases:
   - use-macos-privileges-app-from-the-command-line
-archive_links:
-  - https://web.archive.org/web/20230810231643/https://github.com/SAP/macOS-enterprise-privileges/wiki/Frequently-Asked-Questions
 category: macos
 classification: public
 date: 2023-06-06T12:07:53

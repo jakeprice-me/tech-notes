@@ -1,7 +1,6 @@
 ---
 aliases:
   - local-lan-certificate
-archive_links: 
 category: openssl
 classification: public
 date: 2021-08-13T18:14:04

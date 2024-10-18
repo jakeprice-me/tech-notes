@@ -1,7 +1,6 @@
 ---
 aliases:
   - ocr-with-tesseract
-archive_links: 
 category: cli
 classification: public
 date: 2024-09-03T19:20:56

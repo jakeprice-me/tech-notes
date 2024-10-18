@@ -1,7 +1,6 @@
 ---
 aliases:
   - tabler-icon-fonts-are-not-opentype-spec-compliant
-archive_links: 
 category: firefox
 classification: public
 date: 2023-08-11T10:02:33

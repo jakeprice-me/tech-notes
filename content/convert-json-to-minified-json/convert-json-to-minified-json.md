@@ -1,7 +1,6 @@
 ---
 aliases:
   - convert-json-to-minified-json
-archive_links: 
 category: python
 classification: public
 date: 2020-07-05T19:45:25

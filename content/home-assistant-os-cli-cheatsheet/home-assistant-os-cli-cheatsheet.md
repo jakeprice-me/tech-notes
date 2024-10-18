@@ -1,7 +1,6 @@
 ---
 aliases:
   - home-assistant-os-cli-cheatsheet
-archive_links: 
 category: smart-home
 classification: public
 date: 2022-06-01T14:36:14

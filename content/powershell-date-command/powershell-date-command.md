@@ -1,7 +1,6 @@
 ---
 aliases:
   - powershell-date-command
-archive_links: 
 category: powershell
 classification: public
 date: 2020-03-18T12:36:45

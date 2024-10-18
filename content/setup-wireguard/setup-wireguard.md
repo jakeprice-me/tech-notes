@@ -1,8 +1,6 @@
 ---
 aliases:
   - setup-wireguard
-archive_links:
-  - https://web.archive.org/web/20231205035613/https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-22-04
 category: network
 classification: public
 date: 2023-01-08T12:21:34

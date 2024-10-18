@@ -1,7 +1,6 @@
 ---
 aliases:
   - clone-github-repository-with-token
-archive_links: 
 category: github
 classification: public
 date: 2022-09-09T21:13:39

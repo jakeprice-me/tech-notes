@@ -1,7 +1,6 @@
 ---
 aliases:
   - openssl-on-macos-configuration
-archive_links: 
 category: openssl
 classification: public
 date: 2021-08-13T16:11:21

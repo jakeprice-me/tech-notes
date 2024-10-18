@@ -1,7 +1,6 @@
 ---
 aliases:
   - update-boot-manager-options
-archive_links: 
 category: linux
 classification: public
 date: 2019-06-21T14:59:22

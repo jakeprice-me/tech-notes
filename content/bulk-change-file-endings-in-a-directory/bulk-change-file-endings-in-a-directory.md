@@ -1,7 +1,6 @@
 ---
 aliases:
   - bulk-change-file-endings-in-a-directory
-archive_links: 
 category: linux
 classification: public
 date: 2020-03-02T15:10:26

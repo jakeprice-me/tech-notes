@@ -1,7 +1,6 @@
 ---
 aliases:
   - speed-up-powershell-invoke-webrequest
-archive_links: 
 category: powershell
 classification: public
 date: 2020-08-14T15:18:44

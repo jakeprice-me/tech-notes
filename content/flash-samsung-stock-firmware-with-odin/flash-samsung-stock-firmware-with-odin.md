@@ -1,11 +1,10 @@
 ---
 aliases:
   - flash-samsung-stock-firmware-with-odin
-archive_links: 
 category: android
 classification: public
 date: 2022-12-19T15:30:33
-date_modified: 2022-12-19T15:30:33
+date_modified: 2024-10-17T12:50:21
 draft: false
 id: 20221219153033
 image: 
@@ -14,10 +13,17 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: []
+tags:
+  - samsung
+  - galaxy-s20
+  - odin
+  - firmware
 title: Flash Samsung Stock Firmware with Odin
 type: tech-note
 ---
+
+> [!important]
+> samloader has been archived, and doesn't seem to work anymore.
 
 ## Download Official Stock Firmware
 
@@ -61,6 +67,9 @@ unzip ~/Downloads/samsung/SM-G980F_3_20220126141002_sqgfarrj77_fac.zip -d ~/Down
 - Once in Download mode, press the volume up key.
 
 ## Flash with Odin3 v3.14 on Windows
+
+> [!warning]
+> I've not actually managed to do an upgrade. It's always gone wrong and I've always had to just factory reset after the new firmware has been installed.
 
 > [!danger]
 > It is crucial you use a reliable USB-C cable to avoid soft-bricking the phone. A good test is to wiggle the connection and if it disconnects when you do that, _do not use it_!

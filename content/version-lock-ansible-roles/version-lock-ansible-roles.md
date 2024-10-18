@@ -1,7 +1,6 @@
 ---
 aliases:
   - version-lock-ansible-roles
-archive_links: 
 category: ansible
 classification: public
 date: 2021-01-13T20:44:21

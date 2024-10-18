@@ -1,7 +1,6 @@
 ---
 aliases:
   - generate-sequences-bash
-archive_links: 
 category: bash
 classification: public
 date: 2020-06-23T14:37:06

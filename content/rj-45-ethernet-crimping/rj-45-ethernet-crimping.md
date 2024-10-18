@@ -1,7 +1,6 @@
 ---
 aliases:
   - rj-45-ethernet-crimping
-archive_links: 
 category: network
 classification: public
 date: 2022-12-30T12:36:51

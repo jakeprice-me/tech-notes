@@ -1,7 +1,6 @@
 ---
 aliases:
   - restart-display-manager
-archive_links: 
 category: cli
 classification: public
 date: 2022-10-14T19:23:44

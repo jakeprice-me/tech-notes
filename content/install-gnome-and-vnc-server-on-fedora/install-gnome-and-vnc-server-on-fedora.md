@@ -1,7 +1,6 @@
 ---
 aliases:
   - install-gnome-and-vnc-server-on-fedora
-archive_links: 
 category: fedora
 classification: public
 date: 2024-01-01T11:14:27

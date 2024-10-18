@@ -1,8 +1,6 @@
 ---
 aliases:
   - linux-shells
-archive_links:
-  - https://web.archive.org/web/20230714131325/https://unix.stackexchange.com/questions/170493/login-non-login-and-interactive-non-interactive-shells/170499
 category: linux
 classification: public
 date: 2020-07-14T21:15:25

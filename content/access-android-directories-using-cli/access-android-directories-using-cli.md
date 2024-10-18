@@ -1,7 +1,6 @@
 ---
 aliases:
   - access-android-directories-using-cli
-archive_links: 
 category: android
 classification: public
 date: 2020-09-06T15:26:26

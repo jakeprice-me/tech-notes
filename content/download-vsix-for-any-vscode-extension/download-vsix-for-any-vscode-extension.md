@@ -1,7 +1,6 @@
 ---
 aliases:
   - download-vsix-for-any-vscode-extension
-archive_links: 
 category: vscode
 classification: public
 date: 2020-10-21T10:00:20

@@ -1,7 +1,6 @@
 ---
 aliases:
   - bulk-edit-a-jellyfin-playlist
-archive_links: 
 category: self-hosted
 classification: public
 date: 2024-09-23T08:56:46

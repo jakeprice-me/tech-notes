@@ -1,7 +1,6 @@
 ---
 aliases:
   - miniflux-api
-archive_links: 
 category: api
 classification: public
 date: 2024-06-22T09:08:55
@@ -24,7 +23,8 @@ type: tech-note
 ---
 
 ```sh
-# Feeds in a category:
+# Feeds in a 
+category:
 curl --request GET \
   --url https://miniflux/v1/categories/31/feeds \
   --header "Content-Type: application/json" \

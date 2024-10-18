@@ -1,7 +1,6 @@
 ---
 aliases:
   - override-disabled-scrolling-on-cookie-pop-up-boxes
-archive_links: 
 category: css
 classification: public
 date: 2024-06-05T11:00:34

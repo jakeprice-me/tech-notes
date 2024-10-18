@@ -1,7 +1,6 @@
 ---
 aliases:
   - find-out-laptop-screen-panel-model
-archive_links: 
 category: linux
 classification: public
 date: 2022-01-19T20:51:59

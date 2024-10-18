@@ -1,8 +1,6 @@
 ---
 aliases:
   - view-in-use-gnome-shortcuts
-archive_links:
-  - https://web.archive.org/web/20240923201748/https://askubuntu.com/questions/1317701/list-all-gnome-shortcuts-currently-in-use
 category: gnome
 classification: public
 date: 2022-02-19T16:34:00

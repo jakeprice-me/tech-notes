@@ -1,7 +1,6 @@
 ---
 aliases:
   - move-window-position-tmux
-archive_links: 
 category: tmux
 classification: public
 date: 2021-02-28T10:47:55

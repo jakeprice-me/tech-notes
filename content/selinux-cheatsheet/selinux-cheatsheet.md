@@ -1,7 +1,6 @@
 ---
 aliases:
   - selinux-cheatsheet
-archive_links: 
 category: selinux
 classification: public
 date: 2020-10-29T21:18:53

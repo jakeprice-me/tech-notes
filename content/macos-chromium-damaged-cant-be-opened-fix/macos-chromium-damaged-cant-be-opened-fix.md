@@ -1,8 +1,6 @@
 ---
 aliases:
   - macos-chromium-damaged-cant-be-opened-fix
-archive_links:
-  - https://web.archive.org/web/20211016143800/https://old.reddit.com/r/MacOS/comments/q9d772/homebrew_chromium_is_damaged_and_cant_be_openend/
 category: macos
 classification: public
 date: 2022-01-09T17:41:01

@@ -1,8 +1,6 @@
 ---
 aliases:
   - obsidian-search-cheatsheet
-archive_links:
-  - https://web.archive.org/web/20240804200150/https://help.obsidian.md/Plugins/Search
 category: obsidian
 classification: public
 date: 2024-02-16T19:21:35

@@ -1,7 +1,6 @@
 ---
 aliases:
   - ansible-cheatsheet
-archive_links: 
 category: ansible
 classification: public
 date: 2021-01-16T13:07:43

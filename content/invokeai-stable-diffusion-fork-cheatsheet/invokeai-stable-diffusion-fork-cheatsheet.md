@@ -1,7 +1,6 @@
 ---
 aliases:
   - invokeai-stable-diffusion-fork-cheatsheet
-archive_links: 
 category: cli
 classification: public
 date: 2022-10-02T21:49:05

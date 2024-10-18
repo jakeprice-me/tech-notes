@@ -1,7 +1,6 @@
 ---
 aliases:
   - du-cheatsheet
-archive_links: 
 category: cli
 classification: public
 date: 2020-07-05T19:40:16

@@ -1,8 +1,6 @@
 ---
 aliases:
   - mosquitto-mqtt-testing-cheatsheet
-archive_links:
-  - https://web.archive.org/web/20240811181856/https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-debian-10
 category: mosquitto
 classification: public
 date: 2023-08-15T09:41:46

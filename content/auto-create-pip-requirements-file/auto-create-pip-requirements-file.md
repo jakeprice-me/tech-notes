@@ -1,8 +1,6 @@
 ---
 aliases:
   - auto-create-pip-requirements-file
-archive_links:
-  - https://web.archive.org/web/20240905092206/https://stackoverflow.com/questions/31684375/automatically-create-file-requirements-txt
 category: python
 classification: public
 date: 2022-01-29T14:30:03

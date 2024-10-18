@@ -1,7 +1,6 @@
 ---
 aliases:
   - rsync-cheatsheet
-archive_links: 
 category: cli
 classification: public
 date: 2020-06-20T23:26:43

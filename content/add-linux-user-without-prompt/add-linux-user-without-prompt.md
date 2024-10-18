@@ -1,7 +1,6 @@
 ---
 aliases:
   - add-linux-user-without-prompt
-archive_links: 
 category: linux
 classification: public
 date: 2023-01-07T20:41:07

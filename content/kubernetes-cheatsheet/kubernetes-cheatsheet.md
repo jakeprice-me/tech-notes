@@ -1,7 +1,6 @@
 ---
 aliases:
   - kubernetes-cheatsheet
-archive_links: 
 category: kubernetes
 classification: public
 date: 2021-12-07T11:18:37

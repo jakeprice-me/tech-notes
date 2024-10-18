@@ -1,7 +1,6 @@
 ---
 aliases:
   - find-recent-aws-amis
-archive_links: 
 category: aws
 classification: public
 date: 2019-10-10T12:12:00

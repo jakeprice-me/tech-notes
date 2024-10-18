@@ -1,7 +1,6 @@
 ---
 aliases:
   - github-cli-cheatsheet
-archive_links: 
 category: github
 classification: public
 date: 2022-08-01T14:03:00

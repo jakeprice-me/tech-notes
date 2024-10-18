@@ -1,8 +1,6 @@
 ---
 aliases:
   - enable-wake-on-lan-using-nmcli
-archive_links:
-  - https://web.archive.org/web/20240610013450/https://wiki.archlinux.org/title/Wake-on-LAN
 category: network
 classification: public
 date: 2024-07-11T11:42:37

@@ -1,7 +1,6 @@
 ---
 aliases:
   - jira-jql-statements
-archive_links: 
 category: jira
 classification: public
 date: 2023-06-21T12:18:19

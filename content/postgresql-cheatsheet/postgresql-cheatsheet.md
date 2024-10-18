@@ -1,7 +1,6 @@
 ---
 aliases:
   - postgresql-cheatsheet
-archive_links: 
 category: postgresql
 classification: public
 date: 2020-08-04T20:53:23

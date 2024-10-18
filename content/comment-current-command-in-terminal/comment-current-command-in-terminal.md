@@ -1,7 +1,6 @@
 ---
 aliases:
   - comment-current-command-in-terminal
-archive_links: 
 category: cli
 classification: public
 date: 2022-10-27T15:12:18

@@ -1,7 +1,6 @@
 ---
 aliases:
   - macos-cron-permission-issues
-archive_links: 
 category: macos
 classification: public
 date: 2022-11-18T14:48:22

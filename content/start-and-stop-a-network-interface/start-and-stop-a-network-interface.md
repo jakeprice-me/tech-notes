@@ -1,7 +1,6 @@
 ---
 aliases:
   - start-and-stop-a-network-interface
-archive_links: 
 category: network
 classification: public
 date: 2019-01-31T17:53:23

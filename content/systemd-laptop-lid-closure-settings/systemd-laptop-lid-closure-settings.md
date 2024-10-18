@@ -1,8 +1,6 @@
 ---
 aliases:
   - systemd-laptop-lid-closure-settings
-archive_links:
-  - https://web.archive.org/web/20240923202131/https://unix.stackexchange.com/questions/307497/gnome-disable-sleep-on-lid-close/583059
 category: systemd
 classification: public
 date: 2022-02-12T16:43:24

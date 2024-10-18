@@ -1,8 +1,6 @@
 ---
 aliases:
   - chmod-reference-table
-archive_links:
-  - https://web.archive.org/web/20200811042230/https://dbiers.me/chmod-permissions-reference-chart/
 category: linux
 classification: public
 date: 2019-01-13T16:39:01

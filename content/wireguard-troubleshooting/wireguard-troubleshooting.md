@@ -1,7 +1,6 @@
 ---
 aliases:
   - wireguard-troubleshooting
-archive_links: 
 category: network
 classification: public
 date: 2023-01-09T14:14:37

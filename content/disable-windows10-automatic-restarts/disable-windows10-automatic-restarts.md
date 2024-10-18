@@ -1,8 +1,6 @@
 ---
 aliases:
   - disable-windows10-automatic-restarts
-archive_links:
-  - https://web.archive.org/web/20240923211200/https://answers.microsoft.com/en-us/windows/forum/all/disable-windows-10-automatic-restart-after-updates/16f1826d-a796-4de8-ac99-1d625420d265?auth=1
 category: windows
 classification: public
 date: 2020-10-23T22:00:29

@@ -1,7 +1,6 @@
 ---
 aliases:
   - install-hp-printer-fedora
-archive_links: 
 category: fedora
 classification: public
 date: 2022-05-15T22:15:00

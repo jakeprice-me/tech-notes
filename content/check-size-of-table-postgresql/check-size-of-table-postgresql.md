@@ -1,7 +1,6 @@
 ---
 aliases:
   - check-size-of-table-postgresql
-archive_links: 
 category: postgresql
 classification: public
 date: 2020-09-22T12:50:20

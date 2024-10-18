@@ -1,7 +1,6 @@
 ---
 aliases:
   - specify-dns-resolver-for-dig-query
-archive_links: 
 category: network
 classification: public
 date: 2023-11-03T21:38:16

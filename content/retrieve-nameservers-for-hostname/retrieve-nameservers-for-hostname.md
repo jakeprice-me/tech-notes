@@ -1,7 +1,6 @@
 ---
 aliases:
   - retrieve-nameservers-for-hostname
-archive_links: 
 category: cli
 classification: public
 date: 2019-03-05T09:44:09

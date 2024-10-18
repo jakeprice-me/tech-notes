@@ -1,8 +1,6 @@
 ---
 aliases:
   - convert-black-ink-pdf-to-blue-ink
-archive_links:
-  - https://web.archive.org/web/20210506190019/https://superuser.com/questions/202935/how-can-i-print-out-a-pdf-substituting-pixels-for-blue-pixels
 category: cli
 classification: public
 date: 2024-06-04T17:11:45

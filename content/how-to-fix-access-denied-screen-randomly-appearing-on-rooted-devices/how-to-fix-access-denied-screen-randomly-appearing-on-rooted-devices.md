@@ -1,8 +1,6 @@
 ---
 aliases:
   - how-to-fix-access-denied-screen-randomly-appearing-on-rooted-devices
-archive_links:
-  - https://web.archive.org/web/20231128213718/https://xdaforums.com/t/how-to-fix-access-denied-screen-randomly-appearing-on-rooted-devices.4503767/
 category: android
 classification: public
 date: 2022-12-19T17:41:41

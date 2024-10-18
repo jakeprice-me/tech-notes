@@ -1,7 +1,6 @@
 ---
 aliases:
   - block-javascript-on-website-using-ublock-origin
-archive_links: 
 category: firefox
 classification: public
 date: 2024-06-25T14:51:57

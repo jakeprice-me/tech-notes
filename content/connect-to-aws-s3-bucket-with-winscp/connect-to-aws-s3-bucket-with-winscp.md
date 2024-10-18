@@ -1,7 +1,6 @@
 ---
 aliases:
   - connect-to-aws-s3-bucket-with-winscp
-archive_links: 
 category: aws
 classification: public
 date: 2020-03-02T13:43:51

@@ -1,7 +1,6 @@
 ---
 aliases:
   - save-vim-session
-archive_links: 
 category: vim
 classification: public
 date: 2020-06-03T10:02:27

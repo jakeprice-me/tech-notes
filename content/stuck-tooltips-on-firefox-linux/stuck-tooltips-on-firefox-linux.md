@@ -1,8 +1,6 @@
 ---
 aliases:
   - stuck-tooltips-on-firefox-linux
-archive_links:
-  - https://web.archive.org/web/20230528203743/https://bugzilla.mozilla.org/show_bug.cgi?id=1569439
 category: firefox
 classification: public
 date: 2022-12-27T20:42:31

@@ -1,8 +1,6 @@
 ---
 aliases:
   - use-dig-to-get-your-public-ip
-archive_links:
-  - https://web.archive.org/web/20240923212212/https://unix.stackexchange.com/questions/22615/how-can-i-get-my-external-ip-address-in-a-shell-script%29
 category: cli
 classification: public
 date: 2020-05-30T13:34:52

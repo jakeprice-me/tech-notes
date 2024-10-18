@@ -1,7 +1,6 @@
 ---
 aliases:
   - sqlite3-cheatsheet
-archive_links: 
 category: sqlite
 classification: public
 date: 2021-02-09T12:33:11

@@ -1,8 +1,6 @@
 ---
 aliases:
   - mount-windows-drive-in-wsl
-archive_links:
-  - https://web.archive.org/web/20240515025113/https://www.public-health.uiowa.edu/it/support/kb48568/
 category: windows
 classification: public
 date: 2021-07-21T10:39:17

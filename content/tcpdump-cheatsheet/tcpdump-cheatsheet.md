@@ -1,7 +1,6 @@
 ---
 aliases:
   - tcpdump-cheatsheet
-archive_links: 
 category: network
 classification: public
 date: 2024-08-13T09:43:44

@@ -1,7 +1,6 @@
 ---
 aliases:
   - jq-filters
-archive_links: 
 category: jq
 classification: public
 date: 2020-10-05T18:17:13

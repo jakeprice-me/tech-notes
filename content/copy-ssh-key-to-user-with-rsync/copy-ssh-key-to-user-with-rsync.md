@@ -1,7 +1,6 @@
 ---
 aliases:
   - copy-ssh-key-to-user-with-rsync
-archive_links: 
 category: ssh
 classification: public
 date: 2020-07-05T19:42:36

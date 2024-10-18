@@ -1,8 +1,6 @@
 ---
 aliases:
   - obsidian-custom-checkboxes
-archive_links:
-  - https://web.archive.org/web/20240112084851/https://forum.obsidian.md/t/alternative-checkboxes-icon-bullets-copy-and-paste/35962/15
 category: obsidian
 classification: public
 date: 2024-04-11T11:04:00

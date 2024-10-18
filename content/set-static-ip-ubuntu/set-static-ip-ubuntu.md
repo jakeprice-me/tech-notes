@@ -1,7 +1,6 @@
 ---
 aliases:
   - set-static-ip-ubuntu
-archive_links: 
 category: network
 classification: public
 date: 2020-06-28T13:02:40

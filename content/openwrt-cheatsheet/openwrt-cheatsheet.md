@@ -1,7 +1,6 @@
 ---
 aliases:
   - openwrt-cheatsheet
-archive_links: 
 category: network
 classification: public
 date: 2023-11-03T21:34:52

@@ -1,8 +1,6 @@
 ---
 aliases:
   - make-table-headings-sticky
-archive_links:
-  - https://web.archive.org/web/20240709005030/https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/
 category: css
 classification: public
 date: 2024-02-25T08:03:01

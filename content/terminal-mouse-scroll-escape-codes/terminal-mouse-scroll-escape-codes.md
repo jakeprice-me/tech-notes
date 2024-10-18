@@ -1,7 +1,6 @@
 ---
 aliases:
   - terminal-mouse-scroll-escape-codes
-archive_links: 
 category: cli
 classification: public
 date: 2020-11-14T15:58:33

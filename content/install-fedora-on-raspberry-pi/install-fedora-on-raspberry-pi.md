@@ -1,8 +1,6 @@
 ---
 aliases:
   - install-fedora-on-raspberry-pi
-archive_links:
-  - https://web.archive.org/web/20240921181235/https://docs.fedoraproject.org/en-US/quick-docs/raspberry-pi/
 category: raspberry-pi
 classification: public
 date: 2023-11-30T10:54:37

@@ -1,8 +1,6 @@
 ---
 aliases:
   - toggle-shortcode-modes-logitech-mx-keys
-archive_links:
-  - https://web.archive.org/web/20240415000722/https://unix.stackexchange.com/questions/600178/logitech-mx-keys-sends-incorrect-modifier-keys
 category: hardware
 classification: public
 date: 2022-01-29T21:40:21

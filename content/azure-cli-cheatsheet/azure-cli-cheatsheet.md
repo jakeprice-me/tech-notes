@@ -1,7 +1,6 @@
 ---
 aliases:
   - azure-cli-cheatsheet
-archive_links: 
 category: azure
 classification: public
 date: 2022-07-27T16:36:06

@@ -1,8 +1,6 @@
 ---
 aliases:
   - install-stable-diffusion
-archive_links:
-  - https://web.archive.org/web/20220926150717/https://github.com/invoke-ai/InvokeAI/blob/main/docs/installation/INSTALL_LINUX.md
 category: miscellaneous
 classification: public
 date: 2022-09-12T22:01:25

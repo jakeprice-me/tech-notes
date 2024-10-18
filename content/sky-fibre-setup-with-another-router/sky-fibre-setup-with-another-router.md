@@ -1,8 +1,6 @@
 ---
 aliases:
   - sky-fibre-setup-with-another-router
-archive_links:
-  - https://web.archive.org/web/20240923200754/https://helpforum.sky.com/t5/Broadband/PPPOE-codes-for-connection-to-third-party-router/m-p/3899878
 category: network
 classification: public
 date: 2022-07-18T20:21:53
