@@ -69,7 +69,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [vim](#vim)
 - [vscode](#vscode)
 - [windows](#windows)
-## Notes <sup>228</sup>
+## Notes <sup>230</sup>
 
 
 ### <a id="airflow">airflow</a> <sup>1</sup>
@@ -334,10 +334,11 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2024-07-11 - Enable Wake-on-LAN using NMCLI](content/enable-wake-on-lan-using-nmcli/index.md)
 - [2024-08-13 - tcpdump Cheatsheet](content/tcpdump-cheatsheet/index.md)
 
-### <a id="obsidian">obsidian</a> <sup>2</sup>
+### <a id="obsidian">obsidian</a> <sup>3</sup>
 
 - [2024-02-16 - Obsidian Search Cheatsheet](content/obsidian-search-cheatsheet/index.md)
 - [2024-04-11 - Obsidian Custom Checkboxes](content/obsidian-custom-checkboxes/index.md)
+- [2024-12-13 - Manually Downgrade Obsidian Flatpak](content/manually-downgrade-obsidian-flatpak/index.md)
 
 ### <a id="openssl">openssl</a> <sup>4</sup>
 
@@ -476,11 +477,12 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2022-11-16 - Open a File at Specified Line Number with Vim](content/open-file-at-line-number-with-vim/index.md)
 - [2022-11-16 - Open Files Side-By-Side with Vim](content/open-files-side-by-side-with-vim/index.md)
 
-### <a id="vscode">vscode</a> <sup>3</sup>
+### <a id="vscode">vscode</a> <sup>4</sup>
 
 - [2020-03-15 - Linux and Visual Studio Code Colour Block Bug](content/linux-vscode-colour-block-bug/index.md)
 - [2020-07-05 - Enable Scope Inspector in VS Code](content/enable-vscode-scope-inspector/index.md)
 - [2020-10-21 - Download the VSIX for Any VS Code Extension](content/download-vsix-for-any-vscode-extension/index.md)
+- [2024-12-18 - Windows Shortcuts for Visual Studio Code on MacOS](content/windows-shortcuts-for-visual-studio-code-on-macos/index.md)
 
 ### <a id="windows">windows</a> <sup>4</sup>
 
