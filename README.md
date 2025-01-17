@@ -4,7 +4,7 @@
 
 A flat directory of my notes and knowledge on technical topics, in the same vein as the concept of TIL (Today I Learned) notes.
 
-## Categories <sup>63</sup>
+## Categories <sup>64</sup>
 
 - [airflow](#airflow)
 - [android](#android)
@@ -35,6 +35,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [kubernetes](#kubernetes)
 - [libvirt](#libvirt)
 - [linux](#linux)
+- [machine-learning](#machine-learning)
 - [macos](#macos)
 - [miscellaneous](#miscellaneous)
 - [mosquitto](#mosquitto)
@@ -69,7 +70,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [vim](#vim)
 - [vscode](#vscode)
 - [windows](#windows)
-## Notes <sup>231</sup>
+## Notes <sup>232</sup>
 
 
 ### <a id="airflow">airflow</a> <sup>1</sup>
@@ -287,6 +288,10 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2022-02-08 - Resize Logical Volume Partition](content/resize-logical-volume-partition/entry.md)
 - [2022-09-30 - Extending the Size of a Logical Volume Group](content/extending-the-size-of-a-logical-volume-group/entry.md)
 - [2023-01-07 - Add Linux User without Prompt](content/add-linux-user-without-prompt/entry.md)
+
+### <a id="machine-learning">machine-learning</a> <sup>1</sup>
+
+- [2025-01-16 - Transcribe Audio Files with OpenAI Whisper](content/transcribe-audio-files-with-openai-whisper/entry.md)
 
 ### <a id="macos">macos</a> <sup>6</sup>
 
