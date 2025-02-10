@@ -14,14 +14,14 @@ pinned: false
 print: false
 series: 
 tags:
+  - displayport
+  - dock
   - fedora
   - linux
   - monitor
-  - screen
-  - displayport
-  - usb-c
-  - dock
   - multiple
+  - screen
+  - usb-c
 title: Restart Display Manager
 type: tech-note
 ---
@@ -35,4 +35,3 @@ $ sudo systemctl restart display-manager
 ```
 
 This will log you out, so it's almost as inconvenient as a restart, but it tends to fix any issues I'm having.
-

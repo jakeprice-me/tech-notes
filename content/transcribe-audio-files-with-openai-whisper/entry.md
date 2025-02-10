@@ -15,12 +15,12 @@ pinned: false
 print: false
 series: 
 tags:
-  - openai
-  - whisper
+  - audio
   - machine-learning
+  - openai
   - speech-recognition
   - transcription
-  - audio
+  - whisper
 title: Transcribe Audio Files with OpenAI Whisper
 type: tech-note
 ---

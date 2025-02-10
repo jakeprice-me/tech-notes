@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [fzf, search, notes]
+tags:
+  - fzf
+  - notes
+  - search
 title: fzf Search on My Notes
 type: tech-note
 ---
@@ -37,4 +40,3 @@ The final command is below:
 ```sh
 grep --recursive --exclude-dir={scripts,views} "" $HOME/my/documents/notes/ | sort --reverse | fzf --delimiter ':' --preview "bat --italic-text=always --theme=base16 --style=numbers --color=always {1}"
 ```
-

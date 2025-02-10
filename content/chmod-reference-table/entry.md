@@ -11,7 +11,7 @@ image:
 links:
   - https://dbiers.me/chmod-permissions-reference-chart/
 local_archive_links:
-  - attachments/20190113163901.html
+  - attachments/chmod-reference-table.html
 pinned: false
 print: false
 series: 
@@ -40,4 +40,3 @@ A helpful overview of `chmod` permissions.
 | 644     | rw-r–r–    |
 | 700     | rwx——      |
 | 750     | rwxr-x—    |
-

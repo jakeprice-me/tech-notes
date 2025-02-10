@@ -13,7 +13,12 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [code-server, port, bind, mount, docker]
+tags:
+  - bind
+  - code-server
+  - docker
+  - mount
+  - port
 title: Code Server Port Bind Issue
 type: tech-note
 ---
@@ -54,4 +59,3 @@ I mount the file in Docker Compose so I can override `--bind-addr`:
     volumes:
       - ./run:/etc/services.d/code-server/run
 ```
-

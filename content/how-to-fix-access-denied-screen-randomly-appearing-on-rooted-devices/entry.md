@@ -11,14 +11,14 @@ image:
 links:
   - https://forum.xda-developers.com/t/how-to-fix-access-denied-screen-randomly-appearing-on-rooted-devices.4503767/
 local_archive_links:
-  - attachments/20221219174141.html
+  - attachments/how-to-fix-access-denied-screen-randomly-appearing-on-rooted-devices.html
 pinned: false
 print: false
 series: 
 tags:
   - android
-  - root
   - galaxy
+  - root
   - samsung
 title: How to fix Access denied screen randomly appearing on rooted devices
 type: tech-note
@@ -43,4 +43,3 @@ type: tech-note
 > Apparently there was a Samsung Wallet Digital Key update (probably v1.0.08.11) which causes it after a reboot as well as randomly every couple of hours. Disabling "Appear on top" for Samsung Wallet Digital Key fixed it for me.  
 >   
 > Uninstalling the update isn't a good permanent solution and you can't disable the app without root (meaning you probably don't want to disable it as it maybe could cause other issues). It can affect any device that has a tripped Know. Even formerly rooted devices running stock with a locked bootloader.
-

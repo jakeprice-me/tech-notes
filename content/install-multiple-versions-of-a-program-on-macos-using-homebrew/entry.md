@@ -14,14 +14,15 @@ pinned: false
 print: false
 series: 
 tags:
-  - python
   - homebrew
   - macos
+  - python
   - runtime
   - version
 title: Install Multiple Versions of a Program on MacOS using Homebrew
 type: tech-note
 ---
+
 Homebrew makes it really simple, I mostly use this for installing multiple versions of Python without the added complication of using Docker.
 
 Just install the version of the program/utility/tool you need by specifying it with an `@`.

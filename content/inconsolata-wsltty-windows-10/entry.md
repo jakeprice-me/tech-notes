@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [wsltty, inconsolata, fonts]
+tags:
+  - fonts
+  - inconsolata
+  - wsltty
 title: Inconsolata on wsltty on Windows 10
 type: tech-note
 ---
@@ -29,4 +32,3 @@ Then in wsltty set the font to `Inconsolata`, select `Regular` for the font styl
 I expect I could probably also just download from Google Fonts directly and accomplish the same thing.
 
 I've placed them on my work OneDrive account for backup as well.
-

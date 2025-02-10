@@ -14,12 +14,12 @@ pinned: false
 print: false
 series: 
 tags:
-  - openssl
-  - rsa
   - encryption
   - keys
+  - openssl
   - private-key
   - public-key
+  - rsa
 title: OpenSSL RSA Encryption
 type: tech-note
 ---
@@ -112,4 +112,3 @@ openssl rsautl -decrypt -in message.encrypted -inkey rsa.private
 ```
 
 You'll see the output of the decrypted message after running the command.
-

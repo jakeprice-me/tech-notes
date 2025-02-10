@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [unison, sync, find, temporary]
+tags:
+  - find
+  - sync
+  - temporary
+  - unison
 title: Remove all Temporary Unison Files
 type: tech-note
 ---
@@ -27,4 +31,3 @@ find my/ -type f -name *.unison.tmp
 # Find and delete:
 find my/ -type f -name *.unison.tmp -delete
 ```
-

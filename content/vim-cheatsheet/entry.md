@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [vim, cheatsheet, keys]
+tags:
+  - cheatsheet
+  - keys
+  - vim
 title: Vim Cheatsheet
 type: tech-note
 ---
@@ -47,4 +50,3 @@ zL                          Move view to the right.
 While in insert mode or command mode (the : prompt at the bottom of the editor), type CTRL + V then TAB.
 
 Using CTRL + V signals Vim that it should take the next character literally. Even in insert mode.
-

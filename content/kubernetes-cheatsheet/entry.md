@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [cheatsheet, kubernetes, orchestration]
+tags:
+  - cheatsheet
+  - kubernetes
+  - orchestration
 title: Kubernetes Cheatsheat
 type: tech-note
 ---
@@ -45,4 +48,3 @@ gpgkey=https://packages.cloud.google.com/yum/doc/yum-key.gpg https://packages.cl
 ```sh
 sudo dnf install kubectl
 ```
-

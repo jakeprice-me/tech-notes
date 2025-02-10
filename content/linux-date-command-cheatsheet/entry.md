@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [date, linux, shell]
+tags:
+  - date
+  - linux
+  - shell
 title: Linux Date Command
 type: tech-note
 ---
@@ -42,4 +45,3 @@ for i in {1..365}; do
     date '+%Y-%m-%d %a' -d "$START +$i days"
 done
 ```
-

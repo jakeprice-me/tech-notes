@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [dig, dns, resolver, unbound]
+tags:
+  - dig
+  - dns
+  - resolver
+  - unbound
 title: Specify DNS Resolver for dig Query
 type: tech-note
 ---
@@ -27,4 +31,3 @@ dig google.co.uk @10.19.90.5
 dig google.co.uk @10.19.90.1
 dig google.co.uk @1.1.1.1
 ```
-

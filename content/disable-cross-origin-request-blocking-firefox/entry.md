@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [cors, firefox, javascript]
+tags:
+  - cors
+  - firefox
+  - javascript
 title: Disable Cross-Origin Request Blocking on Firefox
 type: tech-note
 ---
@@ -32,4 +35,3 @@ It's only an issue when running locally, but a quick and easy way to resolve it 
 ```ini
 security.fileuri.strict_origin_policy: false
 ```
-

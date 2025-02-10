@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [python, requests, api]
+tags:
+  - api
+  - python
+  - requests
 title: Requests Python Library
 type: tech-note
 ---
@@ -26,4 +29,3 @@ Helpful for debugging.
 print(r.request.body)
 print(r.request.headers)
 ```
-

@@ -13,7 +13,12 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [lvm, logical-volume-group, partition, fedora, disk]
+tags:
+  - disk
+  - fedora
+  - logical-volume-group
+  - lvm
+  - partition
 title: Extending the Size of a Logical Volume Group
 type: tech-note
 ---
@@ -97,4 +102,3 @@ sdc
 └─sdc1                 ext4        1.0      backup ebc7b754-fa8f-4387-a979-a55f72a180e0
 zram0                                                                                                    [SWAP]
 ```
-

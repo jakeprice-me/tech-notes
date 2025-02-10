@@ -11,18 +11,18 @@ image:
 links:
   - https://www.lisenet.com/2019/ansible-generate-crypted-passwords-for-the-user-module/
 local_archive_links:
-  - attachments/20210205141932.html
+  - attachments/generate-crypted-passwords-for-ansible-user-module.html
 pinned: false
 print: false
 series: 
 tags:
   - ansible
-  - user
-  - module
-  - crypted
-  - vault
-  - password
   - credentials
+  - crypted
+  - module
+  - password
+  - user
+  - vault
 title: Generate Crypted Passwords for the Ansible User Module
 type: tech-note
 ---
@@ -93,4 +93,3 @@ To make the playbook idempotent, set `update_password: on_create`. This will onl
         - alice
         - vincent
 ```
-

@@ -14,13 +14,13 @@ pinned: false
 print: false
 series: 
 tags:
-  - virsh
-  - virtual-machine
   - domain
+  - maximum
   - memory
   - ram
   - vcpu
-  - maximum
+  - virsh
+  - virtual-machine
 title: Increase Memory & Virtual CPU on Virtual Machine
 type: tech-note
 ---
@@ -46,4 +46,3 @@ virsh setvcpus --domain <domain> --count 2 --config
 # Restart domain:
 virsh start <domain>
 ```
-

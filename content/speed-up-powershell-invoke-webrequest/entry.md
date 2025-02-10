@@ -13,7 +13,9 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [windows, powershell]
+tags:
+  - powershell
+  - windows
 title: Speed Up PowerShell Invoke-WebRequest
 type: tech-note
 ---
@@ -28,4 +30,3 @@ Invoke-WebRequest <params>
 ```
 
 The `$ProgressPreference` variable will only last as long as the current PowerShell session.
-

@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [bash, sed, loop, iterate]
+tags:
+  - bash
+  - iterate
+  - loop
+  - sed
 title: Loop Through Files and Search and Replace
 type: tech-note
 ---
@@ -25,4 +29,3 @@ for i in *.txt; do
   sed -i "s/Date::/date:/g" $i;
 done
 ```
-

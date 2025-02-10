@@ -17,8 +17,8 @@ tags:
   - aws
   - cloudwatch
   - linux
-  - monitoring
   - metric
+  - monitoring
 title: Install AWS CloudWatch Agent on Linux
 type: tech-note
 ---
@@ -116,4 +116,3 @@ tail -50f /opt/aws/amazon-cloudwatch-agent/logs/amazon-cloudwatch-agent.log
 ## Check the CloudWatch Console
 
 You should start seeing the logs you have specified in the `config.json` in the CloudWatch Console GUI.
-

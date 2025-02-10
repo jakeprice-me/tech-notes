@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [debian, samba, fileshare, smb]
+tags:
+  - debian
+  - fileshare
+  - samba
+  - smb
 title: Setup a Samba Fileshare on Debian
 type: tech-note
 ---
@@ -58,4 +62,3 @@ You can then connect as below.
 ```sh
 smb://<ip-address>/my
 ```
-

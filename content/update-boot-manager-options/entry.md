@@ -13,7 +13,9 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [bootloader, efiboot]
+tags:
+  - bootloader
+  - efiboot
 title: Update Boot Manager Options
 type: tech-note
 ---
@@ -46,4 +48,3 @@ If there's an entry you want to delete, you can delete it as follows, where `--b
 ``` sh
 $ efibootmgr --bootnum 4 --delete-bootnum
 ```
-

@@ -13,7 +13,9 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [comment, scripting]
+tags:
+  - comment
+  - scripting
 title: Script Comment Hierarchy
 type: tech-note
 ---
@@ -37,4 +39,3 @@ Nothing like this seems to exist, so I've come up with my own.
 
 # ____ Level 6 ________________________________________________________________
 ```
-

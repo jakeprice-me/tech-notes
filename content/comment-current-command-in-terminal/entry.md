@@ -13,7 +13,12 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [bash, shell, readline, shortcut, comment]
+tags:
+  - bash
+  - comment
+  - readline
+  - shell
+  - shortcut
 title: Comment the Current Command in the Terminal
 type: tech-note
 ---
@@ -29,4 +34,3 @@ $ sudo vim /etc/hosts
 # After pressing `Alt + #`:
 $ #sudo vim /etc/hosts
 ```
-

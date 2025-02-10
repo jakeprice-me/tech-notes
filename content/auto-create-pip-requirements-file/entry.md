@@ -11,15 +11,15 @@ image:
 links:
   - https://stackoverflow.com/questions/31684375/automatically-create-requirements-txt
 local_archive_links:
-  - attachments/20220129143003.html
+  - attachments/auto-create-pip-requirements-file.html
 pinned: false
 print: false
 series: 
 tags:
-  - python
-  - pip
-  - requirements
   - dependencies
+  - pip
+  - python
+  - requirements
 title: Automatically create a Pip requirements.txt
 type: tech-note
 ---
@@ -46,4 +46,3 @@ You can then install all those dependencies by pointing `pip` to the file.
 ```sh
 pip install -r requirements.txt
 ```
-

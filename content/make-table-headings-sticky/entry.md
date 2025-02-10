@@ -10,18 +10,19 @@ id: 20240225080301
 image: 
 links:
   - https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/
-local_archive_links: 
-  - attachments/20240225080301.html
+local_archive_links:
+  - attachments/make-table-headings-sticky.html
 pinned: false
 print: false
 series: 
 tags:
   - css
-  - tables
   - sticky
+  - tables
 title: Make Table Headings Sticky
 type: tech-note
 ---
+
 Handy tip on making table headings sticky:
 
 > You only need to add 2 CSS properties on your `thead`:

@@ -14,10 +14,10 @@ pinned: false
 print: false
 series: 
 tags:
-  - jq
-  - json
   - aws
   - filter
+  - jq
+  - json
   - query
 title: jq Filters
 type: tech-note
@@ -318,4 +318,3 @@ jq --raw-output '.prefixes[] | select(.service == "ROUTE53_HEALTHCHECKS") | .ip_
   ]
 }
 ```
-

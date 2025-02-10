@@ -14,9 +14,9 @@ pinned: false
 print: false
 series: 
 tags:
-  - qrencode
   - credentials
   - password
+  - qrencode
   - wi-fi
 title: Create a QR Code
 type: tech-note

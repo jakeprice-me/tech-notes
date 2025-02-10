@@ -16,8 +16,8 @@ series:
 tags:
   - android
   - hosts
-  - root
   - magisk
+  - root
 title: Update hosts File on Rooted Android
 type: tech-note
 ---

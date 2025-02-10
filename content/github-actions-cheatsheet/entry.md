@@ -15,10 +15,10 @@ pinned: false
 print: false
 series: 
 tags:
-  - github
   - ci-cd
-  - pipeline
+  - github
   - github-actions
+  - pipeline
 title: GitHub Actions Cheatsheet
 type: tech-note
 ---
@@ -32,4 +32,3 @@ Create a secret called `ACTIONS_RUNNER_DEBUG` and set to `true`.
 ### Step
 
 Create a secret called `ACTIONS_SETUP_DEBUG` and set to `true`.
-

@@ -14,9 +14,9 @@ pinned: false
 print: false
 series: 
 tags:
-  - hledger
   - accounting
   - finance
+  - hledger
   - money
 title: hledger Cheatsheet
 type: tech-note
@@ -83,4 +83,3 @@ hledger accounts --file <journal-file>
 # Print accounts hierarchy tree:
 hledger accounts --file journals/2024.journal --tree
 ```
-

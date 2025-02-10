@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [vim, remote, scp]
+tags:
+  - remote
+  - scp
+  - vim
 title: Edit over SSH with Vim
 type: tech-note
 ---
@@ -40,4 +43,3 @@ vim scp://<name>//home/<username>/<file>.py
 ```
 
 If you have an issue with the statusbar not displaying properly you can just refresh the screen with `^L`.
-

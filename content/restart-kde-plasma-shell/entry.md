@@ -13,7 +13,9 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [kde, plasma]
+tags:
+  - kde
+  - plasma
 title: Restart KDE Plasma
 type: tech-note
 ---
@@ -28,4 +30,3 @@ kquitapp5 plasmashell || killall plasmashell && kstart5 plasmashell
 > 2. you can skip the `kquitapp5 plasmashell ||` part if you don't want to be stuck in the timeout when plasmashell is not responding.
 
 Original Source: [kwin - Can I restart the KDE Plasma Desktop without logging out? - Ask Ubuntu](https://askubuntu.com/questions/481329/can-i-restart-the-kde-plasma-desktop-without-logging-out)
-

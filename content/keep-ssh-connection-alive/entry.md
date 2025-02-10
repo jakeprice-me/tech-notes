@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [ssh, connection, linux]
+tags:
+  - connection
+  - linux
+  - ssh
 title: Keep SSH Connection Alive
 type: tech-note
 ---
@@ -32,4 +35,3 @@ Alternatively you can add it the your ssh config file for all hosts:
 Host *
     ServerAliveInterval 60
 ```
-

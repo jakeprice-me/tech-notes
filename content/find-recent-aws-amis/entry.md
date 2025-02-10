@@ -13,7 +13,9 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [aws, ami]
+tags:
+  - ami
+  - aws
 title: Find The Most Recent AWS AMI
 type: tech-note
 ---
@@ -99,4 +101,3 @@ You would get a nice table back like the below.
 |  2019-01-30T23:43:59.000Z|  CentOS Linux 7 x86_64 HVM EBS ENA 1901_01 |  ebs        |  ami-0ff760d16d9497662 |  CentOS Linux 7 x86_64 HVM EBS ENA 1901_01-b7ee8a69-ee97-4a49-9e68-afaee216db2e-ami-05713873c6794f575.4  |  x86_64    |  679593333241 |  hvm             |
 +--------------------------+--------------------------------------------+-------------+------------------------+----------------------------------------------------------------------------------------------------------+------------+---------------+------------------+
 ```
-

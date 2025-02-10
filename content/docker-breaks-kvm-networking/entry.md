@@ -11,14 +11,14 @@ image:
 links:
   - https://wiki.archlinux.org/title/Docker#Starting_Docker_breaks_KVM_bridged_networking
 local_archive_links:
-  - attachments/20230123162835.html
+  - attachments/docker-breaks-kvm-networking.html
 pinned: false
 print: false
 series: 
 tags:
+  - bridge
   - docker
   - kvm
-  - bridge
   - network
 title: Fix for Docker Breaking KVM Networking
 type: tech-note
@@ -39,4 +39,3 @@ In the end I needed to run the `iptables` rule _instead_, and that got things wo
 ```sh
 iptables -I FORWARD -i br0 -o br0 -j ACCEPT
 ```
-

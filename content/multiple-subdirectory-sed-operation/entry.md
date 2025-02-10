@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [loop, iterate, sed, bash]
+tags:
+  - bash
+  - iterate
+  - loop
+  - sed
 title: Multiple Subdirectory sed Operation
 type: tech-note
 ---
@@ -30,4 +34,3 @@ for directory in *; do
     done
 done
 ```
-

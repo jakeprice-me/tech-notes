@@ -13,7 +13,12 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [authelia, caddy, security, login, authentication]
+tags:
+  - authelia
+  - authentication
+  - caddy
+  - login
+  - security
 title: Authelia & Caddy Integration
 type: tech-note
 ---
@@ -68,4 +73,3 @@ users:
 # https://www.authelia.com/reference/guides/passwords/#passwords
 docker exec -it <container-name> authelia hash-password
 ```
-

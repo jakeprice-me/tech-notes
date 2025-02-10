@@ -15,10 +15,10 @@ pinned: false
 print: false
 series: 
 tags:
-  - json
-  - python
-  - minify
   - github
+  - json
+  - minify
+  - python
 title: Convert JSON to Minified JSON with Python
 type: tech-note
 ---
@@ -32,4 +32,3 @@ pip install jsmin
 # Minify JSON:
 python3 -m jsmin file.json > file.min.json
 ```
-

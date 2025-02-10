@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [sed, bash, linux]
+tags:
+  - bash
+  - linux
+  - sed
 title: sed Cheatsheet
 type: tech-note
 ---
@@ -34,4 +37,3 @@ for file in *.md; do BOOK=$(basename --suffix=.md $file) && sed --in-place=.orig
 # Replace ## Chapter with frontmatter book name:
 for file in *.md; do BOOK=$(grep "book: " $file | sed 's/book: //'); echo $BOOK && sed --in-place=.orig "s/## Chapter/## $BOOK/" $file ; done
 ```
-

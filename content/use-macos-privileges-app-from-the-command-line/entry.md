@@ -11,16 +11,16 @@ image:
 links:
   - https://github.com/SAP/macOS-enterprise-privileges/wiki/Frequently-Asked-Questions#how-do-i-use-privilegesapp-in-a-script-or-from-the-command-line
 local_archive_links:
-  - attachments/20230606120753.html
+  - attachments/use-macos-privileges-app-from-the-command-line.html
 pinned: false
 print: false
 series: 
 tags:
   - admin
-  - sudo
-  - privilege
   - command-line
   - github
+  - privilege
+  - sudo
 title: Use MacOS Privileges App from the Command Line
 type: tech-note
 ---
@@ -36,4 +36,4 @@ In most places I've worked where I've had a MacBook, you can use the [Privileges
 
 # Disable admin:
 /Applications/Privileges.app/Contents/Resources/PrivilegesCLI --remove
-``` 
+```

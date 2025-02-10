@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [cheatsheet, shortcut, tmux]
+tags:
+  - cheatsheet
+  - shortcut
+  - tmux
 title: Tmux Cheatsheet
 type: tech-note
 ---
@@ -22,4 +25,3 @@ type: tech-note
 # tmux move window (-s = source, -t = target)
 move-window -s 3 -t 99
 ```
-

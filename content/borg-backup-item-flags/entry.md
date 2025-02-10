@@ -11,17 +11,17 @@ image:
 links:
   - https://borgbackup.readthedocs.io/en/stable/usage/create.html#item-flags
 local_archive_links:
-  - attachments/20221026134907.html
+  - attachments/borg-backup-item-flags.html
 pinned: false
 print: false
 series: 
 tags:
-  - borg
   - backup
+  - borg
   - character
+  - flag
   - status
   - type
-  - flag
 title: Borg Backup Item Flags
 type: tech-note
 ---
@@ -53,4 +53,3 @@ When Borg Backup runs each file will show a status character, these are detailed
 > - `?` = missing status code (if you see this, please file a bug report!)
 >
 > — [borg create — Borg - Deduplicating Archiver 1.2.3 documentation](https://borgbackup.readthedocs.io/en/stable/usage/create.html#item-flags)
-

@@ -14,10 +14,10 @@ pinned: false
 print: false
 series: 
 tags:
-  - samsung
+  - firmware
   - galaxy-s20
   - odin
-  - firmware
+  - samsung
 title: Flash Samsung Stock Firmware with Odin
 type: tech-note
 ---
@@ -91,4 +91,3 @@ After a while you should see the "SAMSUNG" boot logo, and the ROM should boot.
 
 > [!tip]
 > On Android 13, to stop the intermittant "Access denied" pop-up, disable "Samsung Wallet Digital Key" from being allowed to "Appear on top".
-

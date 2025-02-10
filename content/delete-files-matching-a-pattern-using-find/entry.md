@@ -13,7 +13,12 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [find, delete, file, directory, pattern]
+tags:
+  - delete
+  - directory
+  - file
+  - find
+  - pattern
 title: Delete files matching a pattern using find
 type: tech-note
 ---
@@ -32,4 +37,3 @@ $ find <path-to-search> -type f -name '<pattern>' #-delete
 # Directories only:
 $ find <path-to-search> -type d -name '<pattern>' #-delete
 ```
-

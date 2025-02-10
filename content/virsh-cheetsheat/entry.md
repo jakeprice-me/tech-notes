@@ -235,4 +235,3 @@ Apparently Ubuntu includes `export LIBVIRT_DEFAULT_URI=qemu:///system` in the /e
 ---
 
 Of course on Fedora 35 server. firewalld is running!!! So I need to add a rule to allow access to vnc over port 5901 `nmap 10.19.90.20 -p 5901` will let you check. Just `sudo systemctl stop firewalld` and then check status `sudo firewall-cmd --state`. Really I need to add a firewall rule but that will do for now. More [here](https://docs.fedoraproject.org/en-US/quick-docs/firewalld/)
-

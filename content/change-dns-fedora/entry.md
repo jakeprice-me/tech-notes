@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [dns, fedora, network-manager, resolv-conf]
+tags:
+  - dns
+  - fedora
+  - network-manager
+  - resolv-conf
 title: Change DNS on Fedora
 type: tech-note
 ---
@@ -61,4 +65,3 @@ You may need to also run the below.
 ```sh
 sudo systemctl restart NetworkManager
 ```
-

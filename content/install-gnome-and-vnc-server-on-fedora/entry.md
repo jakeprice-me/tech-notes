@@ -14,10 +14,10 @@ pinned: false
 print: false
 series: 
 tags:
-  - fedora
-  - vnc
-  - gnome
   - desktop-environment
+  - fedora
+  - gnome
+  - vnc
 title: Install GNOME and VNC Server on Fedora
 type: tech-note
 ---

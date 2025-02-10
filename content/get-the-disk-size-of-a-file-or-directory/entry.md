@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [file, directory, size]
+tags:
+  - directory
+  - file
+  - size
 title: Get the disk size of a file or directory
 type: tech-note
 ---
@@ -23,4 +26,3 @@ Return the disk size of a file or directory.
 ```sh
 $ du --summarize --human-readable <path>
 ```
-

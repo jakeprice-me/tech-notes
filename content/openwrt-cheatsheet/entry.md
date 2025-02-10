@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [openwrt, router, command-line]
+tags:
+  - command-line
+  - openwrt
+  - router
 title: OpenWRT Cheatsheet
 type: tech-note
 ---

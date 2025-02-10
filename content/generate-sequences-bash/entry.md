@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [bash, loop, iterate]
+tags:
+  - bash
+  - iterate
+  - loop
 title: Generate Sequences in Bash
 type: tech-note
 ---
@@ -27,4 +30,3 @@ for i in {1..200}; do <command>; done
 # Example:
 for i in {1..200}; do printf "id: %s\n" "$(uuidgen)"; done
 ```
-

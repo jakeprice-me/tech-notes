@@ -14,9 +14,9 @@ pinned: false
 print: false
 series: 
 tags:
-  - linux
-  - fonts
   - font-cache
+  - fonts
+  - linux
 title: Install Fonts on Linux and Update Font Cache
 type: tech-note
 ---

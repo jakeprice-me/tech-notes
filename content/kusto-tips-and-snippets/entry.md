@@ -14,11 +14,11 @@ pinned: false
 print: false
 series: 
 tags:
-  - kusto
   - azure
-  - query
+  - kusto
   - log
   - metric
+  - query
 title: Kusto Tips & Snippets
 type: tech-note
 ---
@@ -70,4 +70,3 @@ Perf
 | summarize Used_Space_Percent = max(CounterValue) by ComputerDrive, bin(TimeGenerated, 1h)
 | render timechart 
 ```
-

@@ -14,11 +14,11 @@ pinned: false
 print: false
 series: 
 tags:
-  - borg
   - backup
+  - borg
+  - cheatsheet
   - deduplication
   - encryption
-  - cheatsheet
 title: Borg Cheatsheet
 type: tech-note
 ---

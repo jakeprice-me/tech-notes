@@ -13,7 +13,14 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [xclip, xsel, clipboard, stdout, stdin, copy, paste]
+tags:
+  - clipboard
+  - copy
+  - paste
+  - stdin
+  - stdout
+  - xclip
+  - xsel
 title: Send Output to Clipboard using xclip
 type: tech-note
 ---
@@ -27,4 +34,3 @@ xclip -selection clip /tmp/owm.json
 # Send pipe to clipboard:
 rg --files-with-matches "^tags: \[\]" *.md | xclip -selection clip
 ```
-

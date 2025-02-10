@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [redhat, aws, ami, command-line]
+tags:
+  - ami
+  - aws
+  - command-line
+  - redhat
 title: List Red Hat AMIs using AWS CLI
 type: tech-note
 ---
@@ -23,4 +27,3 @@ aws ec2 describe-images --owners 309956199498 --query 'sort_by(Images, &Creation
 ```
 
 Make sure you leave the `owners` as is (or update it for another distro). But you can change `filters` and `region` as required.
-

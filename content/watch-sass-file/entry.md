@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [sass, scss, css]
+tags:
+  - css
+  - sass
+  - scss
 title: Watch a Sass File
 type: tech-note
 ---
@@ -21,4 +24,3 @@ type: tech-note
 ```sh
 sass --watch path/style.scss:path/style.css --style compressed
 ```
-

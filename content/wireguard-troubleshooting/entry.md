@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [vpn, wireguard, troubleshoot]
+tags:
+  - troubleshoot
+  - vpn
+  - wireguard
 title: WireGuard Troubleshooting
 type: tech-note
 ---
@@ -55,4 +58,3 @@ peer: <value>
   latest handshake: 7 seconds ago
   transfer: 68.22 KiB received, 267.18 KiB sent
 ```
-

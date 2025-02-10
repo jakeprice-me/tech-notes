@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [tmux, vim, shell, alias]
+tags:
+  - alias
+  - shell
+  - tmux
+  - vim
 title: tmux Split Window Shell Alias
 type: tech-note
 ---
@@ -33,4 +37,3 @@ This is a super handy shell alias I found on Reddit.
 > — [Opening an editor in a new pane for quick editing : tmux](https://www.reddit.com/r/tmux/comments/hfn4h6/opening_an_editor_in_a_new_pane_for_quick_editing/)
 
 I've employed `edit` instead of `e`. With Vim, once you've opened the Vim split you can use the `fzf` plugin to search for a file and open it in that window. That means if you don't want to enter the path you can quickly open the split, and _then_ find the file with `fzf`.
-

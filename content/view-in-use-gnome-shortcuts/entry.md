@@ -11,15 +11,15 @@ image:
 links:
   - https://askubuntu.com/questions/1317701/list-all-gnome-shortcuts-currently-in-use
 local_archive_links:
-  - attachments/20220219163400.html
+  - attachments/view-in-use-gnome-shortcuts.html
 pinned: false
 print: false
 series: 
 tags:
-  - gnome
-  - shortcut
-  - gsettings
   - dconf
+  - gnome
+  - gsettings
+  - shortcut
 title: View All Gnome Shortcuts
 type: tech-note
 ---
@@ -38,4 +38,3 @@ org.gnome.settings-daemon.plugins.media-keys magnifier ['<Alt><Super>8']
 org.gnome.settings-daemon.plugins.media-keys screensaver ['<Super>l']
 org.gnome.desktop.wm.keybindings switch-group ['<Super>Above_Tab', '<Alt>Above_Tab']
 ```
-

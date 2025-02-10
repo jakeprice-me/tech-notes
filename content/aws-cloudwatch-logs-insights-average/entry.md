@@ -13,7 +13,12 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [syntax, cloudwatch, logs, insights, average]
+tags:
+  - average
+  - cloudwatch
+  - insights
+  - logs
+  - syntax
 title: AWS CloudWatch Insights Average
 type: tech-note
 ---
@@ -39,4 +44,3 @@ The below will output the average used memory as a single figure only.
 parse @message "usedMemory=*," as usedmem
 | avg(usedmem)
 ```
-

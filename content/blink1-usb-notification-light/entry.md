@@ -10,16 +10,16 @@ id: 20220204202934
 image: 
 links:
   - https://github.com/todbot/blink1-python
-local_archive_links: 
-  - attachments/20220204202934.html
+local_archive_links:
+  - attachments/blink1-usb-notification-light.html
 pinned: false
 print: false
 series: 
 tags:
   - blink1
-  - usb
-  - notification
   - github
+  - notification
+  - usb
 title: blink(1) USB Notification Light
 type: tech-note
 ---
@@ -40,4 +40,3 @@ $ sudo udevadm trigger
 blink1-flash
 blink1-shine
 ```
-

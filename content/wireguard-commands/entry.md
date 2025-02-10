@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [wireguard, troubleshoot, vpn]
+tags:
+  - troubleshoot
+  - vpn
+  - wireguard
 title: WireGuard Commands
 type: tech-note
 ---
@@ -40,4 +43,3 @@ sudo systemctl start wg-quick@wg0.service
 sudo systemctl stop wg-quick@wg0.service
 sudo systemctl restart wg-quick@wg0.service
 ```
-

@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [telegram, bot, chat-id, api]
+tags:
+  - api
+  - bot
+  - chat-id
+  - telegram
 title: Get Telegram Bot Chat ID
 type: tech-note
 ---
@@ -23,4 +27,3 @@ Send a message to your Telegram Bot first using the Bot token, then you can retr
 ```sh
 curl --silent --request GET https://api.telegram.org/bot<bot_api_token>/getUpdates | jq '.result[]|.message.chat.id'
 ```
-

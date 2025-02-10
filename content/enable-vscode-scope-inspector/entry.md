@@ -13,7 +13,9 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [vscode, editor]
+tags:
+  - editor
+  - vscode
 title: Enable Scope Inspector in VS Code
 type: tech-note
 ---
@@ -30,4 +32,3 @@ You can also create a keybinding for it.
   "command": "editor.action.inspectTMScopes"
 }
 ```
-

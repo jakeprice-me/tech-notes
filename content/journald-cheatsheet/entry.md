@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [journald, log, follow]
+tags:
+  - follow
+  - journald
+  - log
 title: journald Cheatsheet
 type: tech-note
 ---
@@ -29,4 +32,3 @@ $ sudo journalctl --follow --unit tailscaled
 $ journalctl --since "2022-10-14"
 $ journalctl --since "2022-10-14 21:55"
 ```
-

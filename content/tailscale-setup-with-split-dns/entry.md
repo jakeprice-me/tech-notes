@@ -14,7 +14,13 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [vpn, ppn, wireguard, tailscale, network, router]
+tags:
+  - network
+  - ppn
+  - router
+  - tailscale
+  - vpn
+  - wireguard
 title: Tailscale Setup & Split DNS
 type: tech-note
 ---

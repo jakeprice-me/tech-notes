@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [docker, container, cheatsheet]
+tags:
+  - cheatsheet
+  - container
+  - docker
 title: Docker Cheatsheet
 type: tech-note
 ---

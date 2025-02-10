@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [rsa, token, qrcode, logical-access]
+tags:
+  - logical-access
+  - qrcode
+  - rsa
+  - token
 title: RSA Token to QR Code
 type: tech-note
 ---

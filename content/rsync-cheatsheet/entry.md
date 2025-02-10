@@ -14,8 +14,8 @@ pinned: false
 print: false
 series: 
 tags:
-  - rsync
   - backup
+  - rsync
 title: rsync Cheatsheet
 type: tech-note
 ---
@@ -24,4 +24,3 @@ type: tech-note
 # Backup `my` directory to `jp-archive-1` external drive.
 rsync --verbose --recursive --perms --xattrs --times --human-readable $HOME/my /run/media/jprice/jp-archive-1/backups/
 ```
-

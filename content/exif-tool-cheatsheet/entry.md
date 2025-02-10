@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [exif, photograph, video, tag]
+tags:
+  - exif
+  - photograph
+  - tag
+  - video
 title: Exif Tool Cheatsheat
 type: tech-note
 ---
@@ -27,4 +31,3 @@ exiftool -d %Y%m%d_%H%M%S-c.%%e "-testname<CreateDate" .
 # Rename all files with "CreateDate" in directory and add copy number if required:
 exiftool -d %Y%m%d_%H%M%S%%-c.%%e "-filename<CreateDate" .
 ```
-

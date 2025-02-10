@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [find, chmod, recursive, permission]
+tags:
+  - chmod
+  - find
+  - permission
+  - recursive
 title: Recursively Change Directory and File Permissions
 type: tech-note
 ---
@@ -27,4 +31,3 @@ find <path> -type d -exec chmod 755 {} \;
 # Operate on files:
 find <path> -type f -exec chmod 644 {} \;
 ```
-

@@ -13,7 +13,13 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [logitech, mx, keyboard, bolt, macos, factory-reset]
+tags:
+  - bolt
+  - factory-reset
+  - keyboard
+  - logitech
+  - macos
+  - mx
 title: Reset Logitech MX Keys Keyboard
 type: tech-note
 ---

@@ -11,18 +11,18 @@ image:
 links:
   - https://wiki.archlinux.org/title/Network_bridge#With_NetworkManager
 local_archive_links:
-  - attachments/20211119213636.html
+  - attachments/create-network-manager-bridge.html
 pinned: false
 print: false
 series: 
 tags:
   - arch-wiki
-  - nmcli
-  - network-manager
+  - br0
   - bridge
   - ethernet
   - interface
-  - br0
+  - network-manager
+  - nmcli
 title: Creating a Bridge with NetworkManager
 type: tech-note
 ---

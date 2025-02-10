@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [azure, command-line, cheatsheet]
+tags:
+  - azure
+  - cheatsheet
+  - command-line
 title: Azure CLI Cheatsheet
 type: tech-note
 ---
@@ -40,4 +43,3 @@ az vm image list-offers --publisher Canonical --location uksouth --output table
 # Find VM image skus based of an offer:
 az vm image list-skus --publisher Canonical --offer 0001-com-ubuntu-server-jammy --location uksouth --output table
 ```
-

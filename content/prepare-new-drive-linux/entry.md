@@ -13,7 +13,12 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [format, ext4, hard-drive, linux, disk]
+tags:
+  - disk
+  - ext4
+  - format
+  - hard-drive
+  - linux
 title: Prepare a New Hard Drive in Linux
 type: tech-note
 ---
@@ -97,4 +102,3 @@ Finally to ensure the drive is mounted on startup, we'll append the below to `/e
 ```sh
 UUID=<uuid_here> /mnt/backup ext4 defaults 0 2
 ```
-

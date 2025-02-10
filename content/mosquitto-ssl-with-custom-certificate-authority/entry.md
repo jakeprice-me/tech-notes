@@ -11,15 +11,15 @@ image:
 links:
   - http://www.steves-internet-guide.com/mosquitto-tls/
 local_archive_links:
-  - attachments/20231122120220.html
+  - attachments/mosquitto-ssl-with-custom-certificate-authority.html
 pinned: false
 print: false
 series: 
 tags:
+  - certificate-authority
   - mosquitto
   - mqtt
   - self-signed
-  - certificate-authority
 title: Mosquitto SSL with Custom Certificate Authority
 type: tech-note
 ---

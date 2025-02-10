@@ -13,7 +13,9 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [openvpn, ubuntu]
+tags:
+  - openvpn
+  - ubuntu
 title: Connect to an OpenVPN Tunnel Using the CLI
 type: tech-note
 ---
@@ -25,4 +27,3 @@ $ sudo openvpn --config <path-to-openvpn-config-file>
 ```
 
 The `sudo` is important, otherwise it may fail to connect.
-

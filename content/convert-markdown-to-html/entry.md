@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [pandoc, convert, markdown, html]
+tags:
+  - convert
+  - html
+  - markdown
+  - pandoc
 title: Convert Markdown to HTML
 type: tech-note
 ---
@@ -22,4 +26,3 @@ type: tech-note
 # Convert Markdown to HTML:
 pandoc --output=<output>.html --to=html5 --standalone <input>.md
 ```
-

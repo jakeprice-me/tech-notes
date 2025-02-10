@@ -14,10 +14,10 @@ pinned: false
 print: false
 series: 
 tags:
-  - telegram
-  - home-assistant
   - bot
+  - home-assistant
   - notification
+  - telegram
 title: Multiple Telegram Bots in Home Assistant
 type: tech-note
 ---

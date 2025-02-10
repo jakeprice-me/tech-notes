@@ -14,7 +14,12 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [github, gh, command-line, git, cheatsheet]
+tags:
+  - cheatsheet
+  - command-line
+  - gh
+  - git
+  - github
 title: GitHub CLI Cheatsheet
 type: tech-note
 ---
@@ -50,4 +55,3 @@ gh secret --repo <org>/<repo> delete AAS_PUBLISH_PROFILE
 # Clone repo:
 gh repo clone <org>/<repo>
 ```
-

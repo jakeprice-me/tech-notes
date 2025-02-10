@@ -11,17 +11,17 @@ image:
 links:
   - https://old.reddit.com/r/MacOS/comments/q9d772/homebrew_chromium_is_damaged_and_cant_be_openend/
 local_archive_links:
-  - attachments/20220109174101.html
+  - attachments/macos-chromium-damaged-cant-be-opened-fix.html
 pinned: false
 print: false
 series: 
 tags:
-  - macos
+  - application
+  - attribute
   - chromium
   - damaged
+  - macos
   - xattr
-  - attribute
-  - application
 title: Fix "... Damaged Can't be Opened" on MacOS
 type: tech-note
 ---
@@ -31,4 +31,3 @@ How to fix "Chromium is Damaged Can't Be Opened".
 ```sh
 xattr -cr /Applications/Chromium.app
 ```
-

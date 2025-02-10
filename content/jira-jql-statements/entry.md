@@ -14,9 +14,9 @@ pinned: false
 print: false
 series: 
 tags:
+  - issue
   - jira
   - jql
-  - issue
   - ticket
 title: Jira JQL Statements
 type: tech-note

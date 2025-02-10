@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [regex, bash, rename, perl]
+tags:
+  - bash
+  - perl
+  - regex
+  - rename
 title: Bulk Rename Regex Pattern
 type: tech-note
 ---
@@ -23,4 +27,3 @@ Make sure you've installed the Perl rename tool: `sudo dnf install prename`.
 ```sh
 prename --verbose 's/~\d{8}-\d{6}//;' *
 ```
-

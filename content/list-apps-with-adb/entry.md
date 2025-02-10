@@ -13,7 +13,13 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [adb, android, app, search, find, filter]
+tags:
+  - adb
+  - android
+  - app
+  - filter
+  - find
+  - search
 title: List Apps with ADB
 type: tech-note
 ---
@@ -25,4 +31,3 @@ adb shell pm list packages -f -s | sort
 # Search for and list:
 adb shell "pm list packages -f tplink"
 ```
-

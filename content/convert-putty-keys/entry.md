@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [putty, ppk, pem, ssh]
+tags:
+  - pem
+  - ppk
+  - putty
+  - ssh
 title: Convert Putty Keys
 type: tech-note
 ---
@@ -47,4 +51,3 @@ puttygen <filename>.pem -o <filename>.ppk -O private
 # Public
 puttygen <filename>.pem -o <filename>.ppk -O public
 ```
-

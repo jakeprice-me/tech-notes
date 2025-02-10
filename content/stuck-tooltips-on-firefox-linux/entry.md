@@ -10,17 +10,17 @@ id: 20221227204231
 image: 
 links:
   - https://bugzilla.mozilla.org/show_bug.cgi?id=1569439
-local_archive_links: 
-  - attachments/20221227204231.html
+local_archive_links:
+  - attachments/stuck-tooltips-on-firefox-linux.html
 pinned: false
 print: false
 series: 
 tags:
-  - firefox
+  - bug
   - fedora
+  - firefox
   - linux
   - tooltip
-  - bug
 title: Stuck Tooltips on Firefox Linux
 type: tech-note
 ---
@@ -30,4 +30,3 @@ Basically, hover over a link on a page in Firefox and wait for the tooltip to di
 As of 2023-11-29 this is still happening for me on Fedora Linux 38, running Gnome 44.5 and Firefox 118.0.2.
 
 As a temporary, if not sometimes inconvenient fix, I've set `browser.chrome.toolbar_tips` to `true` in about:config as per [here](https://bugzilla.mozilla.org/show_bug.cgi?id=1569439#c28)
-

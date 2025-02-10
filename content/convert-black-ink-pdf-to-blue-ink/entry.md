@@ -11,19 +11,19 @@ image:
 links:
   - https://superuser.com/questions/202935/how-can-i-print-out-a-pdf-substituting-pixels-for-blue-pixels
 local_archive_links:
-  - attachments/20240604171145.html
+  - attachments/convert-black-ink-pdf-to-blue-ink.html
 pinned: false
 print: false
 series: 
 tags:
-  - printer
-  - low-ink
   - black
   - blue
-  - link
-  - imagemagick
-  - convert
   - colour
+  - convert
+  - imagemagick
+  - link
+  - low-ink
+  - printer
 title: Convert Black Ink PDF to Blue Ink
 type: tech-note
 ---

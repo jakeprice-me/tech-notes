@@ -14,9 +14,9 @@ pinned: false
 print: false
 series: 
 tags:
+  - image
   - ocr
   - tesseract
-  - image
   - text
 title: OCR with Tesseract
 type: tech-note

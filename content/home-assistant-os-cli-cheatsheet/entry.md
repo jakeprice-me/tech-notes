@@ -14,7 +14,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [home-assistant, haos, command-line, cheatsheet]
+tags:
+  - cheatsheet
+  - command-line
+  - haos
+  - home-assistant
 title: Home Assistant OS CLI Cheatsheet
 type: tech-note
 ---
@@ -59,4 +63,3 @@ ha host update
 ha hardware info
 ha hardware audio
 ```
-

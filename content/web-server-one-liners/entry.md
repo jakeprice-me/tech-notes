@@ -13,7 +13,12 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [web-server, python, php, android, termux]
+tags:
+  - android
+  - php
+  - python
+  - termux
+  - web-server
 title: Web Server One Liners
 type: tech-note
 ---
@@ -30,4 +35,3 @@ python -m http.server 8000
 ```
 
 After starting the web server, you can access content at [127.0.0.1:8000](http://127.0.0.1:8000).
-

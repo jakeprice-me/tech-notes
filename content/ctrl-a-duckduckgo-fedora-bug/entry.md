@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [shortcut, keyboard, duckduckgo, fedora]
+tags:
+  - duckduckgo
+  - fedora
+  - keyboard
+  - shortcut
 title: Ctrl-A and DuckDuckGo Fedora Bug
 type: tech-note
 ---
@@ -29,4 +33,3 @@ It's caused by having `Pointer Location` turned on in GNOME:
 > prefix (e.g. Ctrl+C for copy) unusable. The issue is gone after we stop invoking this gsd plugin. 
 >
 > — https://www.reddit.com/r/duckduckgo/comments/a4s35t/cannot_use_ctrl_prefix_key_shortcuts_in/
-

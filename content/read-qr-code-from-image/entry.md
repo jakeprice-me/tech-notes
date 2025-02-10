@@ -13,7 +13,9 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [qrcode, zbar]
+tags:
+  - qrcode
+  - zbar
 title: Read QR Code from Image
 type: tech-note
 ---
@@ -25,4 +27,3 @@ sudo dnf install zbar
 # Read and display QR code contents:
 zbarimg <filename>
 ```
-

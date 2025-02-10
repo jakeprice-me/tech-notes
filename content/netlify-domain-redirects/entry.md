@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [netlify, dns, domain, redirection]
+tags:
+  - dns
+  - domain
+  - netlify
+  - redirection
 title: Netlify Domain Redirects
 type: tech-note
 ---
@@ -50,4 +54,3 @@ curl -svo /dev/null https://jakeprice.tech  2>&1 | egrep '< (HTTP|location)'
 < HTTP/2 301
 < location: https://jacobprice.tech/
 ```
-

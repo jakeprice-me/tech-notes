@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [macos, theme, dark-mode]
+tags:
+  - dark-mode
+  - macos
+  - theme
 title: Set macOS Theme for Specific Apps
 type: tech-note
 ---
@@ -32,4 +35,3 @@ defaults write com.microsoft.Outlook NSRequiresAquaSystemAppearance -bool no
 # Reset mode:
 defaults delete <Bundle-Identifier> NSRequiresAquaSystemAppearance
 ```
-

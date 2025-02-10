@@ -11,17 +11,17 @@ image:
 links:
   - https://stackoverflow.com/questions/51957907/avoid-no-newline-at-end-of-file-in-git-diff
 local_archive_links:
-  - attachments/20231123171326.html
+  - attachments/fix-no-newline-at-end-of-file-in-git-diff.html
 pinned: false
 print: false
 series: 
 tags:
-  - git
-  - newline
-  - diff
   - crlf
+  - diff
+  - git
   - if
   - line-ending
+  - newline
   - noeol
 title: Fix no newline at end of file in Git diff
 type: tech-note

@@ -16,10 +16,10 @@ pinned: false
 print: false
 series: 
 tags:
-  - unbound
   - dns
   - recursive
   - resolve
+  - unbound
 title: Verify if Unbound is Resolving DNS Queries Locally
 type: tech-note
 ---

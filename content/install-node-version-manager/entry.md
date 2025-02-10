@@ -14,10 +14,10 @@ pinned: false
 print: false
 series: 
 tags:
-  - nvm
-  - npm
-  - node
   - javascript
+  - node
+  - npm
+  - nvm
 title: Install Node Version Manager
 type: tech-note
 ---
@@ -79,4 +79,3 @@ You can default any version downloaded.
 ``` bash
 nvm alias default v12.15.0
 ```
-

@@ -13,7 +13,9 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [airflow, apache]
+tags:
+  - airflow
+  - apache
 title: Start Airflow
 type: tech-note
 ---

@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [git, conventional-commits, type]
+tags:
+  - conventional-commits
+  - git
+  - type
 title: Conventional Commits Types
 type: tech-note
 ---

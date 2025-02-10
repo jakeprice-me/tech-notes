@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [fedora, linux, xrdp, windows]
+tags:
+  - fedora
+  - linux
+  - windows
+  - xrdp
 title: Connect to Fedora from Windows with xRDP
 type: tech-note
 ---
@@ -32,4 +36,3 @@ sudo firewall-cmd --reload
 Get the machine's IP address `ip addr` and connect to it with RDP from Windows.
 
 If you get multiple prompts to authorise when opening Firefox, [uninstall](https://bugzilla.redhat.com/show_bug.cgi?id=1478345) `pcsc` by running `dnf remove -y pcsc*`.
-

@@ -14,10 +14,10 @@ pinned: false
 print: false
 series: 
 tags:
-  - pdf
   - merge
-  - poppler-utils
+  - pdf
   - pdfunite
+  - poppler-utils
 title: Merge Multiple PDF's into One PDF
 type: tech-note
 ---

@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [systemctl, systemd, wrap, log]
+tags:
+  - log
+  - systemctl
+  - systemd
+  - wrap
 title: Wrap systemctl output
 type: tech-note
 ---
@@ -23,4 +27,3 @@ If you're checking the logs of a systemd service, and they are going off the scr
 ```sh
 $ sudo systemctl status <service> --full --no-pager
 ```
-

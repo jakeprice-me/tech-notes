@@ -11,14 +11,14 @@ image:
 links:
   - https://en.wikipedia.org/wiki/Man_page#Manual_sections
 local_archive_links:
-  - attachments/20190113163700.html
+  - attachments/man-page-sections.html
 pinned: false
 print: false
 series: 
 tags:
-  - manpage
-  - linux
   - command-line
+  - linux
+  - manpage
 title: man Page Sections
 type: tech-note
 ---
@@ -35,4 +35,3 @@ A list of all the man page sections that are used.
 7   # File formats, conventions, and encodings (ASCII, suffixes, and so on)
 8   # System commands and servers
 ```
-

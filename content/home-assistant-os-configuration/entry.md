@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [haos, home-assistant, smart-home, raspberry-pi]
+tags:
+  - haos
+  - home-assistant
+  - raspberry-pi
+  - smart-home
 title: Home Assistant OS Configuration
 type: tech-note
 ---
@@ -191,4 +195,3 @@ Follow the instructions at [loganmarchione/hassos-addons: Home Assistant Add-ons
 ### Install Samba Backup
 
 Follow the instructions at [hassio-addons/samba-backup at master · thomasmauerer/hassio-addons](https://github.com/thomasmauerer/hassio-addons/tree/master/samba-backup).
-

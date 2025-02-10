@@ -13,7 +13,12 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [android, gvfs, samsung, galaxy-s20, mtp]
+tags:
+  - android
+  - galaxy-s20
+  - gvfs
+  - mtp
+  - samsung
 title: Access Android Phone Directories On CLI
 type: tech-note
 ---
@@ -37,4 +42,3 @@ You can then `cd` all the way in to that directory.
 ```sh
 cd /run/user/1000/gvfs/mtp:host=SAMSUNG_SAMSUNG_Android_RF8N30TLG3M/Phone
 ```
-

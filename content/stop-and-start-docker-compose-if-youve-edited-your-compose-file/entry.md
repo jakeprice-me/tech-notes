@@ -11,15 +11,15 @@ image:
 links:
   - https://docs.docker.com/engine/reference/commandline/compose_restart/
 local_archive_links:
-  - attachments/20240105172326.html
+  - attachments/stop-and-start-docker-compose-if-youve-edited-your-compose-file.html
 pinned: false
 print: false
 series: 
 tags:
+  - compose
+  - docker
   - docker-compose
   - restart
-  - docker
-  - compose
 title: Stop & Start Docker Compose if You've Edited Your Compose File
 type: tech-note
 ---

@@ -11,15 +11,15 @@ image:
 links:
   - https://www.reddit.com/r/git/comments/10jiyxu/is_making_too_many_commits_bad/
 local_archive_links:
-  - attachments/20240903192056.html
+  - attachments/a-good-explanation-of-git-rebase.html
 pinned: false
 print: false
 series: 
 tags:
+  - commit
   - git
   - rebase
   - reddit
-  - commit
 title: A Good Explanation of git rebase
 type: tech-note
 ---

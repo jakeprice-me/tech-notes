@@ -11,15 +11,15 @@ image:
 links:
   - https://www.reddit.com/r/bash/comments/xcejrb/set_x_is_your_friend/
 local_archive_links:
-  - attachments/20221227222649.html
+  - attachments/set-x-and-bash.html
 pinned: false
 print: false
 series: 
 tags:
   - bash
+  - command-line
   - debug
   - troubleshoot
-  - command-line
 title: Set -x and Bash
 type: tech-note
 ---
@@ -31,4 +31,3 @@ Good comment from an interestingly named user on an r/bash [thread](https://www.
 > remove a line from the script.
 >
 > — u/CaptainDickbag
-

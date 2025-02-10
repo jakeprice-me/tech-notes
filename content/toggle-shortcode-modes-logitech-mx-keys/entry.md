@@ -11,19 +11,19 @@ image:
 links:
   - https://unix.stackexchange.com/questions/600178/logitech-mx-keys-sends-incorrect-modifier-keys
 local_archive_links:
-  - attachments/20220129214021.html
+  - attachments/toggle-shortcode-modes-logitech-mx-keys.html
 pinned: false
 print: false
 series: 
 tags:
-  - logitech
-  - mx
-  - keyboard
-  - macos
-  - windows
-  - linux
   - cmd
+  - keyboard
+  - linux
+  - logitech
+  - macos
+  - mx
   - super-key
+  - windows
 title: Switch Shortcut Modes on Logitech MX Keys
 type: tech-note
 ---
@@ -38,4 +38,3 @@ I found out that it's simple to fix. You just have to switch to the Windows (or 
 > Windows, Linux, Chrome OS: fn + P
 
 This switches it between the shortcut modes.
-

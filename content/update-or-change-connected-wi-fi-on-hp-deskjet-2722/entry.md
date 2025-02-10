@@ -10,16 +10,16 @@ id: 20230829113652
 image: 
 links: 
 local_archive_links:
-  - attachments/20230829113652.pdf
+  - attachments/update-or-change-connected-wi-fi-on-hp-deskjet-2722.pdf
 pinned: false
 print: false
 series: 
 tags:
+  - deskjet
   - hp
+  - hp-smart
   - printer
   - wi-fi
-  - deskjet
-  - hp-smart
 title: Update or Change Connected Wi-Fi on HP DeskJet 2722
 type: tech-note
 ---

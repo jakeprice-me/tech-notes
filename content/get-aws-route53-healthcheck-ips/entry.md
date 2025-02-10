@@ -13,7 +13,13 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [aws, route53, ip, health, check, ipv4]
+tags:
+  - aws
+  - check
+  - health
+  - ip
+  - ipv4
+  - route53
 title: Get IP Addresses Used by Amazon Route 53 Health Checks
 type: tech-note
 ---
@@ -57,4 +63,3 @@ You'll then be returned with a list, as below.
 54.252.79.128/26
 54.255.254.192/26
 ```
-

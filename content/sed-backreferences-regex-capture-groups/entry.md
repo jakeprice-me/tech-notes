@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [sed, backreferences, regex, capturing-groups]
+tags:
+  - backreferences
+  - capturing-groups
+  - regex
+  - sed
 title: Sed Backreferences and RegEx Capturing Groups
 type: tech-note
 ---
@@ -66,4 +70,3 @@ Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10
 JM3TB2BVXD0238933,EECA35C73E66A5A58BA4E763C26B2C4083C684BA,SCBLC43F26C295723,244.218.199.98,64.49.209.152,Z,02 - 12/08/1990,1986,FALSE,TRUE,02 - 12/08/1990,2008,2020-11-30,2020-10-01
 JN8AZ2NC2E9366591,C607477F79B9CCE088EE6EAC12CB50D9FE70C11C,WBALM5C51AE038487,181.252.242.234,135.155.158.99,Z,03 - 12/08/1990,1995,FALSE,TRUE,03 - 12/08/1990,2005,2020-11-30,2020-10-01
 ```
-

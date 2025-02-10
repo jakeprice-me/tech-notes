@@ -11,7 +11,7 @@ image:
 links:
   - https://docs.fedoraproject.org/en-US/quick-docs/raspberry-pi/
 local_archive_links:
-  - attachments/20231130105437.html
+  - attachments/install-fedora-on-raspberry-pi.html
 pinned: false
 print: false
 series: 

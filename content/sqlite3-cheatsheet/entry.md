@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [cheatsheet, sql, sqlite, database]
+tags:
+  - cheatsheet
+  - database
+  - sql
+  - sqlite
 title: SQLite3 Cheat Sheet
 type: tech-note
 ---
@@ -35,4 +39,3 @@ sqlite3 wiki.db "DELETE FROM entries WHERE id=20210209145248;"
 # Delete row:
 DELETE FROM "main"."entries" WHERE _rowid_ IN ('918');
 ```
-

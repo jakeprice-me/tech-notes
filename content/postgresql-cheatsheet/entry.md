@@ -13,7 +13,12 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [sql, command-line, statements, psql, postgresql]
+tags:
+  - command-line
+  - postgresql
+  - psql
+  - sql
+  - statements
 title: PostgreSQL Commands
 type: tech-note
 ---
@@ -77,4 +82,3 @@ SELECT
    pg_size_pretty(pg_total_relation_size(relid) - pg_relation_size(relid)) as "External Size"
    FROM pg_catalog.pg_statio_user_tables ORDER BY pg_total_relation_size(relid) DESC;
 ```
-

@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [ssh, rsync, server]
+tags:
+  - rsync
+  - server
+  - ssh
 title: Copy an SSH Key to Another User with Rsync
 type: tech-note
 ---
@@ -23,4 +26,3 @@ If you want to allow another user to login to a server with the same key as anot
 `rsync --archive --chown=username:username ~/.ssh /home/username`
 
 Then afterwards try logging in to the server as that user, and you should be able to.
-

@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [fstab, samba, cifs]
+tags:
+  - cifs
+  - fstab
+  - samba
 title: Automatically Mount Samba Share
 type: tech-note
 ---

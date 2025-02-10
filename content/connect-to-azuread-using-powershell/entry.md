@@ -13,7 +13,9 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [azure-ad, powershell]
+tags:
+  - azure-ad
+  - powershell
 title: Connect to Azure AD in PowerShell
 type: tech-note
 ---

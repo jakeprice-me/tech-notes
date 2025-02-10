@@ -13,7 +13,12 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [laptop, lcd, panel, edid, edp]
+tags:
+  - edid
+  - edp
+  - laptop
+  - lcd
+  - panel
 title: Find out Laptop Screen Panel Model
 type: tech-note
 ---
@@ -22,4 +27,3 @@ type: tech-note
 sudo dnf install edid-decode
 cat /sys/class/drm/card0-eDP-1/edid | edid-decode
 ```
-

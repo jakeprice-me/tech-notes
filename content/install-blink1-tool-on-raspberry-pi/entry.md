@@ -16,9 +16,9 @@ print: false
 series: 
 tags:
   - blink1
-  - thingm
   - raspberry-pi
   - raspberry-pi-os
+  - thingm
 title: Install blink1-tool on Raspberry Pi
 type: tech-note
 ---

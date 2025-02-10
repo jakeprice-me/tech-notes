@@ -13,7 +13,9 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [fzf, fuzzy]
+tags:
+  - fuzzy
+  - fzf
 title: fzf Fuzzy Completion
 type: tech-note
 ---
@@ -25,4 +27,3 @@ vim ** <tab>
 # Even more amazing, you can do it with `cd`:
 cd ** <tab>
 ```
-

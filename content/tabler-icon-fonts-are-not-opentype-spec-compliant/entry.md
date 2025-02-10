@@ -9,11 +9,14 @@ draft: false
 id: 20230811100233
 image: 
 links: 
-local_archive_links:  
+local_archive_links: 
 pinned: false
 print: false
 series: 
-tags: [firefox, icon, font]
+tags:
+  - firefox
+  - font
+  - icon
 title: Tabler Icon Fonts are not OpenType spec compliant
 type: tech-note
 ---

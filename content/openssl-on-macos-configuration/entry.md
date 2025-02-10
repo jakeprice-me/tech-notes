@@ -13,7 +13,9 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [openssl, macos]
+tags:
+  - macos
+  - openssl
 title: OpenSSL on MacOS
 type: tech-note
 ---
@@ -34,4 +36,3 @@ x509_extensions = v3_ca
 ```
 
 To the end of `[ req ]`.
-

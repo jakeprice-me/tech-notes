@@ -11,20 +11,19 @@ image:
 links:
   - https://en.wikipedia.org/wiki/Box-drawing_character
 local_archive_links:
-  - attachments/20200825110145.html
+  - attachments/box-drawing-characters.html
 pinned: false
 print: false
 series: 
 tags:
-  - pipe
   - box
-  - line
   - character
   - command-line
+  - line
+  - pipe
   - plain-text
 title: Box-drawing characters
 type: tech-note
 ---
 
 Box drawing characters can be used for "drawing" things with lines in plain-text.
-

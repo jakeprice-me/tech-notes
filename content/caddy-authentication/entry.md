@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [caddy, authentication, basic-authentication, hash]
+tags:
+  - authentication
+  - basic-authentication
+  - caddy
+  - hash
 title: Caddy Server Basic Authentication
 type: tech-note
 ---
@@ -46,4 +50,3 @@ Enter password:
 Confirm password:
 $2a$14$piTqBgsf7igbN2FQ9fOBvusCAIYGrgSBe6sj7FaGdLQg9zJcbhzCu
 ```
-

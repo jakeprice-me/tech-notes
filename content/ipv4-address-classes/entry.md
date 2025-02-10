@@ -13,7 +13,9 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [network, ipv4]
+tags:
+  - ipv4
+  - network
 title: IP Address Classes
 type: tech-note
 ---
@@ -26,4 +28,3 @@ Class C     192.0.1.1 to 223.255.254.254    Supports 254 hosts on each of 2 mill
 Class D     224.0.0.0 to 239.255.255.255    Reserved for multicast groups.
 Class E     240.0.0.0 to 254.255.255.254    Reserved for future use, or Research and Development Purposes.
 ```
-

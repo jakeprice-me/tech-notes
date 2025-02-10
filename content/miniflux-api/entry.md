@@ -14,10 +14,10 @@ pinned: false
 print: false
 series: 
 tags:
+  - api
+  - curl
   - miniflux
   - rss
-  - curl
-  - api
 title: Miniflux API
 type: tech-note
 ---

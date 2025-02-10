@@ -11,16 +11,16 @@ image:
 links:
   - https://lemariva.com/blog/2020/08/raspberry-pi-4-video-acceleration-decode-chromium
 local_archive_links:
-  - attachments/20230711151359.html
+  - attachments/enable-hardware-accelerated-video-decoding-in-chromium-on-raspberry-pi-os.html
 pinned: false
 print: false
 series: 
 tags:
-  - video
-  - decode
-  - raspberry-pi
   - chromium
+  - decode
   - home-assistant
+  - raspberry-pi
+  - video
 title: Enable Hardware Accelerated Video Decoding In Chromium On Raspberry Pi OS
 type: tech-note
 ---
@@ -39,4 +39,3 @@ Video decoding seems to be enabled on Chromium by default now, but I also enable
 ignore-gpu-blocklist
 enable-gpu-rasterization
 ```
-

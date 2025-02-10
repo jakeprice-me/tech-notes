@@ -13,7 +13,12 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [pandoc, command-line, markdown, markup, cheatsheet]
+tags:
+  - cheatsheet
+  - command-line
+  - markdown
+  - markup
+  - pandoc
 title: Pandoc Cheatsheet
 type: tech-note
 ---
@@ -25,4 +30,3 @@ pandoc --from=markdown --to=html <file>.md > <file>.html
 # Create a self-contained HTML file:
 pandoc --toc --css <stylesheet>.css --standalone <input>.md --toc --output <output>.html
 ```
-

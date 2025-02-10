@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [powershell, profile, windows]
+tags:
+  - powershell
+  - profile
+  - windows
 title: Create a PowerShell Profile
 type: tech-note
 ---

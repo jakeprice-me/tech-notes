@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [aws-cli, ec2, ebs]
+tags:
+  - aws-cli
+  - ebs
+  - ec2
 title: List Volume Device ID for an EC2 Instance
 type: tech-note
 ---
@@ -23,4 +26,3 @@ List the ID of a volume attached to an EC2 instance, using the AWS CLI.
 ``` sh
 $ aws ec2 describe-volumes --filters "Name=attachment.instance-id,Values=<instance-id>" --query "Volumes[].Attachments[].{DeviceName:Device}" --region <region> --output text
 ```
-

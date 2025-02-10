@@ -22,6 +22,7 @@ tags:
 title: Bulk Edit a Jellyfin Playlist
 type: tech-note
 ---
+
 You can't seem to bulk edit Jellyfin playlists from the GUI at the moment, and I was wondering how I could quickly remove a lot of songs from one.
 
 I discovered that the playlists are stored in XML files, and you can simple edit the underlying file and then rescan all your libaries and the playlist will then "re-sync" with the XML file. 

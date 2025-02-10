@@ -15,8 +15,8 @@ print: false
 series: 
 tags:
   - ai
-  - stable-diffusion
   - cheatsheet
+  - stable-diffusion
 title: InvokeAI Stable Diffusion Fork Cheatsheet
 type: tech-note
 ---
@@ -32,4 +32,3 @@ $ conda activate ldm
 ```sh
 $ scripts/dream.py --web --host 0.0.0.0 --port 7777
 ```
-

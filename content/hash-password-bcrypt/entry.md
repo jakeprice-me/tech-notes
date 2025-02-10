@@ -11,15 +11,15 @@ image:
 links:
   - https://unix.stackexchange.com/a/419855/331627
 local_archive_links:
-  - attachments/20230111084941.html
+  - attachments/hash-password-bcrypt.html
 pinned: false
 print: false
 series: 
 tags:
   - bcrypt
+  - caddy-security
   - hash
   - password
-  - caddy-security
 title: Hash a Password using bcrypt
 type: tech-note
 ---
@@ -37,4 +37,3 @@ htpasswd -nBC 10 jprice | tr -d ':\n' | sed 's/$2y/$2a/'
 ```
 
 More on [StackExchange](https://unix.stackexchange.com/a/419855/331627)
-

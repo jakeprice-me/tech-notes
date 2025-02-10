@@ -14,12 +14,12 @@ pinned: false
 print: false
 series: 
 tags:
-  - firefox
   - android
-  - search-engine
-  - f-droid
   - custom
+  - f-droid
+  - firefox
   - query
+  - search-engine
 title: Add a Custom Search Engine to Firefox Android
 type: tech-note
 ---

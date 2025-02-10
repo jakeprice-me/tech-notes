@@ -9,11 +9,17 @@ draft: false
 id: 20231110153131
 image: 
 links: 
-local_archive_links:  
+local_archive_links: 
 pinned: false
 print: false
 series: 
-tags: [git, squash, history, commit, rebase, interactive]
+tags:
+  - commit
+  - git
+  - history
+  - interactive
+  - rebase
+  - squash
 title: Squash Commits in Git
 type: tech-note
 ---
@@ -56,4 +62,3 @@ bda8f83 (HEAD -> master) Nice squashed commit
 3f1ad6e Add template file and update instructions
 7506054 Ignore config.yml
 ```
-

@@ -13,7 +13,14 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [android, smartphone, app, apk, pull, extract, download]
+tags:
+  - android
+  - apk
+  - app
+  - download
+  - extract
+  - pull
+  - smartphone
 title: Extract/Pull Android App Package from Phone
 type: tech-note
 ---
@@ -53,4 +60,3 @@ Then pull the package to the local filesystem.
 ```sh
 adb pull /data/app/com.disney.disneyplus-25RV0E5WzDniJQvB1srQrA==/base.apk ~/Media/android/apps/
 ```
-

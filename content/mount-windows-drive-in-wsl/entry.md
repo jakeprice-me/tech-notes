@@ -11,15 +11,15 @@ image:
 links:
   - https://www.public-health.uiowa.edu/it/support/kb48568/
 local_archive_links:
-  - attachments/20210721103917.html
+  - attachments/mount-windows-drive-in-wsl.html
 pinned: false
 print: false
 series: 
 tags:
-  - wsl
+  - fstab
   - mount
   - windows
-  - fstab
+  - wsl
 title: Mount Windows Drive in WSL
 type: tech-note
 ---
@@ -35,4 +35,3 @@ type: tech-note
 > 3.  Mount the drives in `/etc/fstab` with `sudo mount -a`
 > 
 > - [How to Mount Windows Network Drives in WSL - University of Iowa College of Public Health](https://www.public-health.uiowa.edu/it/support/kb48568/)
-

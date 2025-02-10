@@ -13,7 +13,13 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [mac-address, network, pihole, dnsmasq, override, bypass]
+tags:
+  - bypass
+  - dnsmasq
+  - mac-address
+  - network
+  - override
+  - pihole
 title: Allow Specific Devices to Bypass Pi-hole or dnsmasq
 type: tech-note
 ---
@@ -88,4 +94,3 @@ dhcp-option=tag:norton6,6,199.85.127.30
 ## Your Device that goes to custom DNS Server
 #dhcp-host=MA:CA:DD:R:ES:SS,set:YOURTAGHERE
 ```
-

@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [network, ifconfig, interface]
+tags:
+  - ifconfig
+  - interface
+  - network
 title: Start and Stop a Network Interface
 type: tech-note
 ---
@@ -29,4 +32,3 @@ $ ifconfig <interface-name> up
 ```sh
 $ ifconfig <interface-name> down
 ```
-

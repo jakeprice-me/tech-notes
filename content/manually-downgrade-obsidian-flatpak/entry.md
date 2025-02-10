@@ -14,9 +14,9 @@ pinned: false
 print: false
 series: 
 tags:
-  - obsidian
-  - flatpak
   - downgrade
+  - flatpak
+  - obsidian
   - plugin
 title: Manually Downgrade Obsidian Flatpak
 type: tech-note
@@ -77,4 +77,3 @@ echo '{"vaults":{"4e8b6c9b15bf6d7f":{"path":"/home/jprice/my/files/documents/SIF
 ```
 
 You can now open Obsidian, and you should see under "Settings > General > Automatic updates" that the setting is toggled off, and the version of Obsidian is v1.6.7
-

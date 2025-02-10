@@ -13,10 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [wsl]
+tags:
+  - wsl
 title: WSL Network Share
 type: tech-note
 ---
 
 Access WSL as a network share using `\\wsl$`.
-

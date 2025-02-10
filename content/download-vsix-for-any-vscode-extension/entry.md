@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [vscode, extensions, vsix]
+tags:
+  - extensions
+  - vscode
+  - vsix
 title: Download the VSIX for Any VS Code Extension
 type: tech-note
 ---

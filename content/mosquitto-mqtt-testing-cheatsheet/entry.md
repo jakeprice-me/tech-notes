@@ -11,18 +11,18 @@ image:
 links:
   - https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-debian-10
 local_archive_links:
-  - attachments/20230815094146.html
+  - attachments/mosquitto-mqtt-testing-cheatsheet.html
 pinned: false
 print: false
 series: 
 tags:
+  - home-assistant
+  - messaging
   - mosquitto
   - mqtt
   - publish
   - subscription
-  - messaging
   - topic
-  - home-assistant
 title: Mosquitto/MQTT Testing Cheatsheet
 type: tech-note
 ---
@@ -43,4 +43,3 @@ docker run --network home-assistant-01 -it eclipse-mosquitto:latest mosquitto_pu
 # Add a password for a user to the passwd file:
 docker exec -it ha_mosquitto-01 mosquitto_passwd -c /mosquitto/config/mosquitto.passwd admin
 ```
-

@@ -13,10 +13,14 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [rj-45, ethernet, connector, crimp, terminate]
+tags:
+  - connector
+  - crimp
+  - ethernet
+  - rj-45
+  - terminate
 title: RJ-45 Ethernet Crimping
 type: tech-note
 ---
 
 ![](attachments/rj-45-ethernet-crimping.jpg)
-

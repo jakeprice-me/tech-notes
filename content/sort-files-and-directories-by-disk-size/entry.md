@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [file, directory, size]
+tags:
+  - directory
+  - file
+  - size
 title: Sort files and directories by disk size
 type: tech-note
 ---
@@ -23,4 +26,3 @@ Sort files and directories by human-readable disk size order.
 ```sh
 $ du --summarize --human-readable * | sort --human-numeric-sort --reverse
 ```
-

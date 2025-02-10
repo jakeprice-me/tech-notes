@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [sftp, linux, password]
+tags:
+  - linux
+  - password
+  - sftp
 title: Create an SFTP Server
 type: tech-note
 ---
@@ -142,4 +145,3 @@ You can then restart the SSH server and test if you can connect.
 ```sh
 systemctl restart sshd.service
 ```
-

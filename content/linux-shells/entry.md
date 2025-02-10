@@ -11,14 +11,14 @@ image:
 links:
   - https://unix.stackexchange.com/questions/170493/login-non-login-and-interactive-non-interactive-shells/170499#170499
 local_archive_links:
-  - attachments/20200714211525.html
+  - attachments/linux-shells.html
 pinned: false
 print: false
 series: 
 tags:
   - bash
-  - shell
   - linux
+  - shell
   - stack-exchange
 title: Linux Shell
 type: tech-note
@@ -43,4 +43,3 @@ type: tech-note
 >     - depending on shell; some of them read the file in the `$ENV` variable.
 >
 > — [bash - login/non-login and interactive/non-interactive shells - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/170493/login-non-login-and-interactive-non-interactive-shells/170499#170499)
-

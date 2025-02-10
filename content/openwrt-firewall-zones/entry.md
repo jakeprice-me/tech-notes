@@ -11,13 +11,13 @@ image:
 links:
   - https://openwrt.org/docs/guide-user/firewall/firewall_configuration#zones
 local_archive_links:
-  - attachments/20231118214807.html
+  - attachments/openwrt-firewall-zones.html
 pinned: false
 print: false
 series: 
 tags:
-  - openwrt
   - firewall
+  - openwrt
   - zone
 title: OpenWRT Firewall Zones
 type: tech-note
@@ -26,4 +26,3 @@ type: tech-note
 > **INPUT** rules for a zone describe what happens to traffic trying to reach the router itself through an interface in that zone.
 > **OUTPUT** rules for a zone describe what happens to traffic originating from the router itself going through an interface in that zone.
 > **FORWARD** rules for a zone describe what happens to traffic passing between different interfaces belonging in the same zone.
-

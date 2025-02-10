@@ -15,9 +15,9 @@ print: false
 series: 
 tags:
   - elitebook
+  - hinge
   - key-cap
   - keyboard
-  - hinge
 title: Only Remove the Key-Cap not The Hinge on an EliteBook 840 G8 Laptop Keyboard
 type: tech-note
 ---

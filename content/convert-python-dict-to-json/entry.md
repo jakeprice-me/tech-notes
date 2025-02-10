@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [python, dict, json]
+tags:
+  - dict
+  - json
+  - python
 title: Convert Python Dictionary to JSON
 type: tech-note
 ---
@@ -40,4 +43,3 @@ example_dictionary = {
 example_json = json.dumps(example_dictionary, sort_keys=True, indent=4)
 print(example_json)
 ```
-

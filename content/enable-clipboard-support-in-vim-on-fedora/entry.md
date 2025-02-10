@@ -11,16 +11,16 @@ image:
 links:
   - https://vi.stackexchange.com/questions/2063/how-do-i-get-clipboard-support-in-fedora-20/2065#2065
 local_archive_links:
-  - attachments/20200908201231.html
+  - attachments/enable-clipboard-support-in-vim-on-fedora.html
 pinned: false
 print: false
 series: 
 tags:
+  - clipboard
   - fedora
+  - register
   - vim
   - x11
-  - clipboard
-  - register
 title: Enable Vim +clipboard Support On Fedora
 type: tech-note
 ---
@@ -39,4 +39,3 @@ type: tech-note
 > However, some of them are probably irrelevant for the terminal version of vimx and only do something for GVim.
 >
 > — [How do I get +clipboard support in Fedora 20?](https://vi.stackexchange.com/a/2065)
-

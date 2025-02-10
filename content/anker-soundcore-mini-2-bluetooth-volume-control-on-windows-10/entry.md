@@ -11,16 +11,16 @@ image:
 links:
   - https://community.anker.com/t/cant-change-volume-via-windows/66148
 local_archive_links:
-  - attachments/20230901211406.html
+  - attachments/anker-soundcore-mini-2-bluetooth-volume-control-on-windows-10.html
 pinned: false
 print: false
 series: 
 tags:
   - anker
   - bluetooth
+  - registry
   - volume
   - windows
-  - registry
 title: Anker Soundcore Mini 2 Bluetooth Volume Control on Windows 10
 type: tech-note
 ---
@@ -32,4 +32,3 @@ To fix the issue, in Registry Editor change the below value to `1` and restart t
 ```
 HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Bluetooth\Audio\AVRCP\CT\DisableAbsoluteVolume
 ```
-

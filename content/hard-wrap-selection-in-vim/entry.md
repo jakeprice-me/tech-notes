@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [vim, hard-wrap, wrap, text-width]
+tags:
+  - hard-wrap
+  - text-width
+  - vim
+  - wrap
 title: Hard Wrap Selection in Vim
 type: tech-note
 ---
@@ -50,4 +54,3 @@ Change `entries` command to only list by default
 `--edit`, or `-e` can now be appended to prompt for an ID to edit in the
 default editor.
 ```
-

@@ -14,8 +14,8 @@ pinned: false
 print: false
 series: 
 tags:
-  - ublock
   - javascript
+  - ublock
 title: Block Javascript on Website Using uBlock Origin
 type: tech-note
 ---

@@ -14,8 +14,8 @@ pinned: false
 print: false
 series: 
 tags:
-  - rename
   - file
+  - rename
 title: Bulk change file endings in a directory
 type: tech-note
 ---
@@ -30,4 +30,3 @@ rename asc txt *.asc
 # Remove match from filenames:
 rename 's/-MC02FW6SFMD6M//g' *.md
 ```
-

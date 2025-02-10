@@ -16,11 +16,11 @@ series:
 tags:
   - ffmpeg
   - gif
-  - mp4
-  - webm
-  - palette
   - gnome
+  - mp4
+  - palette
   - screenclip
+  - webm
 title: Create Full Colour GIF from Video
 type: tech-note
 ---

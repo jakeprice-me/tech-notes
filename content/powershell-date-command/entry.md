@@ -13,7 +13,9 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [powershell, date]
+tags:
+  - date
+  - powershell
 title: Powershell Date Command
 type: tech-note
 ---
@@ -21,4 +23,3 @@ type: tech-note
 ```sh
 Get-Date -Format "yyyy-MM-dd HH:mm:ss"
 ```
-

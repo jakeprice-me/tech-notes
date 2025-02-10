@@ -11,20 +11,20 @@ image:
 links:
   - https://github.com/Benjamin-Dobell/Heimdall/wiki/Build-instructions-(Linux)#fedora
 local_archive_links:
-  - attachments/20221219130830.html
+  - attachments/install-heimdall-on-fedora.html
 pinned: false
 print: false
 series: 
 tags:
   - android
+  - firmware
+  - flash
+  - github
   - heimdall
+  - image
   - linux
   - odin
   - samsung
-  - flash
-  - image
-  - firmware
-  - github
 title: Install Heimdall on Fedora
 type: tech-note
 ---
@@ -55,4 +55,3 @@ sudo cp bin/* /usr/local/bin
 ## Run
 
 Start Heimdall by running `heimdall` or `heimdall-frontend` from the terminal.
-

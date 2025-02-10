@@ -13,7 +13,12 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [postgresql, psql, tables, size, database]
+tags:
+  - database
+  - postgresql
+  - psql
+  - size
+  - tables
 title: Check Size of a Table in PostgreSQL
 type: tech-note
 ---
@@ -51,4 +56,3 @@ SELECT
    WHERE relpages >= 8
    ORDER BY relpages DESC;
 ```
-

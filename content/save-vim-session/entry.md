@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [vim, sessions, buffers]
+tags:
+  - buffers
+  - sessions
+  - vim
 title: Save a Vim Session
 type: tech-note
 ---
@@ -27,4 +30,3 @@ vim -S <session>.vim
 # Create a Session File
 :mks[ession] <file>
 ```
-

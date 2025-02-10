@@ -16,9 +16,9 @@ pinned: false
 print: false
 series: 
 tags:
-  - php
-  - docker
   - caddy
+  - docker
+  - php
 title: Regular File Not Found Error PHP Container
 type: tech-note
 ---

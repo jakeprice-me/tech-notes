@@ -11,20 +11,20 @@ image:
 links:
   - https://github.com/lstein/stable-diffusion/blob/main/docs/installation/INSTALL_LINUX.md
 local_archive_links:
-  - attachments/20220912220125.html
+  - attachments/install-stable-diffusion.html
 pinned: false
 print: false
 series: 
 tags:
-  - stable-diffusion
-  - nvidia
-  - gpu
-  - cuda
-  - conda
   - ai
   - art
-  - machine-learning
+  - conda
+  - cuda
   - github
+  - gpu
+  - machine-learning
+  - nvidia
+  - stable-diffusion
 title: Install InvokeAI Stable Diffusion Fork
 type: tech-note
 ---
@@ -40,4 +40,3 @@ Furthermore, with Anaconda we don't want it to be activated on login, so disable
 ```sh
 $ conda config --set auto_activate_base false
 ```
-

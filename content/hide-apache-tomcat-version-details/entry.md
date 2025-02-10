@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [tomcat, apache, version, security]
+tags:
+  - apache
+  - security
+  - tomcat
+  - version
 title: Hide Tomcat Version Details on 404 Page
 type: tech-note
 ---

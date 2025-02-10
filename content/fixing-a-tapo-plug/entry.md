@@ -14,11 +14,11 @@ pinned: false
 print: false
 series: 
 tags:
-  - tapo
-  - smart-plug
   - smart-home
-  - troubleshoot
+  - smart-plug
+  - tapo
   - tplink
+  - troubleshoot
 title: Fixing a Tapo Plug
 type: tech-note
 ---

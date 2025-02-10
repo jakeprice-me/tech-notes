@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [debian, network, ip, linux]
+tags:
+  - debian
+  - ip
+  - linux
+  - network
 title: Set Static IP Address on Debian
 type: tech-note
 ---
@@ -45,4 +49,3 @@ iface eno1 inet static
         netmask 255.255.255.255
         gateway 10.0.0.1
 ```
-

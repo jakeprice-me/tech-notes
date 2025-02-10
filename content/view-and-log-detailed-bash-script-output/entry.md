@@ -13,7 +13,17 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [log, bash, scripting, stdout, stderr, debug, tee, background, process, run]
+tags:
+  - background
+  - bash
+  - debug
+  - log
+  - process
+  - run
+  - scripting
+  - stderr
+  - stdout
+  - tee
 title: View and Log Detailed Bash Script Output
 type: tech-note
 ---
@@ -29,4 +39,3 @@ Then run it as below to see the debug output and stdout and stderr on the screen
 ``` sh
 ./script.sh 2>&1 | tee output.log
 ```
-

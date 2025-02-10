@@ -13,7 +13,12 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [aws, command-line, ssh, keys, ec2]
+tags:
+  - aws
+  - command-line
+  - ec2
+  - keys
+  - ssh
 title: Manage EC2 KeyPairs with the AWS CLI
 type: tech-note
 ---
@@ -31,4 +36,3 @@ aws ec2 create-key-pair --profile "<profile>" --region "<region>" --query "KeyMa
 ```sh
 aws ec2 create-key-pair --profile "<profile>" --region "<region>" --key-name "<key_name>"
 ```
-

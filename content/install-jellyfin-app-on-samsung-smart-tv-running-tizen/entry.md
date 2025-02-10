@@ -10,15 +10,15 @@ id: 20231207172320
 image: 
 links: 
 local_archive_links:
-  - attachments/20231207172320.html
+  - attachments/install-jellyfin-app-on-samsung-smart-tv-running-tizen.html
 pinned: false
 print: false
 series: 
 tags:
+  - app
+  - jellyfin
   - samsung
   - tizen
-  - jellyfin
-  - app
 title: Install Jellyfin App on Samsung Smart TV running Tizen
 type: tech-note
 ---

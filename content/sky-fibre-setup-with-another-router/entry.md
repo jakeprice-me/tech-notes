@@ -16,14 +16,14 @@ pinned: false
 print: false
 series: 
 tags:
-  - sky
-  - fibre
-  - ont
   - broadband
-  - openreach
-  - fttp
   - client-identifier-string
+  - fibre
+  - fttp
+  - ont
+  - openreach
   - option-61
+  - sky
 title: Sky Fibre Setup with Netgear R7800 Router
 type: tech-note
 ---
@@ -45,4 +45,3 @@ Screenshot of the settings below.
 Screenshot of the comment below and [here](https://helpforum.sky.com/t5/Broadband/PPPOE-codes-for-connection-to-third-party-router/m-p/3899878#M284210) at Sky's community forum.
 
 ![](attachments/sky-fibre-setup-with-another-router_2.png)
-

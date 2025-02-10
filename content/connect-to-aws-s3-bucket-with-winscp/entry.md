@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [s3, aws, winscp, bucket]
+tags:
+  - aws
+  - bucket
+  - s3
+  - winscp
 title: Connect to an AWS S3 Bucket with WinSCP
 type: tech-note
 ---
@@ -32,4 +36,3 @@ Then click on `Advanced`, navigate to `Environments > Directories` and fill in t
 ```yaml
 Remote directory: /<bucket-name>
 ```
-

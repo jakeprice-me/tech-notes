@@ -14,11 +14,11 @@ pinned: false
 print: false
 series: 
 tags:
+  - cache
   - dnf
   - fedora
   - linux
   - package-manager
-  - cache
 title: Cache Only DNF
 type: tech-note
 ---

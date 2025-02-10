@@ -14,8 +14,8 @@ pinned: false
 print: false
 series: 
 tags:
-  - borg
   - backup
+  - borg
   - exclusion
   - ignore
 title: Borg Backup Exclusion List

@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [vim, line-number, open, file]
+tags:
+  - file
+  - line-number
+  - open
+  - vim
 title: Open a File at Specified Line Number with Vim
 type: tech-note
 ---
@@ -29,4 +33,3 @@ With a real example, the above becomes:
 ```sh
 vim +82 playbook.yml
 ```
-

@@ -13,10 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [aws-cli, jmespath]
+tags:
+  - aws-cli
+  - jmespath
 title: AWS CLI query flag uses JMESPath
 type: tech-note
 ---
 
 Reminder that AWS CLI's `--query` flag uses [JMESPath](https://jmespath.org/) for queries.
-

@@ -13,7 +13,12 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [openssl, lan, self-hosted, certificate, authority]
+tags:
+  - authority
+  - certificate
+  - lan
+  - openssl
+  - self-hosted
 title: Wildcard OpenSSL Certificate Authority
 type: tech-note
 ---
@@ -127,4 +132,3 @@ openssl x509 \
     -text \
     -in ~/my/files/code/config/ark-ca/certificates/ark_lan_cert.pem
 ```
-

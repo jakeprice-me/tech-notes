@@ -16,10 +16,10 @@ pinned: false
 print: false
 series: 
 tags:
-  - obsidian
-  - snippet
   - checkbox
   - css
+  - obsidian
+  - snippet
 title: Obsidian Custom Checkboxes
 type: tech-note
 ---
@@ -291,4 +291,3 @@ input[data-task='"']:checked::after, li[data-task='"']>input:checked::after, li[
     left: 0;
 }
 ```
-

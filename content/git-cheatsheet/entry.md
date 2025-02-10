@@ -13,7 +13,10 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [git, version-control, repository]
+tags:
+  - git
+  - repository
+  - version-control
 title: Git Cheatsheet
 type: tech-note
 ---
@@ -46,4 +49,3 @@ git tag -a v1.2 <checksum here (or part of it)>
 # Git logging:
 git log --pretty=format:"%h %an %ae"
 ```
-

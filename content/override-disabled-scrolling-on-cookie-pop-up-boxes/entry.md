@@ -14,11 +14,11 @@ pinned: false
 print: false
 series: 
 tags:
-  - modal
   - cookie
-  - pop-up
-  - override
   - css
+  - modal
+  - override
+  - pop-up
 title: Override Disabled Scrolling on Cookie Pop-up Boxes
 type: tech-note
 ---

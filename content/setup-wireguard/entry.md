@@ -16,8 +16,8 @@ pinned: false
 print: false
 series: 
 tags:
-  - wireguard
   - vpn
+  - wireguard
 title: Setup WireGuard on Debian
 type: tech-note
 ---

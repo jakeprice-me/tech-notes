@@ -14,13 +14,13 @@ pinned: false
 print: false
 series: 
 tags:
-  - fedora
-  - boot
-  - systemd
   - analysis
   - blame
-  - unbound
+  - boot
+  - fedora
   - network-manager
+  - systemd
+  - unbound
 title: Speed-up Fedora Boot Time
 type: tech-note
 ---
@@ -49,4 +49,3 @@ You can then disable long running services which aren't needed.
 sudo systemctl disable --now unbound-anchor.timer
 sudo systemctl disable --now NetworkManager-wait-online.service
 ```
-

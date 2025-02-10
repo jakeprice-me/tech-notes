@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [disk-usage, du, bash, linux]
+tags:
+  - bash
+  - disk-usage
+  - du
+  - linux
 title: File Space Usage with du
 type: tech-note
 ---
@@ -25,4 +29,3 @@ du --human-readable --max-depth=1
 # Show and then sort disk usage.
 du --human-readable --max-depth=1 | sort -n
 ```
-

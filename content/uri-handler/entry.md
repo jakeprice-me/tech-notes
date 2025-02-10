@@ -11,19 +11,19 @@ image:
 links:
   - https://www.tkalin.com/blog_posts/using-console-vim-as-vim-protocol-handler-in-ubuntu/
 local_archive_links:
-  - attachments/20210906181547.html
+  - attachments/uri-handler.html
 pinned: false
 print: false
 series: 
 tags:
-  - gvim
-  - vim
-  - uri
-  - handler
-  - gnome
-  - macos
   - fedora
+  - gnome
+  - gvim
+  - handler
+  - macos
   - macvim
+  - uri
+  - vim
   - xdg-open
 title: URI Handler
 type: tech-note
@@ -154,4 +154,3 @@ Note that url has to be a file:// url pointing to an existing local file.
 1. Go to "Preferences" (`⌘ ,`), and make sure you're on the "General" tab.
 1. Under "Open files from applications:" select "in the current window".
 1. In the pull down menu below this option select "and set the arglist" and files will open in a new buffer, in the same window.
-

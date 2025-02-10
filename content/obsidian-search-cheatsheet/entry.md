@@ -11,14 +11,14 @@ image:
 links:
   - https://help.obsidian.md/Plugins/Search
 local_archive_links:
-  - attachments/20240216192135.html
+  - attachments/obsidian-search-cheatsheet.html
 pinned: false
 print: false
 series: 
 tags:
+  - cheatsheet
   - obsidian
   - search
-  - cheatsheet
 title: Obsidian Search Cheatsheet
 type: tech-note
 ---
@@ -48,4 +48,3 @@ Search for archive entries with links, but no archive link:
 ```
 ["type":archive][links:"https://"]-["archive_links":"https://"]
 ```
-

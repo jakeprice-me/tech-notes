@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [github, token, clone, personal-access-token]
+tags:
+  - clone
+  - github
+  - personal-access-token
+  - token
 title: Clone GitHub Repository with Personal Access Token
 type: tech-note
 ---
@@ -27,4 +31,3 @@ git clone https://<token>@github.com/owner/repo.git
 # Clone a branch from a repository:
 git clone --branch <branch-name> https://<token>@github.com/owner/repo.git
 ```
-

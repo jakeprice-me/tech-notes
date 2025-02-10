@@ -14,9 +14,9 @@ pinned: false
 print: false
 series: 
 tags:
+  - cheatsheet
   - jq
   - json
-  - cheatsheet
 title: jq Cheatsheet
 type: tech-note
 ---

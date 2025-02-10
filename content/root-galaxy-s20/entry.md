@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [samsung, galaxy-s20, android, root]
+tags:
+  - android
+  - galaxy-s20
+  - root
+  - samsung
 title: Root Samsung Galaxy S20
 type: tech-note
 ---
@@ -118,4 +122,3 @@ After the flashing process is complete, you should see a "PASS!" message in Odin
 To un-root, click the `Uninstall Magisk` button in the Magisk app, then click `Complete Uninstall`. Magisk will then uninstall and reboot the device and you will no longer be rooted.
 
 This didn't work, so it's easier to just reflash from scratch.
-

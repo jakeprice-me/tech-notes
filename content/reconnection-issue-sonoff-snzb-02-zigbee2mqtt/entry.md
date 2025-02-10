@@ -11,18 +11,18 @@ image:
 links:
   - https://www.zigbee2mqtt.io/devices/SNZB-02.html
 local_archive_links:
-  - attachments/20221007162437.html
+  - attachments/reconnection-issue-sonoff-snzb-02-zigbee2mqtt.html
 pinned: false
 print: false
 series: 
 tags:
-  - sonoff
-  - zigbee
-  - mqtt
-  - temperature
-  - sensor
   - home-assistant
+  - mqtt
   - power
+  - sensor
+  - sonoff
+  - temperature
+  - zigbee
 title: Reconnection Issue with Sonoff SNZB-02 in Zigbee2MQTT
 type: tech-note
 ---

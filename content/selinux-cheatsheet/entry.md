@@ -14,15 +14,15 @@ pinned: false
 print: false
 series: 
 tags:
-  - selinux
+  - allow
+  - block
   - centos
+  - cheatsheet
+  - firewall
+  - port
   - redhat
   - security
-  - port
-  - allow
-  - firewall
-  - cheatsheet
-  - block
+  - selinux
 title: SELinux Cheatsheet
 type: tech-note
 ---
@@ -82,4 +82,3 @@ sudo dnf install selinux-policy-devel
 # Set boolean to on, and persist:
 sudo setsebool -P <boolean> on
 ```
-

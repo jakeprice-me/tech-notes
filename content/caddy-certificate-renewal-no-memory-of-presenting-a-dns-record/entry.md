@@ -16,10 +16,10 @@ series:
 tags:
   - caddy
   - certificate
-  - https
-  - error
-  - namecheap
   - dns
+  - error
+  - https
+  - namecheap
   - txt
   - validation
 title: Caddy Certificate Renewal - No memory of presenting a DNS record

@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [nameserver, dns, hostname, domain]
+tags:
+  - dns
+  - domain
+  - hostname
+  - nameserver
 title: Retrieve Nameservers for Hostname
 type: tech-note
 ---
@@ -35,4 +39,3 @@ cname   cname record
 soa     soa record
 any     all details
 ```
-

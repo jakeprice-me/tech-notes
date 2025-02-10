@@ -11,15 +11,15 @@ image:
 links:
   - https://wiki.archlinux.org/title/Wake-on-LAN#NetworkManager
 local_archive_links:
-  - attachments/20240711114237.html
+  - attachments/enable-wake-on-lan-using-nmcli.html
 pinned: false
 print: false
 series: 
 tags:
-  - wake-on-lan
   - lan
   - network
   - nmcli
+  - wake-on-lan
   - wol
 title: Enable Wake-on-LAN using NMCLI
 type: tech-note

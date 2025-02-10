@@ -14,9 +14,9 @@ pinned: false
 print: false
 series: 
 tags:
-  - jcmd
   - heap-dump
   - java
+  - jcmd
 title: Take a heap-dump using jcmd
 type: tech-note
 ---

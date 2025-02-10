@@ -9,17 +9,17 @@ draft: false
 id: 20230616164930
 image: 
 links:
-  - https://raw.githubusercontent.com/icpantsparti2/browser-bits/main/javascript/firefox-v109-change-order-under-extensions-button.js
   - https://github.com/icpantsparti2/browser-bits
+  - https://raw.githubusercontent.com/icpantsparti2/browser-bits/main/javascript/firefox-v109-change-order-under-extensions-button.js
 local_archive_links: 
 pinned: false
 print: false
 series: 
 tags:
-  - firefox
-  - extensions
-  - javascript
   - addon
+  - extensions
+  - firefox
+  - javascript
 title: Sort Firefox Extensions List
 type: tech-note
 ---

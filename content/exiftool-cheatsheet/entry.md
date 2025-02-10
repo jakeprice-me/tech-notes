@@ -14,8 +14,8 @@ pinned: false
 print: false
 series: 
 tags:
-  - exif
   - command-line
+  - exif
   - metadata
 title: exiftool Cheatsheet
 type: tech-note

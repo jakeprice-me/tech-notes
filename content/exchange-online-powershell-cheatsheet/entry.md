@@ -13,7 +13,11 @@ local_archive_links:
 pinned: false
 print: false
 series: 
-tags: [exchange, azure, office, powershell]
+tags:
+  - azure
+  - exchange
+  - office
+  - powershell
 title: Exchange Online PowerShell
 type: tech-note
 ---

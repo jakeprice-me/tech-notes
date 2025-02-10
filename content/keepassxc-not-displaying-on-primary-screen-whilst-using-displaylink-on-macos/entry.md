@@ -16,8 +16,8 @@ pinned: false
 print: false
 series: 
 tags:
-  - keepassxc
   - displaylink
+  - keepassxc
   - macos
 title: KeePassXC Not Displaying on Primary Screen Whilst Using DisplayLink on macOS
 type: tech-note

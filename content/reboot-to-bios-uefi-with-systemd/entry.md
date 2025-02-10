@@ -11,18 +11,18 @@ image:
 links:
   - https://www.freedesktop.org/software/systemd/man/systemctl.html#--firmware-setup
 local_archive_links:
-  - attachments/20221007213334.html
+  - attachments/reboot-to-bios-uefi-with-systemd.html
 pinned: false
 print: false
 series: 
 tags:
-  - systemd
-  - systemctl
+  - bios
+  - firmware
   - reboot
   - restart
-  - bios
+  - systemctl
+  - systemd
   - uefi
-  - firmware
 title: Reboot to BIOS/UEFI with systemd
 type: tech-note
 ---
@@ -32,4 +32,3 @@ Reboot to your device's BIOS/UEFI with systemd, by using the `systemctl` command
 ```sh
 $ systemctl reboot --firmware-setup
 ```
-
