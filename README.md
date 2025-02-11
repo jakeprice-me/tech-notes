@@ -70,7 +70,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [vim](#vim)
 - [vscode](#vscode)
 - [windows](#windows)
-## Notes <sup>232</sup>
+## Notes <sup>233</sup>
 
 
 ### <a id="airflow">airflow</a> <sup>1</sup>
@@ -203,7 +203,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2023-03-31 - Cache Only DNF](content/cache-only-dnf/entry.md)
 - [2024-01-01 - Install GNOME and VNC Server on Fedora](content/install-gnome-and-vnc-server-on-fedora/entry.md)
 
-### <a id="firefox">firefox</a> <sup>7</sup>
+### <a id="firefox">firefox</a> <sup>8</sup>
 
 - [2020-09-25 - Disable Cross-Origin Request Blocking on Firefox](content/disable-cross-origin-request-blocking-firefox/entry.md)
 - [2022-12-27 - Stuck Tooltips on Firefox Linux](content/stuck-tooltips-on-firefox-linux/entry.md)
@@ -212,6 +212,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2024-04-20 - YouTube Desktop Shortcuts](content/youtube-desktop-shortcuts/entry.md)
 - [2024-06-25 - Block Javascript on Website Using uBlock Origin](content/block-javascript-on-website-using-ublock-origin/entry.md)
 - [2024-10-18 - Add a Custom Search Engine to Firefox Android](content/add-a-custom-search-engine-to-firefox-android/entry.md)
+- [2025-02-11 - Highlight Text on Page](content/highlight-text-on-page/entry.md)
 
 ### <a id="git">git</a> <sup>5</sup>
 
