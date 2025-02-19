@@ -70,7 +70,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [vim](#vim)
 - [vscode](#vscode)
 - [windows](#windows)
-## Notes <sup>233</sup>
+## Notes <sup>234</sup>
 
 
 ### <a id="airflow">airflow</a> <sup>1</sup>
@@ -195,13 +195,14 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2023-12-06 - It's compose.yaml](content/its-compose-yaml/entry.md)
 - [2024-01-05 - Stop & Start Docker Compose if You've Edited Your Compose File](content/stop-and-start-docker-compose-if-youve-edited-your-compose-file/entry.md)
 
-### <a id="fedora">fedora</a> <sup>5</sup>
+### <a id="fedora">fedora</a> <sup>6</sup>
 
 - [2020-03-26 - Ctrl-A and DuckDuckGo Fedora Bug](content/ctrl-a-duckduckgo-fedora-bug/entry.md)
 - [2020-09-08 - Connect to Fedora from Windows with xRDP](content/connect-to-fedora-from-windows-with-xrdp/entry.md)
 - [2022-05-15 - Install HP Printer on Fedora](content/install-hp-printer-fedora/entry.md)
 - [2023-03-31 - Cache Only DNF](content/cache-only-dnf/entry.md)
 - [2024-01-01 - Install GNOME and VNC Server on Fedora](content/install-gnome-and-vnc-server-on-fedora/entry.md)
+- [2025-02-19 - 1Password Repository Error on Fedora](content/1password-repository-error-on-fedora/entry.md)
 
 ### <a id="firefox">firefox</a> <sup>8</sup>
 
