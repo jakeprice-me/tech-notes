@@ -4,7 +4,7 @@ aliases:
 category: machine-learning
 classification: public
 date: 2025-01-16T21:56:47
-date_modified: 2025-01-16T21:56:47
+date_modified: 2025-02-22T12:38:55
 draft: false
 id: 20250116215647
 image: 
@@ -24,6 +24,9 @@ tags:
 title: Transcribe Audio Files with OpenAI Whisper
 type: tech-note
 ---
+
+> [!tip]
+> I recently upgraded to Fedora 41 which uses Python 3.13. OpenAI Whisper doesn't support Python 3.13 as of 2025-02-22. So I had to install Python 3.11 (`sudo dnf install python3.11`) and then use a virtual environment to install Whisper into (`python3.11 -m venv openai-whisper-python-3.11-venv`).
 
 I record a lot of voice notes as I'm out and about, it's often quicker then typing thoughts out, but when I get back to my laptop there will often be voice notes I want to transcribe into text. it's not just my own voice notes though, sometimes there will be something that really stands out in something I've listened to on YouTube or a Podcast that I want to clip and transcribe.
 
