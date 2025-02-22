@@ -27,10 +27,10 @@ type: tech-note
 
 ```sh
 # Create repository:
-borg init --encryption repokey-blake2  /mnt/backup/borg/my
+borg init --encryption repokey-blake2  /srv/backup-01/borg/my
 
 # Export the repository key, as you need the key and passphrase for repository access (delete the key once you have backed it up):
-borg key export /mnt/backup/borg/my/ /tmp/borg_my_key
+borg key export /srv/backup-01/borg/my/ /tmp/borg_my_key
 ```
 
 ### Automate Passphrase
@@ -52,26 +52,24 @@ export BORG_PASSCOMMAND="cat $HOME/.borg_my_passphrase"
 
 ```sh
 # Create archive (backup files):
-borg create --verbose --progress --stats /mnt/backup/borg/my::$(date +%Y%m%d%H%M%S) /mnt/my/
+borg create --verbose --progress --stats /srv/backup-01/borg/my::$(date +%Y%m%d%H%M%S) /mnt/my/
 
 # List archives in repository:
-borg list /mnt/backup/borg/my/
+borg list /srv/backup-01/borg/my/
 
 # List contents of an archive:
-borg list /mnt/backup/borg/my::<archive-name>
+borg list /srv/backup-01/borg/my::<archive-name>
 
 # Delete an archive:
-borg delete /mnt/backup/borg/my::<archive-name>
-```
+borg delete /srv/backup-01/borg/my::<archive-name>
 
-```sh
 borg prune $REPOSITORY --keep-daily=7 --keep-weekly=4 --keep-monthly=6
 mkdir -p /tmp/borg
 borg mount /data/myrepo::root-2013-08-02 /tmp/borg
 borg umount /tmp/borg
 
 # Check files in archive match the backed up files (backup integrity):
-borg check --verify-data /mnt/backup/borg/my::<archive-name>
+borg check --verify-data /srv/backup-01/borg/my::<archive-name>
 
 # Compare Contents of Archive to Local Filesystem:
 borg export-tar /path/to/repo::archive-name - | tar --compare -f - -C /path/to/compare/to
