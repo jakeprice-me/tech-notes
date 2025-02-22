@@ -38,5 +38,5 @@ I don't particuarly like extensions on Gnome, and would prefer to use them as li
 - [GSConnect - GNOME Shell Extensions](https://extensions.gnome.org/extension/1319/gsconnect/)
     - [GSConnect/gnome-shell-extension-gsconnect: KDE Connect implementation for GNOME](https://github.com/GSConnect/gnome-shell-extension-gsconnect)
 
-- [Rounded Window Corners - GNOME Shell Extensions](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
-    - [yilozt/rounded-window-corners: A gnome-shell extensions that try to add rounded corners for all windows](https://github.com/yilozt/rounded-window-corners)
+- [Rounded Window Corners Reborn - GNOME Shell Extensions](https://extensions.gnome.org/extension/7048/rounded-window-corners-reborn/)
+    - [flexagoon/rounded-window-corners: A GNOME extension that adds rounded corners to all windows](https://github.com/flexagoon/rounded-window-corners)
