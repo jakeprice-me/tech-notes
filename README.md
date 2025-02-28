@@ -70,7 +70,7 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [vim](#vim)
 - [vscode](#vscode)
 - [windows](#windows)
-## Notes <sup>234</sup>
+## Notes <sup>233</sup>
 
 
 ### <a id="airflow">airflow</a> <sup>1</sup>
@@ -230,9 +230,8 @@ A flat directory of my notes and knowledge on technical topics, in the same vein
 - [2022-08-09 - GitHub Actions Cheatsheet](content/github-actions-cheatsheet/entry.md)
 - [2022-09-09 - Clone GitHub Repository with Personal Access Token](content/clone-github-repository-with-token/entry.md)
 
-### <a id="gnome">gnome</a> <sup>2</sup>
+### <a id="gnome">gnome</a> <sup>1</sup>
 
-- [2022-01-15 - Installed Gnome Extensions](content/installed-gnome-extensions/entry.md)
 - [2022-02-19 - View All Gnome Shortcuts](content/view-in-use-gnome-shortcuts/entry.md)
 
 ### <a id="hardware">hardware</a> <sup>5</sup>
